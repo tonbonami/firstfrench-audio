@@ -1,0 +1,26 @@
+# 프랑스어 모음 ② 비음 — Section 4: un, um → [œ̃]
+# Page: 프랑스어의 모음 ② - 비음 (34ab1658e7ec8120abf9d5463a50f551)
+# Anchor H1: "un, um"
+
+[FR] un, um
+<break time="0.7s"/>
+[FR] un, um
+<break time="1.0s"/>
+
+[FR] un
+[KO] 하나
+<break time="0.7s"/>
+[FR] un
+<break time="1.0s"/>
+
+[FR] lundi
+[KO] 월요일
+<break time="0.7s"/>
+[FR] lundi
+<break time="1.0s"/>
+
+[FR] parfum
+[KO] 향수
+<break time="0.7s"/>
+[FR] parfum
+<break time="2.0s"/>

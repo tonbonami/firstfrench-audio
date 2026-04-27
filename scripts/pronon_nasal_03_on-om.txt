@@ -1,0 +1,26 @@
+# 프랑스어 모음 ② 비음 — Section 3: on, om → [ɔ̃]
+# Page: 프랑스어의 모음 ② - 비음 (34ab1658e7ec8120abf9d5463a50f551)
+# Anchor H1: "on, om"
+
+[FR] on, om
+<break time="0.7s"/>
+[FR] on, om
+<break time="1.0s"/>
+
+[FR] concombre
+[KO] 오이
+<break time="0.7s"/>
+[FR] concombre
+<break time="1.0s"/>
+
+[FR] nombre
+[KO] 숫자
+<break time="0.7s"/>
+[FR] nombre
+<break time="1.0s"/>
+
+[FR] long
+[KO] 길다
+<break time="0.7s"/>
+[FR] long
+<break time="2.0s"/>

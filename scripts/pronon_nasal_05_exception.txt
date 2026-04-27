@@ -1,0 +1,28 @@
+# 프랑스어 모음 ② 비음 — Section 5: 비음이 아닌 조합 (n+e, m+e)
+# Page: 프랑스어의 모음 ② - 비음 (34ab1658e7ec8120abf9d5463a50f551)
+# Anchor H1: "☆ 비음이 아닌 조합"
+# Note: 이 단어들은 n/m이 있어도 비음이 아님을 확인
+
+[FR] bonne
+[KO] 좋은
+<break time="0.7s"/>
+[FR] bonne
+<break time="1.0s"/>
+
+[FR] homme
+[KO] 남자
+<break time="0.7s"/>
+[FR] homme
+<break time="1.0s"/>
+
+[FR] mine
+[KO] 안색
+<break time="0.7s"/>
+[FR] mine
+<break time="1.0s"/>
+
+[FR] âme
+[KO] 영혼
+<break time="0.7s"/>
+[FR] âme
+<break time="2.0s"/>

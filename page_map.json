@@ -1,0 +1,46 @@
+{
+  "pronon_nasal_01_an-am": {
+    "page_id": "34ab1658e7ec8120abf9d5463a50f551",
+    "anchor": "an, am, en, em"
+  },
+  "pronon_nasal_02_in-im": {
+    "page_id": "34ab1658e7ec8120abf9d5463a50f551",
+    "anchor": "in, im, ain, aim, ein"
+  },
+  "pronon_nasal_03_on-om": {
+    "page_id": "34ab1658e7ec8120abf9d5463a50f551",
+    "anchor": "on, om"
+  },
+  "pronon_nasal_04_un-um": {
+    "page_id": "34ab1658e7ec8120abf9d5463a50f551",
+    "anchor": "un, um"
+  },
+  "pronon_nasal_05_exception": {
+    "page_id": "34ab1658e7ec8120abf9d5463a50f551",
+    "anchor": "☆ 비음이 아닌 조합"
+  },
+  "pronon_liaison1_01_formula": {
+    "page_id": "34ab1658e7ec814a87b3d4c6d68bd4d2",
+    "anchor": "리에종 소리 변화 기본 공식"
+  },
+  "pronon_liaison1_02_obligatoire": {
+    "page_id": "34ab1658e7ec814a87b3d4c6d68bd4d2",
+    "anchor": "1. 필수 리에종 (liaison obligatoire)"
+  },
+  "pronon_liaison1_03_interdite": {
+    "page_id": "34ab1658e7ec814a87b3d4c6d68bd4d2",
+    "anchor": "3. 금지 리에종 (liaison interdite)"
+  },
+  "pronon_special_01_liaison": {
+    "page_id": "34ab1658e7ec81c8bbe3efc842ba06f3",
+    "anchor": "liaison (리에종)"
+  },
+  "pronon_special_02_enchainement": {
+    "page_id": "34ab1658e7ec81c8bbe3efc842ba06f3",
+    "anchor": "enchaînement (앙셰느망)"
+  },
+  "pronon_special_03_elision": {
+    "page_id": "34ab1658e7ec81c8bbe3efc842ba06f3",
+    "anchor": "élision (엘리지옹)"
+  }
+}

@@ -1,0 +1,38 @@
+# 리에종 완전 정복 1강 — Section: 소리 변화 기본 공식
+# Page: 프랑스어 리에종(liaison) 완전 정복 1강 (34ab1658e7ec814a87b3d4c6d68bd4d2)
+# Anchor H1: "리에종 소리 변화 기본 공식"
+
+# s, x, z → [z]
+[FR] les amis
+[KO] 친구들
+<break time="0.7s"/>
+[FR] les amis
+<break time="1.0s"/>
+
+# d, t → [t]
+[FR] grand hôtel
+[KO] 큰 호텔
+<break time="0.7s"/>
+[FR] grand hôtel
+<break time="1.0s"/>
+
+# n, m → [n]
+[FR] un enfant
+[KO] 한 명의 아이
+<break time="0.7s"/>
+[FR] un enfant
+<break time="1.0s"/>
+
+# f → [v]
+[FR] neuf euros
+[KO] 9유로
+<break time="0.7s"/>
+[FR] neuf euros
+<break time="1.5s"/>
+
+# 종합 예문
+[FR] Les amis arrivent.
+[KO] 친구들이 도착한다.
+<break time="1.0s"/>
+[FR] Les amis arrivent.
+<break time="2.0s"/>

@@ -1,0 +1,38 @@
+# 프랑스어 모음 ② 비음 — Section 1: an, am, en, em → [ɑ̃]
+# Page: 프랑스어의 모음 ② - 비음 (34ab1658e7ec8120abf9d5463a50f551)
+# Anchor H1: "an, am, en, em"
+
+[FR] an, am, en, em
+<break time="0.7s"/>
+[FR] an, am, en, em
+<break time="1.0s"/>
+
+[FR] lampe
+[KO] 램프
+<break time="0.7s"/>
+[FR] lampe
+<break time="1.0s"/>
+
+[FR] temple
+[KO] 사원
+<break time="0.7s"/>
+[FR] temple
+<break time="1.0s"/>
+
+[FR] enfant
+[KO] 어린이
+<break time="0.7s"/>
+[FR] enfant
+<break time="1.0s"/>
+
+[FR] ensemble
+[KO] 함께
+<break time="0.7s"/>
+[FR] ensemble
+<break time="1.0s"/>
+
+[FR] dans
+[KO] 안에
+<break time="0.7s"/>
+[FR] dans
+<break time="2.0s"/>

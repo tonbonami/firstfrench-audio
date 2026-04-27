@@ -1,0 +1,21 @@
+# 특별한 발음 규칙 — Section: enchaînement (앙셰느망)
+# Page: 프랑스어의 특별한 발음 규칙 (34ab1658e7ec81c8bbe3efc842ba06f3)
+# Anchor H1: "enchaînement (앙셰느망)"
+
+[FR] Il a une auto.
+[KO] 그는 자동차 한 대를 갖고 있다.
+<break time="0.7s"/>
+[FR] Il a une auto.
+<break time="1.0s"/>
+
+[FR] il arrive
+[KO] 그가 도착한다
+<break time="0.7s"/>
+[FR] il arrive
+<break time="1.0s"/>
+
+[FR] elle est
+[KO] 그녀는 ~이다
+<break time="0.7s"/>
+[FR] elle est
+<break time="2.0s"/>

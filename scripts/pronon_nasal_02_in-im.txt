@@ -1,0 +1,44 @@
+# 프랑스어 모음 ② 비음 — Section 2: in, im, ain, aim, ein → [ɛ̃]
+# Page: 프랑스어의 모음 ② - 비음 (34ab1658e7ec8120abf9d5463a50f551)
+# Anchor H1: "in, im, ain, aim, ein"
+
+[FR] in, im, ain, aim, ein
+<break time="0.7s"/>
+[FR] in, im, ain, aim, ein
+<break time="1.0s"/>
+
+[FR] jardin
+[KO] 정원
+<break time="0.7s"/>
+[FR] jardin
+<break time="1.0s"/>
+
+[FR] simple
+[KO] 단순한
+<break time="0.7s"/>
+[FR] simple
+<break time="1.0s"/>
+
+[FR] main
+[KO] 손
+<break time="0.7s"/>
+[FR] main
+<break time="1.0s"/>
+
+[FR] faim
+[KO] 배고픔
+<break time="0.7s"/>
+[FR] faim
+<break time="1.0s"/>
+
+[FR] peintre
+[KO] 화가
+<break time="0.7s"/>
+[FR] peintre
+<break time="1.0s"/>
+
+[FR] matin
+[KO] 아침
+<break time="0.7s"/>
+[FR] matin
+<break time="2.0s"/>

@@ -1,0 +1,41 @@
+# 특별한 발음 규칙 — Section: liaison (리에종) 개요
+# Page: 프랑스어의 특별한 발음 규칙 (34ab1658e7ec81c8bbe3efc842ba06f3)
+# Anchor H1: "liaison (리에종)"
+
+# 기본 예시 (필수 리에종)
+[FR] un arbre
+[KO] 한 그루의 나무
+<break time="0.7s"/>
+[FR] un arbre
+<break time="1.0s"/>
+
+[FR] des amis
+[KO] 몇 명의 친구
+<break time="0.7s"/>
+[FR] des amis
+<break time="1.0s"/>
+
+[FR] deux écoles
+[KO] 두 개의 학교
+<break time="0.7s"/>
+[FR] deux écoles
+<break time="1.0s"/>
+
+[FR] grand hôtel
+[KO] 큰 호텔
+<break time="0.7s"/>
+[FR] grand hôtel
+<break time="1.5s"/>
+
+# 금지 리에종 예시
+[FR] Simon est parti.
+[KO] 시몽은 떠났다.
+<break time="0.7s"/>
+[FR] Simon est parti.
+<break time="1.0s"/>
+
+[FR] Vous avez de la chance.
+[KO] 당신은 운이 좋아요.
+<break time="0.7s"/>
+[FR] Vous avez de la chance.
+<break time="2.0s"/>

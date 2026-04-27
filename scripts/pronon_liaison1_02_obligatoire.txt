@@ -1,0 +1,73 @@
+# 리에종 완전 정복 1강 — Section: 필수 리에종
+# Page: 프랑스어 리에종(liaison) 완전 정복 1강 (34ab1658e7ec814a87b3d4c6d68bd4d2)
+# Anchor H1: "1. 필수 리에종 (liaison obligatoire)"
+
+# 1.1 관사/형용사/소유사 + 명사
+[FR] les enfants
+[KO] 아이들
+<break time="0.7s"/>
+[FR] les enfants
+<break time="1.0s"/>
+
+[FR] un ami
+[KO] 한 명의 친구
+<break time="0.7s"/>
+[FR] un ami
+<break time="1.0s"/>
+
+[FR] mes amis
+[KO] 나의 친구들
+<break time="0.7s"/>
+[FR] mes amis
+<break time="1.5s"/>
+
+# 1.2 주어 대명사 + 동사
+[FR] ils ont
+[KO] 그들은 가지고 있다
+<break time="0.7s"/>
+[FR] ils ont
+<break time="1.0s"/>
+
+[FR] nous avons
+[KO] 우리는 가지고 있다
+<break time="0.7s"/>
+[FR] nous avons
+<break time="1.0s"/>
+
+[FR] vous êtes
+[KO] 당신은 ~입니다
+<break time="0.7s"/>
+[FR] vous êtes
+<break time="1.5s"/>
+
+# 1.3 형용사(단수) + 명사
+[FR] petit enfant
+[KO] 어린 아이
+<break time="0.7s"/>
+[FR] petit enfant
+<break time="1.0s"/>
+
+[FR] grand homme
+[KO] 위대한 남자
+<break time="0.7s"/>
+[FR] grand homme
+<break time="1.5s"/>
+
+# 1.4 짧은 전치사/부사 + 명사
+[FR] en été
+[KO] 여름에
+<break time="0.7s"/>
+[FR] en été
+<break time="1.0s"/>
+
+[FR] en avion
+[KO] 비행기로
+<break time="0.7s"/>
+[FR] en avion
+<break time="1.0s"/>
+
+[FR] très agréable
+[KO] 매우 즐거운
+<break time="0.7s"/>
+[FR] très agréable
+<break time="2.0s"/>
