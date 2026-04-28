@@ -4,33 +4,38 @@
 
 # 금지: et 뒤
 [FR] et elle
+<break time="1.0s"/>
 [KO] 그리고 그녀
-<break time="0.7s"/>
+<break time="1.0s"/>
 [FR] et elle
 <break time="1.5s"/>
 
 # 금지: h aspiré 앞
 [FR] les héros
+<break time="1.0s"/>
 [KO] 영웅들
-<break time="0.7s"/>
+<break time="1.0s"/>
 [FR] les héros
 <break time="1.5s"/>
 
 # 금지: 숫자 조합
 [FR] vingt euros
+<break time="1.0s"/>
 [KO] 20유로
-<break time="0.7s"/>
+<break time="1.0s"/>
 [FR] vingt euros
 <break time="1.5s"/>
 
 # 말하기 연습
 [FR] Vous avez un animal ?
+<break time="1.0s"/>
 [KO] 애완동물이 있으세요?
 <break time="1.0s"/>
 [FR] Vous avez un animal ?
 <break time="1.5s"/>
 
 [FR] Ils ont une idée.
+<break time="1.0s"/>
 [KO] 그들은 아이디어가 있어요.
 <break time="1.0s"/>
 [FR] Ils ont une idée.

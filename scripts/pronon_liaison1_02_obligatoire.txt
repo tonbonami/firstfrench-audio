@@ -4,70 +4,81 @@
 
 # 1.1 관사/형용사/소유사 + 명사
 [FR] les enfants
-[KO] 아이들
-<break time="0.7s"/>
-[FR] les enfants
 <break time="1.0s"/>
+[KO] 아이들
+<break time="1.0s"/>
+[FR] les enfants
+<break time="1.5s"/>
 
 [FR] un ami
-[KO] 한 명의 친구
-<break time="0.7s"/>
-[FR] un ami
 <break time="1.0s"/>
+[KO] 한 명의 친구
+<break time="1.0s"/>
+[FR] un ami
+<break time="1.5s"/>
 
 [FR] mes amis
+<break time="1.0s"/>
 [KO] 나의 친구들
-<break time="0.7s"/>
+<break time="1.0s"/>
 [FR] mes amis
 <break time="1.5s"/>
 
 # 1.2 주어 대명사 + 동사
 [FR] ils ont
-[KO] 그들은 가지고 있다
-<break time="0.7s"/>
-[FR] ils ont
 <break time="1.0s"/>
+[KO] 그들은 가지고 있다
+<break time="1.0s"/>
+[FR] ils ont
+<break time="1.5s"/>
 
 [FR] nous avons
-[KO] 우리는 가지고 있다
-<break time="0.7s"/>
-[FR] nous avons
 <break time="1.0s"/>
+[KO] 우리는 가지고 있다
+<break time="1.0s"/>
+[FR] nous avons
+<break time="1.5s"/>
 
 [FR] vous êtes
+<break time="1.0s"/>
 [KO] 당신은 ~입니다
-<break time="0.7s"/>
+<break time="1.0s"/>
 [FR] vous êtes
 <break time="1.5s"/>
 
 # 1.3 형용사(단수) + 명사
 [FR] petit enfant
-[KO] 어린 아이
-<break time="0.7s"/>
-[FR] petit enfant
 <break time="1.0s"/>
+[KO] 어린 아이
+<break time="1.0s"/>
+[FR] petit enfant
+<break time="1.5s"/>
 
 [FR] grand homme
+<break time="1.0s"/>
 [KO] 위대한 남자
-<break time="0.7s"/>
+<break time="1.0s"/>
 [FR] grand homme
 <break time="1.5s"/>
 
 # 1.4 짧은 전치사/부사 + 명사
 [FR] en été
-[KO] 여름에
-<break time="0.7s"/>
-[FR] en été
 <break time="1.0s"/>
+[KO] 여름에
+<break time="1.0s"/>
+[FR] en été
+<break time="1.5s"/>
 
 [FR] en avion
-[KO] 비행기로
-<break time="0.7s"/>
-[FR] en avion
 <break time="1.0s"/>
+[KO] 비행기로
+<break time="1.0s"/>
+[FR] en avion
+<break time="1.5s"/>
 
 [FR] très agréable
+<break time="1.0s"/>
 [KO] 매우 즐거운
-<break time="0.7s"/>
+<break time="1.0s"/>
 [FR] très agréable
 <break time="2.0s"/>

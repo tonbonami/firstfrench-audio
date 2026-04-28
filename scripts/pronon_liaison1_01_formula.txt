@@ -4,34 +4,39 @@
 
 # s, x, z → [z]
 [FR] les amis
-[KO] 친구들
-<break time="0.7s"/>
-[FR] les amis
 <break time="1.0s"/>
+[KO] 친구들
+<break time="1.0s"/>
+[FR] les amis
+<break time="1.5s"/>
 
 # d, t → [t]
 [FR] grand hôtel
-[KO] 큰 호텔
-<break time="0.7s"/>
-[FR] grand hôtel
 <break time="1.0s"/>
+[KO] 큰 호텔
+<break time="1.0s"/>
+[FR] grand hôtel
+<break time="1.5s"/>
 
 # n, m → [n]
 [FR] un enfant
-[KO] 한 명의 아이
-<break time="0.7s"/>
-[FR] un enfant
 <break time="1.0s"/>
+[KO] 한 명의 아이
+<break time="1.0s"/>
+[FR] un enfant
+<break time="1.5s"/>
 
 # f → [v]
 [FR] neuf euros
+<break time="1.0s"/>
 [KO] 9유로
-<break time="0.7s"/>
+<break time="1.0s"/>
 [FR] neuf euros
 <break time="1.5s"/>
 
 # 종합 예문
 [FR] Les amis arrivent.
+<break time="1.0s"/>
 [KO] 친구들이 도착한다.
 <break time="1.0s"/>
 [FR] Les amis arrivent.

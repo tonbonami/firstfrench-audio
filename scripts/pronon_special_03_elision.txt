@@ -3,13 +3,15 @@
 # Anchor H1: "élision (엘리지옹)"
 
 [FR] l'homme
-[KO] 그 남자
-<break time="0.7s"/>
-[FR] l'homme
 <break time="1.0s"/>
+[KO] 그 남자
+<break time="1.0s"/>
+[FR] l'homme
+<break time="1.5s"/>
 
 [FR] J'aime la France.
+<break time="1.0s"/>
 [KO] 난 프랑스를 사랑해.
-<break time="0.7s"/>
+<break time="1.0s"/>
 [FR] J'aime la France.
 <break time="2.0s"/>

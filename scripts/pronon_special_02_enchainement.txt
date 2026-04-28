@@ -3,19 +3,22 @@
 # Anchor H1: "enchaînement (앙셰느망)"
 
 [FR] Il a une auto.
-[KO] 그는 자동차 한 대를 갖고 있다.
-<break time="0.7s"/>
-[FR] Il a une auto.
 <break time="1.0s"/>
+[KO] 그는 자동차 한 대를 갖고 있다.
+<break time="1.0s"/>
+[FR] Il a une auto.
+<break time="1.5s"/>
 
 [FR] il arrive
-[KO] 그가 도착한다
-<break time="0.7s"/>
-[FR] il arrive
 <break time="1.0s"/>
+[KO] 그가 도착한다
+<break time="1.0s"/>
+[FR] il arrive
+<break time="1.5s"/>
 
 [FR] elle est
+<break time="1.0s"/>
 [KO] 그녀는 ~이다
-<break time="0.7s"/>
+<break time="1.0s"/>
 [FR] elle est
 <break time="2.0s"/>
