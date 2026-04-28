@@ -2,11 +2,11 @@
 # Page: 프랑스어의 모음 ③ - 복모음 (34ab1658e7ec811f8304e68f63fd3c90)
 # Anchor H1: "ai, aî, ei"
 
-[FR] mai
+[FR] en mai
 <break time="1.0s"/>
-[KO] 5월
+[KO] 5월에
 <break time="1.0s"/>
-[FR] mai
+[FR] en mai
 <break time="1.5s"/>
 
 [FR] un maître
