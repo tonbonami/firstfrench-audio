@@ -1,0 +1,13 @@
+# Au supermarché — Scene 2: 매장에서
+# Page: Au supermarché — Sophie & Lucas (34ab1658e7ec810b9c55f0a60ec862a3)
+# Anchor H2: "Scene 2 — 매장에서"
+# voices: Sophie=bright-female Lucas=lively-male Employee=older-male
+
+[FR-Lucas] D'accord. Tu sais où se trouve le lait ?
+<break time="1.0s"/>
+[FR-Sophie] Excusez-moi, où se trouve le lait, s'il vous plaît ?
+<break time="1.0s"/>
+[FR-Employee] Au fond du magasin, à gauche — rayon produits laitiers.
+<break time="1.0s"/>
+[FR-Sophie] Merci beaucoup !
+<break time="2.0s"/>

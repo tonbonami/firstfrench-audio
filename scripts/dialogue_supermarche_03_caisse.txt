@@ -1,0 +1,17 @@
+# Au supermarché — Scene 3: 계산대
+# Page: Au supermarché — Sophie & Lucas (34ab1658e7ec810b9c55f0a60ec862a3)
+# Anchor H2: "Scene 3 — 계산대"
+# voices: Sophie=bright-female Lucas=lively-male
+
+[FR-Lucas] Ces pommes ont l'air bonnes. C'est combien le kilo ?
+<break time="1.0s"/>
+[FR-Sophie] Deux euros le kilo. On en prend un kilo ?
+<break time="1.0s"/>
+[FR-Lucas] Oui ! La queue n'a pas l'air trop longue — on passe à la caisse ?
+<break time="1.0s"/>
+[FR-Sophie] Attends, j'ai apporté mon sac réutilisable. Pas besoin de sac plastique !
+<break time="1.0s"/>
+[FR-Lucas] Parfait ! On paie par carte ?
+<break time="1.0s"/>
+[FR-Sophie] Oui, je paie par carte. Allez, c'est parti !
+<break time="2.0s"/>

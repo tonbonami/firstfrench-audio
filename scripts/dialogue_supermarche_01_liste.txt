@@ -1,0 +1,11 @@
+# Au supermarché — Scene 1: 장보기 목록
+# Page: Au supermarché — Sophie & Lucas (34ab1658e7ec810b9c55f0a60ec862a3)
+# Anchor H2: "Scene 1 — 장보기 목록"
+# voices: Sophie=bright-female Lucas=lively-male
+
+[FR-Sophie] Tu as fait la liste des courses ?
+<break time="1.0s"/>
+[FR-Lucas] Oui, mais j'ai oublié d'acheter de l'eau. On en prend quelques bouteilles ?
+<break time="1.0s"/>
+[FR-Sophie] Bonne idée. Il nous faut aussi du lait et des œufs.
+<break time="2.0s"/>

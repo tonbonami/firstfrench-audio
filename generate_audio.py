@@ -7,12 +7,14 @@ Usage:
     python generate_audio.py                        # scripts/ 전체 처리
     python generate_audio.py pronon_nasal_01_an-am  # 특정 파일만
 
-Prerequisites:
-    pip install requests pydub python-dotenv
-    brew install ffmpeg  (macOS) / apt install ffmpeg  (Linux)
+다중 캐릭터 음성 (회화·듣기 자료용):
+    스크립트 상단에 헤더로 캐릭터→음성 타입 매핑:
+        # voices: Sophie=bright-female Lucas=lively-male
+    본문에서:
+        [FR-Sophie] Bonjour, ça va ?
+        [FR-Lucas] Très bien, merci !
 
-Environment (.env 또는 환경변수):
-    ELEVENLABS_API_KEY=your_key_here
+문법·발음 강좌는 기존 [FR]/[KO] 단일 음성 그대로 사용.
 """
 
 import os, re, sys, time, io, requests
@@ -27,10 +29,21 @@ load_dotenv()
 API_KEY  = os.environ["ELEVENLABS_API_KEY"]
 BASE_URL = "https://api.elevenlabs.io/v1"
 
+# 발음·문법 강좌용 기본 음성 (절대 변경 금지)
 VOICES = {
     "FR": {"id": "sANWqF1bCMzR6eyZbCGw", "language_code": "fr", "model": "eleven_turbo_v2_5"},
     "KO": {"id": "uyVNoMrnUku1dZyVEXwD", "language_code": "ko", "model": "eleven_turbo_v2_5"},
 }
+
+# 회화·듣기 자료용 다중 캐릭터 음성 레지스트리 (시맨틱 타입 → ElevenLabs voice_id)
+VOICE_REGISTRY = {
+    "bright-female": "zgR4sWC2Er1b98AtnnBf",  # 조금 밝은 여성
+    "older-female":  "1T2MOlQA0Xp3hNv1dBxp",  # 좀 나이든 여성
+    "lively-male":   "0bKGtCCpdKSI5NjGhU3z",  # 조금 활기찬 남성
+    "older-male":    "4p5WXd3ZuWR9pPtRQuxC",  # 조금 나이 있는 남성
+    "grandfather":   "M4DbUhGmKgKUc1GsJEHY",  # 할아버지 느낌
+}
+
 VOICE_SETTINGS = {
     "stability": 0.75,
     "similarity_boost": 0.75,
@@ -45,22 +58,20 @@ OUTPUT_DIR.mkdir(exist_ok=True)
 # Break 태그 → 무음 길이(ms)
 BREAK_MS = {"0.5s": 500, "0.7s": 700, "1.0s": 1000, "1.5s": 1500, "2.0s": 2000}
 
-# 길이 이상 감지 (언어별 예상 ms/char)
+# 길이 이상 감지
 EXPECTED_MS_PER_CHAR = {"FR": 90, "KO": 280}
-RETRY_THRESHOLD = 1.8   # 예상 길이의 N배 초과 시 재시도
-MIN_CLIP_MS     = 1200  # 이보다 짧은 클립은 검사 제외
+RETRY_THRESHOLD = 1.8
+MIN_CLIP_MS     = 1200
 MAX_RETRIES     = 2
 
 # ── Sibilant break 자동 삽입 ─────────────────────────────────────
 _SIB = re.compile(r"(s[se])([ ,'])(s['iìí])", re.IGNORECASE)
 
 def inject_sibilant_breaks(text: str) -> str:
-    """인접 /s/ 자음 경계에 200ms 무음 자동 삽입 (텍스트 변경 없이 SSML만)"""
     return _SIB.sub(r'\1\2<break time="200ms"/>\3', text)
 
 # ── 클립 트림 ────────────────────────────────────────────────────
 def trim_clip(audio: AudioSegment, thresh=-45, min_sil=30, fade=15) -> AudioSegment:
-    """앞뒤 무음 제거 + 클릭 방지 fade"""
     parts = detect_nonsilent(audio, min_silence_len=min_sil, silence_thresh=thresh)
     if not parts:
         return audio
@@ -69,9 +80,10 @@ def trim_clip(audio: AudioSegment, thresh=-45, min_sil=30, fade=15) -> AudioSegm
     return audio[s:e].fade_in(fade).fade_out(fade)
 
 # ── TTS API 호출 ─────────────────────────────────────────────────
-def tts(text: str, lang: str) -> AudioSegment:
-    """ElevenLabs API 호출 → AudioSegment 반환 (길이 이상 시 자동 재시도)"""
-    voice   = VOICES[lang]
+def tts(text: str, lang: str, voice_id: str = None) -> AudioSegment:
+    """ElevenLabs API 호출. voice_id가 주어지면 기본 음성 대신 사용."""
+    voice  = VOICES[lang]
+    use_id = voice_id if voice_id else voice["id"]
     payload = {
         "text":           inject_sibilant_breaks(text),
         "model_id":       voice["model"],
@@ -79,14 +91,13 @@ def tts(text: str, lang: str) -> AudioSegment:
         "voice_settings": VOICE_SETTINGS,
     }
     headers = {"xi-api-key": API_KEY, "Content-Type": "application/json"}
-    url     = f"{BASE_URL}/text-to-speech/{voice['id']}"
+    url     = f"{BASE_URL}/text-to-speech/{use_id}"
 
     for attempt in range(MAX_RETRIES + 1):
         resp = requests.post(url, json=payload, headers=headers)
         resp.raise_for_status()
         clip = trim_clip(AudioSegment.from_mp3(io.BytesIO(resp.content)))
 
-        # 길이 이상 감지
         expected = len(text.replace(" ", "")) * EXPECTED_MS_PER_CHAR[lang]
         if len(clip) > MIN_CLIP_MS and len(clip) > expected * RETRY_THRESHOLD:
             print(f"    ⚠ 길이 이상 ({len(clip)}ms, 예상 {expected}ms) — 재시도 {attempt+1}/{MAX_RETRIES}")
@@ -98,35 +109,83 @@ def tts(text: str, lang: str) -> AudioSegment:
     return clip
 
 # ── 스크립트 파서 ─────────────────────────────────────────────────
-def parse_script(path: Path) -> list:
+def parse_script(path: Path):
     """
-    .txt 파일 → 세그먼트 리스트
-    반환 형식: [("speech", (lang, text)) | ("break", ms)]
-    무시: # / = / - 로 시작하는 줄, 빈 줄
+    .txt 파일 → (세그먼트 리스트, 캐릭터→음성타입 dict)
+    
+    세그먼트 형식: 
+        ("speech", (lang, text, char_or_None))
+        ("break",  ms)
+    
+    헤더 인식:
+        # voices: Sophie=bright-female Lucas=lively-male
     """
     segments = []
-    for line in path.read_text(encoding="utf-8").splitlines():
-        line = line.strip()
-        if not line or line[0] in "#=-":
+    char_map = {}
+
+    voice_header_re = re.compile(r'#\s*voices?\s*:\s*(.+)', re.IGNORECASE)
+    break_re        = re.compile(r'<break time="([^"]+)"/>')
+    speech_re       = re.compile(r'\[(FR|KO)(?:-([^\]]+))?\]\s+(.+)')
+
+    for raw in path.read_text(encoding="utf-8").splitlines():
+        line = raw.strip()
+        if not line:
             continue
 
-        # <break time="Xs"/>
-        m = re.fullmatch(r'<break time="([^"]+)"/>', line)
+        # 헤더 코멘트에서 voices 매핑 추출
+        if line.startswith("#"):
+            m = voice_header_re.match(line)
+            if m:
+                for pair in m.group(1).split():
+                    if "=" in pair:
+                        char, vtype = pair.split("=", 1)
+                        char_map[char.strip()] = vtype.strip()
+            continue
+
+        # 일반 코멘트
+        if line[0] in "=-":
+            continue
+
+        # break 태그
+        m = break_re.fullmatch(line)
         if m:
             segments.append(("break", BREAK_MS.get(m.group(1), 700)))
             continue
 
-        # [FR] text / [KO] text
-        m = re.match(r'\[(FR|KO)\]\s+(.+)', line)
+        # [FR-Char] / [FR] / [KO]
+        m = speech_re.match(line)
         if m:
-            segments.append(("speech", (m.group(1), m.group(2).strip())))
+            lang, char, text = m.group(1), m.group(2), m.group(3).strip()
+            segments.append(("speech", (lang, text, char)))
 
-    return segments
+    return segments, char_map
+
+def resolve_voice_id(char, char_map, script_name):
+    """캐릭터명 → ElevenLabs voice_id 해석. 없으면 명확한 에러."""
+    if not char:
+        return None
+    vtype = char_map.get(char)
+    if not vtype:
+        raise ValueError(
+            f"[{script_name}] 캐릭터 '{char}' 음성 매핑 없음.\n"
+            f"  → 스크립트 상단에 추가: # voices: {char}=bright-female"
+        )
+    voice_id = VOICE_REGISTRY.get(vtype)
+    if not voice_id:
+        raise ValueError(
+            f"[{script_name}] 음성 타입 '{vtype}' 미등록.\n"
+            f"  → VOICE_REGISTRY 사용 가능: {', '.join(VOICE_REGISTRY)}"
+        )
+    return voice_id
 
 # ── 메인 생성기 ───────────────────────────────────────────────────
 def generate(script_path: Path) -> Path:
     print(f"\n🎙 {script_path.name}")
-    segments = parse_script(script_path)
+    segments, char_map = parse_script(script_path)
+
+    if char_map:
+        print(f"   🎭 voices: {', '.join(f'{c}→{t}' for c, t in char_map.items())}")
+
     combined = AudioSegment.empty()
     speech_count = sum(1 for t, _ in segments if t == "speech")
     done = 0
@@ -135,11 +194,13 @@ def generate(script_path: Path) -> Path:
         if seg_type == "break":
             combined += AudioSegment.silent(duration=value)
         elif seg_type == "speech":
-            lang, text = value
-            print(f"  [{lang}] {text[:60]}")
-            combined += tts(text, lang)
+            lang, text, char = value
+            voice_id = resolve_voice_id(char, char_map, script_path.name)
+            tag = f"{lang}-{char}" if char else lang
+            print(f"  [{tag}] {text[:60]}")
+            combined += tts(text, lang, voice_id=voice_id)
             done += 1
-            time.sleep(0.3)   # rate limiting
+            time.sleep(0.3)
 
     out = OUTPUT_DIR / (script_path.stem + ".mp3")
     combined.export(out, format="mp3", bitrate="128k")

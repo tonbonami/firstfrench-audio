@@ -90,5 +90,17 @@
   "pronon_nombre_07_20-vingt": {
     "page_id": "34ab1658e7ec81fb86b7e3aa9a4b1322",
     "anchor": "20 vingt — 그리고 모음 앞 변신"
+  },
+  "dialogue_supermarche_01_liste": {
+    "page_id": "34ab1658e7ec810b9c55f0a60ec862a3",
+    "anchor": "Scene 1 — 장보기 목록"
+  },
+  "dialogue_supermarche_02_magasin": {
+    "page_id": "34ab1658e7ec810b9c55f0a60ec862a3",
+    "anchor": "Scene 2 — 매장에서"
+  },
+  "dialogue_supermarche_03_caisse": {
+    "page_id": "34ab1658e7ec810b9c55f0a60ec862a3",
+    "anchor": "Scene 3 — 계산대"
   }
 }
