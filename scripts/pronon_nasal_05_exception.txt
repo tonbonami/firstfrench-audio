@@ -4,25 +4,29 @@
 # Note: 이 단어들은 n/m이 있어도 비음이 아님을 확인
 
 [FR] bonne
+<break time="1.0s"/>
 [KO] 좋은
-<break time="0.7s"/>
+<break time="1.0s"/>
 [FR] bonne
-<break time="1.0s"/>
+<break time="1.5s"/>
 
-[FR] homme
+[FR] un homme
+<break time="1.0s"/>
 [KO] 남자
-<break time="0.7s"/>
-[FR] homme
 <break time="1.0s"/>
+[FR] un homme
+<break time="1.5s"/>
 
-[FR] mine
+[FR] une mine
+<break time="1.0s"/>
 [KO] 안색
-<break time="0.7s"/>
-[FR] mine
 <break time="1.0s"/>
+[FR] une mine
+<break time="1.5s"/>
 
-[FR] âme
+[FR] une âme
+<break time="1.0s"/>
 [KO] 영혼
-<break time="0.7s"/>
-[FR] âme
+<break time="1.0s"/>
+[FR] une âme
 <break time="2.0s"/>

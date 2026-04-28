@@ -2,37 +2,37 @@
 # Page: 프랑스어의 모음 ② - 비음 (34ab1658e7ec8120abf9d5463a50f551)
 # Anchor H1: "an, am, en, em"
 
-[FR] an, am, en, em
-<break time="0.7s"/>
-[FR] an, am, en, em
+[FR] une lampe
 <break time="1.0s"/>
-
-[FR] lampe
 [KO] 램프
-<break time="0.7s"/>
-[FR] lampe
 <break time="1.0s"/>
+[FR] une lampe
+<break time="1.5s"/>
 
-[FR] temple
+[FR] un temple
+<break time="1.0s"/>
 [KO] 사원
-<break time="0.7s"/>
-[FR] temple
 <break time="1.0s"/>
+[FR] un temple
+<break time="1.5s"/>
 
-[FR] enfant
+[FR] un enfant
+<break time="1.0s"/>
 [KO] 어린이
-<break time="0.7s"/>
-[FR] enfant
 <break time="1.0s"/>
+[FR] un enfant
+<break time="1.5s"/>
 
 [FR] ensemble
-[KO] 함께
-<break time="0.7s"/>
-[FR] ensemble
 <break time="1.0s"/>
+[KO] 함께
+<break time="1.0s"/>
+[FR] ensemble
+<break time="1.5s"/>
 
 [FR] dans
+<break time="1.0s"/>
 [KO] 안에
-<break time="0.7s"/>
+<break time="1.0s"/>
 [FR] dans
 <break time="2.0s"/>

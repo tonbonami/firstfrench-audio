@@ -2,25 +2,23 @@
 # Page: 프랑스어의 모음 ② - 비음 (34ab1658e7ec8120abf9d5463a50f551)
 # Anchor H1: "un, um"
 
-[FR] un, um
-<break time="0.7s"/>
-[FR] un, um
-<break time="1.0s"/>
-
 [FR] un
+<break time="1.0s"/>
 [KO] 하나
-<break time="0.7s"/>
+<break time="1.0s"/>
 [FR] un
-<break time="1.0s"/>
+<break time="1.5s"/>
 
-[FR] lundi
+[FR] un lundi
+<break time="1.0s"/>
 [KO] 월요일
-<break time="0.7s"/>
-[FR] lundi
 <break time="1.0s"/>
+[FR] un lundi
+<break time="1.5s"/>
 
-[FR] parfum
+[FR] un parfum
+<break time="1.0s"/>
 [KO] 향수
-<break time="0.7s"/>
-[FR] parfum
+<break time="1.0s"/>
+[FR] un parfum
 <break time="2.0s"/>

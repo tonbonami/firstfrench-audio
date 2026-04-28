@@ -2,43 +2,44 @@
 # Page: 프랑스어의 모음 ② - 비음 (34ab1658e7ec8120abf9d5463a50f551)
 # Anchor H1: "in, im, ain, aim, ein"
 
-[FR] in, im, ain, aim, ein
-<break time="0.7s"/>
-[FR] in, im, ain, aim, ein
+[FR] un jardin
 <break time="1.0s"/>
-
-[FR] jardin
 [KO] 정원
-<break time="0.7s"/>
-[FR] jardin
 <break time="1.0s"/>
+[FR] un jardin
+<break time="1.5s"/>
 
 [FR] simple
+<break time="1.0s"/>
 [KO] 단순한
-<break time="0.7s"/>
+<break time="1.0s"/>
 [FR] simple
-<break time="1.0s"/>
+<break time="1.5s"/>
 
-[FR] main
+[FR] une main
+<break time="1.0s"/>
 [KO] 손
-<break time="0.7s"/>
-[FR] main
 <break time="1.0s"/>
+[FR] une main
+<break time="1.5s"/>
 
 [FR] faim
+<break time="1.0s"/>
 [KO] 배고픔
-<break time="0.7s"/>
+<break time="1.0s"/>
 [FR] faim
-<break time="1.0s"/>
+<break time="1.5s"/>
 
-[FR] peintre
+[FR] un peintre
+<break time="1.0s"/>
 [KO] 화가
-<break time="0.7s"/>
-[FR] peintre
 <break time="1.0s"/>
+[FR] un peintre
+<break time="1.5s"/>
 
-[FR] matin
+[FR] un matin
+<break time="1.0s"/>
 [KO] 아침
-<break time="0.7s"/>
-[FR] matin
+<break time="1.0s"/>
+[FR] un matin
 <break time="2.0s"/>
