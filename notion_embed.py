@@ -98,12 +98,14 @@ def insert_audio(page_id: str, after_id: str, url: str) -> dict:
     resp.raise_for_status()
     return resp.json()
 
-def update_audio_block(block_id: str, url: str) -> dict:
-    """기존 audio block의 URL을 새 커밋 해시 URL로 갱신"""
-    body = {"audio": {"type": "external", "external": {"url": url}}}
-    resp = requests.patch(f"{NOTION_BASE}/blocks/{block_id}", headers=HEADERS, json=body)
+def delete_block(block_id: str) -> None:
+    """블록 아카이브(삭제). audio 타입은 API의 update 미지원이라 delete+insert로 우회."""
+    resp = requests.delete(f"{NOTION_BASE}/blocks/{block_id}", headers=HEADERS)
     resp.raise_for_status()
-    return resp.json()
+
+def update_audio_block(block_id: str, url: str) -> dict:
+    """DEPRECATED — 이전 호환용 stub. embed()에서 직접 delete+insert 사용."""
+    raise RuntimeError("update_audio_block은 더 이상 사용하지 마세요. delete_block + insert_audio 조합을 쓰세요.")
 
 # ── 메인 임베더 ───────────────────────────────────────────────────
 def embed(stem: str, page_map: dict):
@@ -140,8 +142,10 @@ def embed(stem: str, page_map: dict):
         if current_url == cdn_url:
             print(f"   ⏭ 최신 URL 동일 — 건너뜀")
         else:
-            update_audio_block(audio_block_id, cdn_url)
-            print(f"   🔄 URL 갱신 완료  ({current_url.split('@')[1][:7] if '@' in current_url else '?'} → {GIT_HASH})")
+            delete_block(audio_block_id)
+            insert_audio(page_id, anchor_id, cdn_url)
+            old_hash = current_url.split('@')[1][:7] if '@' in current_url else '?'
+            print(f"   🔄 재삽입 완료 ({old_hash} → {GIT_HASH})")
     else:
         insert_audio(page_id, anchor_id, cdn_url)
         print(f"   ✅ audio block 삽입 완료")
