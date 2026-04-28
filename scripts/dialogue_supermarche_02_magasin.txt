@@ -9,5 +9,5 @@
 <break time="1.0s"/>
 [FR-Employee] Au fond du magasin, à gauche — rayon produits laitiers.
 <break time="1.0s"/>
-[FR-Sophie] Merci beaucoup !
+[FR-Sophie] Merci beaucoup, monsieur !
 <break time="2.0s"/>
