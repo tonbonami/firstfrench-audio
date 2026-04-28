@@ -1,0 +1,59 @@
+# 숫자 읽기 1~10 — Section: 단독 / 모음 앞 / 자음 앞 변형
+# Page: 프랑스어 숫자 읽기 (1~10) (34ab1658e7ec8105bbe4d333183bc8a1)
+# Anchor H1: "단독 / 모음 앞 / 자음 앞 변형"
+
+# 1
+[FR] un
+<break time="1.0s"/>
+[KO] 단독
+<break time="1.0s"/>
+[FR] un ami
+<break time="1.0s"/>
+[KO] 한 친구, 모음 앞
+<break time="1.0s"/>
+[FR] un livre
+<break time="1.0s"/>
+[KO] 한 권의 책, 자음 앞
+<break time="1.5s"/>
+
+# 6
+[FR] six
+<break time="1.0s"/>
+[KO] 단독
+<break time="1.0s"/>
+[FR] six amis
+<break time="1.0s"/>
+[KO] 친구 여섯, 모음 앞
+<break time="1.0s"/>
+[FR] six livres
+<break time="1.0s"/>
+[KO] 책 여섯 권, 자음 앞
+<break time="1.5s"/>
+
+# 8
+[FR] huit
+<break time="1.0s"/>
+[KO] 단독
+<break time="1.0s"/>
+[FR] huit ans
+<break time="1.0s"/>
+[KO] 8년, 모음 앞
+<break time="1.0s"/>
+[FR] huit jours
+<break time="1.0s"/>
+[KO] 8일, 자음 앞
+<break time="1.5s"/>
+
+# 10
+[FR] dix
+<break time="1.0s"/>
+[KO] 단독
+<break time="1.0s"/>
+[FR] dix ans
+<break time="1.0s"/>
+[KO] 10년, 모음 앞
+<break time="1.0s"/>
+[FR] dix livres
+<break time="1.0s"/>
+[KO] 책 10권, 자음 앞
+<break time="2.0s"/>

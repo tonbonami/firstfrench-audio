@@ -1,0 +1,24 @@
+# 숫자 읽기 11~20 — Section: 17~19 합성형
+# Page: 프랑스어 숫자 읽기 (11~20) (34ab1658e7ec81fb86b7e3aa9a4b1322)
+# Anchor H1: "17~19 — 10 + 7/8/9 합성형"
+
+[FR] dix-sept
+<break time="1.0s"/>
+[KO] 열일곱
+<break time="1.0s"/>
+[FR] dix-sept
+<break time="1.5s"/>
+
+[FR] dix-huit
+<break time="1.0s"/>
+[KO] 열여덟
+<break time="1.0s"/>
+[FR] dix-huit
+<break time="1.5s"/>
+
+[FR] dix-neuf
+<break time="1.0s"/>
+[KO] 열아홉
+<break time="1.0s"/>
+[FR] dix-neuf
+<break time="2.0s"/>

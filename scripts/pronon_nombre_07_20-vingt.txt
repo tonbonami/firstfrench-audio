@@ -1,0 +1,24 @@
+# 숫자 읽기 11~20 — Section: 20 vingt와 모음 앞 변신
+# Page: 프랑스어 숫자 읽기 (11~20) (34ab1658e7ec81fb86b7e3aa9a4b1322)
+# Anchor H1: "20 vingt — 그리고 모음 앞 변신"
+
+[FR] vingt
+<break time="1.0s"/>
+[KO] 단독, t 안 들림
+<break time="1.0s"/>
+[FR] vingt
+<break time="1.5s"/>
+
+[FR] vingt ans
+<break time="1.0s"/>
+[KO] 20년, 모음 앞에서 t 살아남
+<break time="1.0s"/>
+[FR] vingt ans
+<break time="1.5s"/>
+
+[FR] vingt livres
+<break time="1.0s"/>
+[KO] 책 20권, 자음 앞
+<break time="1.0s"/>
+[FR] vingt livres
+<break time="2.0s"/>

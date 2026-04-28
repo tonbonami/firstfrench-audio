@@ -62,5 +62,33 @@
   "pronon_voy3_05_oi": {
     "page_id": "34ab1658e7ec811f8304e68f63fd3c90",
     "anchor": "oi"
+  },
+  "pronon_nombre_01_1-5": {
+    "page_id": "34ab1658e7ec8105bbe4d333183bc8a1",
+    "anchor": "1~5 — 가장 기본"
+  },
+  "pronon_nombre_02_6-10": {
+    "page_id": "34ab1658e7ec8105bbe4d333183bc8a1",
+    "anchor": "6~10 — 자음 탈락 규칙"
+  },
+  "pronon_nombre_03_liaison": {
+    "page_id": "34ab1658e7ec8105bbe4d333183bc8a1",
+    "anchor": "단독 / 모음 앞 / 자음 앞 변형"
+  },
+  "pronon_nombre_04_neuf": {
+    "page_id": "34ab1658e7ec8105bbe4d333183bc8a1",
+    "anchor": "⭐ 9의 특별한 리에종"
+  },
+  "pronon_nombre_05_11-16": {
+    "page_id": "34ab1658e7ec81fb86b7e3aa9a4b1322",
+    "anchor": "11~16 — 어휘 단어"
+  },
+  "pronon_nombre_06_17-19": {
+    "page_id": "34ab1658e7ec81fb86b7e3aa9a4b1322",
+    "anchor": "17~19 — 10 + 7/8/9 합성형"
+  },
+  "pronon_nombre_07_20-vingt": {
+    "page_id": "34ab1658e7ec81fb86b7e3aa9a4b1322",
+    "anchor": "20 vingt — 그리고 모음 앞 변신"
   }
 }
