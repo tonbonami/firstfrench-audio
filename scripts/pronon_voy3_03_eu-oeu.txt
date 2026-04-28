@@ -1,0 +1,24 @@
+# 프랑스어 모음 ③ 복모음 — Section 3: eu, œu → [ø] / [œ]
+# Page: 프랑스어의 모음 ③ - 복모음 (34ab1658e7ec811f8304e68f63fd3c90)
+# Anchor H1: "eu, œu"
+
+[FR] bleu
+<break time="1.0s"/>
+[KO] 파란
+<break time="1.0s"/>
+[FR] bleu
+<break time="1.5s"/>
+
+[FR] une fleur
+<break time="1.0s"/>
+[KO] 꽃
+<break time="1.0s"/>
+[FR] une fleur
+<break time="1.5s"/>
+
+[FR] une sœur
+<break time="1.0s"/>
+[KO] 자매
+<break time="1.0s"/>
+[FR] une sœur
+<break time="2.0s"/>

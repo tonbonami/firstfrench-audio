@@ -1,0 +1,38 @@
+# 프랑스어 모음 ③ 복모음 — Section 4: ou → [u]
+# Page: 프랑스어의 모음 ③ - 복모음 (34ab1658e7ec811f8304e68f63fd3c90)
+# Anchor H1: "ou"
+
+[FR] rouge
+<break time="1.0s"/>
+[KO] 빨간
+<break time="1.0s"/>
+[FR] rouge
+<break time="1.5s"/>
+
+[FR] amour
+<break time="1.0s"/>
+[KO] 사랑
+<break time="1.0s"/>
+[FR] amour
+<break time="1.5s"/>
+
+[FR] un jour
+<break time="1.0s"/>
+[KO] 날
+<break time="1.0s"/>
+[FR] un jour
+<break time="1.5s"/>
+
+[FR] une couleur
+<break time="1.0s"/>
+[KO] 색깔
+<break time="1.0s"/>
+[FR] une couleur
+<break time="1.5s"/>
+
+[FR] une mouche
+<break time="1.0s"/>
+[KO] 파리
+<break time="1.0s"/>
+[FR] une mouche
+<break time="2.0s"/>

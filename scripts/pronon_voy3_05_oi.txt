@@ -1,0 +1,24 @@
+# 프랑스어 모음 ③ 복모음 — Section 5: oi → [wa]
+# Page: 프랑스어의 모음 ③ - 복모음 (34ab1658e7ec811f8304e68f63fd3c90)
+# Anchor H1: "oi"
+
+[FR] moi
+<break time="1.0s"/>
+[KO] 나
+<break time="1.0s"/>
+[FR] moi
+<break time="1.5s"/>
+
+[FR] avoir
+<break time="1.0s"/>
+[KO] 가지다
+<break time="1.0s"/>
+[FR] avoir
+<break time="1.5s"/>
+
+[FR] une étoile
+<break time="1.0s"/>
+[KO] 별
+<break time="1.0s"/>
+[FR] une étoile
+<break time="2.0s"/>

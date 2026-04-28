@@ -42,5 +42,25 @@
   "pronon_special_03_elision": {
     "page_id": "34ab1658e7ec81c8bbe3efc842ba06f3",
     "anchor": "élision (엘리지옹)"
+  },
+  "pronon_voy3_01_ai-ei": {
+    "page_id": "34ab1658e7ec811f8304e68f63fd3c90",
+    "anchor": "ai, aî, ei"
+  },
+  "pronon_voy3_02_au-eau": {
+    "page_id": "34ab1658e7ec811f8304e68f63fd3c90",
+    "anchor": "au, eau"
+  },
+  "pronon_voy3_03_eu-oeu": {
+    "page_id": "34ab1658e7ec811f8304e68f63fd3c90",
+    "anchor": "eu, œu"
+  },
+  "pronon_voy3_04_ou": {
+    "page_id": "34ab1658e7ec811f8304e68f63fd3c90",
+    "anchor": "ou"
+  },
+  "pronon_voy3_05_oi": {
+    "page_id": "34ab1658e7ec811f8304e68f63fd3c90",
+    "anchor": "oi"
   }
 }

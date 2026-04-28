@@ -1,0 +1,38 @@
+# 프랑스어 모음 ③ 복모음 — Section 1: ai, aî, ei → [ɛ]
+# Page: 프랑스어의 모음 ③ - 복모음 (34ab1658e7ec811f8304e68f63fd3c90)
+# Anchor H1: "ai, aî, ei"
+
+[FR] mai
+<break time="1.0s"/>
+[KO] 5월
+<break time="1.0s"/>
+[FR] mai
+<break time="1.5s"/>
+
+[FR] un maître
+<break time="1.0s"/>
+[KO] 주인
+<break time="1.0s"/>
+[FR] un maître
+<break time="1.5s"/>
+
+[FR] la Seine
+<break time="1.0s"/>
+[KO] 세느강
+<break time="1.0s"/>
+[FR] la Seine
+<break time="1.5s"/>
+
+[FR] une saison
+<break time="1.0s"/>
+[KO] 계절
+<break time="1.0s"/>
+[FR] une saison
+<break time="1.5s"/>
+
+[FR] naître
+<break time="1.0s"/>
+[KO] 태어나다
+<break time="1.0s"/>
+[FR] naître
+<break time="2.0s"/>
