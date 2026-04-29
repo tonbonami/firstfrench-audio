@@ -1,0 +1,11 @@
+# À la pharmacie — Scene 3: 계산·마무리
+# voices: Elodie=warm-mother Pharmacien=older-male
+
+[FR-Elodie] D'accord. Combien je vous dois ?
+<break time="1.0s"/>
+[FR-Pharmacien] Le sirop est à 6 euros, le paracétamol à 4 euros, ça fera 10 euros 50 au total.
+<break time="1.0s"/>
+[FR-Elodie] Au fait, est-ce que je peux prendre des tisanes à côté ?
+<break time="1.0s"/>
+[FR-Pharmacien] Excellente idée. La tisane au citron vous fera particulièrement du bien. Bon rétablissement !
+<break time="2.0s"/>

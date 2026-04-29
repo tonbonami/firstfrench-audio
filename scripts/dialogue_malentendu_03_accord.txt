@@ -1,0 +1,11 @@
+# Régler un malentendu — Scene 3: 합의·회복
+# voices: Charlotte=bright-female Thomas=older-male
+
+[FR-Charlotte] Merci de l'avoir verbalisé ainsi. Il est probable que j'aie sur-réagi de mon côté.
+<break time="1.0s"/>
+[FR-Thomas] Non, c'est toi qui as eu le courage d'en parler. Je t'en remercie.
+<break time="1.0s"/>
+[FR-Charlotte] On commence le prochain projet en discutant d'abord des chevauchements alors ?
+<break time="1.0s"/>
+[FR-Thomas] Parfait. Je t'offre un café ?
+<break time="2.0s"/>

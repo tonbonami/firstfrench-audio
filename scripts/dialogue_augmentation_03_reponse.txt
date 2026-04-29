@@ -1,0 +1,11 @@
+# Demander une augmentation — Scene 3: 답변·반응
+# voices: Nicolas=lively-male Patron=older-male
+
+[FR-Patron] Si je vous proposais six pour cent, qu'en penseriez-vous ?
+<break time="1.0s"/>
+[FR-Nicolas] Compte tenu de la stabilité globale, je pourrais l'accepter. Merci déjà pour cette proposition.
+<break time="1.0s"/>
+[FR-Patron] Parfait. Je ferai rédiger l'avenant pour le trimestre prochain.
+<break time="1.0s"/>
+[FR-Nicolas] Merci de votre confiance, Mathias. Je continuerai à m'investir pour cette équipe.
+<break time="2.0s"/>

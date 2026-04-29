@@ -1,0 +1,11 @@
+# Un débat sur l'écologie — Scene 1: 현황 진단
+# voices: Julie=warm-mother Marc=bright-male
+
+[FR-Julie] Je suis convaincue que rien ne fonctionnera tant que nos modes de consommation ne changeront pas radicalement.
+<break time="1.0s"/>
+[FR-Marc] Je suis d'accord, mais je ne pense pas que ce soit uniquement la responsabilité de l'individu.
+<break time="1.0s"/>
+[FR-Julie] Justement, sans que l'État agisse, l'individu doit prendre les devants.
+<break time="1.0s"/>
+[FR-Marc] C'est nous bercer d'illusions. Même si tous les citoyens consomment éco, une seule grande industrie peut tout faire basculer.
+<break time="2.0s"/>

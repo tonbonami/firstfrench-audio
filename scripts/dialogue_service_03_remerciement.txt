@@ -1,0 +1,9 @@
+# Demander un service — Scene 3: 감사·약속
+# voices: Manon=bright-female Leroy=older-male
+
+[FR-Manon] Je vous remercie sincèrement. Je vous ramènerai un panier de spécialités.
+<break time="1.0s"/>
+[FR-Leroy] Il ne fallait pas ! Mais c'est très gentil. Bon voyage à vous !
+<break time="1.0s"/>
+[FR-Manon] Merci, Monsieur. Si je peux vous rendre la pareille à mon retour, n'hésitez pas !
+<break time="2.0s"/>

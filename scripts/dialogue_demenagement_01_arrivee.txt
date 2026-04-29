@@ -1,0 +1,11 @@
+# Le déménagement — Scene 1: 도착
+# voices: Hugo=lively-male Lea=bright-female
+
+[FR-Lea] Coucou Hugo ! J'ai apporté du café et des croissants.
+<break time="1.0s"/>
+[FR-Hugo] Tu es la meilleure. J'ai déjà commencé à empaqueter les livres.
+<break time="1.0s"/>
+[FR-Lea] Tu en as combien ?
+<break time="1.0s"/>
+[FR-Hugo] Trop. J'en ai compté 200 au moins.
+<break time="2.0s"/>

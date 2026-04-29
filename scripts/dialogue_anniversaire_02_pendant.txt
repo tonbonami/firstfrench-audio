@@ -1,0 +1,11 @@
+# L'anniversaire — Scene 2: 파티 중
+# voices: Camille=bright-female Theo=bright-male
+
+[FR-Camille] Wow, le gâteau est plus grand que je pensais !
+<break time="1.0s"/>
+[FR-Theo] Ma mère l'a fait. Elle est meilleure pâtissière que moi.
+<break time="1.0s"/>
+[FR-Camille] J'ai apporté du champagne. C'est le meilleur que j'ai trouvé.
+<break time="1.0s"/>
+[FR-Theo] Tu es trop gentille. Merci !
+<break time="2.0s"/>

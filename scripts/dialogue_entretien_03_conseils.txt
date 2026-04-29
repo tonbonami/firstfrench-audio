@@ -1,0 +1,11 @@
+# Préparer un entretien — Scene 3: 종료·마지막 조언
+# voices: Sarah=bright-female Lucas=lively-male
+
+[FR-Lucas] Parfait. Quand le recruteur te demandera avez-vous des questions, tu lui demanderas quoi ?
+<break time="1.0s"/>
+[FR-Sarah] Je leur demanderai les priorités actuelles de l'équipe et la roadmap court-moyen terme. Et je préparerais une question réflexive : qui serait le candidat idéal pour ce poste ?
+<break time="1.0s"/>
+[FR-Lucas] Cette dernière est excellente. Ça montre ta réflexion et engage le dialogue de façon analytique.
+<break time="1.0s"/>
+[FR-Sarah] Merci Lucas. Dès que ce sera fini demain, tu seras le premier à le savoir.
+<break time="2.0s"/>

@@ -1,0 +1,11 @@
+# Demander une augmentation — Scene 1: 미팅 운 떼기
+# voices: Nicolas=lively-male Patron=older-male
+
+[FR-Nicolas] Mathias, est-ce que je pourrais échanger quelques mots avec vous, quand vous aurez un moment ?
+<break time="1.0s"/>
+[FR-Patron] Bien sûr. Maintenant ça vous va, ou voulez-vous qu'on programme un créneau ?
+<break time="1.0s"/>
+[FR-Nicolas] Comme vous préférez. Mon sujet pourrait demander un peu de temps.
+<break time="1.0s"/>
+[FR-Patron] Demain matin neuf heures alors ? Je bloque trente minutes.
+<break time="2.0s"/>

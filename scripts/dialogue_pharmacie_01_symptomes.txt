@@ -1,0 +1,13 @@
+# À la pharmacie — Scene 1: 증상 설명
+# voices: Elodie=warm-mother Pharmacien=older-male
+
+[FR-Elodie] Bonjour. J'ai mal à la gorge depuis quelques jours et je tousse beaucoup.
+<break time="1.0s"/>
+[FR-Pharmacien] Avez-vous de la fièvre ?
+<break time="1.0s"/>
+[FR-Elodie] Hier soir, j'avais 38 degrés, mais aujourd'hui c'est descendu un peu.
+<break time="1.0s"/>
+[FR-Pharmacien] Avez-vous mal à la tête aussi ?
+<break time="1.0s"/>
+[FR-Elodie] Oui, un peu. Pas grand-chose, mais je suis fatiguée.
+<break time="2.0s"/>

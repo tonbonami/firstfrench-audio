@@ -1,0 +1,11 @@
+# Discuter d'un voyage — Scene 1: 아이디어 던지기
+# voices: Camille=bright-female Theo=bright-male
+
+[FR-Camille] Cet hiver, on doit partir quelque part. J'aimerais voyager avec toi.
+<break time="1.0s"/>
+[FR-Theo] Moi aussi ! Où est-ce qu'on pourrait aller ?
+<break time="1.0s"/>
+[FR-Camille] Je préférerais l'Italie. Rome, Florence et Venise.
+<break time="1.0s"/>
+[FR-Theo] Super ! Ça ferait dix jours environ alors ?
+<break time="2.0s"/>

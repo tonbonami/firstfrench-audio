@@ -1,0 +1,13 @@
+# Au téléphone — Scene 2: 주말 이야기
+# voices: Anna=bright-female Paul=lively-male
+
+[FR-Anna] Ah bon ? Quel film ?
+<break time="1.0s"/>
+[FR-Paul] La famille Bélier. On a beaucoup ri. Et toi, tu as fait quoi ?
+<break time="1.0s"/>
+[FR-Anna] Samedi, je suis allée au marché avec ma sœur. Dimanche, j'ai cuisiné toute la journée.
+<break time="1.0s"/>
+[FR-Paul] Tu as cuisiné quoi ?
+<break time="1.0s"/>
+[FR-Anna] Un gâteau au chocolat et une quiche.
+<break time="2.0s"/>

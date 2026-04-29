@@ -1,0 +1,11 @@
+# Préparer un entretien — Scene 2: 모의 면접
+# voices: Sarah=bright-female Lucas=lively-male
+
+[FR-Lucas] On y va. Quel est votre principal défaut ?
+<break time="1.0s"/>
+[FR-Sarah] Je suis perfectionniste, ce qui me fait parfois passer trop de temps sur les détails. C'est un atout, mais aussi un point que je dois travailler.
+<break time="1.0s"/>
+[FR-Lucas] Pas mal, mais finis avec plus d'assurance. Du genre je fais X pour le surmonter.
+<break time="1.0s"/>
+[FR-Sarah] OK. Pour le surmonter, j'ai pris l'habitude de planifier mes priorités chaque matin.
+<break time="2.0s"/>

@@ -1,0 +1,11 @@
+# Régler un malentendu — Scene 2: 입장 교환
+# voices: Charlotte=bright-female Thomas=older-male
+
+[FR-Charlotte] Donc tu te voyais comme apportant des alternatives constructives ? Pour moi, le ça ne va pas sonnait comme un rejet catégorique.
+<break time="1.0s"/>
+[FR-Thomas] Je comprends que tu l'aies pris ainsi. Désolé vraiment. La prochaine fois, je commencerai par ton idée est intéressante avant de nuancer.
+<break time="1.0s"/>
+[FR-Charlotte] Pour être tout à fait honnête, ce qui m'a pesé le plus, c'était que c'était devant les autres.
+<break time="1.0s"/>
+[FR-Thomas] Justement. À l'avenir, je garderai ce genre de retour pour un échange en tête-à-tête. Excuse-moi.
+<break time="2.0s"/>

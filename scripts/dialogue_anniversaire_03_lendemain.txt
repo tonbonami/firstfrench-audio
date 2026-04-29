@@ -1,0 +1,11 @@
+# L'anniversaire — Scene 3: 다음날 회상
+# voices: Camille=bright-female Theo=bright-male
+
+[FR-Camille] La fête était plus réussie que prévue.
+<break time="1.0s"/>
+[FR-Theo] Oui ! Tout le monde s'est bien amusé.
+<break time="1.0s"/>
+[FR-Camille] Tu as dansé toute la nuit !
+<break time="1.0s"/>
+[FR-Theo] Et toi, tu as chanté plus fort que tout le monde !
+<break time="2.0s"/>

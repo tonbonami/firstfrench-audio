@@ -1,0 +1,11 @@
+# Un débat sur l'écologie — Scene 3: 연대 결론
+# voices: Julie=warm-mother Marc=bright-male
+
+[FR-Julie] La clé, c'est l'action collective. Quand on s'organise, il n'y a aucune raison d'abandonner.
+<break time="1.0s"/>
+[FR-Marc] Manifestations, pétitions, associations... ça a l'air cliché, mais ça marche.
+<break time="1.0s"/>
+[FR-Julie] On va à la prochaine manif marseillaise ensemble alors ?
+<break time="1.0s"/>
+[FR-Marc] Avec plaisir. Mais avant ça, on continue le débat — autour d'un café.
+<break time="2.0s"/>

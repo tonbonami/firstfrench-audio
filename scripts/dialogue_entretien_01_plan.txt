@@ -1,0 +1,11 @@
+# Préparer un entretien — Scene 1: 계획·전략
+# voices: Sarah=bright-female Lucas=lively-male
+
+[FR-Lucas] Tu as l'entretien à quelle heure demain ?
+<break time="1.0s"/>
+[FR-Sarah] Dix heures trente. J'arriverai à neuf heures et demie pour rajuster ma cravate et relire mon CV.
+<break time="1.0s"/>
+[FR-Lucas] Bonne stratégie. Et à l'oral, commence par la conclusion — c'est la méthode pitch elevator.
+<break time="1.0s"/>
+[FR-Sarah] Compris. En trente secondes, je dirai qui je suis et pourquoi je serais le candidat idéal.
+<break time="2.0s"/>

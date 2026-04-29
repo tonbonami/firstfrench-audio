@@ -1,0 +1,11 @@
+# L'anniversaire — Scene 1: 파티 준비
+# voices: Camille=bright-female Theo=bright-male
+
+[FR-Camille] Tu as déjà invité tout le monde ?
+<break time="1.0s"/>
+[FR-Theo] Oui, j'ai envoyé les invitations hier soir.
+<break time="1.0s"/>
+[FR-Camille] Combien de personnes ont confirmé ?
+<break time="1.0s"/>
+[FR-Theo] Vingt. C'est plus que l'année dernière.
+<break time="2.0s"/>

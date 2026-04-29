@@ -1,0 +1,11 @@
+# Bonjour, ça va ? — Scene 3: 연락처 교환
+# voices: Sophie=bright-female Marie=older-female
+
+[FR-Sophie] On peut se revoir ? Je voudrais pratiquer mon français.
+<break time="1.0s"/>
+[FR-Marie] Avec plaisir ! Tu as Instagram ?
+<break time="1.0s"/>
+[FR-Sophie] Oui ! Mon pseudo, c'est @sophie_paris.
+<break time="1.0s"/>
+[FR-Marie] Génial. À bientôt !
+<break time="2.0s"/>

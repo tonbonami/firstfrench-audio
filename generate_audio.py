@@ -36,12 +36,21 @@ VOICES = {
 }
 
 # 회화·듣기 자료용 다중 캐릭터 음성 레지스트리 (시맨틱 타입 → ElevenLabs voice_id)
+# - 여성 ----------------------------------------------------------
+# - 남성 ----------------------------------------------------------
 VOICE_REGISTRY = {
-    "bright-female": "zgR4sWC2Er1b98AtnnBf",  # 조금 밝은 여성
-    "older-female":  "1T2MOlQA0Xp3hNv1dBxp",  # 좀 나이든 여성
-    "lively-male":   "0bKGtCCpdKSI5NjGhU3z",  # 조금 활기찬 남성
-    "older-male":    "4p5WXd3ZuWR9pPtRQuxC",  # 조금 나이 있는 남성
-    "grandfather":   "M4DbUhGmKgKUc1GsJEHY",  # 할아버지 느낌
+    # 여성
+    "bright-female":      "zgR4sWC2Er1b98AtnnBf",  # 조금 밝은 여성
+    "older-female":       "1T2MOlQA0Xp3hNv1dBxp",  # 좀 나이든 여성
+    "whispering-female":  "sH0WdfE5fsKuM2otdQZr",  # 속삭이는 여성
+    "warm-mother":        "TojRWZatQyy9dujEdiQ1",  # 친절한 엄마 같은 여자
+    # 남성
+    "bright-male":        "vBKc2FfBKJfcZNyEt1n6",  # 조금 밝은 남성
+    "lively-male":        "0bKGtCCpdKSI5NjGhU3z",  # 조금 활기찬 남성
+    "older-male":         "4p5WXd3ZuWR9pPtRQuxC",  # 조금 나이 있는 남성
+    "teen-male":          "mr1ubFaLs5xVrh1EqWtc",  # 중·고등학교 남자 (어린 캐릭터 대체)
+    "whispering-male":    "k1w1SeihHyKDJXr7nZRX",  # 젊은 남자 속삭이는 톤
+    "grandfather":        "M4DbUhGmKgKUc1GsJEHY",  # 할아버지 느낌
 }
 
 VOICE_SETTINGS = {

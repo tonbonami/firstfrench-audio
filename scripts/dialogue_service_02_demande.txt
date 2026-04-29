@@ -1,0 +1,11 @@
+# Demander un service — Scene 2: 세부 부탁
+# voices: Manon=bright-female Leroy=older-male
+
+[FR-Manon] Oui, et auriez-vous la gentillesse d'arroser mes plantes ce jeudi-là ?
+<break time="1.0s"/>
+[FR-Leroy] Ça marche. Et je me souviens de votre code d'entrée, c'est toujours le même ?
+<break time="1.0s"/>
+[FR-Manon] Le code a changé récemment. Je vais vous le glisser dans la boîte aux lettres.
+<break time="1.0s"/>
+[FR-Leroy] Parfait. Ce n'est rien, on est voisins.
+<break time="2.0s"/>

@@ -1,0 +1,13 @@
+# Bonjour, ça va ? — Scene 1: 첫 만남
+# voices: Sophie=bright-female Marie=older-female
+
+[FR-Sophie] Bonjour ! Je m'appelle Sophie. Et toi ?
+<break time="1.0s"/>
+[FR-Marie] Salut ! Moi, c'est Marie. Enchantée !
+<break time="1.0s"/>
+[FR-Sophie] Tu es française ?
+<break time="1.0s"/>
+[FR-Marie] Oui, je suis parisienne. Et toi ?
+<break time="1.0s"/>
+[FR-Sophie] Je suis coréenne. J'habite ici depuis trois mois.
+<break time="2.0s"/>

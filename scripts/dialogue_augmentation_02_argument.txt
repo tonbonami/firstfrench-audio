@@ -1,0 +1,11 @@
+# Demander une augmentation — Scene 2: 논거 제시
+# voices: Nicolas=lively-male Patron=older-male
+
+[FR-Nicolas] Cela fait trois ans que je suis ici, et mes responsabilités ont considérablement évolué. J'aimerais réexaminer ma rémunération.
+<break time="1.0s"/>
+[FR-Patron] Je comprends bien. Quel niveau auriez-vous en tête ?
+<break time="1.0s"/>
+[FR-Nicolas] Étant donné le marché, dix pour cent me sembleraient justifiés. Si je faisais ce travail dans une autre entreprise, je gagnerais probablement davantage.
+<break time="1.0s"/>
+[FR-Patron] Argument solide. Il faudrait que je vérifie quelques chiffres.
+<break time="2.0s"/>

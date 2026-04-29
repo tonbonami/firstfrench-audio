@@ -1,0 +1,11 @@
+# Demander un service — Scene 1: 벨 누르기
+# voices: Manon=bright-female Leroy=older-male
+
+[FR-Manon] Bonjour Monsieur Leroy. Je ne vous dérange pas, j'espère ?
+<break time="1.0s"/>
+[FR-Leroy] Pas du tout, jeune fille. Qu'est-ce que je peux faire pour vous ?
+<break time="1.0s"/>
+[FR-Manon] Pourriez-vous réceptionner mon courrier cette semaine, pendant que je suis en voyage ?
+<break time="1.0s"/>
+[FR-Leroy] Bien sûr. Vous m'avez dit qu'un colis arrivait jeudi, c'est bien ça ?
+<break time="2.0s"/>

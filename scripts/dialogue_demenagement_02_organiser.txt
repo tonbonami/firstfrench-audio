@@ -1,0 +1,11 @@
+# Le déménagement — Scene 2: 함께 정리
+# voices: Hugo=lively-male Lea=bright-female
+
+[FR-Lea] Bon, prends les boîtes vides. Mets les livres dedans.
+<break time="1.0s"/>
+[FR-Hugo] D'accord. Et la vaisselle ?
+<break time="1.0s"/>
+[FR-Lea] Emballe chaque assiette dans du papier. Sois prudent !
+<break time="1.0s"/>
+[FR-Hugo] Je sais, je sais. J'ai déjà cassé une tasse hier...
+<break time="2.0s"/>

@@ -1,0 +1,9 @@
+# Discuter d'un film — Scene 3: 추천·마무리
+# voices: Antoine=bright-male Lena=bright-female
+
+[FR-Antoine] Je ne suis pas sûr de pouvoir le recommander à d'autres. J'ai trouvé le temps long par moments.
+<break time="1.0s"/>
+[FR-Lena] Moi je le recommanderais quand même, mais avec la précaution pour ceux qui aiment les films calmes.
+<break time="1.0s"/>
+[FR-Antoine] Pour un avis équilibré, je suis d'accord. La prochaine fois, je te laisse choisir.
+<break time="2.0s"/>

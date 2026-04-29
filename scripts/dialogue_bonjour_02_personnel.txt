@@ -1,0 +1,13 @@
+# Bonjour, ça va ? — Scene 2: 자기 소개
+# voices: Sophie=bright-female Marie=older-female
+
+[FR-Marie] Qu'est-ce que tu fais dans la vie ?
+<break time="1.0s"/>
+[FR-Sophie] Je suis étudiante. J'apprends le français.
+<break time="1.0s"/>
+[FR-Marie] Cool ! Tu as quel âge ?
+<break time="1.0s"/>
+[FR-Sophie] J'ai vingt-trois ans. Et toi ?
+<break time="1.0s"/>
+[FR-Marie] Vingt-cinq. Je travaille dans une boulangerie.
+<break time="2.0s"/>

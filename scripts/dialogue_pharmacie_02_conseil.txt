@@ -1,0 +1,11 @@
+# À la pharmacie — Scene 2: 약사의 조언
+# voices: Elodie=warm-mother Pharmacien=older-male
+
+[FR-Pharmacien] Cela ressemble à un simple rhume. Prenez ce sirop trois fois par jour.
+<break time="1.0s"/>
+[FR-Pharmacien] Buvez beaucoup d'eau et reposez-vous jusqu'à demain si possible.
+<break time="1.0s"/>
+[FR-Elodie] Je dois travailler demain, est-ce que ce sera possible ?
+<break time="1.0s"/>
+[FR-Pharmacien] Vous pourriez y aller, mais vous devriez plutôt télétravailler si possible. Si la fièvre remonte, allez voir un médecin.
+<break time="2.0s"/>

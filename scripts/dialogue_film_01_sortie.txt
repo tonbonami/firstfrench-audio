@@ -1,0 +1,11 @@
+# Discuter d'un film — Scene 1: 영화관 나오며
+# voices: Antoine=bright-male Lena=bright-female
+
+[FR-Antoine] Mouais, je ne pense pas que ce soit à la hauteur de mes attentes.
+<break time="1.0s"/>
+[FR-Lena] Ah bon ? Moi, je l'ai trouvé plutôt réussi, surtout pour le jeu d'acteur.
+<break time="1.0s"/>
+[FR-Antoine] Le jeu d'acteur, oui. Mais le scénario, je trouve ça beaucoup trop prévisible.
+<break time="1.0s"/>
+[FR-Lena] Il est possible que ce soit précisément l'intention du réalisateur. La simplicité peut être une force.
+<break time="2.0s"/>

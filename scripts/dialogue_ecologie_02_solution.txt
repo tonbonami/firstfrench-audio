@@ -1,0 +1,11 @@
+# Un débat sur l'écologie — Scene 2: 해결책 제시
+# voices: Julie=warm-mother Marc=bright-male
+
+[FR-Julie] Mais c'est seulement quand les habitudes changent à grande échelle que les politiques bougent. Pas l'inverse.
+<break time="1.0s"/>
+[FR-Marc] Donc on est d'accord qu'il faut les deux — action individuelle et réforme systémique.
+<break time="1.0s"/>
+[FR-Julie] Absolument. Mais en termes de priorité, je mettrais la réforme systémique en premier — son impact est plus puissant.
+<break time="1.0s"/>
+[FR-Marc] Bien que cela puisse être vrai, on ne peut pas attendre cela en justifiant le gaspillage individuel.
+<break time="2.0s"/>

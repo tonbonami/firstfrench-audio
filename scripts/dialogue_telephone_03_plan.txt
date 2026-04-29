@@ -1,0 +1,11 @@
+# Au téléphone — Scene 3: 다음 약속
+# voices: Anna=bright-female Paul=lively-male
+
+[FR-Paul] Miam ! On peut se voir ce week-end ?
+<break time="1.0s"/>
+[FR-Anna] Avec plaisir. Tu veux qu'on dîne ensemble samedi ?
+<break time="1.0s"/>
+[FR-Paul] Parfait. Je passe te chercher à 19h.
+<break time="1.0s"/>
+[FR-Anna] Super, à samedi !
+<break time="2.0s"/>

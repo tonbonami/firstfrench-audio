@@ -1,0 +1,11 @@
+# Régler un malentendu — Scene 1: 주제 꺼내기
+# voices: Charlotte=bright-female Thomas=older-male
+
+[FR-Charlotte] Thomas, on peut s'asseoir un instant ? Il y a quelque chose entre nous qui me dérange un peu.
+<break time="1.0s"/>
+[FR-Thomas] Bien sûr. Je sentais qu'il y avait quelque chose. Qu'est-ce qui se passe ?
+<break time="1.0s"/>
+[FR-Charlotte] C'est à propos de la réunion de la semaine dernière. J'ai eu l'impression que tu avais complètement balayé ma proposition, et ça m'a touchée.
+<break time="1.0s"/>
+[FR-Thomas] Ah... ce n'était absolument pas mon intention. Je pensais apporter des objections constructives sur ta partie.
+<break time="2.0s"/>

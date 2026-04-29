@@ -1,0 +1,11 @@
+# Une journée pluvieuse — Scene 2: 어떤 일이 있었는지
+# voices: Lea=bright-female Marc=lively-male
+
+[FR-Marc] Et qu'est-ce que tu as fait ?
+<break time="1.0s"/>
+[FR-Lea] Je suis restée debout pendant quelques minutes — j'avais tellement froid. Puis j'ai couru vers la bibliothèque.
+<break time="1.0s"/>
+[FR-Marc] Tu as fait quoi à la bibliothèque ?
+<break time="1.0s"/>
+[FR-Lea] J'ai continué le livre que je lisais. Mais mes cheveux étaient tellement trempés qu'ils gouttaient.
+<break time="2.0s"/>

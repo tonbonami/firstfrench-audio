@@ -1,0 +1,11 @@
+# Au téléphone — Scene 1: 인사
+# voices: Anna=bright-female Paul=lively-male
+
+[FR-Anna] Allô ? Paul, c'est Anna.
+<break time="1.0s"/>
+[FR-Paul] Salut Anna ! Comment ça va ?
+<break time="1.0s"/>
+[FR-Anna] Ça va bien. Et toi ? Qu'est-ce que tu as fait ce week-end ?
+<break time="1.0s"/>
+[FR-Paul] J'ai vu un super film hier soir.
+<break time="2.0s"/>

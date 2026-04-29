@@ -1,0 +1,11 @@
+# Une journée pluvieuse — Scene 1: 어제의 날씨
+# voices: Lea=bright-female Marc=lively-male
+
+[FR-Marc] Tu avais ton parapluie hier ? La météo était fausse.
+<break time="1.0s"/>
+[FR-Lea] Ah, je ne l'avais pas pris. Quand je suis sortie, il faisait soleil et le ciel était clair.
+<break time="1.0s"/>
+[FR-Marc] Et puis il s'est mis à pleuvoir tout d'un coup ?
+<break time="1.0s"/>
+[FR-Lea] Oui, vers seize heures — ça est tombé super fort.
+<break time="2.0s"/>

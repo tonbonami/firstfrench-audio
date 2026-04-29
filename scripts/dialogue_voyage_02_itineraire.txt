@@ -1,0 +1,11 @@
+# Discuter d'un voyage — Scene 2: 일정 짜기
+# voices: Camille=bright-female Theo=bright-male
+
+[FR-Camille] Exactement. On prendra le train de nuit depuis Paris, ça fera cinq heures.
+<break time="1.0s"/>
+[FR-Theo] Moi, je préférerais Airbnb plutôt qu'un hôtel — c'est plus chaleureux.
+<break time="1.0s"/>
+[FR-Camille] D'accord. Je voudrais marcher à pied plutôt qu'en bus touristique.
+<break time="1.0s"/>
+[FR-Theo] Alors musées, Colossée, Offices... le programme sera bien rempli.
+<break time="2.0s"/>

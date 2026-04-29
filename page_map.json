@@ -102,5 +102,161 @@
   "dialogue_supermarche_03_caisse": {
     "page_id": "34ab1658e7ec810b9c55f0a60ec862a3",
     "anchor": "Scene 3 — 계산대"
+  },
+  "dialogue_bonjour_01_premiere": {
+    "page_id": "351b1658e7ec81edbddac5bcf2471685",
+    "anchor": "Scene 1 — 첫 만남"
+  },
+  "dialogue_bonjour_02_personnel": {
+    "page_id": "351b1658e7ec81edbddac5bcf2471685",
+    "anchor": "Scene 2 — 자기 소개"
+  },
+  "dialogue_bonjour_03_contacts": {
+    "page_id": "351b1658e7ec81edbddac5bcf2471685",
+    "anchor": "Scene 3 — 연락처 교환"
+  },
+  "dialogue_telephone_01_salutation": {
+    "page_id": "351b1658e7ec81c6bc26f310c7be83d8",
+    "anchor": "Scene 1 — 인사"
+  },
+  "dialogue_telephone_02_weekend": {
+    "page_id": "351b1658e7ec81c6bc26f310c7be83d8",
+    "anchor": "Scene 2 — 주말 이야기"
+  },
+  "dialogue_telephone_03_plan": {
+    "page_id": "351b1658e7ec81c6bc26f310c7be83d8",
+    "anchor": "Scene 3 — 다음 약속"
+  },
+  "dialogue_demenagement_01_arrivee": {
+    "page_id": "351b1658e7ec81febaa9ffeaf13acb49",
+    "anchor": "Scene 1 — 도착"
+  },
+  "dialogue_demenagement_02_organiser": {
+    "page_id": "351b1658e7ec81febaa9ffeaf13acb49",
+    "anchor": "Scene 2 — 함께 정리"
+  },
+  "dialogue_demenagement_03_pause": {
+    "page_id": "351b1658e7ec81febaa9ffeaf13acb49",
+    "anchor": "Scene 3 — 점심 휴식"
+  },
+  "dialogue_anniversaire_01_preparer": {
+    "page_id": "351b1658e7ec81fdb445c59b93c1807d",
+    "anchor": "Scene 1 — 파티 준비"
+  },
+  "dialogue_anniversaire_02_pendant": {
+    "page_id": "351b1658e7ec81fdb445c59b93c1807d",
+    "anchor": "Scene 2 — 파티 중"
+  },
+  "dialogue_anniversaire_03_lendemain": {
+    "page_id": "351b1658e7ec81fdb445c59b93c1807d",
+    "anchor": "Scene 3 — 다음날 회상"
+  },
+  "dialogue_voyage_01_idee": {
+    "page_id": "351b1658e7ec81f1a8ceec5f925980aa",
+    "anchor": "Scene 1 — 아이디어 던지기"
+  },
+  "dialogue_voyage_02_itineraire": {
+    "page_id": "351b1658e7ec81f1a8ceec5f925980aa",
+    "anchor": "Scene 2 — 일정 짜기"
+  },
+  "dialogue_voyage_03_budget": {
+    "page_id": "351b1658e7ec81f1a8ceec5f925980aa",
+    "anchor": "Scene 3 — 예산 의논"
+  },
+  "dialogue_pluvieuse_01_meteo": {
+    "page_id": "351b1658e7ec814eb2e7fbeac709e1a9",
+    "anchor": "Scene 1 — 어제의 날씨"
+  },
+  "dialogue_pluvieuse_02_scene": {
+    "page_id": "351b1658e7ec814eb2e7fbeac709e1a9",
+    "anchor": "Scene 2 — 어떤 일이 있었는지"
+  },
+  "dialogue_pluvieuse_03_fin": {
+    "page_id": "351b1658e7ec814eb2e7fbeac709e1a9",
+    "anchor": "Scene 3 — 결말"
+  },
+  "dialogue_service_01_porte": {
+    "page_id": "351b1658e7ec8194877ed5caf5b90a1c",
+    "anchor": "Scene 1 — 벨 누르기"
+  },
+  "dialogue_service_02_demande": {
+    "page_id": "351b1658e7ec8194877ed5caf5b90a1c",
+    "anchor": "Scene 2 — 세부 부탁"
+  },
+  "dialogue_service_03_remerciement": {
+    "page_id": "351b1658e7ec8194877ed5caf5b90a1c",
+    "anchor": "Scene 3 — 감사·약속"
+  },
+  "dialogue_pharmacie_01_symptomes": {
+    "page_id": "351b1658e7ec814b9129f865d95c1cbb",
+    "anchor": "Scene 1 — 증상 설명"
+  },
+  "dialogue_pharmacie_02_conseil": {
+    "page_id": "351b1658e7ec814b9129f865d95c1cbb",
+    "anchor": "Scene 2 — 약사의 조언"
+  },
+  "dialogue_pharmacie_03_caisse": {
+    "page_id": "351b1658e7ec814b9129f865d95c1cbb",
+    "anchor": "Scene 3 — 계산·마무리"
+  },
+  "dialogue_film_01_sortie": {
+    "page_id": "351b1658e7ec816e9490db73c33c980e",
+    "anchor": "Scene 1 — 영화관 나오며"
+  },
+  "dialogue_film_02_debat": {
+    "page_id": "351b1658e7ec816e9490db73c33c980e",
+    "anchor": "Scene 2 — 논쟁이 깊어지다"
+  },
+  "dialogue_film_03_recommandation": {
+    "page_id": "351b1658e7ec816e9490db73c33c980e",
+    "anchor": "Scene 3 — 추천·마무리"
+  },
+  "dialogue_augmentation_01_meeting": {
+    "page_id": "351b1658e7ec815eba95e9a434db62b2",
+    "anchor": "Scene 1 — 미팅 운 떼기"
+  },
+  "dialogue_augmentation_02_argument": {
+    "page_id": "351b1658e7ec815eba95e9a434db62b2",
+    "anchor": "Scene 2 — 논거 제시"
+  },
+  "dialogue_augmentation_03_reponse": {
+    "page_id": "351b1658e7ec815eba95e9a434db62b2",
+    "anchor": "Scene 3 — 답변·반응"
+  },
+  "dialogue_ecologie_01_constat": {
+    "page_id": "351b1658e7ec81dcae08f4a7521cc0f4",
+    "anchor": "Scene 1 — 현황 진단"
+  },
+  "dialogue_ecologie_02_solution": {
+    "page_id": "351b1658e7ec81dcae08f4a7521cc0f4",
+    "anchor": "Scene 2 — 해결책 제시"
+  },
+  "dialogue_ecologie_03_responsabilite": {
+    "page_id": "351b1658e7ec81dcae08f4a7521cc0f4",
+    "anchor": "Scene 3 — 연대 결론"
+  },
+  "dialogue_malentendu_01_aborder": {
+    "page_id": "351b1658e7ec81aebe1ede4648d1bac9",
+    "anchor": "Scene 1 — 주제 꺼내기"
+  },
+  "dialogue_malentendu_02_echange": {
+    "page_id": "351b1658e7ec81aebe1ede4648d1bac9",
+    "anchor": "Scene 2 — 입장 교환"
+  },
+  "dialogue_malentendu_03_accord": {
+    "page_id": "351b1658e7ec81aebe1ede4648d1bac9",
+    "anchor": "Scene 3 — 합의·회복"
+  },
+  "dialogue_entretien_01_plan": {
+    "page_id": "351b1658e7ec813e9ae0defba5dd3738",
+    "anchor": "Scene 1 — 계획·전략"
+  },
+  "dialogue_entretien_02_simulation": {
+    "page_id": "351b1658e7ec813e9ae0defba5dd3738",
+    "anchor": "Scene 2 — 모의 면접"
+  },
+  "dialogue_entretien_03_conseils": {
+    "page_id": "351b1658e7ec813e9ae0defba5dd3738",
+    "anchor": "Scene 3 — 종료·마지막 조언"
   }
 }

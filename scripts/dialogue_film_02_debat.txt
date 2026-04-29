@@ -1,0 +1,11 @@
+# Discuter d'un film — Scene 2: 논쟁이 깊어지다
+# voices: Antoine=bright-male Lena=bright-female
+
+[FR-Antoine] Le rythme était fluide. Mais je trouve qu'il aurait fallu que le sujet soit plus approfondi.
+<break time="1.0s"/>
+[FR-Lena] Je suis d'accord, mais j'ai eu l'impression qu'il avait laissé de l'espace exprès — pour que le spectateur réfléchisse par lui-même.
+<break time="1.0s"/>
+[FR-Antoine] Même si l'intention était bonne, c'était trop calme pour que ce soit captivant.
+<break time="1.0s"/>
+[FR-Lena] Entre divertissement et profondeur, moi je choisirais toujours la profondeur.
+<break time="2.0s"/>

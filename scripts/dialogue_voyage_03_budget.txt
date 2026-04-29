@@ -1,0 +1,11 @@
+# Discuter d'un voyage — Scene 3: 예산 의논
+# voices: Camille=bright-female Theo=bright-male
+
+[FR-Camille] Et le budget ? J'aurais 1500 euros, je pense que ça suffirait.
+<break time="1.0s"/>
+[FR-Theo] Avec 2000, on pourrait ajouter une ville. Ça t'irait ?
+<break time="1.0s"/>
+[FR-Camille] Alors où est-ce qu'on irait en plus ?
+<break time="1.0s"/>
+[FR-Theo] Naples ou Capri — il y ferait plus chaud, et la cuisine y serait la meilleure.
+<break time="2.0s"/>

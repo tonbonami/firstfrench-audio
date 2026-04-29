@@ -1,0 +1,11 @@
+# Une journée pluvieuse — Scene 3: 결말
+# voices: Lea=bright-female Marc=lively-male
+
+[FR-Marc] Tu es rentrée quand ?
+<break time="1.0s"/>
+[FR-Lea] Quand la pluie s'est arrêtée, vers six heures. Je suis rentrée et j'ai fait un thé chaud.
+<break time="1.0s"/>
+[FR-Marc] Et donc, du coup, tu as attrapé un rhume aujourd'hui.
+<break time="1.0s"/>
+[FR-Lea] Eh oui. J'ai pris des mouchoirs, mais le nez coule encore...
+<break time="2.0s"/>

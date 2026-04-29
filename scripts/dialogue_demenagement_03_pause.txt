@@ -1,0 +1,11 @@
+# Le déménagement — Scene 3: 점심 휴식
+# voices: Hugo=lively-male Lea=bright-female
+
+[FR-Lea] On fait une pause ? J'ai faim.
+<break time="1.0s"/>
+[FR-Hugo] Bonne idée. J'ai commandé des pizzas il y a vingt minutes.
+<break time="1.0s"/>
+[FR-Lea] Parfait. Tu as bien travaillé aujourd'hui !
+<break time="1.0s"/>
+[FR-Hugo] Grâce à toi. Merci d'être venue.
+<break time="2.0s"/>
