@@ -21,6 +21,7 @@ import os, re, sys, time, io, requests
 from pathlib import Path
 from pydub import AudioSegment
 from pydub.silence import detect_nonsilent
+from pydub.effects import normalize
 from dotenv import load_dotenv
 
 load_dotenv()
@@ -80,13 +81,21 @@ def inject_sibilant_breaks(text: str) -> str:
     return _SIB.sub(r'\1\2<break time="200ms"/>\3', text)
 
 # ── 클립 트림 ────────────────────────────────────────────────────
-def trim_clip(audio: AudioSegment, thresh=-45, min_sil=30, fade=15) -> AudioSegment:
+def trim_clip(audio: AudioSegment, thresh=-45, min_sil=30, fade=15, target_peak_db=-3.0) -> AudioSegment:
+    """앞뒤 무음 제거 + 클릭 방지 fade + peak 정규화 (-3dBFS).
+    
+    target_peak_db 정규화는 인터-클립 음량 불균형 방지가 핵심.
+    ElevenLabs는 짧은 감탄문/느낌표에 음량 부스트를 자주 걸어서, 
+    여러 클립을 concat하면 한 클립만 폭탄처럼 시끄러워지는 문제 해결.
+    """
     parts = detect_nonsilent(audio, min_silence_len=min_sil, silence_thresh=thresh)
     if not parts:
         return audio
     s = max(0, parts[0][0] - 30)
     e = min(len(audio), parts[-1][1] + 30)
-    return audio[s:e].fade_in(fade).fade_out(fade)
+    trimmed = audio[s:e].fade_in(fade).fade_out(fade)
+    # Peak normalize to target_peak_db (헤드룸 확보, 인터-클립 음량 균등화)
+    return normalize(trimmed, headroom=abs(target_peak_db))
 
 # ── TTS API 호출 ─────────────────────────────────────────────────
 def tts(text: str, lang: str, voice_id: str = None) -> AudioSegment:
