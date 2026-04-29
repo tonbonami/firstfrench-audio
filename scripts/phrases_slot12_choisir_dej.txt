@@ -1,0 +1,28 @@
+# SLOT 12 — Choisir un déjeuner (12:00-12:30)
+# Phrases de tous les jours — 일상 표현
+# voices: Phrases=warm-mother
+
+[FR-Phrases] C'est pas possible !
+<break time="0.7s"/>
+[FR-Phrases] C'est pas possible, cette queue est interminable.
+<break time="1.5s"/>
+
+[FR-Phrases] Choisir le menu avec des collègues.
+<break time="0.7s"/>
+[FR-Phrases] Je choisis le menu avec mes collègues.
+<break time="1.5s"/>
+
+[FR-Phrases] Appeler le serveur.
+<break time="0.7s"/>
+[FR-Phrases] J'appelle le serveur pour commander.
+<break time="1.5s"/>
+
+[FR-Phrases] Vérifier le lieu de la réunion.
+<break time="0.7s"/>
+[FR-Phrases] Je vérifie le lieu de la réunion d'après-midi.
+<break time="1.5s"/>
+
+[FR-Phrases] Commander.
+<break time="0.7s"/>
+[FR-Phrases] Je commande mon plat.
+<break time="1.5s"/>

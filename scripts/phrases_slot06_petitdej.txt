@@ -1,0 +1,63 @@
+# SLOT 6 — Le petit-déjeuner (07:30-08:00)
+# Phrases de tous les jours — 일상 표현
+# voices: Phrases=warm-mother
+
+[FR-Phrases] Préparer le petit-déjeuner.
+<break time="0.7s"/>
+[FR-Phrases] Je prépare le petit-déjeuner pour toute la famille.
+<break time="1.5s"/>
+
+[FR-Phrases] Mettre la table.
+<break time="0.7s"/>
+[FR-Phrases] Je mets la table pendant que le pain grille.
+<break time="1.5s"/>
+
+[FR-Phrases] S'asseoir à table.
+<break time="0.7s"/>
+[FR-Phrases] Je m'assois à table avec ma sœur.
+<break time="1.5s"/>
+
+[FR-Phrases] Faire griller du pain.
+<break time="0.7s"/>
+[FR-Phrases] Je fais griller deux tranches de pain.
+<break time="1.5s"/>
+
+[FR-Phrases] Verser du lait.
+<break time="0.7s"/>
+[FR-Phrases] Je verse du lait dans mon bol de céréales.
+<break time="1.5s"/>
+
+[FR-Phrases] Préparer du café.
+<break time="0.7s"/>
+[FR-Phrases] Je prépare du café avec la machine.
+<break time="1.5s"/>
+
+[FR-Phrases] Tartiner du beurre.
+<break time="0.7s"/>
+[FR-Phrases] Je tartine du beurre sur une tranche de pain.
+<break time="1.5s"/>
+
+[FR-Phrases] Mettre de la confiture.
+<break time="0.7s"/>
+[FR-Phrases] Je mets de la confiture de fraise sur mon pain.
+<break time="1.5s"/>
+
+[FR-Phrases] Manger des céréales.
+<break time="0.7s"/>
+[FR-Phrases] Je mange des céréales avec du lait froid.
+<break time="1.5s"/>
+
+[FR-Phrases] Manger des toasts.
+<break time="0.7s"/>
+[FR-Phrases] Je mange deux toasts avec du miel.
+<break time="1.5s"/>
+
+[FR-Phrases] Manger un yaourt.
+<break time="0.7s"/>
+[FR-Phrases] Je mange un yaourt nature avec du miel.
+<break time="1.5s"/>
+
+[FR-Phrases] Finir son petit-déjeuner.
+<break time="0.7s"/>
+[FR-Phrases] Je finis mon petit-déjeuner vers sept heures et demie.
+<break time="1.5s"/>

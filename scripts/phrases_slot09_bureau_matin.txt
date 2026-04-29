@@ -1,0 +1,38 @@
+# SLOT 9 — Au bureau le matin (09:00-10:30)
+# Phrases de tous les jours — 일상 표현
+# voices: Phrases=warm-mother
+
+[FR-Phrases] Arriver au bureau.
+<break time="0.7s"/>
+[FR-Phrases] J'arrive au bureau et je pose mon sac.
+<break time="1.5s"/>
+
+[FR-Phrases] Allumer son ordinateur.
+<break time="0.7s"/>
+[FR-Phrases] J'allume mon ordinateur.
+<break time="1.5s"/>
+
+[FR-Phrases] Faire sa to-do list.
+<break time="0.7s"/>
+[FR-Phrases] Je fais ma to-do list pour la journée.
+<break time="1.5s"/>
+
+[FR-Phrases] Vérifier ses e-mails.
+<break time="0.7s"/>
+[FR-Phrases] Je vérifie mes e-mails et mes messages.
+<break time="1.5s"/>
+
+[FR-Phrases] Remplir sa gourde.
+<break time="0.7s"/>
+[FR-Phrases] Je remplis ma gourde pour la journée.
+<break time="1.5s"/>
+
+[FR-Phrases] Rédiger un brouillon de rapport.
+<break time="0.7s"/>
+[FR-Phrases] Je rédige un brouillon de rapport.
+<break time="1.5s"/>
+
+[FR-Phrases] Peaufiner un e-mail professionnel.
+<break time="0.7s"/>
+[FR-Phrases] Je peaufine un e-mail professionnel.
+<break time="1.5s"/>

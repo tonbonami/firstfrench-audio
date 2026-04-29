@@ -1,0 +1,38 @@
+# SLOT 5 — La douche (07:15-07:30)
+# Phrases de tous les jours — 일상 표현
+# voices: Phrases=warm-mother
+
+[FR-Phrases] Prendre une douche.
+<break time="0.7s"/>
+[FR-Phrases] Je prends une douche rapide le matin.
+<break time="1.5s"/>
+
+[FR-Phrases] Prendre un bain.
+<break time="0.7s"/>
+[FR-Phrases] Je prends un bain chaud pour me détendre.
+<break time="1.5s"/>
+
+[FR-Phrases] Se laver les cheveux.
+<break time="0.7s"/>
+[FR-Phrases] Je me lave les cheveux deux fois par semaine.
+<break time="1.5s"/>
+
+[FR-Phrases] S'essuyer le visage.
+<break time="0.7s"/>
+[FR-Phrases] Je m'essuie le visage doucement avec une serviette propre.
+<break time="1.5s"/>
+
+[FR-Phrases] Mettre de la lotion.
+<break time="0.7s"/>
+[FR-Phrases] Je mets de la lotion après la douche.
+<break time="1.5s"/>
+
+[FR-Phrases] Mettre du déodorant.
+<break time="0.7s"/>
+[FR-Phrases] Je mets du déodorant avant de sortir.
+<break time="1.5s"/>
+
+[FR-Phrases] Se sécher les cheveux.
+<break time="0.7s"/>
+[FR-Phrases] Je me sèche les cheveux avec un sèche-cheveux.
+<break time="1.5s"/>

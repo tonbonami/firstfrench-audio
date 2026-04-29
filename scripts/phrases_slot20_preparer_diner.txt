@@ -1,0 +1,28 @@
+# SLOT 20 — Préparer le dîner (18:30-19:00)
+# Phrases de tous les jours — 일상 표현
+# voices: Phrases=warm-mother
+
+[FR-Phrases] Rentrer à la maison.
+<break time="0.7s"/>
+[FR-Phrases] Je rentre à la maison et je dis : je suis là !
+<break time="1.5s"/>
+
+[FR-Phrases] Se changer, mettre son pyjama.
+<break time="0.7s"/>
+[FR-Phrases] Je me change et je mets mon pyjama.
+<break time="1.5s"/>
+
+[FR-Phrases] Décider de se faire plaisir.
+<break time="0.7s"/>
+[FR-Phrases] Je décide de me faire plaisir : ce soir, c'est poulet-bière.
+<break time="1.5s"/>
+
+[FR-Phrases] Se plaindre auprès de ses amis.
+<break time="0.7s"/>
+[FR-Phrases] Je me plains auprès de mes amis : quelle journée !
+<break time="1.5s"/>
+
+[FR-Phrases] Décider du menu.
+<break time="0.7s"/>
+[FR-Phrases] Je décide du menu en regardant ce qu'il reste au frigo.
+<break time="1.5s"/>

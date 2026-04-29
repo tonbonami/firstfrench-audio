@@ -1,0 +1,28 @@
+# SLOT 13 — Le déjeuner (12:30-13:00)
+# Phrases de tous les jours — 일상 표현
+# voices: Phrases=warm-mother
+
+[FR-Phrases] C'est trop bon !
+<break time="0.7s"/>
+[FR-Phrases] C'est trop bon, dès la première bouchée.
+<break time="1.5s"/>
+
+[FR-Phrases] Discuter des séries.
+<break time="0.7s"/>
+[FR-Phrases] On discute des séries du moment sur Netflix.
+<break time="1.5s"/>
+
+[FR-Phrases] Finir son assiette.
+<break time="0.7s"/>
+[FR-Phrases] Je dis que j'ai pas faim, et je finis mon assiette.
+<break time="1.5s"/>
+
+[FR-Phrases] Écouter et rassurer un collègue.
+<break time="0.7s"/>
+[FR-Phrases] J'écoute et je rassure un collègue.
+<break time="1.5s"/>
+
+[FR-Phrases] Régler l'addition.
+<break time="0.7s"/>
+[FR-Phrases] On règle l'addition après le repas.
+<break time="1.5s"/>

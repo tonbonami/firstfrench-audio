@@ -1,0 +1,33 @@
+# SLOT 11 — Travail concentré (11:00-12:00)
+# Phrases de tous les jours — 일상 표현
+# voices: Phrases=warm-mother
+
+[FR-Phrases] Ignorer les notifications.
+<break time="0.7s"/>
+[FR-Phrases] J'ignore les notifications pour rester concentré.
+<break time="1.5s"/>
+
+[FR-Phrases] Analyser les données.
+<break time="0.7s"/>
+[FR-Phrases] J'analyse les données pour en extraire l'essentiel.
+<break time="1.5s"/>
+
+[FR-Phrases] Mettre à jour les documents.
+<break time="0.7s"/>
+[FR-Phrases] Je mets à jour les documents pour le prochain projet.
+<break time="1.5s"/>
+
+[FR-Phrases] Argumenter avec logique.
+<break time="0.7s"/>
+[FR-Phrases] J'argumente avec logique pendant la réunion.
+<break time="1.5s"/>
+
+[FR-Phrases] C'est noté, je rectifie.
+<break time="0.7s"/>
+[FR-Phrases] C'est noté, je rectifie tout de suite.
+<break time="1.5s"/>
+
+[FR-Phrases] Réfléchir au menu du déjeuner.
+<break time="0.7s"/>
+[FR-Phrases] Je réfléchis au menu du déjeuner.
+<break time="1.5s"/>

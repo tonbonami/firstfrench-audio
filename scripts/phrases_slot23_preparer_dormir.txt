@@ -1,0 +1,38 @@
+# SLOT 23 — Se préparer pour dormir (21:30-22:30)
+# Phrases de tous les jours — 일상 표현
+# voices: Phrases=warm-mother
+
+[FR-Phrases] Prendre une douche chaude.
+<break time="0.7s"/>
+[FR-Phrases] Je prends une douche chaude pour me détendre.
+<break time="1.5s"/>
+
+[FR-Phrases] Se mettre un masque.
+<break time="0.7s"/>
+[FR-Phrases] Je me mets un masque avec soin.
+<break time="1.5s"/>
+
+[FR-Phrases] Préparer ses vêtements pour demain.
+<break time="0.7s"/>
+[FR-Phrases] Je prépare mes vêtements pour demain.
+<break time="1.5s"/>
+
+[FR-Phrases] Déjà demain ?
+<break time="0.7s"/>
+[FR-Phrases] Je me dis : déjà demain ? Sérieux ?
+<break time="1.5s"/>
+
+[FR-Phrases] Vérifier son alarme.
+<break time="0.7s"/>
+[FR-Phrases] Je vérifie mon alarme encore une fois.
+<break time="1.5s"/>
+
+[FR-Phrases] S'installer confortablement.
+<break time="0.7s"/>
+[FR-Phrases] J'éteins la lumière et je m'installe confortablement.
+<break time="1.5s"/>
+
+[FR-Phrases] Je tombe de sommeil.
+<break time="0.7s"/>
+[FR-Phrases] Je murmure : je tombe de sommeil...
+<break time="1.5s"/>

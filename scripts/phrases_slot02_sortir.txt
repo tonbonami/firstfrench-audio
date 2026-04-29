@@ -1,0 +1,28 @@
+# SLOT 2 — Sortir du lit (06:15-06:30)
+# Phrases de tous les jours — 일상 표현
+# voices: Phrases=warm-mother
+
+[FR-Phrases] Se lever péniblement.
+<break time="0.7s"/>
+[FR-Phrases] Je me lève péniblement.
+<break time="1.5s"/>
+
+[FR-Phrases] Regarder son téléphone.
+<break time="0.7s"/>
+[FR-Phrases] Je regarde mon téléphone à moitié réveillé.
+<break time="1.5s"/>
+
+[FR-Phrases] Boire un verre d'eau.
+<break time="0.7s"/>
+[FR-Phrases] Je bois un verre d'eau pour me réveiller.
+<break time="1.5s"/>
+
+[FR-Phrases] Ouvrir les rideaux.
+<break time="0.7s"/>
+[FR-Phrases] J'ouvre les rideaux pour laisser entrer la lumière.
+<break time="1.5s"/>
+
+[FR-Phrases] Faire son lit.
+<break time="0.7s"/>
+[FR-Phrases] Je fais mon lit dès que je me lève.
+<break time="1.5s"/>

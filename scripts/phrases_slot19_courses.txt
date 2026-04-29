@@ -1,0 +1,28 @@
+# SLOT 19 — Les courses (17:30-18:30)
+# Phrases de tous les jours — 일상 표현
+# voices: Phrases=warm-mother
+
+[FR-Phrases] Faire les courses.
+<break time="0.7s"/>
+[FR-Phrases] Je fais les courses pour le dîner.
+<break time="1.5s"/>
+
+[FR-Phrases] Aller à la salle de sport.
+<break time="0.7s"/>
+[FR-Phrases] Je vais à la salle de sport pour me défouler.
+<break time="1.5s"/>
+
+[FR-Phrases] Prendre une photo du coucher de soleil.
+<break time="0.7s"/>
+[FR-Phrases] Je prends une photo du coucher de soleil.
+<break time="1.5s"/>
+
+[FR-Phrases] Choisir des légumes frais.
+<break time="0.7s"/>
+[FR-Phrases] Je choisis des légumes frais sans savoir le menu.
+<break time="1.5s"/>
+
+[FR-Phrases] Passer à la caisse.
+<break time="0.7s"/>
+[FR-Phrases] Je passe à la caisse avant que le chariot soit trop lourd.
+<break time="1.5s"/>

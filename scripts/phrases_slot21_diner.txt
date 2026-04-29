@@ -1,0 +1,33 @@
+# SLOT 21 — Le dîner (19:00-20:00)
+# Phrases de tous les jours — 일상 표현
+# voices: Phrases=warm-mother
+
+[FR-Phrases] Cuisiner le dîner.
+<break time="0.7s"/>
+[FR-Phrases] Je cuisine un dîner simple avec ce qu'il reste.
+<break time="1.5s"/>
+
+[FR-Phrases] Mettre la table.
+<break time="0.7s"/>
+[FR-Phrases] Je mets la table avec soin pour me récompenser.
+<break time="1.5s"/>
+
+[FR-Phrases] Manger en regardant des vidéos.
+<break time="0.7s"/>
+[FR-Phrases] Je mange en regardant des vidéos YouTube.
+<break time="1.5s"/>
+
+[FR-Phrases] Boire un verre de bière.
+<break time="0.7s"/>
+[FR-Phrases] Je bois un verre de bière avec mon dîner.
+<break time="1.5s"/>
+
+[FR-Phrases] Discuter de la journée.
+<break time="0.7s"/>
+[FR-Phrases] On discute de la journée à table.
+<break time="1.5s"/>
+
+[FR-Phrases] Profiter du repas.
+<break time="0.7s"/>
+[FR-Phrases] Je profite du repas sans me presser.
+<break time="1.5s"/>

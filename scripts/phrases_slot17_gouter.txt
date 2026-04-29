@@ -1,0 +1,23 @@
+# SLOT 17 — Goûter (16:30-17:00)
+# Phrases de tous les jours — 일상 표현
+# voices: Phrases=warm-mother
+
+[FR-Phrases] S'excuser rapidement.
+<break time="0.7s"/>
+[FR-Phrases] Je m'excuse rapidement : désolé pour la faute.
+<break time="1.5s"/>
+
+[FR-Phrases] Se sentir soulagé par l'avancement.
+<break time="0.7s"/>
+[FR-Phrases] Je me sens soulagé par l'avancement de mes tâches.
+<break time="1.5s"/>
+
+[FR-Phrases] J'ai tenu le coup.
+<break time="0.7s"/>
+[FR-Phrases] Je me dis : j'ai tenu le coup aujourd'hui.
+<break time="1.5s"/>
+
+[FR-Phrases] Manger un goûter.
+<break time="0.7s"/>
+[FR-Phrases] Je mange un goûter avec mes collègues.
+<break time="1.5s"/>

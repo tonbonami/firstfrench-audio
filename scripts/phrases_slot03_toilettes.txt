@@ -1,0 +1,33 @@
+# SLOT 3 — Aux toilettes du matin (06:30-06:45)
+# Phrases de tous les jours — 일상 표현
+# voices: Phrases=warm-mother
+
+[FR-Phrases] Se laver le visage.
+<break time="0.7s"/>
+[FR-Phrases] Je me lave le visage à l'eau froide tous les matins.
+<break time="1.5s"/>
+
+[FR-Phrases] Se brosser les dents.
+<break time="0.7s"/>
+[FR-Phrases] Je me brosse les dents après le petit-déjeuner.
+<break time="1.5s"/>
+
+[FR-Phrases] Se laver les mains.
+<break time="0.7s"/>
+[FR-Phrases] Je me lave toujours les mains avant de manger.
+<break time="1.5s"/>
+
+[FR-Phrases] Se regarder dans le miroir.
+<break time="0.7s"/>
+[FR-Phrases] Je me regarde dans le miroir avant de partir.
+<break time="1.5s"/>
+
+[FR-Phrases] S'essuyer le visage.
+<break time="0.7s"/>
+[FR-Phrases] Je m'essuie le visage doucement avec une serviette propre.
+<break time="1.5s"/>
+
+[FR-Phrases] Mettre de la lotion.
+<break time="0.7s"/>
+[FR-Phrases] Je mets de la lotion après la douche.
+<break time="1.5s"/>

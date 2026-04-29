@@ -1,0 +1,33 @@
+# SLOT 15 — L'après-midi au travail (14:00-15:30)
+# Phrases de tous les jours — 일상 표현
+# voices: Phrases=warm-mother
+
+[FR-Phrases] Se rafraîchir le visage.
+<break time="0.7s"/>
+[FR-Phrases] Je me rafraîchis le visage à l'eau froide.
+<break time="1.5s"/>
+
+[FR-Phrases] Je suis en plein menbung.
+<break time="0.7s"/>
+[FR-Phrases] Je dis à mon collègue : je suis en plein menbung.
+<break time="1.5s"/>
+
+[FR-Phrases] Grignoter un morceau de chocolat.
+<break time="0.7s"/>
+[FR-Phrases] Je grignote un morceau de chocolat.
+<break time="1.5s"/>
+
+[FR-Phrases] Compter les minutes.
+<break time="0.7s"/>
+[FR-Phrases] Je compte les minutes jusqu'à la fin de la journée.
+<break time="1.5s"/>
+
+[FR-Phrases] Répondre machinalement.
+<break time="0.7s"/>
+[FR-Phrases] Je réponds machinalement : c'est noté.
+<break time="1.5s"/>
+
+[FR-Phrases] S'ennuyer fermement.
+<break time="0.7s"/>
+[FR-Phrases] Je m'ennuie fermement pendant la réunion.
+<break time="1.5s"/>

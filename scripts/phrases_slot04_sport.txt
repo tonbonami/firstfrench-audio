@@ -1,0 +1,48 @@
+# SLOT 4 — Sport du matin (06:45-07:15)
+# Phrases de tous les jours — 일상 표현
+# voices: Phrases=warm-mother
+
+[FR-Phrases] Faire des étirements.
+<break time="0.7s"/>
+[FR-Phrases] Je fais des étirements pour bien commencer la journée.
+<break time="1.5s"/>
+
+[FR-Phrases] Faire du yoga.
+<break time="0.7s"/>
+[FR-Phrases] Je fais du yoga au réveil pour me détendre.
+<break time="1.5s"/>
+
+[FR-Phrases] Promener son chien.
+<break time="0.7s"/>
+[FR-Phrases] Je promène mon chien après le petit-déjeuner.
+<break time="1.5s"/>
+
+[FR-Phrases] Faire du jogging.
+<break time="0.7s"/>
+[FR-Phrases] Je fais du jogging au parc tous les matins.
+<break time="1.5s"/>
+
+[FR-Phrases] Faire de l'exercice.
+<break time="0.7s"/>
+[FR-Phrases] Je fais de l'exercice pendant trente minutes.
+<break time="1.5s"/>
+
+[FR-Phrases] Aller à la salle de sport.
+<break time="0.7s"/>
+[FR-Phrases] Je vais à la salle de sport deux fois par semaine.
+<break time="1.5s"/>
+
+[FR-Phrases] Faire du vélo.
+<break time="0.7s"/>
+[FR-Phrases] Je fais du vélo en écoutant de la musique.
+<break time="1.5s"/>
+
+[FR-Phrases] Monter les escaliers.
+<break time="0.7s"/>
+[FR-Phrases] Je monte les escaliers au lieu de prendre l'ascenseur.
+<break time="1.5s"/>
+
+[FR-Phrases] Boire de l'eau.
+<break time="0.7s"/>
+[FR-Phrases] Je bois un grand verre d'eau après avoir transpiré.
+<break time="1.5s"/>

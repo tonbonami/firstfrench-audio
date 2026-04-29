@@ -1,0 +1,28 @@
+# SLOT 18 — Trajet du soir (17:00-17:30)
+# Phrases de tous les jours — 일상 표현
+# voices: Phrases=warm-mother
+
+[FR-Phrases] Se casser à l'heure.
+<break time="0.7s"/>
+[FR-Phrases] Je me casse à l'heure pile.
+<break time="1.5s"/>
+
+[FR-Phrases] Ranger ses affaires discrètement.
+<break time="0.7s"/>
+[FR-Phrases] Je range mes affaires discrètement.
+<break time="1.5s"/>
+
+[FR-Phrases] À demain, bonne soirée.
+<break time="0.7s"/>
+[FR-Phrases] Je dis à demain, bonne soirée à mes collègues.
+<break time="1.5s"/>
+
+[FR-Phrases] Sortir du bureau.
+<break time="0.7s"/>
+[FR-Phrases] Je sors du bureau et je respire l'air frais.
+<break time="1.5s"/>
+
+[FR-Phrases] Bravo, j'ai bien bossé.
+<break time="0.7s"/>
+[FR-Phrases] Je me dis : Bravo, j'ai bien bossé aujourd'hui.
+<break time="1.5s"/>

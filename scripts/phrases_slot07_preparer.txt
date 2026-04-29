@@ -1,0 +1,63 @@
+# SLOT 7 — Se préparer pour sortir (08:00-08:30)
+# Phrases de tous les jours — 일상 표현
+# voices: Phrases=warm-mother
+
+[FR-Phrases] Choisir ses vêtements.
+<break time="0.7s"/>
+[FR-Phrases] Je choisis mes vêtements selon la météo.
+<break time="1.5s"/>
+
+[FR-Phrases] S'habiller.
+<break time="0.7s"/>
+[FR-Phrases] Je m'habille rapidement pour ne pas être en retard.
+<break time="1.5s"/>
+
+[FR-Phrases] Mettre ses chaussures.
+<break time="0.7s"/>
+[FR-Phrases] Je mets mes chaussures près de la porte.
+<break time="1.5s"/>
+
+[FR-Phrases] Mettre ses chaussettes.
+<break time="0.7s"/>
+[FR-Phrases] Je mets des chaussettes chaudes en hiver.
+<break time="1.5s"/>
+
+[FR-Phrases] Se coiffer.
+<break time="0.7s"/>
+[FR-Phrases] Je me coiffe rapidement avant de partir.
+<break time="1.5s"/>
+
+[FR-Phrases] Se raser.
+<break time="0.7s"/>
+[FR-Phrases] Il se rase tous les matins avant le travail.
+<break time="1.5s"/>
+
+[FR-Phrases] Se maquiller.
+<break time="0.7s"/>
+[FR-Phrases] Elle se maquille légèrement avant de partir.
+<break time="1.5s"/>
+
+[FR-Phrases] Mettre du parfum.
+<break time="0.7s"/>
+[FR-Phrases] Il met un peu de parfum sur son cou.
+<break time="1.5s"/>
+
+[FR-Phrases] Mettre de la crème solaire.
+<break time="0.7s"/>
+[FR-Phrases] Je mets de la crème solaire tous les matins.
+<break time="1.5s"/>
+
+[FR-Phrases] Préparer son sac.
+<break time="0.7s"/>
+[FR-Phrases] Je prépare mon sac avant de sortir.
+<break time="1.5s"/>
+
+[FR-Phrases] Prendre ses clés.
+<break time="0.7s"/>
+[FR-Phrases] Je vérifie si j'ai bien pris mes clés.
+<break time="1.5s"/>
+
+[FR-Phrases] Sortir de la maison.
+<break time="0.7s"/>
+[FR-Phrases] Je sors de la maison à huit heures.
+<break time="1.5s"/>

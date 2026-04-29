@@ -1,0 +1,33 @@
+# SLOT 22 — Soirée détente (20:00-21:30)
+# Phrases de tous les jours — 일상 표현
+# voices: Phrases=warm-mother
+
+[FR-Phrases] Se vautrer sur le canapé.
+<break time="0.7s"/>
+[FR-Phrases] Enfin je me repose, je me vautre sur le canapé.
+<break time="1.5s"/>
+
+[FR-Phrases] Binge-watcher une série.
+<break time="0.7s"/>
+[FR-Phrases] Je binge-watche une série sur Netflix.
+<break time="1.5s"/>
+
+[FR-Phrases] Scroller sur les réseaux sociaux.
+<break time="0.7s"/>
+[FR-Phrases] Je scrolle sur les réseaux sociaux dans mon lit.
+<break time="1.5s"/>
+
+[FR-Phrases] Rire tout seul, MDR.
+<break time="0.7s"/>
+[FR-Phrases] Je ris tout seul devant une vidéo : MDR !
+<break time="1.5s"/>
+
+[FR-Phrases] Poster sur Instagram.
+<break time="0.7s"/>
+[FR-Phrases] Je poste sur Instagram une photo de la journée.
+<break time="1.5s"/>
+
+[FR-Phrases] Écouter de la musique en écrivant.
+<break time="0.7s"/>
+[FR-Phrases] J'écoute de la musique en écrivant mon journal.
+<break time="1.5s"/>

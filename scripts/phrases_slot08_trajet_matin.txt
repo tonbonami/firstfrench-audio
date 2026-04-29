@@ -1,0 +1,33 @@
+# SLOT 8 — Trajet du matin (08:30-09:00)
+# Phrases de tous les jours — 일상 표현
+# voices: Phrases=warm-mother
+
+[FR-Phrases] Se faufiler dans le métro.
+<break time="0.7s"/>
+[FR-Phrases] Je me faufile dans le métro bondé.
+<break time="1.5s"/>
+
+[FR-Phrases] Écouter de la musique.
+<break time="0.7s"/>
+[FR-Phrases] J'écoute de la musique avec mes écouteurs.
+<break time="1.5s"/>
+
+[FR-Phrases] Se dépêcher pour le métro.
+<break time="0.7s"/>
+[FR-Phrases] Je me dépêche pour ne pas rater le métro.
+<break time="1.5s"/>
+
+[FR-Phrases] Soupirer en attendant l'ascenseur.
+<break time="0.7s"/>
+[FR-Phrases] Je soupire en attendant l'ascenseur.
+<break time="1.5s"/>
+
+[FR-Phrases] Saluer avec un Bonjour poli.
+<break time="0.7s"/>
+[FR-Phrases] Je salue mon collègue avec un Bonjour poli.
+<break time="1.5s"/>
+
+[FR-Phrases] Prendre un café à emporter.
+<break time="0.7s"/>
+[FR-Phrases] Je prends un café à emporter près du bureau.
+<break time="1.5s"/>

@@ -1,0 +1,28 @@
+# SLOT 16 — Téléphone & réunion (15:30-16:30)
+# Phrases de tous les jours — 일상 표현
+# voices: Phrases=warm-mother
+
+[FR-Phrases] Répondre au téléphone.
+<break time="0.7s"/>
+[FR-Phrases] Je réponds au téléphone : allô, oui ?
+<break time="1.5s"/>
+
+[FR-Phrases] Faire un compte-rendu intermédiaire.
+<break time="0.7s"/>
+[FR-Phrases] Je fais un compte-rendu intermédiaire à mon chef.
+<break time="1.5s"/>
+
+[FR-Phrases] C'est n'importe quoi !
+<break time="0.7s"/>
+[FR-Phrases] C'est n'importe quoi, cette demande absurde.
+<break time="1.5s"/>
+
+[FR-Phrases] Se sentir vénère.
+<break time="0.7s"/>
+[FR-Phrases] Je me sens vénère face à ce client.
+<break time="1.5s"/>
+
+[FR-Phrases] Bon courage.
+<break time="0.7s"/>
+[FR-Phrases] Je dis Bon courage poliment à l'autre équipe.
+<break time="1.5s"/>

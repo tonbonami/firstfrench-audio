@@ -1,0 +1,28 @@
+# SLOT 10 — Pause-café (10:30-11:00)
+# Phrases de tous les jours — 일상 표현
+# voices: Phrases=warm-mother
+
+[FR-Phrases] Faire une pause café.
+<break time="0.7s"/>
+[FR-Phrases] Je fais une pause café rapide avec mes collègues.
+<break time="1.5s"/>
+
+[FR-Phrases] Grignoter un morceau de chocolat.
+<break time="0.7s"/>
+[FR-Phrases] Je grignote un morceau de chocolat quand je manque de sucre.
+<break time="1.5s"/>
+
+[FR-Phrases] Discuter avec un collègue.
+<break time="0.7s"/>
+[FR-Phrases] Je discute un peu avec un collègue.
+<break time="1.5s"/>
+
+[FR-Phrases] Faire un point avec son chef.
+<break time="0.7s"/>
+[FR-Phrases] Je fais un point rapide avec mon chef.
+<break time="1.5s"/>
+
+[FR-Phrases] Recharger ses batteries.
+<break time="0.7s"/>
+[FR-Phrases] Je recharge mes batteries en parlant d'autre chose.
+<break time="1.5s"/>
