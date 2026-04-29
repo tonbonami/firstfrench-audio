@@ -81,12 +81,15 @@ def inject_sibilant_breaks(text: str) -> str:
     return _SIB.sub(r'\1\2<break time="200ms"/>\3', text)
 
 # ── 클립 트림 ────────────────────────────────────────────────────
-def trim_clip(audio: AudioSegment, thresh=-45, min_sil=30, fade=15, target_peak_db=-3.0) -> AudioSegment:
+def trim_clip(audio: AudioSegment, thresh=-45, min_sil=30, fade=15, target_peak_db=-3.0, short_clip_ms=2000) -> AudioSegment:
     """앞뒤 무음 제거 + 클릭 방지 fade + peak 정규화 (-3dBFS).
-    
+
     target_peak_db 정규화는 인터-클립 음량 불균형 방지가 핵심.
-    ElevenLabs는 짧은 감탄문/느낌표에 음량 부스트를 자주 걸어서, 
+    ElevenLabs는 짧은 감탄문/느낌표에 음량 부스트를 자주 걸어서,
     여러 클립을 concat하면 한 클립만 폭탄처럼 시끄러워지는 문제 해결.
+
+    단, 짧은 클립(< short_clip_ms)은 normalize 스킵 — 짧은 감탄문/감사 표현은
+    TTS 본 신호가 작아서 정규화 시 노이즈 플로어가 함께 증폭되는 부작용이 큼.
     """
     parts = detect_nonsilent(audio, min_silence_len=min_sil, silence_thresh=thresh)
     if not parts:
@@ -94,8 +97,12 @@ def trim_clip(audio: AudioSegment, thresh=-45, min_sil=30, fade=15, target_peak_
     s = max(0, parts[0][0] - 30)
     e = min(len(audio), parts[-1][1] + 30)
     trimmed = audio[s:e].fade_in(fade).fade_out(fade)
+    # 짧은 클립 보호: normalize가 노이즈 플로어 증폭하는 부작용 차단
+    if len(trimmed) < short_clip_ms:
+        return trimmed
     # Peak normalize to target_peak_db (헤드룸 확보, 인터-클립 음량 균등화)
     return normalize(trimmed, headroom=abs(target_peak_db))
+
 
 # ── TTS API 호출 ─────────────────────────────────────────────────
 def tts(text: str, lang: str, voice_id: str = None) -> AudioSegment:
