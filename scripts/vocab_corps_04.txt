@@ -1,0 +1,23 @@
+# Vocabulaire — Le Corps (신체부위) / 섹션 4: 예문
+# voices: Vocab=warm-mother
+
+[FR-Vocab] J'ai mal à la tête.
+<break time="1.0s"/>
+[FR-Vocab] Ferme les yeux !
+<break time="1.0s"/>
+[FR-Vocab] Lave-toi les mains.
+<break time="1.0s"/>
+[FR-Vocab] Elle a un beau visage.
+<break time="1.0s"/>
+[FR-Vocab] J'ai mal au ventre.
+<break time="1.0s"/>
+[FR-Vocab] Ouvre la bouche.
+<break time="1.0s"/>
+[FR-Vocab] Donne-moi la main.
+<break time="1.0s"/>
+[FR-Vocab] Il a les yeux bleus.
+<break time="1.0s"/>
+[FR-Vocab] Elle a mal au dos.
+<break time="1.0s"/>
+[FR-Vocab] Brossez-vous les dents.
+<break time="1.0s"/>

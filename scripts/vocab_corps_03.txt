@@ -1,0 +1,80 @@
+# Vocabulaire — Le Corps (신체부위) / 섹션 3: 다리·손발
+# 패턴: FR → KO → FR
+# voices: Vocab=lisons-narrator
+
+[FR-Vocab] jambe.
+<break time="1.0s"/>
+[KO] 다리.
+<break time="1.0s"/>
+[FR-Vocab] jambe.
+<break time="1.5s"/>
+
+[FR-Vocab] cuisse.
+<break time="1.0s"/>
+[KO] 허벅지.
+<break time="1.0s"/>
+[FR-Vocab] cuisse.
+<break time="1.5s"/>
+
+[FR-Vocab] genou.
+<break time="1.0s"/>
+[KO] 무릎.
+<break time="1.0s"/>
+[FR-Vocab] genou.
+<break time="1.5s"/>
+
+[FR-Vocab] mollet.
+<break time="1.0s"/>
+[KO] 종아리.
+<break time="1.0s"/>
+[FR-Vocab] mollet.
+<break time="1.5s"/>
+
+[FR-Vocab] cheville.
+<break time="1.0s"/>
+[KO] 발목.
+<break time="1.0s"/>
+[FR-Vocab] cheville.
+<break time="1.5s"/>
+
+[FR-Vocab] pied.
+<break time="1.0s"/>
+[KO] 발.
+<break time="1.0s"/>
+[FR-Vocab] pied.
+<break time="1.5s"/>
+
+[FR-Vocab] orteil.
+<break time="1.0s"/>
+[KO] 발가락.
+<break time="1.0s"/>
+[FR-Vocab] orteil.
+<break time="1.5s"/>
+
+[FR-Vocab] doigt.
+<break time="1.0s"/>
+[KO] 손가락.
+<break time="1.0s"/>
+[FR-Vocab] doigt.
+<break time="1.5s"/>
+
+[FR-Vocab] paume.
+<break time="1.0s"/>
+[KO] 손바닥.
+<break time="1.0s"/>
+[FR-Vocab] paume.
+<break time="1.5s"/>
+
+[FR-Vocab] ongle.
+<break time="1.0s"/>
+[KO] 손톱이나 발톱.
+<break time="1.0s"/>
+[FR-Vocab] ongle.
+<break time="1.5s"/>
+
+[FR-Vocab] poignet.
+<break time="1.0s"/>
+[KO] 손목.
+<break time="1.0s"/>
+[FR-Vocab] poignet.
+<break time="1.5s"/>

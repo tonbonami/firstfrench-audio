@@ -1,0 +1,38 @@
+# Vocabulaire TEST — Le Corps (얼굴 부위 5단어 미니 샘플)
+# 패턴 검증용: FR → KO → FR
+# voices: Vocab=lisons-narrator
+
+[FR-Vocab] visage.
+<break time="1.0s"/>
+[KO] 얼굴.
+<break time="1.0s"/>
+[FR-Vocab] visage.
+<break time="1.5s"/>
+
+[FR-Vocab] cheveux.
+<break time="1.0s"/>
+[KO] 머리카락.
+<break time="1.0s"/>
+[FR-Vocab] cheveux.
+<break time="1.5s"/>
+
+[FR-Vocab] front.
+<break time="1.0s"/>
+[KO] 이마.
+<break time="1.0s"/>
+[FR-Vocab] front.
+<break time="1.5s"/>
+
+[FR-Vocab] œil.
+<break time="1.0s"/>
+[KO] 눈.
+<break time="1.0s"/>
+[FR-Vocab] œil.
+<break time="1.5s"/>
+
+[FR-Vocab] nez.
+<break time="1.0s"/>
+[KO] 코.
+<break time="1.0s"/>
+[FR-Vocab] nez.
+<break time="1.5s"/>

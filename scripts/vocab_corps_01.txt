@@ -1,0 +1,108 @@
+# Vocabulaire — Le Corps (신체부위) / 섹션 1: 얼굴 부위
+# 패턴: FR → KO → FR
+# voices: Vocab=lisons-narrator
+
+[FR-Vocab] visage.
+<break time="1.0s"/>
+[KO] 얼굴.
+<break time="1.0s"/>
+[FR-Vocab] visage.
+<break time="1.5s"/>
+
+[FR-Vocab] cheveux.
+<break time="1.0s"/>
+[KO] 머리카락.
+<break time="1.0s"/>
+[FR-Vocab] cheveux.
+<break time="1.5s"/>
+
+[FR-Vocab] front.
+<break time="1.0s"/>
+[KO] 이마.
+<break time="1.0s"/>
+[FR-Vocab] front.
+<break time="1.5s"/>
+
+[FR-Vocab] sourcil.
+<break time="1.0s"/>
+[KO] 눈썹.
+<break time="1.0s"/>
+[FR-Vocab] sourcil.
+<break time="1.5s"/>
+
+[FR-Vocab] œil.
+<break time="1.0s"/>
+[KO] 눈.
+<break time="1.0s"/>
+[FR-Vocab] œil.
+<break time="1.5s"/>
+
+[FR-Vocab] yeux.
+<break time="1.0s"/>
+[KO] 눈, 복수형.
+<break time="1.0s"/>
+[FR-Vocab] yeux.
+<break time="1.5s"/>
+
+[FR-Vocab] nez.
+<break time="1.0s"/>
+[KO] 코.
+<break time="1.0s"/>
+[FR-Vocab] nez.
+<break time="1.5s"/>
+
+[FR-Vocab] oreille.
+<break time="1.0s"/>
+[KO] 귀.
+<break time="1.0s"/>
+[FR-Vocab] oreille.
+<break time="1.5s"/>
+
+[FR-Vocab] bouche.
+<break time="1.0s"/>
+[KO] 입.
+<break time="1.0s"/>
+[FR-Vocab] bouche.
+<break time="1.5s"/>
+
+[FR-Vocab] lèvre.
+<break time="1.0s"/>
+[KO] 입술.
+<break time="1.0s"/>
+[FR-Vocab] lèvre.
+<break time="1.5s"/>
+
+[FR-Vocab] joue.
+<break time="1.0s"/>
+[KO] 볼.
+<break time="1.0s"/>
+[FR-Vocab] joue.
+<break time="1.5s"/>
+
+[FR-Vocab] langue.
+<break time="1.0s"/>
+[KO] 혀.
+<break time="1.0s"/>
+[FR-Vocab] langue.
+<break time="1.5s"/>
+
+[FR-Vocab] dent.
+<break time="1.0s"/>
+[KO] 치아.
+<break time="1.0s"/>
+[FR-Vocab] dent.
+<break time="1.5s"/>
+
+[FR-Vocab] menton.
+<break time="1.0s"/>
+[KO] 턱.
+<break time="1.0s"/>
+[FR-Vocab] menton.
+<break time="1.5s"/>
+
+[FR-Vocab] gorge.
+<break time="1.0s"/>
+[KO] 목구멍.
+<break time="1.0s"/>
+[FR-Vocab] gorge.
+<break time="1.5s"/>
