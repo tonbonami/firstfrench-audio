@@ -1,0 +1,45 @@
+# Vocabulaire — vocab_sante_03b / part b
+# 패턴: FR → KO → FR
+# voices: Vocab=lisons-narrator
+
+[FR-Vocab] sirop.
+<break time="1.0s"/>
+[KO] 시럽
+<break time="1.0s"/>
+[FR-Vocab] sirop.
+<break time="1.5s"/>
+
+[FR-Vocab] pommade.
+<break time="1.0s"/>
+[KO] 연고
+<break time="1.0s"/>
+[FR-Vocab] pommade.
+<break time="1.5s"/>
+
+[FR-Vocab] consultation.
+<break time="1.0s"/>
+[KO] 진료
+<break time="1.0s"/>
+[FR-Vocab] consultation.
+<break time="1.5s"/>
+
+[FR-Vocab] rendez-vous.
+<break time="1.0s"/>
+[KO] 예약
+<break time="1.0s"/>
+[FR-Vocab] rendez-vous.
+<break time="1.5s"/>
+
+[FR-Vocab] salle d'attente.
+<break time="1.0s"/>
+[KO] 대기실
+<break time="1.0s"/>
+[FR-Vocab] salle d'attente.
+<break time="1.5s"/>
+
+[FR-Vocab] assurance maladie.
+<break time="1.0s"/>
+[KO] 건강보험
+<break time="1.0s"/>
+[FR-Vocab] assurance maladie.
+<break time="1.5s"/>

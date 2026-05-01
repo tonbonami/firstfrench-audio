@@ -1,0 +1,87 @@
+# Vocabulaire — vocab_cuisine_03
+# 패턴: FR → KO → FR
+# voices: Vocab=lisons-narrator
+
+[FR-Vocab] farine.
+<break time="1.0s"/>
+[KO] 밀가루.
+<break time="1.0s"/>
+[FR-Vocab] farine.
+<break time="1.5s"/>
+
+[FR-Vocab] sucre.
+<break time="1.0s"/>
+[KO] 설탕.
+<break time="1.0s"/>
+[FR-Vocab] sucre.
+<break time="1.5s"/>
+
+[FR-Vocab] sel.
+<break time="1.0s"/>
+[KO] 소금.
+<break time="1.0s"/>
+[FR-Vocab] sel.
+<break time="1.5s"/>
+
+[FR-Vocab] poivre.
+<break time="1.0s"/>
+[KO] 후추.
+<break time="1.0s"/>
+[FR-Vocab] poivre.
+<break time="1.5s"/>
+
+[FR-Vocab] huile d'olive.
+<break time="1.0s"/>
+[KO] 올리브유.
+<break time="1.0s"/>
+[FR-Vocab] huile d'olive.
+<break time="1.5s"/>
+
+[FR-Vocab] beurre.
+<break time="1.0s"/>
+[KO] 버터.
+<break time="1.0s"/>
+[FR-Vocab] beurre.
+<break time="1.5s"/>
+
+[FR-Vocab] œufs.
+<break time="1.0s"/>
+[KO] 달걀, 복수형.
+<break time="1.0s"/>
+[FR-Vocab] œufs.
+<break time="1.5s"/>
+
+[FR-Vocab] lait.
+<break time="1.0s"/>
+[KO] 우유.
+<break time="1.0s"/>
+[FR-Vocab] lait.
+<break time="1.5s"/>
+
+[FR-Vocab] crème.
+<break time="1.0s"/>
+[KO] 크림.
+<break time="1.0s"/>
+[FR-Vocab] crème.
+<break time="1.5s"/>
+
+[FR-Vocab] ail.
+<break time="1.0s"/>
+[KO] 마늘.
+<break time="1.0s"/>
+[FR-Vocab] ail.
+<break time="1.5s"/>
+
+[FR-Vocab] oignon.
+<break time="1.0s"/>
+[KO] 양파.
+<break time="1.0s"/>
+[FR-Vocab] oignon.
+<break time="1.5s"/>
+
+[FR-Vocab] herbes.
+<break time="1.0s"/>
+[KO] 허브, 복수형.
+<break time="1.0s"/>
+[FR-Vocab] herbes.
+<break time="1.5s"/>

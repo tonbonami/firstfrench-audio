@@ -1,0 +1,23 @@
+# Vocabulaire — Les transports (교통) / 섹션 7: 예문
+# voices: Vocab=warm-mother
+
+[FR-Vocab] Je prends le métro tous les jours.
+<break time="1.0s"/>
+[FR-Vocab] Tu viens en voiture ou en bus ?
+<break time="1.0s"/>
+[FR-Vocab] La gare est loin d'ici ?
+<break time="1.0s"/>
+[FR-Vocab] Le train part du quai numéro 3.
+<break time="1.0s"/>
+[FR-Vocab] Un billet aller-retour pour Lyon, s'il vous plaît.
+<break time="1.0s"/>
+[FR-Vocab] Il faut prendre la correspondance à Châtelet.
+<break time="1.0s"/>
+[FR-Vocab] Tournez à gauche au prochain feu.
+<break time="1.0s"/>
+[FR-Vocab] Il n'y a plus d'essence.
+<break time="1.0s"/>
+[FR-Vocab] Je descends à la prochaine station.
+<break time="1.0s"/>
+[FR-Vocab] On y va à pied ou en bus ?
+<break time="1.0s"/>

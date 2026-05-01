@@ -1,0 +1,45 @@
+# Vocabulaire — vocab_nombres_01a / part a
+# 패턴: FR → KO → FR
+# voices: Vocab=lisons-narrator
+
+[FR-Vocab] zéro.
+<break time="1.0s"/>
+[KO] 0
+<break time="1.0s"/>
+[FR-Vocab] zéro.
+<break time="1.5s"/>
+
+[FR-Vocab] un.
+<break time="1.0s"/>
+[KO] 1, 남성형
+<break time="1.0s"/>
+[FR-Vocab] un.
+<break time="1.5s"/>
+
+[FR-Vocab] une.
+<break time="1.0s"/>
+[KO] 1, 여성형
+<break time="1.0s"/>
+[FR-Vocab] une.
+<break time="1.5s"/>
+
+[FR-Vocab] deux.
+<break time="1.0s"/>
+[KO] 2
+<break time="1.0s"/>
+[FR-Vocab] deux.
+<break time="1.5s"/>
+
+[FR-Vocab] trois.
+<break time="1.0s"/>
+[KO] 3
+<break time="1.0s"/>
+[FR-Vocab] trois.
+<break time="1.5s"/>
+
+[FR-Vocab] quatre.
+<break time="1.0s"/>
+[KO] 4
+<break time="1.0s"/>
+[FR-Vocab] quatre.
+<break time="1.5s"/>

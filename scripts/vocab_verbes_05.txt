@@ -1,0 +1,23 @@
+# Vocabulaire — Les verbes essentiels (핵심 동사) / 섹션 5: 예문
+# voices: Vocab=warm-mother
+
+[FR-Vocab] Je suis étudiant.
+<break time="1.0s"/>
+[FR-Vocab] J'ai vingt ans.
+<break time="1.0s"/>
+[FR-Vocab] Je fais du sport.
+<break time="1.0s"/>
+[FR-Vocab] Je viens de Corée.
+<break time="1.0s"/>
+[FR-Vocab] Pouvez-vous m'aider ?
+<break time="1.0s"/>
+[FR-Vocab] Je voudrais un café.
+<break time="1.0s"/>
+[FR-Vocab] Je dois partir.
+<break time="1.0s"/>
+[FR-Vocab] Je sais nager.
+<break time="1.0s"/>
+[FR-Vocab] Je connais Paris.
+<break time="1.0s"/>
+[FR-Vocab] J'écoute de la musique.
+<break time="1.0s"/>

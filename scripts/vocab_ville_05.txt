@@ -1,0 +1,23 @@
+# Vocabulaire — La ville et les lieux (도시·장소) / 섹션 5: 예문
+# voices: Vocab=warm-mother
+
+[FR-Vocab] Excusez-moi, où est la pharmacie la plus proche ?
+<break time="1.0s"/>
+[FR-Vocab] Pour aller à la gare, s'il vous plaît ?
+<break time="1.0s"/>
+[FR-Vocab] C'est loin d'ici ?
+<break time="1.0s"/>
+[FR-Vocab] Prenez la première rue à gauche.
+<break time="1.0s"/>
+[FR-Vocab] Continuez tout droit jusqu'au feu rouge.
+<break time="1.0s"/>
+[FR-Vocab] C'est à cinq minutes à pied.
+<break time="1.0s"/>
+[FR-Vocab] Le café est à droite de la gare.
+<break time="1.0s"/>
+[FR-Vocab] Le musée est entre le parc et l'église.
+<break time="1.0s"/>
+[FR-Vocab] Il y a une boulangerie près d'ici ?
+<break time="1.0s"/>
+[FR-Vocab] J'emprunte des livres à la bibliothèque.
+<break time="1.0s"/>

@@ -1,0 +1,31 @@
+# Vocabulaire — La technologie et les médias (기술·미디어) / 섹션 1: 디지털 기기
+# voices: Vocab=warm-mother
+
+[FR-Vocab] téléphone portable.
+<break time="0.5s"/>
+[FR-Vocab] smartphone.
+<break time="0.5s"/>
+[FR-Vocab] ordinateur.
+<break time="0.5s"/>
+[FR-Vocab] ordinateur portable.
+<break time="0.5s"/>
+[FR-Vocab] tablette.
+<break time="0.5s"/>
+[FR-Vocab] écran.
+<break time="0.5s"/>
+[FR-Vocab] clavier.
+<break time="0.5s"/>
+[FR-Vocab] souris.
+<break time="0.5s"/>
+[FR-Vocab] imprimante.
+<break time="0.5s"/>
+[FR-Vocab] écouteurs.
+<break time="0.5s"/>
+[FR-Vocab] enceintes.
+<break time="0.5s"/>
+[FR-Vocab] caméra.
+<break time="0.5s"/>
+[FR-Vocab] batterie.
+<break time="0.5s"/>
+[FR-Vocab] chargeur.
+<break time="0.5s"/>

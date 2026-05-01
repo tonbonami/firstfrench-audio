@@ -1,0 +1,65 @@
+# Vocabulaire — Travail / 3: 입사·이직
+# voices: Vocab=lisons-narrator
+
+[FR-Vocab] CV.
+<break time="1.0s"/>
+[KO] 이력서.
+<break time="1.0s"/>
+[FR-Vocab] CV.
+<break time="1.5s"/>
+
+[FR-Vocab] lettre de motivation.
+<break time="1.0s"/>
+[KO] 자기소개서.
+<break time="1.0s"/>
+[FR-Vocab] lettre de motivation.
+<break time="1.5s"/>
+
+[FR-Vocab] entretien d'embauche.
+<break time="1.0s"/>
+[KO] 입사 면접.
+<break time="1.0s"/>
+[FR-Vocab] entretien d'embauche.
+<break time="1.5s"/>
+
+[FR-Vocab] offre d'emploi.
+<break time="1.0s"/>
+[KO] 구인공고.
+<break time="1.0s"/>
+[FR-Vocab] offre d'emploi.
+<break time="1.5s"/>
+
+[FR-Vocab] poser sa candidature.
+<break time="1.0s"/>
+[KO] 지원하다.
+<break time="1.0s"/>
+[FR-Vocab] poser sa candidature.
+<break time="1.5s"/>
+
+[FR-Vocab] être embauché.
+<break time="1.0s"/>
+[KO] 채용되다.
+<break time="1.0s"/>
+[FR-Vocab] être embauché.
+<break time="1.5s"/>
+
+[FR-Vocab] démissionner.
+<break time="1.0s"/>
+[KO] 사직하다.
+<break time="1.0s"/>
+[FR-Vocab] démissionner.
+<break time="1.5s"/>
+
+[FR-Vocab] être licencié.
+<break time="1.0s"/>
+[KO] 해고되다.
+<break time="1.0s"/>
+[FR-Vocab] être licencié.
+<break time="1.5s"/>
+
+[FR-Vocab] prendre sa retraite.
+<break time="1.0s"/>
+[KO] 은퇴하다.
+<break time="1.0s"/>
+[FR-Vocab] prendre sa retraite.
+<break time="1.5s"/>

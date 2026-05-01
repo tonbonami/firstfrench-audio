@@ -1,0 +1,23 @@
+# Vocabulaire — La technologie et les médias (기술·미디어) / 섹션 5: 예문
+# voices: Vocab=warm-mother
+
+[FR-Vocab] Mon téléphone est déchargé.
+<break time="1.0s"/>
+[FR-Vocab] Tu peux me donner le mot de passe Wi-Fi ?
+<break time="1.0s"/>
+[FR-Vocab] J'ai partagé la vidéo sur les réseaux sociaux.
+<break time="1.0s"/>
+[FR-Vocab] Je me suis abonné à sa chaîne.
+<break time="1.0s"/>
+[FR-Vocab] L'écran est bloqué.
+<break time="1.0s"/>
+[FR-Vocab] J'ai envoyé un e-mail.
+<break time="1.0s"/>
+[FR-Vocab] Je peux emprunter ton chargeur ?
+<break time="1.0s"/>
+[FR-Vocab] Je reçois trop de notifications.
+<break time="1.0s"/>
+[FR-Vocab] J'ai téléchargé la vidéo.
+<break time="1.0s"/>
+[FR-Vocab] Je suis en vidéoconférence.
+<break time="1.0s"/>

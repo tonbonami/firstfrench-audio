@@ -1,0 +1,23 @@
+# Vocabulaire — Le bureau (사무실) / 섹션 5: 예문
+# voices: Vocab=warm-mother
+
+[FR-Vocab] J'allume l'ordinateur.
+<break time="1.0s"/>
+[FR-Vocab] J'ai oublié mon mot de passe.
+<break time="1.0s"/>
+[FR-Vocab] La réunion est à dix heures.
+<break time="1.0s"/>
+[FR-Vocab] Donnez-moi votre carte de visite.
+<break time="1.0s"/>
+[FR-Vocab] J'ai envoyé un email.
+<break time="1.0s"/>
+[FR-Vocab] La souris ne marche pas.
+<break time="1.0s"/>
+[FR-Vocab] J'ai apporté mon ordinateur portable.
+<break time="1.0s"/>
+[FR-Vocab] L'internet est lent.
+<break time="1.0s"/>
+[FR-Vocab] J'ai mis le document dans le tiroir.
+<break time="1.0s"/>
+[FR-Vocab] Je rédige un rapport.
+<break time="1.0s"/>

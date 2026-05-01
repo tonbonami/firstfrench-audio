@@ -1,0 +1,66 @@
+# Vocabulaire — vocab_heure_03
+# 패턴: FR → KO → FR
+# voices: Vocab=lisons-narrator
+
+[FR-Vocab] aube.
+<break time="1.0s"/>
+[KO] 새벽
+<break time="1.0s"/>
+[FR-Vocab] aube.
+<break time="1.5s"/>
+
+[FR-Vocab] matin.
+<break time="1.0s"/>
+[KO] 아침·오전
+<break time="1.0s"/>
+[FR-Vocab] matin.
+<break time="1.5s"/>
+
+[FR-Vocab] matinée.
+<break time="1.0s"/>
+[KO] 오전
+<break time="1.0s"/>
+[FR-Vocab] matinée.
+<break time="1.5s"/>
+
+[FR-Vocab] midi.
+<break time="1.0s"/>
+[KO] 정오
+<break time="1.0s"/>
+[FR-Vocab] midi.
+<break time="1.5s"/>
+
+[FR-Vocab] après-midi.
+<break time="1.0s"/>
+[KO] 오후
+<break time="1.0s"/>
+[FR-Vocab] après-midi.
+<break time="1.5s"/>
+
+[FR-Vocab] soir.
+<break time="1.0s"/>
+[KO] 저녁
+<break time="1.0s"/>
+[FR-Vocab] soir.
+<break time="1.5s"/>
+
+[FR-Vocab] soirée.
+<break time="1.0s"/>
+[KO] 저녁
+<break time="1.0s"/>
+[FR-Vocab] soirée.
+<break time="1.5s"/>
+
+[FR-Vocab] nuit.
+<break time="1.0s"/>
+[KO] 밤
+<break time="1.0s"/>
+[FR-Vocab] nuit.
+<break time="1.5s"/>
+
+[FR-Vocab] minuit.
+<break time="1.0s"/>
+[KO] 자정
+<break time="1.0s"/>
+[FR-Vocab] minuit.
+<break time="1.5s"/>

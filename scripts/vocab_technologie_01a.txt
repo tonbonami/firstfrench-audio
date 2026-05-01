@@ -1,0 +1,52 @@
+# Vocabulaire — vocab_technologie_01a / part a
+# 패턴: FR → KO → FR
+# voices: Vocab=lisons-narrator
+
+[FR-Vocab] téléphone (portable).
+<break time="1.0s"/>
+[KO] 휴대폰
+<break time="1.0s"/>
+[FR-Vocab] téléphone (portable).
+<break time="1.5s"/>
+
+[FR-Vocab] smartphone.
+<break time="1.0s"/>
+[KO] 스마트폰
+<break time="1.0s"/>
+[FR-Vocab] smartphone.
+<break time="1.5s"/>
+
+[FR-Vocab] ordinateur.
+<break time="1.0s"/>
+[KO] 컴퓨터
+<break time="1.0s"/>
+[FR-Vocab] ordinateur.
+<break time="1.5s"/>
+
+[FR-Vocab] ordinateur portable.
+<break time="1.0s"/>
+[KO] 노트북
+<break time="1.0s"/>
+[FR-Vocab] ordinateur portable.
+<break time="1.5s"/>
+
+[FR-Vocab] tablette.
+<break time="1.0s"/>
+[KO] 태블릿
+<break time="1.0s"/>
+[FR-Vocab] tablette.
+<break time="1.5s"/>
+
+[FR-Vocab] écran.
+<break time="1.0s"/>
+[KO] 화면
+<break time="1.0s"/>
+[FR-Vocab] écran.
+<break time="1.5s"/>
+
+[FR-Vocab] clavier.
+<break time="1.0s"/>
+[KO] 키보드
+<break time="1.0s"/>
+[FR-Vocab] clavier.
+<break time="1.5s"/>

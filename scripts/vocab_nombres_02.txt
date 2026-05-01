@@ -1,0 +1,73 @@
+# Vocabulaire — vocab_nombres_02
+# 패턴: FR → KO → FR
+# voices: Vocab=lisons-narrator
+
+[FR-Vocab] onze.
+<break time="1.0s"/>
+[KO] 11
+<break time="1.0s"/>
+[FR-Vocab] onze.
+<break time="1.5s"/>
+
+[FR-Vocab] douze.
+<break time="1.0s"/>
+[KO] 12
+<break time="1.0s"/>
+[FR-Vocab] douze.
+<break time="1.5s"/>
+
+[FR-Vocab] treize.
+<break time="1.0s"/>
+[KO] 13
+<break time="1.0s"/>
+[FR-Vocab] treize.
+<break time="1.5s"/>
+
+[FR-Vocab] quatorze.
+<break time="1.0s"/>
+[KO] 14
+<break time="1.0s"/>
+[FR-Vocab] quatorze.
+<break time="1.5s"/>
+
+[FR-Vocab] quinze.
+<break time="1.0s"/>
+[KO] 15
+<break time="1.0s"/>
+[FR-Vocab] quinze.
+<break time="1.5s"/>
+
+[FR-Vocab] seize.
+<break time="1.0s"/>
+[KO] 16
+<break time="1.0s"/>
+[FR-Vocab] seize.
+<break time="1.5s"/>
+
+[FR-Vocab] dix-sept.
+<break time="1.0s"/>
+[KO] 17
+<break time="1.0s"/>
+[FR-Vocab] dix-sept.
+<break time="1.5s"/>
+
+[FR-Vocab] dix-huit.
+<break time="1.0s"/>
+[KO] 18
+<break time="1.0s"/>
+[FR-Vocab] dix-huit.
+<break time="1.5s"/>
+
+[FR-Vocab] dix-neuf.
+<break time="1.0s"/>
+[KO] 19
+<break time="1.0s"/>
+[FR-Vocab] dix-neuf.
+<break time="1.5s"/>
+
+[FR-Vocab] vingt.
+<break time="1.0s"/>
+[KO] 20
+<break time="1.0s"/>
+[FR-Vocab] vingt.
+<break time="1.5s"/>

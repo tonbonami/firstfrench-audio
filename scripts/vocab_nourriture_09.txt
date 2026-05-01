@@ -1,0 +1,45 @@
+# Vocabulaire — vocab_nourriture_09
+# 패턴: FR → KO → FR
+# voices: Vocab=lisons-narrator
+
+[FR-Vocab] sel.
+<break time="1.0s"/>
+[KO] 소금.
+<break time="1.0s"/>
+[FR-Vocab] sel.
+<break time="1.5s"/>
+
+[FR-Vocab] poivre.
+<break time="1.0s"/>
+[KO] 후추.
+<break time="1.0s"/>
+[FR-Vocab] poivre.
+<break time="1.5s"/>
+
+[FR-Vocab] sucre.
+<break time="1.0s"/>
+[KO] 설탕.
+<break time="1.0s"/>
+[FR-Vocab] sucre.
+<break time="1.5s"/>
+
+[FR-Vocab] huile.
+<break time="1.0s"/>
+[KO] 기름.
+<break time="1.0s"/>
+[FR-Vocab] huile.
+<break time="1.5s"/>
+
+[FR-Vocab] vinaigre.
+<break time="1.0s"/>
+[KO] 식초.
+<break time="1.0s"/>
+[FR-Vocab] vinaigre.
+<break time="1.5s"/>
+
+[FR-Vocab] sauce.
+<break time="1.0s"/>
+[KO] 소스.
+<break time="1.0s"/>
+[FR-Vocab] sauce.
+<break time="1.5s"/>

@@ -1,0 +1,59 @@
+# Vocabulaire — vocab_voyage_04
+# 패턴: FR → KO → FR
+# voices: Vocab=lisons-narrator
+
+[FR-Vocab] voyage.
+<break time="1.0s"/>
+[KO] 여행
+<break time="1.0s"/>
+[FR-Vocab] voyage.
+<break time="1.5s"/>
+
+[FR-Vocab] touriste.
+<break time="1.0s"/>
+[KO] 관광객
+<break time="1.0s"/>
+[FR-Vocab] touriste.
+<break time="1.5s"/>
+
+[FR-Vocab] carte.
+<break time="1.0s"/>
+[KO] 지도
+<break time="1.0s"/>
+[FR-Vocab] carte.
+<break time="1.5s"/>
+
+[FR-Vocab] guide.
+<break time="1.0s"/>
+[KO] 가이드·안내서
+<break time="1.0s"/>
+[FR-Vocab] guide.
+<break time="1.5s"/>
+
+[FR-Vocab] monument.
+<break time="1.0s"/>
+[KO] 기념물
+<break time="1.0s"/>
+[FR-Vocab] monument.
+<break time="1.5s"/>
+
+[FR-Vocab] musée.
+<break time="1.0s"/>
+[KO] 박물관
+<break time="1.0s"/>
+[FR-Vocab] musée.
+<break time="1.5s"/>
+
+[FR-Vocab] plage.
+<break time="1.0s"/>
+[KO] 해변
+<break time="1.0s"/>
+[FR-Vocab] plage.
+<break time="1.5s"/>
+
+[FR-Vocab] montagne.
+<break time="1.0s"/>
+[KO] 산
+<break time="1.0s"/>
+[FR-Vocab] montagne.
+<break time="1.5s"/>

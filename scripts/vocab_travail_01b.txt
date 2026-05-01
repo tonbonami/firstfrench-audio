@@ -1,0 +1,51 @@
+# Vocabulaire — Travail / 1b: 직책·사람 cont.
+# voices: Vocab=lisons-narrator
+
+[FR-Vocab] employée.
+<break time="1.0s"/>
+[KO] 직원, 여성형.
+<break time="1.0s"/>
+[FR-Vocab] employée.
+<break time="1.5s"/>
+
+[FR-Vocab] chef de projet.
+<break time="1.0s"/>
+[KO] 프로젝트 매니저.
+<break time="1.0s"/>
+[FR-Vocab] chef de projet.
+<break time="1.5s"/>
+
+[FR-Vocab] stagiaire.
+<break time="1.0s"/>
+[KO] 인턴. 남녀 동일.
+<break time="1.0s"/>
+[FR-Vocab] stagiaire.
+<break time="1.5s"/>
+
+[FR-Vocab] freelance.
+<break time="1.0s"/>
+[KO] 프리랜서.
+<break time="1.0s"/>
+[FR-Vocab] freelance.
+<break time="1.5s"/>
+
+[FR-Vocab] client.
+<break time="1.0s"/>
+[KO] 고객, 남성형.
+<break time="1.0s"/>
+[FR-Vocab] client.
+<break time="1.5s"/>
+
+[FR-Vocab] cliente.
+<break time="1.0s"/>
+[KO] 고객, 여성형.
+<break time="1.0s"/>
+[FR-Vocab] cliente.
+<break time="1.5s"/>
+
+[FR-Vocab] fournisseur.
+<break time="1.0s"/>
+[KO] 공급업체.
+<break time="1.0s"/>
+[FR-Vocab] fournisseur.
+<break time="1.5s"/>

@@ -1,0 +1,52 @@
+# Vocabulaire — vocab_transports_03
+# 패턴: FR → KO → FR
+# voices: Vocab=lisons-narrator
+
+[FR-Vocab] billet.
+<break time="1.0s"/>
+[KO] 표·티켓
+<break time="1.0s"/>
+[FR-Vocab] billet.
+<break time="1.5s"/>
+
+[FR-Vocab] ticket.
+<break time="1.0s"/>
+[KO] 승차권
+<break time="1.0s"/>
+[FR-Vocab] ticket.
+<break time="1.5s"/>
+
+[FR-Vocab] abonnement.
+<break time="1.0s"/>
+[KO] 정기권
+<break time="1.0s"/>
+[FR-Vocab] abonnement.
+<break time="1.5s"/>
+
+[FR-Vocab] pass.
+<break time="1.0s"/>
+[KO] 패스·교통카드
+<break time="1.0s"/>
+[FR-Vocab] pass.
+<break time="1.5s"/>
+
+[FR-Vocab] correspondance.
+<break time="1.0s"/>
+[KO] 환승
+<break time="1.0s"/>
+[FR-Vocab] correspondance.
+<break time="1.5s"/>
+
+[FR-Vocab] ligne.
+<break time="1.0s"/>
+[KO] 노선
+<break time="1.0s"/>
+[FR-Vocab] ligne.
+<break time="1.5s"/>
+
+[FR-Vocab] trajet.
+<break time="1.0s"/>
+[KO] 경로·구간
+<break time="1.0s"/>
+[FR-Vocab] trajet.
+<break time="1.5s"/>

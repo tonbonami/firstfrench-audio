@@ -1,0 +1,52 @@
+# Vocabulaire — vocab_adjectifs_01b / part b
+# 패턴: FR → KO → FR
+# voices: Vocab=lisons-narrator
+
+[FR-Vocab] haut.
+<break time="1.0s"/>
+[KO] 높은, 남성형
+<break time="1.0s"/>
+[FR-Vocab] haut.
+<break time="1.5s"/>
+
+[FR-Vocab] haute.
+<break time="1.0s"/>
+[KO] 높은, 여성형
+<break time="1.0s"/>
+[FR-Vocab] haute.
+<break time="1.5s"/>
+
+[FR-Vocab] bas.
+<break time="1.0s"/>
+[KO] 낮은, 남성형
+<break time="1.0s"/>
+[FR-Vocab] bas.
+<break time="1.5s"/>
+
+[FR-Vocab] basse.
+<break time="1.0s"/>
+[KO] 낮은, 여성형
+<break time="1.0s"/>
+[FR-Vocab] basse.
+<break time="1.5s"/>
+
+[FR-Vocab] gros.
+<break time="1.0s"/>
+[KO] 두꺼운·뚱뚱한, 남성형
+<break time="1.0s"/>
+[FR-Vocab] gros.
+<break time="1.5s"/>
+
+[FR-Vocab] grosse.
+<break time="1.0s"/>
+[KO] 두꺼운·뚱뚱한, 여성형
+<break time="1.0s"/>
+[FR-Vocab] grosse.
+<break time="1.5s"/>
+
+[FR-Vocab] mince.
+<break time="1.0s"/>
+[KO] 날씬한
+<break time="1.0s"/>
+[FR-Vocab] mince.
+<break time="1.5s"/>

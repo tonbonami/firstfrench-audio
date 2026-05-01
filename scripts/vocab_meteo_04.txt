@@ -1,0 +1,31 @@
+# Vocabulaire — vocab_meteo_04
+# 패턴: FR → KO → FR
+# voices: Vocab=lisons-narrator
+
+[FR-Vocab] printemps.
+<break time="1.0s"/>
+[KO] 봄
+<break time="1.0s"/>
+[FR-Vocab] printemps.
+<break time="1.5s"/>
+
+[FR-Vocab] été.
+<break time="1.0s"/>
+[KO] 여름
+<break time="1.0s"/>
+[FR-Vocab] été.
+<break time="1.5s"/>
+
+[FR-Vocab] automne.
+<break time="1.0s"/>
+[KO] 가을
+<break time="1.0s"/>
+[FR-Vocab] automne.
+<break time="1.5s"/>
+
+[FR-Vocab] hiver.
+<break time="1.0s"/>
+[KO] 겨울
+<break time="1.0s"/>
+[FR-Vocab] hiver.
+<break time="1.5s"/>

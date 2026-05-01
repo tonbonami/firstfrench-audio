@@ -1,0 +1,31 @@
+# Vocabulaire — Le travail et l'entreprise (직장·회사) / 섹션 1: 직책·사람
+# voices: Vocab=warm-mother
+
+[FR-Vocab] patron.
+<break time="0.5s"/>
+[FR-Vocab] patronne.
+<break time="0.5s"/>
+[FR-Vocab] directeur.
+<break time="0.5s"/>
+[FR-Vocab] directrice.
+<break time="0.5s"/>
+[FR-Vocab] manager.
+<break time="0.5s"/>
+[FR-Vocab] collègue.
+<break time="0.5s"/>
+[FR-Vocab] employé.
+<break time="0.5s"/>
+[FR-Vocab] employée.
+<break time="0.5s"/>
+[FR-Vocab] chef de projet.
+<break time="0.5s"/>
+[FR-Vocab] stagiaire.
+<break time="0.5s"/>
+[FR-Vocab] freelance.
+<break time="0.5s"/>
+[FR-Vocab] client.
+<break time="0.5s"/>
+[FR-Vocab] cliente.
+<break time="0.5s"/>
+[FR-Vocab] fournisseur.
+<break time="0.5s"/>

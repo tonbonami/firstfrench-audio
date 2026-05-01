@@ -1,0 +1,38 @@
+# Vocabulaire — vocab_vetements_04
+# 패턴: FR → KO → FR
+# voices: Vocab=lisons-narrator
+
+[FR-Vocab] chaussures.
+<break time="1.0s"/>
+[KO] 신발, 복수형
+<break time="1.0s"/>
+[FR-Vocab] chaussures.
+<break time="1.5s"/>
+
+[FR-Vocab] chaussettes.
+<break time="1.0s"/>
+[KO] 양말, 복수형
+<break time="1.0s"/>
+[FR-Vocab] chaussettes.
+<break time="1.5s"/>
+
+[FR-Vocab] baskets.
+<break time="1.0s"/>
+[KO] 운동화, 복수형
+<break time="1.0s"/>
+[FR-Vocab] baskets.
+<break time="1.5s"/>
+
+[FR-Vocab] bottes.
+<break time="1.0s"/>
+[KO] 부츠, 복수형
+<break time="1.0s"/>
+[FR-Vocab] bottes.
+<break time="1.5s"/>
+
+[FR-Vocab] sandales.
+<break time="1.0s"/>
+[KO] 샌들, 복수형
+<break time="1.0s"/>
+[FR-Vocab] sandales.
+<break time="1.5s"/>

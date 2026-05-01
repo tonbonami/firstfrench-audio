@@ -1,0 +1,45 @@
+# Vocabulaire — vocab_maison_03
+# 패턴: FR → KO → FR
+# voices: Vocab=lisons-narrator
+
+[FR-Vocab] canapé.
+<break time="1.0s"/>
+[KO] 소파.
+<break time="1.0s"/>
+[FR-Vocab] canapé.
+<break time="1.5s"/>
+
+[FR-Vocab] fauteuil.
+<break time="1.0s"/>
+[KO] 안락의자.
+<break time="1.0s"/>
+[FR-Vocab] fauteuil.
+<break time="1.5s"/>
+
+[FR-Vocab] table basse.
+<break time="1.0s"/>
+[KO] 커피 테이블.
+<break time="1.0s"/>
+[FR-Vocab] table basse.
+<break time="1.5s"/>
+
+[FR-Vocab] télévision.
+<break time="1.0s"/>
+[KO] 텔레비전.
+<break time="1.0s"/>
+[FR-Vocab] télévision.
+<break time="1.5s"/>
+
+[FR-Vocab] étagère.
+<break time="1.0s"/>
+[KO] 선반이나 책장.
+<break time="1.0s"/>
+[FR-Vocab] étagère.
+<break time="1.5s"/>
+
+[FR-Vocab] tapis.
+<break time="1.0s"/>
+[KO] 카펫.
+<break time="1.0s"/>
+[FR-Vocab] tapis.
+<break time="1.5s"/>

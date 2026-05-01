@@ -1,0 +1,23 @@
+# Vocabulaire — Les nombres (숫자·수) / 섹션 5: 예문
+# voices: Vocab=warm-mother
+
+[FR-Vocab] J'ai vingt-cinq ans.
+<break time="1.0s"/>
+[FR-Vocab] Ça fait combien ?
+<break time="1.0s"/>
+[FR-Vocab] C'est dix euros.
+<break time="1.0s"/>
+[FR-Vocab] Nous sommes le premier mai.
+<break time="1.0s"/>
+[FR-Vocab] Il habite au troisième étage.
+<break time="1.0s"/>
+[FR-Vocab] Pour la deuxième fois.
+<break time="1.0s"/>
+[FR-Vocab] Il y a trente élèves.
+<break time="1.0s"/>
+[FR-Vocab] Cent euros, s'il vous plaît.
+<break time="1.0s"/>
+[FR-Vocab] À droite à la première rue.
+<break time="1.0s"/>
+[FR-Vocab] Mille étoiles.
+<break time="1.0s"/>

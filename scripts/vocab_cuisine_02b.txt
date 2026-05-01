@@ -1,0 +1,45 @@
+# Vocabulaire — vocab_cuisine_02b / part b
+# 패턴: FR → KO → FR
+# voices: Vocab=lisons-narrator
+
+[FR-Vocab] planche à découper.
+<break time="1.0s"/>
+[KO] 도마.
+<break time="1.0s"/>
+[FR-Vocab] planche à découper.
+<break time="1.5s"/>
+
+[FR-Vocab] bol.
+<break time="1.0s"/>
+[KO] 보울.
+<break time="1.0s"/>
+[FR-Vocab] bol.
+<break time="1.5s"/>
+
+[FR-Vocab] passoire.
+<break time="1.0s"/>
+[KO] 체.
+<break time="1.0s"/>
+[FR-Vocab] passoire.
+<break time="1.5s"/>
+
+[FR-Vocab] fouet.
+<break time="1.0s"/>
+[KO] 거품기.
+<break time="1.0s"/>
+[FR-Vocab] fouet.
+<break time="1.5s"/>
+
+[FR-Vocab] spatule.
+<break time="1.0s"/>
+[KO] 주걱.
+<break time="1.0s"/>
+[FR-Vocab] spatule.
+<break time="1.5s"/>
+
+[FR-Vocab] tablier.
+<break time="1.0s"/>
+[KO] 앞치마.
+<break time="1.0s"/>
+[FR-Vocab] tablier.
+<break time="1.5s"/>

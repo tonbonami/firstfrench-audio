@@ -1,0 +1,23 @@
+# Expressions / 5: 예문
+# voices: Vocab=lisons-narrator
+
+[FR-Vocab] J'ai le cafard aujourd'hui.
+<break time="1.0s"/>
+[FR-Vocab] Il m'a posé un lapin !
+<break time="1.0s"/>
+[FR-Vocab] Tu donnes ta langue au chat ?
+<break time="1.0s"/>
+[FR-Vocab] Bref, je ne suis pas disponible.
+<break time="1.0s"/>
+[FR-Vocab] Il pleut des cordes.
+<break time="1.0s"/>
+[FR-Vocab] Ça va comme sur des roulettes.
+<break time="1.0s"/>
+[FR-Vocab] De rien.
+<break time="1.0s"/>
+[FR-Vocab] À vrai dire, je ne suis pas d'accord.
+<break time="1.0s"/>
+[FR-Vocab] Tant pis !
+<break time="1.0s"/>
+[FR-Vocab] Tant mieux !
+<break time="1.0s"/>

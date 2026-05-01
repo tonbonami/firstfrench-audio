@@ -1,0 +1,23 @@
+# Vocabulaire — La santé (건강) / 섹션 4: 예문
+# voices: Vocab=warm-mother
+
+[FR-Vocab] Qu'est-ce qui ne va pas ?
+<break time="1.0s"/>
+[FR-Vocab] J'ai mal à la gorge et de la fièvre depuis deux jours.
+<break time="1.0s"/>
+[FR-Vocab] Je me sens vraiment mal.
+<break time="1.0s"/>
+[FR-Vocab] Je voudrais prendre rendez-vous avec le docteur Martin.
+<break time="1.0s"/>
+[FR-Vocab] Le plus tôt possible, s'il vous plaît.
+<break time="1.0s"/>
+[FR-Vocab] Vous avez quelque chose contre la toux ?
+<break time="1.0s"/>
+[FR-Vocab] Prenez ce sirop, trois fois par jour.
+<break time="1.0s"/>
+[FR-Vocab] J'ai le nez qui coule.
+<break time="1.0s"/>
+[FR-Vocab] J'ai des vertiges quand je me lève.
+<break time="1.0s"/>
+[FR-Vocab] Je dois prendre un médicament.
+<break time="1.0s"/>

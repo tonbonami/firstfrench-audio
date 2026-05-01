@@ -1,0 +1,23 @@
+# Vocabulaire — Les animaux (동물) / 섹션 5: 예문
+# voices: Vocab=warm-mother
+
+[FR-Vocab] Tu as un animal de compagnie ?
+<break time="1.0s"/>
+[FR-Vocab] Oui, j'ai un chien. Il s'appelle Rex.
+<break time="1.0s"/>
+[FR-Vocab] J'adore les chats mais j'ai peur des chiens.
+<break time="1.0s"/>
+[FR-Vocab] Ma fille veut un lapin.
+<break time="1.0s"/>
+[FR-Vocab] J'ai peur des araignées.
+<break time="1.0s"/>
+[FR-Vocab] J'ai vu un lion au zoo.
+<break time="1.0s"/>
+[FR-Vocab] Je promène mon chien.
+<break time="1.0s"/>
+[FR-Vocab] L'oiseau chante.
+<break time="1.0s"/>
+[FR-Vocab] Il y a beaucoup de moustiques.
+<break time="1.0s"/>
+[FR-Vocab] Il y a un papillon dans le jardin.
+<break time="1.0s"/>

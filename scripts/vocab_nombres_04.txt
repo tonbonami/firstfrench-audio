@@ -1,0 +1,66 @@
+# Vocabulaire — vocab_nombres_04
+# 패턴: FR → KO → FR
+# voices: Vocab=lisons-narrator
+
+[FR-Vocab] premier.
+<break time="1.0s"/>
+[KO] 첫 번째, 남성형
+<break time="1.0s"/>
+[FR-Vocab] premier.
+<break time="1.5s"/>
+
+[FR-Vocab] première.
+<break time="1.0s"/>
+[KO] 첫 번째, 여성형
+<break time="1.0s"/>
+[FR-Vocab] première.
+<break time="1.5s"/>
+
+[FR-Vocab] deuxième.
+<break time="1.0s"/>
+[KO] 두 번째
+<break time="1.0s"/>
+[FR-Vocab] deuxième.
+<break time="1.5s"/>
+
+[FR-Vocab] troisième.
+<break time="1.0s"/>
+[KO] 세 번째
+<break time="1.0s"/>
+[FR-Vocab] troisième.
+<break time="1.5s"/>
+
+[FR-Vocab] quatrième.
+<break time="1.0s"/>
+[KO] 네 번째
+<break time="1.0s"/>
+[FR-Vocab] quatrième.
+<break time="1.5s"/>
+
+[FR-Vocab] cinquième.
+<break time="1.0s"/>
+[KO] 다섯 번째
+<break time="1.0s"/>
+[FR-Vocab] cinquième.
+<break time="1.5s"/>
+
+[FR-Vocab] dixième.
+<break time="1.0s"/>
+[KO] 열 번째
+<break time="1.0s"/>
+[FR-Vocab] dixième.
+<break time="1.5s"/>
+
+[FR-Vocab] dernier.
+<break time="1.0s"/>
+[KO] 마지막, 남성형
+<break time="1.0s"/>
+[FR-Vocab] dernier.
+<break time="1.5s"/>
+
+[FR-Vocab] dernière.
+<break time="1.0s"/>
+[KO] 마지막, 여성형
+<break time="1.0s"/>
+[FR-Vocab] dernière.
+<break time="1.5s"/>

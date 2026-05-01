@@ -1,0 +1,45 @@
+# Vocabulaire — vocab_cuisine_02a / part a
+# 패턴: FR → KO → FR
+# voices: Vocab=lisons-narrator
+
+[FR-Vocab] couteau.
+<break time="1.0s"/>
+[KO] 칼.
+<break time="1.0s"/>
+[FR-Vocab] couteau.
+<break time="1.5s"/>
+
+[FR-Vocab] casserole.
+<break time="1.0s"/>
+[KO] 냄비.
+<break time="1.0s"/>
+[FR-Vocab] casserole.
+<break time="1.5s"/>
+
+[FR-Vocab] poêle.
+<break time="1.0s"/>
+[KO] 프라이팬.
+<break time="1.0s"/>
+[FR-Vocab] poêle.
+<break time="1.5s"/>
+
+[FR-Vocab] four.
+<break time="1.0s"/>
+[KO] 오븐.
+<break time="1.0s"/>
+[FR-Vocab] four.
+<break time="1.5s"/>
+
+[FR-Vocab] micro-ondes.
+<break time="1.0s"/>
+[KO] 전자레인지.
+<break time="1.0s"/>
+[FR-Vocab] micro-ondes.
+<break time="1.5s"/>
+
+[FR-Vocab] réfrigérateur.
+<break time="1.0s"/>
+[KO] 냉장고.
+<break time="1.0s"/>
+[FR-Vocab] réfrigérateur.
+<break time="1.5s"/>

@@ -1,0 +1,66 @@
+# Vocabulaire — vocab_animaux_02
+# 패턴: FR → KO → FR
+# voices: Vocab=lisons-narrator
+
+[FR-Vocab] cheval.
+<break time="1.0s"/>
+[KO] 말
+<break time="1.0s"/>
+[FR-Vocab] cheval.
+<break time="1.5s"/>
+
+[FR-Vocab] vache.
+<break time="1.0s"/>
+[KO] 소
+<break time="1.0s"/>
+[FR-Vocab] vache.
+<break time="1.5s"/>
+
+[FR-Vocab] bœuf.
+<break time="1.0s"/>
+[KO] 소
+<break time="1.0s"/>
+[FR-Vocab] bœuf.
+<break time="1.5s"/>
+
+[FR-Vocab] cochon.
+<break time="1.0s"/>
+[KO] 돼지
+<break time="1.0s"/>
+[FR-Vocab] cochon.
+<break time="1.5s"/>
+
+[FR-Vocab] mouton.
+<break time="1.0s"/>
+[KO] 양
+<break time="1.0s"/>
+[FR-Vocab] mouton.
+<break time="1.5s"/>
+
+[FR-Vocab] chèvre.
+<break time="1.0s"/>
+[KO] 염소
+<break time="1.0s"/>
+[FR-Vocab] chèvre.
+<break time="1.5s"/>
+
+[FR-Vocab] poule.
+<break time="1.0s"/>
+[KO] 닭
+<break time="1.0s"/>
+[FR-Vocab] poule.
+<break time="1.5s"/>
+
+[FR-Vocab] coq.
+<break time="1.0s"/>
+[KO] 수탉
+<break time="1.0s"/>
+[FR-Vocab] coq.
+<break time="1.5s"/>
+
+[FR-Vocab] canard.
+<break time="1.0s"/>
+[KO] 오리
+<break time="1.0s"/>
+[FR-Vocab] canard.
+<break time="1.5s"/>

@@ -1,0 +1,73 @@
+# Vocabulaire — vocab_pays_02b / part b
+# 패턴: FR → KO → FR
+# voices: Vocab=lisons-narrator
+
+[FR-Vocab] britannique.
+<break time="1.0s"/>
+[KO] 영국인
+<break time="1.0s"/>
+[FR-Vocab] britannique.
+<break time="1.5s"/>
+
+[FR-Vocab] allemand.
+<break time="1.0s"/>
+[KO] 독일인, 남성형
+<break time="1.0s"/>
+[FR-Vocab] allemand.
+<break time="1.5s"/>
+
+[FR-Vocab] allemande.
+<break time="1.0s"/>
+[KO] 독일인, 여성형
+<break time="1.0s"/>
+[FR-Vocab] allemande.
+<break time="1.5s"/>
+
+[FR-Vocab] italien.
+<break time="1.0s"/>
+[KO] 이탈리아인, 남성형
+<break time="1.0s"/>
+[FR-Vocab] italien.
+<break time="1.5s"/>
+
+[FR-Vocab] italienne.
+<break time="1.0s"/>
+[KO] 이탈리아인, 여성형
+<break time="1.0s"/>
+[FR-Vocab] italienne.
+<break time="1.5s"/>
+
+[FR-Vocab] espagnol.
+<break time="1.0s"/>
+[KO] 스페인인, 남성형
+<break time="1.0s"/>
+[FR-Vocab] espagnol.
+<break time="1.5s"/>
+
+[FR-Vocab] espagnole.
+<break time="1.0s"/>
+[KO] 스페인인, 여성형
+<break time="1.0s"/>
+[FR-Vocab] espagnole.
+<break time="1.5s"/>
+
+[FR-Vocab] belge.
+<break time="1.0s"/>
+[KO] 벨기에인
+<break time="1.0s"/>
+[FR-Vocab] belge.
+<break time="1.5s"/>
+
+[FR-Vocab] suisse.
+<break time="1.0s"/>
+[KO] 스위스인
+<break time="1.0s"/>
+[FR-Vocab] suisse.
+<break time="1.5s"/>
+
+[FR-Vocab] russe.
+<break time="1.0s"/>
+[KO] 러시아인
+<break time="1.0s"/>
+[FR-Vocab] russe.
+<break time="1.5s"/>

@@ -1,0 +1,59 @@
+# Vocabulaire — vocab_couleurs_03
+# 패턴: FR → KO → FR
+# voices: Vocab=lisons-narrator
+
+[FR-Vocab] clair.
+<break time="1.0s"/>
+[KO] 밝은, 남성형.
+<break time="1.0s"/>
+[FR-Vocab] clair.
+<break time="1.5s"/>
+
+[FR-Vocab] claire.
+<break time="1.0s"/>
+[KO] 밝은, 여성형.
+<break time="1.0s"/>
+[FR-Vocab] claire.
+<break time="1.5s"/>
+
+[FR-Vocab] foncé.
+<break time="1.0s"/>
+[KO] 어두운, 남성형.
+<break time="1.0s"/>
+[FR-Vocab] foncé.
+<break time="1.5s"/>
+
+[FR-Vocab] foncée.
+<break time="1.0s"/>
+[KO] 어두운, 여성형.
+<break time="1.0s"/>
+[FR-Vocab] foncée.
+<break time="1.5s"/>
+
+[FR-Vocab] vif.
+<break time="1.0s"/>
+[KO] 선명한, 남성형.
+<break time="1.0s"/>
+[FR-Vocab] vif.
+<break time="1.5s"/>
+
+[FR-Vocab] vive.
+<break time="1.0s"/>
+[KO] 선명한, 여성형.
+<break time="1.0s"/>
+[FR-Vocab] vive.
+<break time="1.5s"/>
+
+[FR-Vocab] pâle.
+<break time="1.0s"/>
+[KO] 옅은. 남녀 동일.
+<break time="1.0s"/>
+[FR-Vocab] pâle.
+<break time="1.5s"/>
+
+[FR-Vocab] couleur.
+<break time="1.0s"/>
+[KO] 색깔.
+<break time="1.0s"/>
+[FR-Vocab] couleur.
+<break time="1.5s"/>

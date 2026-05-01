@@ -1,0 +1,29 @@
+# Vocabulaire — Le voyage (여행) / 섹션 1: 공항
+# voices: Vocab=warm-mother
+
+[FR-Vocab] aéroport.
+<break time="0.5s"/>
+[FR-Vocab] vol.
+<break time="0.5s"/>
+[FR-Vocab] billet d'avion.
+<break time="0.5s"/>
+[FR-Vocab] passeport.
+<break time="0.5s"/>
+[FR-Vocab] valise.
+<break time="0.5s"/>
+[FR-Vocab] bagage à main.
+<break time="0.5s"/>
+[FR-Vocab] enregistrement.
+<break time="0.5s"/>
+[FR-Vocab] carte d'embarquement.
+<break time="0.5s"/>
+[FR-Vocab] douane.
+<break time="0.5s"/>
+[FR-Vocab] arrivée.
+<break time="0.5s"/>
+[FR-Vocab] départ.
+<break time="0.5s"/>
+[FR-Vocab] escale.
+<break time="0.5s"/>
+[FR-Vocab] retard.
+<break time="0.5s"/>

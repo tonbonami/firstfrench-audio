@@ -1,0 +1,73 @@
+# Vocabulaire — vocab_couleurs_02
+# 패턴: FR → KO → FR
+# voices: Vocab=lisons-narrator
+
+[FR-Vocab] orange.
+<break time="1.0s"/>
+[KO] 주황. 불변.
+<break time="1.0s"/>
+[FR-Vocab] orange.
+<break time="1.5s"/>
+
+[FR-Vocab] violet.
+<break time="1.0s"/>
+[KO] 보라, 남성형.
+<break time="1.0s"/>
+[FR-Vocab] violet.
+<break time="1.5s"/>
+
+[FR-Vocab] violette.
+<break time="1.0s"/>
+[KO] 보라, 여성형.
+<break time="1.0s"/>
+[FR-Vocab] violette.
+<break time="1.5s"/>
+
+[FR-Vocab] marron.
+<break time="1.0s"/>
+[KO] 갈색. 불변.
+<break time="1.0s"/>
+[FR-Vocab] marron.
+<break time="1.5s"/>
+
+[FR-Vocab] beige.
+<break time="1.0s"/>
+[KO] 베이지. 남녀 동일.
+<break time="1.0s"/>
+[FR-Vocab] beige.
+<break time="1.5s"/>
+
+[FR-Vocab] turquoise.
+<break time="1.0s"/>
+[KO] 청록. 남녀 동일.
+<break time="1.0s"/>
+[FR-Vocab] turquoise.
+<break time="1.5s"/>
+
+[FR-Vocab] doré.
+<break time="1.0s"/>
+[KO] 금색, 남성형.
+<break time="1.0s"/>
+[FR-Vocab] doré.
+<break time="1.5s"/>
+
+[FR-Vocab] dorée.
+<break time="1.0s"/>
+[KO] 금색, 여성형.
+<break time="1.0s"/>
+[FR-Vocab] dorée.
+<break time="1.5s"/>
+
+[FR-Vocab] argenté.
+<break time="1.0s"/>
+[KO] 은색, 남성형.
+<break time="1.0s"/>
+[FR-Vocab] argenté.
+<break time="1.5s"/>
+
+[FR-Vocab] argentée.
+<break time="1.0s"/>
+[KO] 은색, 여성형.
+<break time="1.0s"/>
+[FR-Vocab] argentée.
+<break time="1.5s"/>

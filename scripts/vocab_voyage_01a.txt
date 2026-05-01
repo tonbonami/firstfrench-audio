@@ -1,0 +1,52 @@
+# Vocabulaire — vocab_voyage_01a / part a
+# 패턴: FR → KO → FR
+# voices: Vocab=lisons-narrator
+
+[FR-Vocab] aéroport.
+<break time="1.0s"/>
+[KO] 공항
+<break time="1.0s"/>
+[FR-Vocab] aéroport.
+<break time="1.5s"/>
+
+[FR-Vocab] vol.
+<break time="1.0s"/>
+[KO] 항공편
+<break time="1.0s"/>
+[FR-Vocab] vol.
+<break time="1.5s"/>
+
+[FR-Vocab] billet d'avion.
+<break time="1.0s"/>
+[KO] 항공권
+<break time="1.0s"/>
+[FR-Vocab] billet d'avion.
+<break time="1.5s"/>
+
+[FR-Vocab] passeport.
+<break time="1.0s"/>
+[KO] 여권
+<break time="1.0s"/>
+[FR-Vocab] passeport.
+<break time="1.5s"/>
+
+[FR-Vocab] valise.
+<break time="1.0s"/>
+[KO] 여행 가방
+<break time="1.0s"/>
+[FR-Vocab] valise.
+<break time="1.5s"/>
+
+[FR-Vocab] bagage à main.
+<break time="1.0s"/>
+[KO] 기내 수하물
+<break time="1.0s"/>
+[FR-Vocab] bagage à main.
+<break time="1.5s"/>
+
+[FR-Vocab] enregistrement.
+<break time="1.0s"/>
+[KO] 체크인
+<break time="1.0s"/>
+[FR-Vocab] enregistrement.
+<break time="1.5s"/>

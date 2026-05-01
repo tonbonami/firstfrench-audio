@@ -1,0 +1,33 @@
+# Vocabulaire — Les adjectifs courants (자주 쓰는 형용사) / 섹션 1: 크기·모양 (반의어)
+# voices: Vocab=warm-mother
+
+[FR-Vocab] grand.
+<break time="0.5s"/>
+[FR-Vocab] grande.
+<break time="0.5s"/>
+[FR-Vocab] petit.
+<break time="0.5s"/>
+[FR-Vocab] petite.
+<break time="0.5s"/>
+[FR-Vocab] long.
+<break time="0.5s"/>
+[FR-Vocab] longue.
+<break time="0.5s"/>
+[FR-Vocab] court.
+<break time="0.5s"/>
+[FR-Vocab] courte.
+<break time="0.5s"/>
+[FR-Vocab] haut.
+<break time="0.5s"/>
+[FR-Vocab] haute.
+<break time="0.5s"/>
+[FR-Vocab] bas.
+<break time="0.5s"/>
+[FR-Vocab] basse.
+<break time="0.5s"/>
+[FR-Vocab] gros.
+<break time="0.5s"/>
+[FR-Vocab] grosse.
+<break time="0.5s"/>
+[FR-Vocab] mince.
+<break time="0.5s"/>

@@ -1,0 +1,52 @@
+# Vocabulaire — vocab_voyage_02
+# 패턴: FR → KO → FR
+# voices: Vocab=lisons-narrator
+
+[FR-Vocab] chambre.
+<break time="1.0s"/>
+[KO] 객실
+<break time="1.0s"/>
+[FR-Vocab] chambre.
+<break time="1.5s"/>
+
+[FR-Vocab] réservation.
+<break time="1.0s"/>
+[KO] 예약
+<break time="1.0s"/>
+[FR-Vocab] réservation.
+<break time="1.5s"/>
+
+[FR-Vocab] réception.
+<break time="1.0s"/>
+[KO] 프런트
+<break time="1.0s"/>
+[FR-Vocab] réception.
+<break time="1.5s"/>
+
+[FR-Vocab] petit déjeuner.
+<break time="1.0s"/>
+[KO] 조식
+<break time="1.0s"/>
+[FR-Vocab] petit déjeuner.
+<break time="1.5s"/>
+
+[FR-Vocab] clé.
+<break time="1.0s"/>
+[KO] 열쇠
+<break time="1.0s"/>
+[FR-Vocab] clé.
+<break time="1.5s"/>
+
+[FR-Vocab] carte.
+<break time="1.0s"/>
+[KO] 카드키
+<break time="1.0s"/>
+[FR-Vocab] carte.
+<break time="1.5s"/>
+
+[FR-Vocab] ascenseur.
+<break time="1.0s"/>
+[KO] 엘리베이터
+<break time="1.0s"/>
+[FR-Vocab] ascenseur.
+<break time="1.5s"/>

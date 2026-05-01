@@ -1,0 +1,66 @@
+# Vocabulaire — vocab_ville_02
+# 패턴: FR → KO → FR
+# voices: Vocab=lisons-narrator
+
+[FR-Vocab] bibliothèque.
+<break time="1.0s"/>
+[KO] 도서관
+<break time="1.0s"/>
+[FR-Vocab] bibliothèque.
+<break time="1.5s"/>
+
+[FR-Vocab] cinéma.
+<break time="1.0s"/>
+[KO] 영화관
+<break time="1.0s"/>
+[FR-Vocab] cinéma.
+<break time="1.5s"/>
+
+[FR-Vocab] musée.
+<break time="1.0s"/>
+[KO] 박물관
+<break time="1.0s"/>
+[FR-Vocab] musée.
+<break time="1.5s"/>
+
+[FR-Vocab] théâtre.
+<break time="1.0s"/>
+[KO] 극장
+<break time="1.0s"/>
+[FR-Vocab] théâtre.
+<break time="1.5s"/>
+
+[FR-Vocab] parc.
+<break time="1.0s"/>
+[KO] 공원
+<break time="1.0s"/>
+[FR-Vocab] parc.
+<break time="1.5s"/>
+
+[FR-Vocab] stade.
+<break time="1.0s"/>
+[KO] 경기장
+<break time="1.0s"/>
+[FR-Vocab] stade.
+<break time="1.5s"/>
+
+[FR-Vocab] piscine.
+<break time="1.0s"/>
+[KO] 수영장
+<break time="1.0s"/>
+[FR-Vocab] piscine.
+<break time="1.5s"/>
+
+[FR-Vocab] restaurant.
+<break time="1.0s"/>
+[KO] 레스토랑
+<break time="1.0s"/>
+[FR-Vocab] restaurant.
+<break time="1.5s"/>
+
+[FR-Vocab] café.
+<break time="1.0s"/>
+[KO] 카페
+<break time="1.0s"/>
+[FR-Vocab] café.
+<break time="1.5s"/>

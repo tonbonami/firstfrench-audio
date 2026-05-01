@@ -1,0 +1,66 @@
+# Vocabulaire — vocab_cuisine_01a / part a
+# 패턴: FR → KO → FR
+# voices: Vocab=lisons-narrator
+
+[FR-Vocab] couper.
+<break time="1.0s"/>
+[KO] 자르다.
+<break time="1.0s"/>
+[FR-Vocab] couper.
+<break time="1.5s"/>
+
+[FR-Vocab] éplucher.
+<break time="1.0s"/>
+[KO] 껍질 벗기다.
+<break time="1.0s"/>
+[FR-Vocab] éplucher.
+<break time="1.5s"/>
+
+[FR-Vocab] émincer.
+<break time="1.0s"/>
+[KO] 얇게 썰다.
+<break time="1.0s"/>
+[FR-Vocab] émincer.
+<break time="1.5s"/>
+
+[FR-Vocab] hacher.
+<break time="1.0s"/>
+[KO] 다지다.
+<break time="1.0s"/>
+[FR-Vocab] hacher.
+<break time="1.5s"/>
+
+[FR-Vocab] râper.
+<break time="1.0s"/>
+[KO] 갈다.
+<break time="1.0s"/>
+[FR-Vocab] râper.
+<break time="1.5s"/>
+
+[FR-Vocab] mélanger.
+<break time="1.0s"/>
+[KO] 섞다.
+<break time="1.0s"/>
+[FR-Vocab] mélanger.
+<break time="1.5s"/>
+
+[FR-Vocab] remuer.
+<break time="1.0s"/>
+[KO] 저어주다.
+<break time="1.0s"/>
+[FR-Vocab] remuer.
+<break time="1.5s"/>
+
+[FR-Vocab] verser.
+<break time="1.0s"/>
+[KO] 붓다.
+<break time="1.0s"/>
+[FR-Vocab] verser.
+<break time="1.5s"/>
+
+[FR-Vocab] ajouter.
+<break time="1.0s"/>
+[KO] 더하다.
+<break time="1.0s"/>
+[FR-Vocab] ajouter.
+<break time="1.5s"/>

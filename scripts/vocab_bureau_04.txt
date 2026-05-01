@@ -1,0 +1,31 @@
+# Vocabulaire — vocab_bureau_04
+# 패턴: FR → KO → FR
+# voices: Vocab=lisons-narrator
+
+[FR-Vocab] réunion.
+<break time="1.0s"/>
+[KO] 회의
+<break time="1.0s"/>
+[FR-Vocab] réunion.
+<break time="1.5s"/>
+
+[FR-Vocab] pause.
+<break time="1.0s"/>
+[KO] 휴식
+<break time="1.0s"/>
+[FR-Vocab] pause.
+<break time="1.5s"/>
+
+[FR-Vocab] tâche.
+<break time="1.0s"/>
+[KO] 업무·과제
+<break time="1.0s"/>
+[FR-Vocab] tâche.
+<break time="1.5s"/>
+
+[FR-Vocab] rapport.
+<break time="1.0s"/>
+[KO] 보고서
+<break time="1.0s"/>
+[FR-Vocab] rapport.
+<break time="1.5s"/>

@@ -1,0 +1,23 @@
+# Vocabulaire — La maison (집/주거) / 섹션 9: 예문
+# voices: Vocab=warm-mother
+
+[FR-Vocab] J'habite dans un appartement au troisième étage.
+<break time="1.0s"/>
+[FR-Vocab] C'est une grande maison avec un jardin.
+<break time="1.0s"/>
+[FR-Vocab] L'appartement a trois pièces.
+<break time="1.0s"/>
+[FR-Vocab] La cuisine est à côté du salon.
+<break time="1.0s"/>
+[FR-Vocab] Le lit est très confortable.
+<break time="1.0s"/>
+[FR-Vocab] Le lait est dans le réfrigérateur.
+<break time="1.0s"/>
+[FR-Vocab] Il n'y a plus de savon.
+<break time="1.0s"/>
+[FR-Vocab] La machine à laver est en panne.
+<break time="1.0s"/>
+[FR-Vocab] Le loyer est de 800 euros par mois.
+<break time="1.0s"/>
+[FR-Vocab] Nous déménageons le mois prochain.
+<break time="1.0s"/>

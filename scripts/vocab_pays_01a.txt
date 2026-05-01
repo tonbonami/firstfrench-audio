@@ -1,0 +1,59 @@
+# Vocabulaire — vocab_pays_01a / part a
+# 패턴: FR → KO → FR
+# voices: Vocab=lisons-narrator
+
+[FR-Vocab] Corée du Sud.
+<break time="1.0s"/>
+[KO] 한국
+<break time="1.0s"/>
+[FR-Vocab] Corée du Sud.
+<break time="1.5s"/>
+
+[FR-Vocab] France.
+<break time="1.0s"/>
+[KO] 프랑스
+<break time="1.0s"/>
+[FR-Vocab] France.
+<break time="1.5s"/>
+
+[FR-Vocab] Japon.
+<break time="1.0s"/>
+[KO] 일본
+<break time="1.0s"/>
+[FR-Vocab] Japon.
+<break time="1.5s"/>
+
+[FR-Vocab] Chine.
+<break time="1.0s"/>
+[KO] 중국
+<break time="1.0s"/>
+[FR-Vocab] Chine.
+<break time="1.5s"/>
+
+[FR-Vocab] États-Unis.
+<break time="1.0s"/>
+[KO] 미국
+<break time="1.0s"/>
+[FR-Vocab] États-Unis.
+<break time="1.5s"/>
+
+[FR-Vocab] Royaume-Uni.
+<break time="1.0s"/>
+[KO] 영국
+<break time="1.0s"/>
+[FR-Vocab] Royaume-Uni.
+<break time="1.5s"/>
+
+[FR-Vocab] Allemagne.
+<break time="1.0s"/>
+[KO] 독일
+<break time="1.0s"/>
+[FR-Vocab] Allemagne.
+<break time="1.5s"/>
+
+[FR-Vocab] Italie.
+<break time="1.0s"/>
+[KO] 이탈리아
+<break time="1.0s"/>
+[FR-Vocab] Italie.
+<break time="1.5s"/>

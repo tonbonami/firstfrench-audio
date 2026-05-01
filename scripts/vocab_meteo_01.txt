@@ -1,0 +1,45 @@
+# Vocabulaire — vocab_meteo_01
+# 패턴: FR → KO → FR
+# voices: Vocab=lisons-narrator
+
+[FR-Vocab] Il fait beau.
+<break time="1.0s"/>
+[KO] 날씨가 좋다
+<break time="1.0s"/>
+[FR-Vocab] Il fait beau.
+<break time="1.5s"/>
+
+[FR-Vocab] Il fait mauvais.
+<break time="1.0s"/>
+[KO] 날씨가 나쁘다
+<break time="1.0s"/>
+[FR-Vocab] Il fait mauvais.
+<break time="1.5s"/>
+
+[FR-Vocab] Il fait chaud.
+<break time="1.0s"/>
+[KO] 덥다
+<break time="1.0s"/>
+[FR-Vocab] Il fait chaud.
+<break time="1.5s"/>
+
+[FR-Vocab] Il fait froid.
+<break time="1.0s"/>
+[KO] 춥다
+<break time="1.0s"/>
+[FR-Vocab] Il fait froid.
+<break time="1.5s"/>
+
+[FR-Vocab] Il fait frais.
+<break time="1.0s"/>
+[KO] 선선하다
+<break time="1.0s"/>
+[FR-Vocab] Il fait frais.
+<break time="1.5s"/>
+
+[FR-Vocab] Il fait doux.
+<break time="1.0s"/>
+[KO] 온화하다
+<break time="1.0s"/>
+[FR-Vocab] Il fait doux.
+<break time="1.5s"/>

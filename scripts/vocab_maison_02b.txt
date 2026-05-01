@@ -1,0 +1,38 @@
+# Vocabulaire — vocab_maison_02b / part b
+# 패턴: FR → KO → FR
+# voices: Vocab=lisons-narrator
+
+[FR-Vocab] entrée.
+<break time="1.0s"/>
+[KO] 현관.
+<break time="1.0s"/>
+[FR-Vocab] entrée.
+<break time="1.5s"/>
+
+[FR-Vocab] couloir.
+<break time="1.0s"/>
+[KO] 복도.
+<break time="1.0s"/>
+[FR-Vocab] couloir.
+<break time="1.5s"/>
+
+[FR-Vocab] balcon.
+<break time="1.0s"/>
+[KO] 발코니.
+<break time="1.0s"/>
+[FR-Vocab] balcon.
+<break time="1.5s"/>
+
+[FR-Vocab] jardin.
+<break time="1.0s"/>
+[KO] 정원.
+<break time="1.0s"/>
+[FR-Vocab] jardin.
+<break time="1.5s"/>
+
+[FR-Vocab] garage.
+<break time="1.0s"/>
+[KO] 차고.
+<break time="1.0s"/>
+[FR-Vocab] garage.
+<break time="1.5s"/>

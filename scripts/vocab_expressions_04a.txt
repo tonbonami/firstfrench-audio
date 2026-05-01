@@ -1,0 +1,37 @@
+# Expressions / 4a: 자주 쓰는 일상 관용어
+# voices: Vocab=lisons-narrator
+
+[FR-Vocab] En effet !
+<break time="1.0s"/>
+[KO] 그렇네! 맞아!
+<break time="1.0s"/>
+[FR-Vocab] En effet !
+<break time="1.5s"/>
+
+[FR-Vocab] En tout cas.
+<break time="1.0s"/>
+[KO] 어쨌든.
+<break time="1.0s"/>
+[FR-Vocab] En tout cas.
+<break time="1.5s"/>
+
+[FR-Vocab] À propos.
+<break time="1.0s"/>
+[KO] 그러고 보니.
+<break time="1.0s"/>
+[FR-Vocab] À propos.
+<break time="1.5s"/>
+
+[FR-Vocab] Bref.
+<break time="1.0s"/>
+[KO] 간단히 말하면.
+<break time="1.0s"/>
+[FR-Vocab] Bref.
+<break time="1.5s"/>
+
+[FR-Vocab] De rien.
+<break time="1.0s"/>
+[KO] 천만에요.
+<break time="1.0s"/>
+[FR-Vocab] De rien.
+<break time="1.5s"/>

@@ -1,0 +1,31 @@
+# Vocabulaire — Les loisirs et les sports (여가·스포츠) / 섹션 1: 스포츠
+# voices: Vocab=warm-mother
+
+[FR-Vocab] football.
+<break time="0.5s"/>
+[FR-Vocab] basket.
+<break time="0.5s"/>
+[FR-Vocab] tennis.
+<break time="0.5s"/>
+[FR-Vocab] volley.
+<break time="0.5s"/>
+[FR-Vocab] natation.
+<break time="0.5s"/>
+[FR-Vocab] course à pied.
+<break time="0.5s"/>
+[FR-Vocab] vélo.
+<break time="0.5s"/>
+[FR-Vocab] randonnée.
+<break time="0.5s"/>
+[FR-Vocab] ski.
+<break time="0.5s"/>
+[FR-Vocab] yoga.
+<break time="0.5s"/>
+[FR-Vocab] boxe.
+<break time="0.5s"/>
+[FR-Vocab] gymnastique.
+<break time="0.5s"/>
+[FR-Vocab] golf.
+<break time="0.5s"/>
+[FR-Vocab] rugby.
+<break time="0.5s"/>

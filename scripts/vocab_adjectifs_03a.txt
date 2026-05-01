@@ -1,0 +1,59 @@
+# Vocabulaire — vocab_adjectifs_03a / part a
+# 패턴: FR → KO → FR
+# voices: Vocab=lisons-narrator
+
+[FR-Vocab] sympa.
+<break time="1.0s"/>
+[KO] 친근한
+<break time="1.0s"/>
+[FR-Vocab] sympa.
+<break time="1.5s"/>
+
+[FR-Vocab] gentil.
+<break time="1.0s"/>
+[KO] 친절한, 남성형
+<break time="1.0s"/>
+[FR-Vocab] gentil.
+<break time="1.5s"/>
+
+[FR-Vocab] gentille.
+<break time="1.0s"/>
+[KO] 친절한, 여성형
+<break time="1.0s"/>
+[FR-Vocab] gentille.
+<break time="1.5s"/>
+
+[FR-Vocab] timide.
+<break time="1.0s"/>
+[KO] 수줍은
+<break time="1.0s"/>
+[FR-Vocab] timide.
+<break time="1.5s"/>
+
+[FR-Vocab] courageux.
+<break time="1.0s"/>
+[KO] 용감한, 남성형
+<break time="1.0s"/>
+[FR-Vocab] courageux.
+<break time="1.5s"/>
+
+[FR-Vocab] courageuse.
+<break time="1.0s"/>
+[KO] 용감한, 여성형
+<break time="1.0s"/>
+[FR-Vocab] courageuse.
+<break time="1.5s"/>
+
+[FR-Vocab] drôle.
+<break time="1.0s"/>
+[KO] 웃긴
+<break time="1.0s"/>
+[FR-Vocab] drôle.
+<break time="1.5s"/>
+
+[FR-Vocab] sérieux.
+<break time="1.0s"/>
+[KO] 진지한, 남성형
+<break time="1.0s"/>
+[FR-Vocab] sérieux.
+<break time="1.5s"/>

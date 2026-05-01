@@ -1,0 +1,45 @@
+# Vocabulaire — vocab_sante_02
+# 패턴: FR → KO → FR
+# voices: Vocab=lisons-narrator
+
+[FR-Vocab] grippe.
+<break time="1.0s"/>
+[KO] 독감
+<break time="1.0s"/>
+[FR-Vocab] grippe.
+<break time="1.5s"/>
+
+[FR-Vocab] allergie.
+<break time="1.0s"/>
+[KO] 알레르기
+<break time="1.0s"/>
+[FR-Vocab] allergie.
+<break time="1.5s"/>
+
+[FR-Vocab] fracture.
+<break time="1.0s"/>
+[KO] 골절
+<break time="1.0s"/>
+[FR-Vocab] fracture.
+<break time="1.5s"/>
+
+[FR-Vocab] hypertension.
+<break time="1.0s"/>
+[KO] 고혈압
+<break time="1.0s"/>
+[FR-Vocab] hypertension.
+<break time="1.5s"/>
+
+[FR-Vocab] rhume.
+<break time="1.0s"/>
+[KO] 감기
+<break time="1.0s"/>
+[FR-Vocab] rhume.
+<break time="1.5s"/>
+
+[FR-Vocab] migraine.
+<break time="1.0s"/>
+[KO] 편두통
+<break time="1.0s"/>
+[FR-Vocab] migraine.
+<break time="1.5s"/>

@@ -1,0 +1,39 @@
+# Vocabulaire — La cuisine et les recettes (요리·레시피) / 섹션 1: 요리 동사
+# voices: Vocab=warm-mother
+
+[FR-Vocab] couper.
+<break time="0.5s"/>
+[FR-Vocab] éplucher.
+<break time="0.5s"/>
+[FR-Vocab] émincer.
+<break time="0.5s"/>
+[FR-Vocab] hacher.
+<break time="0.5s"/>
+[FR-Vocab] râper.
+<break time="0.5s"/>
+[FR-Vocab] mélanger.
+<break time="0.5s"/>
+[FR-Vocab] remuer.
+<break time="0.5s"/>
+[FR-Vocab] verser.
+<break time="0.5s"/>
+[FR-Vocab] ajouter.
+<break time="0.5s"/>
+[FR-Vocab] assaisonner.
+<break time="0.5s"/>
+[FR-Vocab] faire bouillir.
+<break time="0.5s"/>
+[FR-Vocab] faire cuire.
+<break time="0.5s"/>
+[FR-Vocab] faire frire.
+<break time="0.5s"/>
+[FR-Vocab] rôtir.
+<break time="0.5s"/>
+[FR-Vocab] griller.
+<break time="0.5s"/>
+[FR-Vocab] mijoter.
+<break time="0.5s"/>
+[FR-Vocab] cuire à la vapeur.
+<break time="0.5s"/>
+[FR-Vocab] réchauffer.
+<break time="0.5s"/>

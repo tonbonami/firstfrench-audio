@@ -1,0 +1,23 @@
+# Vocabulaire — L'heure et le temps (시간·시각) / 섹션 5: 예문
+# voices: Vocab=warm-mother
+
+[FR-Vocab] Quelle heure est-il ?
+<break time="1.0s"/>
+[FR-Vocab] Il est trois heures et quart.
+<break time="1.0s"/>
+[FR-Vocab] Il est six heures et demie.
+<break time="1.0s"/>
+[FR-Vocab] Il est sept heures moins le quart.
+<break time="1.0s"/>
+[FR-Vocab] Le train part à dix-huit heures trente.
+<break time="1.0s"/>
+[FR-Vocab] Le film commence dans vingt minutes.
+<break time="1.0s"/>
+[FR-Vocab] J'apprends le français depuis six mois.
+<break time="1.0s"/>
+[FR-Vocab] Je t'ai attendu pendant une heure.
+<break time="1.0s"/>
+[FR-Vocab] Il y a deux jours, il neigeait.
+<break time="1.0s"/>
+[FR-Vocab] Je fais du sport tous les matins.
+<break time="1.0s"/>

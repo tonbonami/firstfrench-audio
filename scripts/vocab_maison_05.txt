@@ -1,0 +1,73 @@
+# Vocabulaire — vocab_maison_05
+# 패턴: FR → KO → FR
+# voices: Vocab=lisons-narrator
+
+[FR-Vocab] réfrigérateur.
+<break time="1.0s"/>
+[KO] 냉장고.
+<break time="1.0s"/>
+[FR-Vocab] réfrigérateur.
+<break time="1.5s"/>
+
+[FR-Vocab] four.
+<break time="1.0s"/>
+[KO] 오븐.
+<break time="1.0s"/>
+[FR-Vocab] four.
+<break time="1.5s"/>
+
+[FR-Vocab] micro-ondes.
+<break time="1.0s"/>
+[KO] 전자레인지.
+<break time="1.0s"/>
+[FR-Vocab] micro-ondes.
+<break time="1.5s"/>
+
+[FR-Vocab] cuisinière.
+<break time="1.0s"/>
+[KO] 가스레인지.
+<break time="1.0s"/>
+[FR-Vocab] cuisinière.
+<break time="1.5s"/>
+
+[FR-Vocab] lave-vaisselle.
+<break time="1.0s"/>
+[KO] 식기세척기.
+<break time="1.0s"/>
+[FR-Vocab] lave-vaisselle.
+<break time="1.5s"/>
+
+[FR-Vocab] casserole.
+<break time="1.0s"/>
+[KO] 냄비.
+<break time="1.0s"/>
+[FR-Vocab] casserole.
+<break time="1.5s"/>
+
+[FR-Vocab] poêle.
+<break time="1.0s"/>
+[KO] 프라이팬.
+<break time="1.0s"/>
+[FR-Vocab] poêle.
+<break time="1.5s"/>
+
+[FR-Vocab] assiette.
+<break time="1.0s"/>
+[KO] 접시.
+<break time="1.0s"/>
+[FR-Vocab] assiette.
+<break time="1.5s"/>
+
+[FR-Vocab] verre.
+<break time="1.0s"/>
+[KO] 컵이나 유리잔.
+<break time="1.0s"/>
+[FR-Vocab] verre.
+<break time="1.5s"/>
+
+[FR-Vocab] tasse.
+<break time="1.0s"/>
+[KO] 잔이나 컵.
+<break time="1.0s"/>
+[FR-Vocab] tasse.
+<break time="1.5s"/>

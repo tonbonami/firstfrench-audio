@@ -1,0 +1,23 @@
+# Vocabulaire — Les achats et l'argent (쇼핑·돈) / 섹션 4: 예문
+# voices: Vocab=warm-mother
+
+[FR-Vocab] Je peux vous aider ?
+<break time="1.0s"/>
+[FR-Vocab] Je cherche une veste en cuir.
+<break time="1.0s"/>
+[FR-Vocab] Vous faites quelle taille ?
+<break time="1.0s"/>
+[FR-Vocab] Est-ce que je peux l'essayer ?
+<break time="1.0s"/>
+[FR-Vocab] C'est combien, s'il vous plaît ?
+<break time="1.0s"/>
+[FR-Vocab] Par carte, s'il vous plaît.
+<break time="1.0s"/>
+[FR-Vocab] C'est trop cher.
+<break time="1.0s"/>
+[FR-Vocab] Je voudrais rembourser cet article.
+<break time="1.0s"/>
+[FR-Vocab] Vous avez le ticket de caisse ?
+<break time="1.0s"/>
+[FR-Vocab] C'est une bonne affaire !
+<break time="1.0s"/>

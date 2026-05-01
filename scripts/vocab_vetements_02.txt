@@ -1,0 +1,31 @@
+# Vocabulaire — vocab_vetements_02
+# 패턴: FR → KO → FR
+# voices: Vocab=lisons-narrator
+
+[FR-Vocab] pantalon.
+<break time="1.0s"/>
+[KO] 바지
+<break time="1.0s"/>
+[FR-Vocab] pantalon.
+<break time="1.5s"/>
+
+[FR-Vocab] jean.
+<break time="1.0s"/>
+[KO] 청바지
+<break time="1.0s"/>
+[FR-Vocab] jean.
+<break time="1.5s"/>
+
+[FR-Vocab] jupe.
+<break time="1.0s"/>
+[KO] 치마
+<break time="1.0s"/>
+[FR-Vocab] jupe.
+<break time="1.5s"/>
+
+[FR-Vocab] short.
+<break time="1.0s"/>
+[KO] 반바지
+<break time="1.0s"/>
+[FR-Vocab] short.
+<break time="1.5s"/>

@@ -1,0 +1,51 @@
+# Expressions / 1: 신체 관련 관용표현
+# voices: Vocab=lisons-narrator
+
+[FR-Vocab] avoir la tête dans les nuages.
+<break time="1.0s"/>
+[KO] 몽상에 빠지다.
+<break time="1.0s"/>
+[FR-Vocab] avoir la tête dans les nuages.
+<break time="1.5s"/>
+
+[FR-Vocab] avoir le cafard.
+<break time="1.0s"/>
+[KO] 우울하다.
+<break time="1.0s"/>
+[FR-Vocab] avoir le cafard.
+<break time="1.5s"/>
+
+[FR-Vocab] casser les pieds.
+<break time="1.0s"/>
+[KO] 짜증나게 하다.
+<break time="1.0s"/>
+[FR-Vocab] casser les pieds.
+<break time="1.5s"/>
+
+[FR-Vocab] ne pas avoir la langue dans sa poche.
+<break time="1.0s"/>
+[KO] 말을 잘 한다.
+<break time="1.0s"/>
+[FR-Vocab] ne pas avoir la langue dans sa poche.
+<break time="1.5s"/>
+
+[FR-Vocab] avoir le coup de main.
+<break time="1.0s"/>
+[KO] 요령이 있다.
+<break time="1.0s"/>
+[FR-Vocab] avoir le coup de main.
+<break time="1.5s"/>
+
+[FR-Vocab] garder la tête froide.
+<break time="1.0s"/>
+[KO] 침착하다.
+<break time="1.0s"/>
+[FR-Vocab] garder la tête froide.
+<break time="1.5s"/>
+
+[FR-Vocab] se serrer la ceinture.
+<break time="1.0s"/>
+[KO] 허리띠를 졸라매다.
+<break time="1.0s"/>
+[FR-Vocab] se serrer la ceinture.
+<break time="1.5s"/>

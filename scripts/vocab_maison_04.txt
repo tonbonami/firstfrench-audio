@@ -1,0 +1,52 @@
+# Vocabulaire — vocab_maison_04
+# 패턴: FR → KO → FR
+# voices: Vocab=lisons-narrator
+
+[FR-Vocab] lit.
+<break time="1.0s"/>
+[KO] 침대.
+<break time="1.0s"/>
+[FR-Vocab] lit.
+<break time="1.5s"/>
+
+[FR-Vocab] oreiller.
+<break time="1.0s"/>
+[KO] 베개.
+<break time="1.0s"/>
+[FR-Vocab] oreiller.
+<break time="1.5s"/>
+
+[FR-Vocab] couverture.
+<break time="1.0s"/>
+[KO] 이불.
+<break time="1.0s"/>
+[FR-Vocab] couverture.
+<break time="1.5s"/>
+
+[FR-Vocab] drap.
+<break time="1.0s"/>
+[KO] 시트.
+<break time="1.0s"/>
+[FR-Vocab] drap.
+<break time="1.5s"/>
+
+[FR-Vocab] armoire.
+<break time="1.0s"/>
+[KO] 옷장.
+<break time="1.0s"/>
+[FR-Vocab] armoire.
+<break time="1.5s"/>
+
+[FR-Vocab] commode.
+<break time="1.0s"/>
+[KO] 서랍장.
+<break time="1.0s"/>
+[FR-Vocab] commode.
+<break time="1.5s"/>
+
+[FR-Vocab] réveil.
+<break time="1.0s"/>
+[KO] 알람 시계.
+<break time="1.0s"/>
+[FR-Vocab] réveil.
+<break time="1.5s"/>

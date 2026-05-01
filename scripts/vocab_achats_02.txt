@@ -1,0 +1,73 @@
+# Vocabulaire — vocab_achats_02
+# 패턴: FR → KO → FR
+# voices: Vocab=lisons-narrator
+
+[FR-Vocab] réduction.
+<break time="1.0s"/>
+[KO] 할인
+<break time="1.0s"/>
+[FR-Vocab] réduction.
+<break time="1.5s"/>
+
+[FR-Vocab] caisse.
+<break time="1.0s"/>
+[KO] 계산대
+<break time="1.0s"/>
+[FR-Vocab] caisse.
+<break time="1.5s"/>
+
+[FR-Vocab] remboursement.
+<break time="1.0s"/>
+[KO] 환불
+<break time="1.0s"/>
+[FR-Vocab] remboursement.
+<break time="1.5s"/>
+
+[FR-Vocab] taille.
+<break time="1.0s"/>
+[KO] 옷 사이즈
+<break time="1.0s"/>
+[FR-Vocab] taille.
+<break time="1.5s"/>
+
+[FR-Vocab] panier.
+<break time="1.0s"/>
+[KO] 장바구니
+<break time="1.0s"/>
+[FR-Vocab] panier.
+<break time="1.5s"/>
+
+[FR-Vocab] chariot.
+<break time="1.0s"/>
+[KO] 카트
+<break time="1.0s"/>
+[FR-Vocab] chariot.
+<break time="1.5s"/>
+
+[FR-Vocab] espèces.
+<break time="1.0s"/>
+[KO] 현금
+<break time="1.0s"/>
+[FR-Vocab] espèces.
+<break time="1.5s"/>
+
+[FR-Vocab] ticket de caisse.
+<break time="1.0s"/>
+[KO] 영수증
+<break time="1.0s"/>
+[FR-Vocab] ticket de caisse.
+<break time="1.5s"/>
+
+[FR-Vocab] monnaie.
+<break time="1.0s"/>
+[KO] 잔돈·거스름돈
+<break time="1.0s"/>
+[FR-Vocab] monnaie.
+<break time="1.5s"/>
+
+[FR-Vocab] carte (bancaire).
+<break time="1.0s"/>
+[KO] 카드
+<break time="1.0s"/>
+[FR-Vocab] carte (bancaire).
+<break time="1.5s"/>

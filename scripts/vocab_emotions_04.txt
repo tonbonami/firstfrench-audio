@@ -1,0 +1,23 @@
+# Vocabulaire — Les émotions (감정) / 섹션 4: 예문
+# voices: Vocab=warm-mother
+
+[FR-Vocab] Je suis très heureux !
+<break time="1.0s"/>
+[FR-Vocab] Je suis content de te voir.
+<break time="1.0s"/>
+[FR-Vocab] Pourquoi tu es si triste ?
+<break time="1.0s"/>
+[FR-Vocab] Je suis fatiguée ce soir.
+<break time="1.0s"/>
+[FR-Vocab] Je suis très stressé en ce moment.
+<break time="1.0s"/>
+[FR-Vocab] Je suis déçu du résultat.
+<break time="1.0s"/>
+[FR-Vocab] J'ai peur des araignées.
+<break time="1.0s"/>
+[FR-Vocab] Tu as l'air fatigué.
+<break time="1.0s"/>
+[FR-Vocab] J'ai du mal à dormir.
+<break time="1.0s"/>
+[FR-Vocab] Je suis fier de toi !
+<break time="1.0s"/>

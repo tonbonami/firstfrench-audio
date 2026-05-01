@@ -1,0 +1,73 @@
+# Vocabulaire — vocab_pays_02a / part a
+# 패턴: FR → KO → FR
+# voices: Vocab=lisons-narrator
+
+[FR-Vocab] coréen.
+<break time="1.0s"/>
+[KO] 한국인, 남성형
+<break time="1.0s"/>
+[FR-Vocab] coréen.
+<break time="1.5s"/>
+
+[FR-Vocab] coréenne.
+<break time="1.0s"/>
+[KO] 한국인, 여성형
+<break time="1.0s"/>
+[FR-Vocab] coréenne.
+<break time="1.5s"/>
+
+[FR-Vocab] français.
+<break time="1.0s"/>
+[KO] 프랑스인, 남성형
+<break time="1.0s"/>
+[FR-Vocab] français.
+<break time="1.5s"/>
+
+[FR-Vocab] française.
+<break time="1.0s"/>
+[KO] 프랑스인, 여성형
+<break time="1.0s"/>
+[FR-Vocab] française.
+<break time="1.5s"/>
+
+[FR-Vocab] japonais.
+<break time="1.0s"/>
+[KO] 일본인, 남성형
+<break time="1.0s"/>
+[FR-Vocab] japonais.
+<break time="1.5s"/>
+
+[FR-Vocab] japonaise.
+<break time="1.0s"/>
+[KO] 일본인, 여성형
+<break time="1.0s"/>
+[FR-Vocab] japonaise.
+<break time="1.5s"/>
+
+[FR-Vocab] chinois.
+<break time="1.0s"/>
+[KO] 중국인, 남성형
+<break time="1.0s"/>
+[FR-Vocab] chinois.
+<break time="1.5s"/>
+
+[FR-Vocab] chinoise.
+<break time="1.0s"/>
+[KO] 중국인, 여성형
+<break time="1.0s"/>
+[FR-Vocab] chinoise.
+<break time="1.5s"/>
+
+[FR-Vocab] américain.
+<break time="1.0s"/>
+[KO] 미국인, 남성형
+<break time="1.0s"/>
+[FR-Vocab] américain.
+<break time="1.5s"/>
+
+[FR-Vocab] américaine.
+<break time="1.0s"/>
+[KO] 미국인, 여성형
+<break time="1.0s"/>
+[FR-Vocab] américaine.
+<break time="1.5s"/>

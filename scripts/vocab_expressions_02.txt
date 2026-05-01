@@ -1,0 +1,44 @@
+# Expressions / 2: 동물 관련
+# voices: Vocab=lisons-narrator
+
+[FR-Vocab] poser un lapin.
+<break time="1.0s"/>
+[KO] 약속을 바람맞히다.
+<break time="1.0s"/>
+[FR-Vocab] poser un lapin.
+<break time="1.5s"/>
+
+[FR-Vocab] donner sa langue au chat.
+<break time="1.0s"/>
+[KO] 모르겠다고 인정하다.
+<break time="1.0s"/>
+[FR-Vocab] donner sa langue au chat.
+<break time="1.5s"/>
+
+[FR-Vocab] il pleut des cordes.
+<break time="1.0s"/>
+[KO] 폭우가 내리다.
+<break time="1.0s"/>
+[FR-Vocab] il pleut des cordes.
+<break time="1.5s"/>
+
+[FR-Vocab] avoir d'autres chats à fouetter.
+<break time="1.0s"/>
+[KO] 더 신경쓸 일이 있다.
+<break time="1.0s"/>
+[FR-Vocab] avoir d'autres chats à fouetter.
+<break time="1.5s"/>
+
+[FR-Vocab] quand les poules auront des dents.
+<break time="1.0s"/>
+[KO] 절대 일어나지 않는다.
+<break time="1.0s"/>
+[FR-Vocab] quand les poules auront des dents.
+<break time="1.5s"/>
+
+[FR-Vocab] être doux comme un agneau.
+<break time="1.0s"/>
+[KO] 양처럼 순하다.
+<break time="1.0s"/>
+[FR-Vocab] être doux comme un agneau.
+<break time="1.5s"/>

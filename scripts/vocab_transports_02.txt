@@ -1,0 +1,59 @@
+# Vocabulaire — vocab_transports_02
+# 패턴: FR → KO → FR
+# voices: Vocab=lisons-narrator
+
+[FR-Vocab] gare.
+<break time="1.0s"/>
+[KO] 기차역
+<break time="1.0s"/>
+[FR-Vocab] gare.
+<break time="1.5s"/>
+
+[FR-Vocab] station.
+<break time="1.0s"/>
+[KO] 역
+<break time="1.0s"/>
+[FR-Vocab] station.
+<break time="1.5s"/>
+
+[FR-Vocab] arrêt.
+<break time="1.0s"/>
+[KO] 정류장
+<break time="1.0s"/>
+[FR-Vocab] arrêt.
+<break time="1.5s"/>
+
+[FR-Vocab] aéroport.
+<break time="1.0s"/>
+[KO] 공항
+<break time="1.0s"/>
+[FR-Vocab] aéroport.
+<break time="1.5s"/>
+
+[FR-Vocab] port.
+<break time="1.0s"/>
+[KO] 항구
+<break time="1.0s"/>
+[FR-Vocab] port.
+<break time="1.5s"/>
+
+[FR-Vocab] quai.
+<break time="1.0s"/>
+[KO] 플랫폼
+<break time="1.0s"/>
+[FR-Vocab] quai.
+<break time="1.5s"/>
+
+[FR-Vocab] sortie.
+<break time="1.0s"/>
+[KO] 출구
+<break time="1.0s"/>
+[FR-Vocab] sortie.
+<break time="1.5s"/>
+
+[FR-Vocab] entrée.
+<break time="1.0s"/>
+[KO] 입구
+<break time="1.0s"/>
+[FR-Vocab] entrée.
+<break time="1.5s"/>

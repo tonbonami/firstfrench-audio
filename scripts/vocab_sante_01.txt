@@ -1,0 +1,25 @@
+# Vocabulaire — La santé (건강) / 섹션 1: 증상 표현
+# voices: Vocab=warm-mother
+
+[FR-Vocab] avoir mal à la tête.
+<break time="0.5s"/>
+[FR-Vocab] avoir mal au ventre.
+<break time="0.5s"/>
+[FR-Vocab] avoir mal à la gorge.
+<break time="0.5s"/>
+[FR-Vocab] avoir mal au dos.
+<break time="0.5s"/>
+[FR-Vocab] avoir de la fièvre.
+<break time="0.5s"/>
+[FR-Vocab] avoir le nez qui coule.
+<break time="0.5s"/>
+[FR-Vocab] tousser.
+<break time="0.5s"/>
+[FR-Vocab] éternuer.
+<break time="0.5s"/>
+[FR-Vocab] se sentir fatigué.
+<break time="0.5s"/>
+[FR-Vocab] avoir des vertiges.
+<break time="0.5s"/>
+[FR-Vocab] vomir.
+<break time="0.5s"/>

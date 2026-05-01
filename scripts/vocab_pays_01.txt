@@ -1,0 +1,33 @@
+# Vocabulaire — Les pays et les nationalités (나라·국적) / 섹션 1: 주요 나라
+# voices: Vocab=warm-mother
+
+[FR-Vocab] Corée du Sud.
+<break time="0.5s"/>
+[FR-Vocab] France.
+<break time="0.5s"/>
+[FR-Vocab] Japon.
+<break time="0.5s"/>
+[FR-Vocab] Chine.
+<break time="0.5s"/>
+[FR-Vocab] États-Unis.
+<break time="0.5s"/>
+[FR-Vocab] Royaume-Uni.
+<break time="0.5s"/>
+[FR-Vocab] Allemagne.
+<break time="0.5s"/>
+[FR-Vocab] Italie.
+<break time="0.5s"/>
+[FR-Vocab] Espagne.
+<break time="0.5s"/>
+[FR-Vocab] Portugal.
+<break time="0.5s"/>
+[FR-Vocab] Brésil.
+<break time="0.5s"/>
+[FR-Vocab] Russie.
+<break time="0.5s"/>
+[FR-Vocab] Canada.
+<break time="0.5s"/>
+[FR-Vocab] Belgique.
+<break time="0.5s"/>
+[FR-Vocab] Suisse.
+<break time="0.5s"/>

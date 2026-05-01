@@ -1,0 +1,23 @@
+# Vocabulaire — La nourriture (음식) / 섹션 10: 예문
+# voices: Vocab=warm-mother
+
+[FR-Vocab] Je voudrais du pain, s'il vous plaît.
+<break time="1.0s"/>
+[FR-Vocab] Je ne mange pas de porc.
+<break time="1.0s"/>
+[FR-Vocab] Je suis allergique aux fruits de mer.
+<break time="1.0s"/>
+[FR-Vocab] Je voudrais une salade, s'il vous plaît.
+<break time="1.0s"/>
+[FR-Vocab] Les fraises sont délicieuses !
+<break time="1.0s"/>
+[FR-Vocab] Avec ou sans fromage ?
+<break time="1.0s"/>
+[FR-Vocab] Un café, s'il vous plaît.
+<break time="1.0s"/>
+[FR-Vocab] Je voudrais une glace au chocolat.
+<break time="1.0s"/>
+[FR-Vocab] C'est trop salé.
+<break time="1.0s"/>
+[FR-Vocab] Encore un verre de vin, s'il vous plaît.
+<break time="1.0s"/>

@@ -1,0 +1,27 @@
+# Vocabulaire — Les animaux (동물) / 섹션 3: 야생 동물
+# voices: Vocab=warm-mother
+
+[FR-Vocab] lion.
+<break time="0.5s"/>
+[FR-Vocab] tigre.
+<break time="0.5s"/>
+[FR-Vocab] éléphant.
+<break time="0.5s"/>
+[FR-Vocab] girafe.
+<break time="0.5s"/>
+[FR-Vocab] ours.
+<break time="0.5s"/>
+[FR-Vocab] loup.
+<break time="0.5s"/>
+[FR-Vocab] renard.
+<break time="0.5s"/>
+[FR-Vocab] singe.
+<break time="0.5s"/>
+[FR-Vocab] serpent.
+<break time="0.5s"/>
+[FR-Vocab] grenouille.
+<break time="0.5s"/>
+[FR-Vocab] dauphin.
+<break time="0.5s"/>
+[FR-Vocab] pingouin.
+<break time="0.5s"/>

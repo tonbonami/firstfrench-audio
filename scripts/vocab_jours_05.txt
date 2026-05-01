@@ -1,0 +1,23 @@
+# Vocabulaire — Les jours et les mois (요일과 달이름) / 섹션 5: 예문
+# voices: Vocab=warm-mother
+
+[FR-Vocab] Je travaille le dimanche.
+<break time="1.0s"/>
+[FR-Vocab] Mon anniversaire est en juin.
+<break time="1.0s"/>
+[FR-Vocab] Quel jour on est aujourd'hui ?
+<break time="1.0s"/>
+[FR-Vocab] Demain, c'est mardi.
+<break time="1.0s"/>
+[FR-Vocab] Je suis allé hier.
+<break time="1.0s"/>
+[FR-Vocab] Le 14 juillet est la fête nationale française.
+<break time="1.0s"/>
+[FR-Vocab] Je travaille cinq jours par semaine.
+<break time="1.0s"/>
+[FR-Vocab] Je pars en voyage le mois prochain.
+<break time="1.0s"/>
+[FR-Vocab] Elle est née en août.
+<break time="1.0s"/>
+[FR-Vocab] On se voit samedi.
+<break time="1.0s"/>

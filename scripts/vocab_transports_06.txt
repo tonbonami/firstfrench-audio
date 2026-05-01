@@ -1,0 +1,59 @@
+# Vocabulaire — vocab_transports_06
+# 패턴: FR → KO → FR
+# voices: Vocab=lisons-narrator
+
+[FR-Vocab] aller.
+<break time="1.0s"/>
+[KO] 가다
+<break time="1.0s"/>
+[FR-Vocab] aller.
+<break time="1.5s"/>
+
+[FR-Vocab] venir.
+<break time="1.0s"/>
+[KO] 오다
+<break time="1.0s"/>
+[FR-Vocab] venir.
+<break time="1.5s"/>
+
+[FR-Vocab] prendre.
+<break time="1.0s"/>
+[KO] 타다
+<break time="1.0s"/>
+[FR-Vocab] prendre.
+<break time="1.5s"/>
+
+[FR-Vocab] monter.
+<break time="1.0s"/>
+[KO] 타다·올라가다
+<break time="1.0s"/>
+[FR-Vocab] monter.
+<break time="1.5s"/>
+
+[FR-Vocab] descendre.
+<break time="1.0s"/>
+[KO] 내리다·내려가다
+<break time="1.0s"/>
+[FR-Vocab] descendre.
+<break time="1.5s"/>
+
+[FR-Vocab] conduire.
+<break time="1.0s"/>
+[KO] 운전하다
+<break time="1.0s"/>
+[FR-Vocab] conduire.
+<break time="1.5s"/>
+
+[FR-Vocab] marcher.
+<break time="1.0s"/>
+[KO] 걷다
+<break time="1.0s"/>
+[FR-Vocab] marcher.
+<break time="1.5s"/>
+
+[FR-Vocab] traverser.
+<break time="1.0s"/>
+[KO] 건너다
+<break time="1.0s"/>
+[FR-Vocab] traverser.
+<break time="1.5s"/>

@@ -1,0 +1,23 @@
+# Vocabulaire — L'école (학교·공부) / 섹션 6: 예문
+# voices: Vocab=warm-mother
+
+[FR-Vocab] J'étudie le français.
+<break time="1.0s"/>
+[FR-Vocab] J'ai un examen demain.
+<break time="1.0s"/>
+[FR-Vocab] Je révise avant l'examen.
+<break time="1.0s"/>
+[FR-Vocab] J'ai réussi mon bac !
+<break time="1.0s"/>
+[FR-Vocab] Je prends des notes en cours.
+<break time="1.0s"/>
+[FR-Vocab] Lève la main si tu as une question.
+<break time="1.0s"/>
+[FR-Vocab] Il a séché le cours de maths.
+<break time="1.0s"/>
+[FR-Vocab] Je suis fort en maths.
+<break time="1.0s"/>
+[FR-Vocab] Je dois rendre mon devoir.
+<break time="1.0s"/>
+[FR-Vocab] J'étudie à la bibliothèque.
+<break time="1.0s"/>

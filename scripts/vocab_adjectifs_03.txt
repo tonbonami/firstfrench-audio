@@ -1,0 +1,35 @@
+# Vocabulaire — Les adjectifs courants (자주 쓰는 형용사) / 섹션 3: 사람 묘사
+# voices: Vocab=warm-mother
+
+[FR-Vocab] sympa.
+<break time="0.5s"/>
+[FR-Vocab] gentil.
+<break time="0.5s"/>
+[FR-Vocab] gentille.
+<break time="0.5s"/>
+[FR-Vocab] timide.
+<break time="0.5s"/>
+[FR-Vocab] courageux.
+<break time="0.5s"/>
+[FR-Vocab] courageuse.
+<break time="0.5s"/>
+[FR-Vocab] drôle.
+<break time="0.5s"/>
+[FR-Vocab] sérieux.
+<break time="0.5s"/>
+[FR-Vocab] sérieuse.
+<break time="0.5s"/>
+[FR-Vocab] paresseux.
+<break time="0.5s"/>
+[FR-Vocab] paresseuse.
+<break time="0.5s"/>
+[FR-Vocab] intelligent.
+<break time="0.5s"/>
+[FR-Vocab] intelligente.
+<break time="0.5s"/>
+[FR-Vocab] créatif.
+<break time="0.5s"/>
+[FR-Vocab] créative.
+<break time="0.5s"/>
+[FR-Vocab] calme.
+<break time="0.5s"/>

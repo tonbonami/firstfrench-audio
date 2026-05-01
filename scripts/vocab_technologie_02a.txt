@@ -1,0 +1,52 @@
+# Vocabulaire — vocab_technologie_02a / part a
+# 패턴: FR → KO → FR
+# voices: Vocab=lisons-narrator
+
+[FR-Vocab] Internet.
+<break time="1.0s"/>
+[KO] 인터넷
+<break time="1.0s"/>
+[FR-Vocab] Internet.
+<break time="1.5s"/>
+
+[FR-Vocab] réseau.
+<break time="1.0s"/>
+[KO] 네트워크
+<break time="1.0s"/>
+[FR-Vocab] réseau.
+<break time="1.5s"/>
+
+[FR-Vocab] Wi-Fi.
+<break time="1.0s"/>
+[KO] 와이파이
+<break time="1.0s"/>
+[FR-Vocab] Wi-Fi.
+<break time="1.5s"/>
+
+[FR-Vocab] site web.
+<break time="1.0s"/>
+[KO] 웹사이트
+<break time="1.0s"/>
+[FR-Vocab] site web.
+<break time="1.5s"/>
+
+[FR-Vocab] application.
+<break time="1.0s"/>
+[KO] 앱
+<break time="1.0s"/>
+[FR-Vocab] application.
+<break time="1.5s"/>
+
+[FR-Vocab] mot de passe.
+<break time="1.0s"/>
+[KO] 비밀번호
+<break time="1.0s"/>
+[FR-Vocab] mot de passe.
+<break time="1.5s"/>
+
+[FR-Vocab] compte.
+<break time="1.0s"/>
+[KO] 계정
+<break time="1.0s"/>
+[FR-Vocab] compte.
+<break time="1.5s"/>

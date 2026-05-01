@@ -1,0 +1,45 @@
+# Vocabulaire — vocab_loisirs_04
+# 패턴: FR → KO → FR
+# voices: Vocab=lisons-narrator
+
+[FR-Vocab] tous les jours.
+<break time="1.0s"/>
+[KO] 매일
+<break time="1.0s"/>
+[FR-Vocab] tous les jours.
+<break time="1.5s"/>
+
+[FR-Vocab] une fois par semaine.
+<break time="1.0s"/>
+[KO] 주 1회
+<break time="1.0s"/>
+[FR-Vocab] une fois par semaine.
+<break time="1.5s"/>
+
+[FR-Vocab] souvent.
+<break time="1.0s"/>
+[KO] 자주
+<break time="1.0s"/>
+[FR-Vocab] souvent.
+<break time="1.5s"/>
+
+[FR-Vocab] rarement.
+<break time="1.0s"/>
+[KO] 드물게
+<break time="1.0s"/>
+[FR-Vocab] rarement.
+<break time="1.5s"/>
+
+[FR-Vocab] jamais.
+<break time="1.0s"/>
+[KO] 절대로
+<break time="1.0s"/>
+[FR-Vocab] jamais.
+<break time="1.5s"/>
+
+[FR-Vocab] parfois.
+<break time="1.0s"/>
+[KO] 가끔
+<break time="1.0s"/>
+[FR-Vocab] parfois.
+<break time="1.5s"/>

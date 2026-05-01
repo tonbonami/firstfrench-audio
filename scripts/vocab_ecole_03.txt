@@ -1,0 +1,73 @@
+# Vocabulaire — vocab_ecole_03
+# 패턴: FR → KO → FR
+# voices: Vocab=lisons-narrator
+
+[FR-Vocab] cahier.
+<break time="1.0s"/>
+[KO] 공책
+<break time="1.0s"/>
+[FR-Vocab] cahier.
+<break time="1.5s"/>
+
+[FR-Vocab] livre.
+<break time="1.0s"/>
+[KO] 책·교과서
+<break time="1.0s"/>
+[FR-Vocab] livre.
+<break time="1.5s"/>
+
+[FR-Vocab] stylo.
+<break time="1.0s"/>
+[KO] 볼펜
+<break time="1.0s"/>
+[FR-Vocab] stylo.
+<break time="1.5s"/>
+
+[FR-Vocab] crayon.
+<break time="1.0s"/>
+[KO] 연필
+<break time="1.0s"/>
+[FR-Vocab] crayon.
+<break time="1.5s"/>
+
+[FR-Vocab] règle.
+<break time="1.0s"/>
+[KO] 자
+<break time="1.0s"/>
+[FR-Vocab] règle.
+<break time="1.5s"/>
+
+[FR-Vocab] gomme.
+<break time="1.0s"/>
+[KO] 지우개
+<break time="1.0s"/>
+[FR-Vocab] gomme.
+<break time="1.5s"/>
+
+[FR-Vocab] sac à dos.
+<break time="1.0s"/>
+[KO] 백팩
+<break time="1.0s"/>
+[FR-Vocab] sac à dos.
+<break time="1.5s"/>
+
+[FR-Vocab] cartable.
+<break time="1.0s"/>
+[KO] 책가방
+<break time="1.0s"/>
+[FR-Vocab] cartable.
+<break time="1.5s"/>
+
+[FR-Vocab] tableau.
+<break time="1.0s"/>
+[KO] 칠판
+<break time="1.0s"/>
+[FR-Vocab] tableau.
+<break time="1.5s"/>
+
+[FR-Vocab] bureau.
+<break time="1.0s"/>
+[KO] 책상
+<break time="1.0s"/>
+[FR-Vocab] bureau.
+<break time="1.5s"/>

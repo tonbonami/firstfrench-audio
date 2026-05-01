@@ -1,0 +1,80 @@
+# Vocabulaire — vocab_maison_02
+# 패턴: FR → KO → FR
+# voices: Vocab=lisons-narrator
+
+[FR-Vocab] pièce.
+<break time="1.0s"/>
+[KO] 방.
+<break time="1.0s"/>
+[FR-Vocab] pièce.
+<break time="1.5s"/>
+
+[FR-Vocab] chambre.
+<break time="1.0s"/>
+[KO] 침실.
+<break time="1.0s"/>
+[FR-Vocab] chambre.
+<break time="1.5s"/>
+
+[FR-Vocab] cuisine.
+<break time="1.0s"/>
+[KO] 부엌.
+<break time="1.0s"/>
+[FR-Vocab] cuisine.
+<break time="1.5s"/>
+
+[FR-Vocab] salon.
+<break time="1.0s"/>
+[KO] 거실.
+<break time="1.0s"/>
+[FR-Vocab] salon.
+<break time="1.5s"/>
+
+[FR-Vocab] salle de bains.
+<break time="1.0s"/>
+[KO] 욕실.
+<break time="1.0s"/>
+[FR-Vocab] salle de bains.
+<break time="1.5s"/>
+
+[FR-Vocab] toilettes.
+<break time="1.0s"/>
+[KO] 화장실, 복수형.
+<break time="1.0s"/>
+[FR-Vocab] toilettes.
+<break time="1.5s"/>
+
+[FR-Vocab] entrée.
+<break time="1.0s"/>
+[KO] 현관.
+<break time="1.0s"/>
+[FR-Vocab] entrée.
+<break time="1.5s"/>
+
+[FR-Vocab] couloir.
+<break time="1.0s"/>
+[KO] 복도.
+<break time="1.0s"/>
+[FR-Vocab] couloir.
+<break time="1.5s"/>
+
+[FR-Vocab] balcon.
+<break time="1.0s"/>
+[KO] 발코니.
+<break time="1.0s"/>
+[FR-Vocab] balcon.
+<break time="1.5s"/>
+
+[FR-Vocab] jardin.
+<break time="1.0s"/>
+[KO] 정원.
+<break time="1.0s"/>
+[FR-Vocab] jardin.
+<break time="1.5s"/>
+
+[FR-Vocab] garage.
+<break time="1.0s"/>
+[KO] 차고.
+<break time="1.0s"/>
+[FR-Vocab] garage.
+<break time="1.5s"/>

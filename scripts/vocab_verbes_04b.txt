@@ -1,0 +1,73 @@
+# Vocabulaire — vocab_verbes_04b / part b
+# 패턴: FR → KO → FR
+# voices: Vocab=lisons-narrator
+
+[FR-Vocab] aimer.
+<break time="1.0s"/>
+[KO] 좋아하다·사랑하다
+<break time="1.0s"/>
+[FR-Vocab] aimer.
+<break time="1.5s"/>
+
+[FR-Vocab] préférer.
+<break time="1.0s"/>
+[KO] 더 좋아하다
+<break time="1.0s"/>
+[FR-Vocab] préférer.
+<break time="1.5s"/>
+
+[FR-Vocab] acheter.
+<break time="1.0s"/>
+[KO] 사다
+<break time="1.0s"/>
+[FR-Vocab] acheter.
+<break time="1.5s"/>
+
+[FR-Vocab] vendre.
+<break time="1.0s"/>
+[KO] 팔다
+<break time="1.0s"/>
+[FR-Vocab] vendre.
+<break time="1.5s"/>
+
+[FR-Vocab] donner.
+<break time="1.0s"/>
+[KO] 주다
+<break time="1.0s"/>
+[FR-Vocab] donner.
+<break time="1.5s"/>
+
+[FR-Vocab] prendre.
+<break time="1.0s"/>
+[KO] 잡다·타다
+<break time="1.0s"/>
+[FR-Vocab] prendre.
+<break time="1.5s"/>
+
+[FR-Vocab] mettre.
+<break time="1.0s"/>
+[KO] 놓다·입다
+<break time="1.0s"/>
+[FR-Vocab] mettre.
+<break time="1.5s"/>
+
+[FR-Vocab] voir.
+<break time="1.0s"/>
+[KO] 보다·만나다
+<break time="1.0s"/>
+[FR-Vocab] voir.
+<break time="1.5s"/>
+
+[FR-Vocab] penser.
+<break time="1.0s"/>
+[KO] 생각하다
+<break time="1.0s"/>
+[FR-Vocab] penser.
+<break time="1.5s"/>
+
+[FR-Vocab] croire.
+<break time="1.0s"/>
+[KO] 믿다
+<break time="1.0s"/>
+[FR-Vocab] croire.
+<break time="1.5s"/>

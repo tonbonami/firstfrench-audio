@@ -1,0 +1,66 @@
+# Vocabulaire — vocab_ecole_04
+# 패턴: FR → KO → FR
+# voices: Vocab=lisons-narrator
+
+[FR-Vocab] mathématiques.
+<break time="1.0s"/>
+[KO] 수학
+<break time="1.0s"/>
+[FR-Vocab] mathématiques.
+<break time="1.5s"/>
+
+[FR-Vocab] français.
+<break time="1.0s"/>
+[KO] 프랑스어
+<break time="1.0s"/>
+[FR-Vocab] français.
+<break time="1.5s"/>
+
+[FR-Vocab] anglais.
+<break time="1.0s"/>
+[KO] 영어
+<break time="1.0s"/>
+[FR-Vocab] anglais.
+<break time="1.5s"/>
+
+[FR-Vocab] histoire.
+<break time="1.0s"/>
+[KO] 역사
+<break time="1.0s"/>
+[FR-Vocab] histoire.
+<break time="1.5s"/>
+
+[FR-Vocab] géographie.
+<break time="1.0s"/>
+[KO] 지리
+<break time="1.0s"/>
+[FR-Vocab] géographie.
+<break time="1.5s"/>
+
+[FR-Vocab] sciences.
+<break time="1.0s"/>
+[KO] 과학
+<break time="1.0s"/>
+[FR-Vocab] sciences.
+<break time="1.5s"/>
+
+[FR-Vocab] éducation physique.
+<break time="1.0s"/>
+[KO] 체육
+<break time="1.0s"/>
+[FR-Vocab] éducation physique.
+<break time="1.5s"/>
+
+[FR-Vocab] musique.
+<break time="1.0s"/>
+[KO] 음악
+<break time="1.0s"/>
+[FR-Vocab] musique.
+<break time="1.5s"/>
+
+[FR-Vocab] philosophie.
+<break time="1.0s"/>
+[KO] 철학
+<break time="1.0s"/>
+[FR-Vocab] philosophie.
+<break time="1.5s"/>

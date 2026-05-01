@@ -1,0 +1,23 @@
+# Vocabulaire — La cuisine et les recettes (요리·레시피) / 섹션 4: 예문
+# voices: Vocab=warm-mother
+
+[FR-Vocab] D'abord, épluchez les carottes.
+<break time="1.0s"/>
+[FR-Vocab] Ensuite, faites-les cuire à la vapeur pendant 10 minutes.
+<break time="1.0s"/>
+[FR-Vocab] Ajoutez du sel et du poivre selon votre goût.
+<break time="1.0s"/>
+[FR-Vocab] Laissez mijoter 20 minutes à feu doux.
+<break time="1.0s"/>
+[FR-Vocab] J'émince les oignons.
+<break time="1.0s"/>
+[FR-Vocab] Versez le lait.
+<break time="1.0s"/>
+[FR-Vocab] Mélangez bien.
+<break time="1.0s"/>
+[FR-Vocab] Préchauffez le four à 180 degrés.
+<break time="1.0s"/>
+[FR-Vocab] Hachez l'ail.
+<break time="1.0s"/>
+[FR-Vocab] Réchauffez le plat.
+<break time="1.0s"/>

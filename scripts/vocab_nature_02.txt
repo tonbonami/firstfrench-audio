@@ -1,0 +1,45 @@
+# Vocabulaire — vocab_nature_02
+# 패턴: FR → KO → FR
+# voices: Vocab=lisons-narrator
+
+[FR-Vocab] rivière.
+<break time="1.0s"/>
+[KO] 강
+<break time="1.0s"/>
+[FR-Vocab] rivière.
+<break time="1.5s"/>
+
+[FR-Vocab] fleuve.
+<break time="1.0s"/>
+[KO] 강
+<break time="1.0s"/>
+[FR-Vocab] fleuve.
+<break time="1.5s"/>
+
+[FR-Vocab] lac.
+<break time="1.0s"/>
+[KO] 호수
+<break time="1.0s"/>
+[FR-Vocab] lac.
+<break time="1.5s"/>
+
+[FR-Vocab] océan.
+<break time="1.0s"/>
+[KO] 대양
+<break time="1.0s"/>
+[FR-Vocab] océan.
+<break time="1.5s"/>
+
+[FR-Vocab] mer.
+<break time="1.0s"/>
+[KO] 바다
+<break time="1.0s"/>
+[FR-Vocab] mer.
+<break time="1.5s"/>
+
+[FR-Vocab] cascade.
+<break time="1.0s"/>
+[KO] 폭포
+<break time="1.0s"/>
+[FR-Vocab] cascade.
+<break time="1.5s"/>

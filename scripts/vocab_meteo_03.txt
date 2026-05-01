@@ -1,0 +1,31 @@
+# Vocabulaire — La météo (날씨) / 섹션 3: 날씨 명사
+# voices: Vocab=warm-mother
+
+[FR-Vocab] soleil.
+<break time="0.5s"/>
+[FR-Vocab] pluie.
+<break time="0.5s"/>
+[FR-Vocab] neige.
+<break time="0.5s"/>
+[FR-Vocab] vent.
+<break time="0.5s"/>
+[FR-Vocab] nuage.
+<break time="0.5s"/>
+[FR-Vocab] brouillard.
+<break time="0.5s"/>
+[FR-Vocab] orage.
+<break time="0.5s"/>
+[FR-Vocab] tempête.
+<break time="0.5s"/>
+[FR-Vocab] arc-en-ciel.
+<break time="0.5s"/>
+[FR-Vocab] chaleur.
+<break time="0.5s"/>
+[FR-Vocab] froid.
+<break time="0.5s"/>
+[FR-Vocab] température.
+<break time="0.5s"/>
+[FR-Vocab] météo.
+<break time="0.5s"/>
+[FR-Vocab] degré.
+<break time="0.5s"/>

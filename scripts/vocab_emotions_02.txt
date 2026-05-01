@@ -1,0 +1,47 @@
+# Vocabulaire — Les émotions (감정) / 섹션 2: 부정적 감정
+# voices: Vocab=warm-mother
+
+[FR-Vocab] triste.
+<break time="0.5s"/>
+[FR-Vocab] fatigué.
+<break time="0.5s"/>
+[FR-Vocab] fatiguée.
+<break time="0.5s"/>
+[FR-Vocab] stressé.
+<break time="0.5s"/>
+[FR-Vocab] stressée.
+<break time="0.5s"/>
+[FR-Vocab] inquiet.
+<break time="0.5s"/>
+[FR-Vocab] inquiète.
+<break time="0.5s"/>
+[FR-Vocab] en colère.
+<break time="0.5s"/>
+[FR-Vocab] déçu.
+<break time="0.5s"/>
+[FR-Vocab] déçue.
+<break time="0.5s"/>
+[FR-Vocab] jaloux.
+<break time="0.5s"/>
+[FR-Vocab] jalouse.
+<break time="0.5s"/>
+[FR-Vocab] embarrassé.
+<break time="0.5s"/>
+[FR-Vocab] embarrassée.
+<break time="0.5s"/>
+[FR-Vocab] ennuyé.
+<break time="0.5s"/>
+[FR-Vocab] ennuyée.
+<break time="0.5s"/>
+[FR-Vocab] effrayé.
+<break time="0.5s"/>
+[FR-Vocab] effrayée.
+<break time="0.5s"/>
+[FR-Vocab] déprimé.
+<break time="0.5s"/>
+[FR-Vocab] déprimée.
+<break time="0.5s"/>
+[FR-Vocab] énervé.
+<break time="0.5s"/>
+[FR-Vocab] énervée.
+<break time="0.5s"/>

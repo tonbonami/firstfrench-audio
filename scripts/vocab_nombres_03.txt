@@ -1,0 +1,73 @@
+# Vocabulaire — vocab_nombres_03
+# 패턴: FR → KO → FR
+# voices: Vocab=lisons-narrator
+
+[FR-Vocab] trente.
+<break time="1.0s"/>
+[KO] 30
+<break time="1.0s"/>
+[FR-Vocab] trente.
+<break time="1.5s"/>
+
+[FR-Vocab] quarante.
+<break time="1.0s"/>
+[KO] 40
+<break time="1.0s"/>
+[FR-Vocab] quarante.
+<break time="1.5s"/>
+
+[FR-Vocab] cinquante.
+<break time="1.0s"/>
+[KO] 50
+<break time="1.0s"/>
+[FR-Vocab] cinquante.
+<break time="1.5s"/>
+
+[FR-Vocab] soixante.
+<break time="1.0s"/>
+[KO] 60
+<break time="1.0s"/>
+[FR-Vocab] soixante.
+<break time="1.5s"/>
+
+[FR-Vocab] soixante-dix.
+<break time="1.0s"/>
+[KO] 70
+<break time="1.0s"/>
+[FR-Vocab] soixante-dix.
+<break time="1.5s"/>
+
+[FR-Vocab] quatre-vingts.
+<break time="1.0s"/>
+[KO] 80
+<break time="1.0s"/>
+[FR-Vocab] quatre-vingts.
+<break time="1.5s"/>
+
+[FR-Vocab] quatre-vingt-dix.
+<break time="1.0s"/>
+[KO] 90
+<break time="1.0s"/>
+[FR-Vocab] quatre-vingt-dix.
+<break time="1.5s"/>
+
+[FR-Vocab] cent.
+<break time="1.0s"/>
+[KO] 100
+<break time="1.0s"/>
+[FR-Vocab] cent.
+<break time="1.5s"/>
+
+[FR-Vocab] mille.
+<break time="1.0s"/>
+[KO] 1 000
+<break time="1.0s"/>
+[FR-Vocab] mille.
+<break time="1.5s"/>
+
+[FR-Vocab] un million.
+<break time="1.0s"/>
+[KO] 백만
+<break time="1.0s"/>
+[FR-Vocab] un million.
+<break time="1.5s"/>

@@ -1,0 +1,52 @@
+# Vocabulaire — vocab_loisirs_01b / part b
+# 패턴: FR → KO → FR
+# voices: Vocab=lisons-narrator
+
+[FR-Vocab] randonnée.
+<break time="1.0s"/>
+[KO] 하이킹
+<break time="1.0s"/>
+[FR-Vocab] randonnée.
+<break time="1.5s"/>
+
+[FR-Vocab] ski.
+<break time="1.0s"/>
+[KO] 스키
+<break time="1.0s"/>
+[FR-Vocab] ski.
+<break time="1.5s"/>
+
+[FR-Vocab] yoga.
+<break time="1.0s"/>
+[KO] 요가
+<break time="1.0s"/>
+[FR-Vocab] yoga.
+<break time="1.5s"/>
+
+[FR-Vocab] boxe.
+<break time="1.0s"/>
+[KO] 권투
+<break time="1.0s"/>
+[FR-Vocab] boxe.
+<break time="1.5s"/>
+
+[FR-Vocab] gymnastique.
+<break time="1.0s"/>
+[KO] 체조
+<break time="1.0s"/>
+[FR-Vocab] gymnastique.
+<break time="1.5s"/>
+
+[FR-Vocab] golf.
+<break time="1.0s"/>
+[KO] 골프
+<break time="1.0s"/>
+[FR-Vocab] golf.
+<break time="1.5s"/>
+
+[FR-Vocab] rugby.
+<break time="1.0s"/>
+[KO] 럭비
+<break time="1.0s"/>
+[FR-Vocab] rugby.
+<break time="1.5s"/>

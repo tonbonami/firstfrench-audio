@@ -1,0 +1,23 @@
+# Vocabulaire — Le voyage (여행) / 섹션 5: 예문
+# voices: Vocab=warm-mother
+
+[FR-Vocab] Où est la station de métro la plus proche ?
+<break time="1.0s"/>
+[FR-Vocab] Vous avez une chambre pour deux personnes ?
+<break time="1.0s"/>
+[FR-Vocab] Je voudrais un billet pour Paris, s'il vous plaît.
+<break time="1.0s"/>
+[FR-Vocab] Le vol est à l'heure ?
+<break time="1.0s"/>
+[FR-Vocab] C'est combien pour une nuit ?
+<break time="1.0s"/>
+[FR-Vocab] Pouvez-vous recommander un bon restaurant ?
+<break time="1.0s"/>
+[FR-Vocab] Je suis perdu. Pouvez-vous m'aider ?
+<break time="1.0s"/>
+[FR-Vocab] J'ai perdu mon passeport.
+<break time="1.0s"/>
+[FR-Vocab] Le vol est en retard.
+<break time="1.0s"/>
+[FR-Vocab] Pouvez-vous répéter ?
+<break time="1.0s"/>

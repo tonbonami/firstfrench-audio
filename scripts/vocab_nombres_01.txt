@@ -1,0 +1,27 @@
+# Vocabulaire — Les nombres (숫자·수) / 섹션 1: 1~10
+# voices: Vocab=warm-mother
+
+[FR-Vocab] zéro.
+<break time="0.5s"/>
+[FR-Vocab] un.
+<break time="0.5s"/>
+[FR-Vocab] une.
+<break time="0.5s"/>
+[FR-Vocab] deux.
+<break time="0.5s"/>
+[FR-Vocab] trois.
+<break time="0.5s"/>
+[FR-Vocab] quatre.
+<break time="0.5s"/>
+[FR-Vocab] cinq.
+<break time="0.5s"/>
+[FR-Vocab] six.
+<break time="0.5s"/>
+[FR-Vocab] sept.
+<break time="0.5s"/>
+[FR-Vocab] huit.
+<break time="0.5s"/>
+[FR-Vocab] neuf.
+<break time="0.5s"/>
+[FR-Vocab] dix.
+<break time="0.5s"/>

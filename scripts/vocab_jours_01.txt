@@ -1,0 +1,52 @@
+# Vocabulaire — vocab_jours_01
+# 패턴: FR → KO → FR
+# voices: Vocab=lisons-narrator
+
+[FR-Vocab] lundi.
+<break time="1.0s"/>
+[KO] 월요일.
+<break time="1.0s"/>
+[FR-Vocab] lundi.
+<break time="1.5s"/>
+
+[FR-Vocab] mardi.
+<break time="1.0s"/>
+[KO] 화요일.
+<break time="1.0s"/>
+[FR-Vocab] mardi.
+<break time="1.5s"/>
+
+[FR-Vocab] mercredi.
+<break time="1.0s"/>
+[KO] 수요일.
+<break time="1.0s"/>
+[FR-Vocab] mercredi.
+<break time="1.5s"/>
+
+[FR-Vocab] jeudi.
+<break time="1.0s"/>
+[KO] 목요일.
+<break time="1.0s"/>
+[FR-Vocab] jeudi.
+<break time="1.5s"/>
+
+[FR-Vocab] vendredi.
+<break time="1.0s"/>
+[KO] 금요일.
+<break time="1.0s"/>
+[FR-Vocab] vendredi.
+<break time="1.5s"/>
+
+[FR-Vocab] samedi.
+<break time="1.0s"/>
+[KO] 토요일.
+<break time="1.0s"/>
+[FR-Vocab] samedi.
+<break time="1.5s"/>
+
+[FR-Vocab] dimanche.
+<break time="1.0s"/>
+[KO] 일요일.
+<break time="1.0s"/>
+[FR-Vocab] dimanche.
+<break time="1.5s"/>

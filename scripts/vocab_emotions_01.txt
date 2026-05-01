@@ -1,0 +1,35 @@
+# Vocabulaire — Les émotions (감정) / 섹션 1: 긍정적 감정
+# voices: Vocab=warm-mother
+
+[FR-Vocab] heureux.
+<break time="0.5s"/>
+[FR-Vocab] heureuse.
+<break time="0.5s"/>
+[FR-Vocab] content.
+<break time="0.5s"/>
+[FR-Vocab] contente.
+<break time="0.5s"/>
+[FR-Vocab] joyeux.
+<break time="0.5s"/>
+[FR-Vocab] joyeuse.
+<break time="0.5s"/>
+[FR-Vocab] enthousiaste.
+<break time="0.5s"/>
+[FR-Vocab] calme.
+<break time="0.5s"/>
+[FR-Vocab] fier.
+<break time="0.5s"/>
+[FR-Vocab] fière.
+<break time="0.5s"/>
+[FR-Vocab] soulagé.
+<break time="0.5s"/>
+[FR-Vocab] soulagée.
+<break time="0.5s"/>
+[FR-Vocab] amoureux.
+<break time="0.5s"/>
+[FR-Vocab] amoureuse.
+<break time="0.5s"/>
+[FR-Vocab] reconnaissant.
+<break time="0.5s"/>
+[FR-Vocab] reconnaissante.
+<break time="0.5s"/>

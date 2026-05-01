@@ -1,0 +1,52 @@
+# Vocabulaire — vocab_meteo_03b / part b
+# 패턴: FR → KO → FR
+# voices: Vocab=lisons-narrator
+
+[FR-Vocab] tempête.
+<break time="1.0s"/>
+[KO] 폭풍
+<break time="1.0s"/>
+[FR-Vocab] tempête.
+<break time="1.5s"/>
+
+[FR-Vocab] arc-en-ciel.
+<break time="1.0s"/>
+[KO] 무지개
+<break time="1.0s"/>
+[FR-Vocab] arc-en-ciel.
+<break time="1.5s"/>
+
+[FR-Vocab] chaleur.
+<break time="1.0s"/>
+[KO] 더위
+<break time="1.0s"/>
+[FR-Vocab] chaleur.
+<break time="1.5s"/>
+
+[FR-Vocab] froid.
+<break time="1.0s"/>
+[KO] 추위
+<break time="1.0s"/>
+[FR-Vocab] froid.
+<break time="1.5s"/>
+
+[FR-Vocab] température.
+<break time="1.0s"/>
+[KO] 기온
+<break time="1.0s"/>
+[FR-Vocab] température.
+<break time="1.5s"/>
+
+[FR-Vocab] météo.
+<break time="1.0s"/>
+[KO] 일기예보
+<break time="1.0s"/>
+[FR-Vocab] météo.
+<break time="1.5s"/>
+
+[FR-Vocab] degré.
+<break time="1.0s"/>
+[KO] 도
+<break time="1.0s"/>
+[FR-Vocab] degré.
+<break time="1.5s"/>

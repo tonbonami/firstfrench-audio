@@ -1,0 +1,73 @@
+# Vocabulaire — vocab_transports_01
+# 패턴: FR → KO → FR
+# voices: Vocab=lisons-narrator
+
+[FR-Vocab] voiture.
+<break time="1.0s"/>
+[KO] 자동차
+<break time="1.0s"/>
+[FR-Vocab] voiture.
+<break time="1.5s"/>
+
+[FR-Vocab] bus.
+<break time="1.0s"/>
+[KO] 버스
+<break time="1.0s"/>
+[FR-Vocab] bus.
+<break time="1.5s"/>
+
+[FR-Vocab] métro.
+<break time="1.0s"/>
+[KO] 지하철
+<break time="1.0s"/>
+[FR-Vocab] métro.
+<break time="1.5s"/>
+
+[FR-Vocab] train.
+<break time="1.0s"/>
+[KO] 기차
+<break time="1.0s"/>
+[FR-Vocab] train.
+<break time="1.5s"/>
+
+[FR-Vocab] tramway.
+<break time="1.0s"/>
+[KO] 트램
+<break time="1.0s"/>
+[FR-Vocab] tramway.
+<break time="1.5s"/>
+
+[FR-Vocab] taxi.
+<break time="1.0s"/>
+[KO] 택시
+<break time="1.0s"/>
+[FR-Vocab] taxi.
+<break time="1.5s"/>
+
+[FR-Vocab] vélo.
+<break time="1.0s"/>
+[KO] 자전거
+<break time="1.0s"/>
+[FR-Vocab] vélo.
+<break time="1.5s"/>
+
+[FR-Vocab] moto.
+<break time="1.0s"/>
+[KO] 오토바이
+<break time="1.0s"/>
+[FR-Vocab] moto.
+<break time="1.5s"/>
+
+[FR-Vocab] avion.
+<break time="1.0s"/>
+[KO] 비행기
+<break time="1.0s"/>
+[FR-Vocab] avion.
+<break time="1.5s"/>
+
+[FR-Vocab] bateau.
+<break time="1.0s"/>
+[KO] 배
+<break time="1.0s"/>
+[FR-Vocab] bateau.
+<break time="1.5s"/>

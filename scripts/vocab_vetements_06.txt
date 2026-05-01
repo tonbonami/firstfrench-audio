@@ -1,0 +1,23 @@
+# Vocabulaire — Les Vêtements (의복) / 섹션 6: 예문
+# voices: Vocab=warm-mother
+
+[FR-Vocab] Je porte un jean.
+<break time="1.0s"/>
+[FR-Vocab] Elle porte une robe rouge.
+<break time="1.0s"/>
+[FR-Vocab] Cette chemise est trop grande.
+<break time="1.0s"/>
+[FR-Vocab] Le chapeau est joli.
+<break time="1.0s"/>
+[FR-Vocab] Où sont mes chaussures ?
+<break time="1.0s"/>
+[FR-Vocab] Il fait froid, je mets mon manteau.
+<break time="1.0s"/>
+[FR-Vocab] J'ai perdu mon sac.
+<break time="1.0s"/>
+[FR-Vocab] Quelle est votre taille ?
+<break time="1.0s"/>
+[FR-Vocab] Je peux essayer ?
+<break time="1.0s"/>
+[FR-Vocab] Je veux acheter une paire de chaussettes.
+<break time="1.0s"/>

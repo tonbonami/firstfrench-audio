@@ -1,0 +1,45 @@
+# Vocabulaire — vocab_nourriture_07
+# 패턴: FR → KO → FR
+# voices: Vocab=lisons-narrator
+
+[FR-Vocab] eau.
+<break time="1.0s"/>
+[KO] 물.
+<break time="1.0s"/>
+[FR-Vocab] eau.
+<break time="1.5s"/>
+
+[FR-Vocab] café.
+<break time="1.0s"/>
+[KO] 커피.
+<break time="1.0s"/>
+[FR-Vocab] café.
+<break time="1.5s"/>
+
+[FR-Vocab] thé.
+<break time="1.0s"/>
+[KO] 차.
+<break time="1.0s"/>
+[FR-Vocab] thé.
+<break time="1.5s"/>
+
+[FR-Vocab] jus.
+<break time="1.0s"/>
+[KO] 주스.
+<break time="1.0s"/>
+[FR-Vocab] jus.
+<break time="1.5s"/>
+
+[FR-Vocab] vin.
+<break time="1.0s"/>
+[KO] 와인.
+<break time="1.0s"/>
+[FR-Vocab] vin.
+<break time="1.5s"/>
+
+[FR-Vocab] bière.
+<break time="1.0s"/>
+[KO] 맥주.
+<break time="1.0s"/>
+[FR-Vocab] bière.
+<break time="1.5s"/>

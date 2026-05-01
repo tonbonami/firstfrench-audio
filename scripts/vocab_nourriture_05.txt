@@ -1,0 +1,45 @@
+# Vocabulaire — vocab_nourriture_05
+# 패턴: FR → KO → FR
+# voices: Vocab=lisons-narrator
+
+[FR-Vocab] pomme.
+<break time="1.0s"/>
+[KO] 사과.
+<break time="1.0s"/>
+[FR-Vocab] pomme.
+<break time="1.5s"/>
+
+[FR-Vocab] orange.
+<break time="1.0s"/>
+[KO] 오렌지.
+<break time="1.0s"/>
+[FR-Vocab] orange.
+<break time="1.5s"/>
+
+[FR-Vocab] banane.
+<break time="1.0s"/>
+[KO] 바나나.
+<break time="1.0s"/>
+[FR-Vocab] banane.
+<break time="1.5s"/>
+
+[FR-Vocab] fraise.
+<break time="1.0s"/>
+[KO] 딸기.
+<break time="1.0s"/>
+[FR-Vocab] fraise.
+<break time="1.5s"/>
+
+[FR-Vocab] raisin.
+<break time="1.0s"/>
+[KO] 포도.
+<break time="1.0s"/>
+[FR-Vocab] raisin.
+<break time="1.5s"/>
+
+[FR-Vocab] fruits.
+<break time="1.0s"/>
+[KO] 과일, 복수형.
+<break time="1.0s"/>
+[FR-Vocab] fruits.
+<break time="1.5s"/>

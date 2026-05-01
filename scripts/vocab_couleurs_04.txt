@@ -1,0 +1,23 @@
+# Vocabulaire — Les Couleurs (색깔) / 섹션 4: 예문
+# voices: Vocab=warm-mother
+
+[FR-Vocab] C'est une voiture rouge.
+<break time="1.0s"/>
+[FR-Vocab] Elle porte une robe noire.
+<break time="1.0s"/>
+[FR-Vocab] Ma couleur préférée, c'est le bleu.
+<break time="1.0s"/>
+[FR-Vocab] Le ciel est gris.
+<break time="1.0s"/>
+[FR-Vocab] Il a les cheveux marron.
+<break time="1.0s"/>
+[FR-Vocab] Une chemise blanche et un pantalon bleu.
+<break time="1.0s"/>
+[FR-Vocab] Le feu est vert.
+<break time="1.0s"/>
+[FR-Vocab] Vous aimez le rose ?
+<break time="1.0s"/>
+[FR-Vocab] Je veux acheter un sac jaune.
+<break time="1.0s"/>
+[FR-Vocab] Je préfère les couleurs claires aux couleurs foncées.
+<break time="1.0s"/>

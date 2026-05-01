@@ -1,0 +1,45 @@
+# Vocabulaire — vocab_animaux_03b / part b
+# 패턴: FR → KO → FR
+# voices: Vocab=lisons-narrator
+
+[FR-Vocab] renard.
+<break time="1.0s"/>
+[KO] 여우
+<break time="1.0s"/>
+[FR-Vocab] renard.
+<break time="1.5s"/>
+
+[FR-Vocab] singe.
+<break time="1.0s"/>
+[KO] 원숭이
+<break time="1.0s"/>
+[FR-Vocab] singe.
+<break time="1.5s"/>
+
+[FR-Vocab] serpent.
+<break time="1.0s"/>
+[KO] 뱀
+<break time="1.0s"/>
+[FR-Vocab] serpent.
+<break time="1.5s"/>
+
+[FR-Vocab] grenouille.
+<break time="1.0s"/>
+[KO] 개구리
+<break time="1.0s"/>
+[FR-Vocab] grenouille.
+<break time="1.5s"/>
+
+[FR-Vocab] dauphin.
+<break time="1.0s"/>
+[KO] 돌고래
+<break time="1.0s"/>
+[FR-Vocab] dauphin.
+<break time="1.5s"/>
+
+[FR-Vocab] pingouin.
+<break time="1.0s"/>
+[KO] 펭귄
+<break time="1.0s"/>
+[FR-Vocab] pingouin.
+<break time="1.5s"/>

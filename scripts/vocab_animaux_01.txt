@@ -1,0 +1,59 @@
+# Vocabulaire — vocab_animaux_01
+# 패턴: FR → KO → FR
+# voices: Vocab=lisons-narrator
+
+[FR-Vocab] chien.
+<break time="1.0s"/>
+[KO] 개, 남성형
+<break time="1.0s"/>
+[FR-Vocab] chien.
+<break time="1.5s"/>
+
+[FR-Vocab] chienne.
+<break time="1.0s"/>
+[KO] 개, 여성형
+<break time="1.0s"/>
+[FR-Vocab] chienne.
+<break time="1.5s"/>
+
+[FR-Vocab] chat.
+<break time="1.0s"/>
+[KO] 고양이, 남성형
+<break time="1.0s"/>
+[FR-Vocab] chat.
+<break time="1.5s"/>
+
+[FR-Vocab] chatte.
+<break time="1.0s"/>
+[KO] 고양이, 여성형
+<break time="1.0s"/>
+[FR-Vocab] chatte.
+<break time="1.5s"/>
+
+[FR-Vocab] lapin.
+<break time="1.0s"/>
+[KO] 토끼
+<break time="1.0s"/>
+[FR-Vocab] lapin.
+<break time="1.5s"/>
+
+[FR-Vocab] hamster.
+<break time="1.0s"/>
+[KO] 햄스터
+<break time="1.0s"/>
+[FR-Vocab] hamster.
+<break time="1.5s"/>
+
+[FR-Vocab] poisson rouge.
+<break time="1.0s"/>
+[KO] 금붕어
+<break time="1.0s"/>
+[FR-Vocab] poisson rouge.
+<break time="1.5s"/>
+
+[FR-Vocab] oiseau.
+<break time="1.0s"/>
+[KO] 새
+<break time="1.0s"/>
+[FR-Vocab] oiseau.
+<break time="1.5s"/>

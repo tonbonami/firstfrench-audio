@@ -1,0 +1,59 @@
+# Vocabulaire — vocab_meteo_02
+# 패턴: FR → KO → FR
+# voices: Vocab=lisons-narrator
+
+[FR-Vocab] Il y a du soleil.
+<break time="1.0s"/>
+[KO] 햇볕이 난다
+<break time="1.0s"/>
+[FR-Vocab] Il y a du soleil.
+<break time="1.5s"/>
+
+[FR-Vocab] Il y a du vent.
+<break time="1.0s"/>
+[KO] 바람이 분다
+<break time="1.0s"/>
+[FR-Vocab] Il y a du vent.
+<break time="1.5s"/>
+
+[FR-Vocab] Il y a des nuages.
+<break time="1.0s"/>
+[KO] 구름이 있다
+<break time="1.0s"/>
+[FR-Vocab] Il y a des nuages.
+<break time="1.5s"/>
+
+[FR-Vocab] Il y a du brouillard.
+<break time="1.0s"/>
+[KO] 안개가 끼다
+<break time="1.0s"/>
+[FR-Vocab] Il y a du brouillard.
+<break time="1.5s"/>
+
+[FR-Vocab] Il y a de l'orage.
+<break time="1.0s"/>
+[KO] 뇌우가 친다
+<break time="1.0s"/>
+[FR-Vocab] Il y a de l'orage.
+<break time="1.5s"/>
+
+[FR-Vocab] Il pleut.
+<break time="1.0s"/>
+[KO] 비가 온다
+<break time="1.0s"/>
+[FR-Vocab] Il pleut.
+<break time="1.5s"/>
+
+[FR-Vocab] Il neige.
+<break time="1.0s"/>
+[KO] 눈이 온다
+<break time="1.0s"/>
+[FR-Vocab] Il neige.
+<break time="1.5s"/>
+
+[FR-Vocab] Il gèle.
+<break time="1.0s"/>
+[KO] 영하다
+<break time="1.0s"/>
+[FR-Vocab] Il gèle.
+<break time="1.5s"/>

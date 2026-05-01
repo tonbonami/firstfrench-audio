@@ -1,0 +1,52 @@
+# Vocabulaire — vocab_heure_01
+# 패턴: FR → KO → FR
+# voices: Vocab=lisons-narrator
+
+[FR-Vocab] Quelle heure est-il ?.
+<break time="1.0s"/>
+[KO] 몇 시예요?
+<break time="1.0s"/>
+[FR-Vocab] Quelle heure est-il ?.
+<break time="1.5s"/>
+
+[FR-Vocab] Il est quelle heure ?.
+<break time="1.0s"/>
+[KO] 몇 시예요?
+<break time="1.0s"/>
+[FR-Vocab] Il est quelle heure ?.
+<break time="1.5s"/>
+
+[FR-Vocab] Il est une heure.
+<break time="1.0s"/>
+[KO] 1시
+<break time="1.0s"/>
+[FR-Vocab] Il est une heure.
+<break time="1.5s"/>
+
+[FR-Vocab] Il est deux heures.
+<break time="1.0s"/>
+[KO] 2시
+<break time="1.0s"/>
+[FR-Vocab] Il est deux heures.
+<break time="1.5s"/>
+
+[FR-Vocab] Il est midi.
+<break time="1.0s"/>
+[KO] 정오
+<break time="1.0s"/>
+[FR-Vocab] Il est midi.
+<break time="1.5s"/>
+
+[FR-Vocab] Il est minuit.
+<break time="1.0s"/>
+[KO] 자정
+<break time="1.0s"/>
+[FR-Vocab] Il est minuit.
+<break time="1.5s"/>
+
+[FR-Vocab] À quelle heure ?.
+<break time="1.0s"/>
+[KO] 몇 시에?
+<break time="1.0s"/>
+[FR-Vocab] À quelle heure ?.
+<break time="1.5s"/>

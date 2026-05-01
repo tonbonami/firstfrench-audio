@@ -1,0 +1,45 @@
+# Vocabulaire — vocab_maison_07
+# 패턴: FR → KO → FR
+# voices: Vocab=lisons-narrator
+
+[FR-Vocab] machine à laver.
+<break time="1.0s"/>
+[KO] 세탁기.
+<break time="1.0s"/>
+[FR-Vocab] machine à laver.
+<break time="1.5s"/>
+
+[FR-Vocab] aspirateur.
+<break time="1.0s"/>
+[KO] 청소기.
+<break time="1.0s"/>
+[FR-Vocab] aspirateur.
+<break time="1.5s"/>
+
+[FR-Vocab] fer à repasser.
+<break time="1.0s"/>
+[KO] 다리미.
+<break time="1.0s"/>
+[FR-Vocab] fer à repasser.
+<break time="1.5s"/>
+
+[FR-Vocab] climatiseur.
+<break time="1.0s"/>
+[KO] 에어컨.
+<break time="1.0s"/>
+[FR-Vocab] climatiseur.
+<break time="1.5s"/>
+
+[FR-Vocab] chauffage.
+<break time="1.0s"/>
+[KO] 난방.
+<break time="1.0s"/>
+[FR-Vocab] chauffage.
+<break time="1.5s"/>
+
+[FR-Vocab] lampe.
+<break time="1.0s"/>
+[KO] 램프 또는 조명.
+<break time="1.0s"/>
+[FR-Vocab] lampe.
+<break time="1.5s"/>

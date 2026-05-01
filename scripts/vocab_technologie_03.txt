@@ -1,0 +1,66 @@
+# Vocabulaire — vocab_technologie_03
+# 패턴: FR → KO → FR
+# voices: Vocab=lisons-narrator
+
+[FR-Vocab] télécharger.
+<break time="1.0s"/>
+[KO] 다운로드하다
+<break time="1.0s"/>
+[FR-Vocab] télécharger.
+<break time="1.5s"/>
+
+[FR-Vocab] envoyer.
+<break time="1.0s"/>
+[KO] 보내다
+<break time="1.0s"/>
+[FR-Vocab] envoyer.
+<break time="1.5s"/>
+
+[FR-Vocab] partager.
+<break time="1.0s"/>
+[KO] 공유하다
+<break time="1.0s"/>
+[FR-Vocab] partager.
+<break time="1.5s"/>
+
+[FR-Vocab] publier.
+<break time="1.0s"/>
+[KO] 게시하다
+<break time="1.0s"/>
+[FR-Vocab] publier.
+<break time="1.5s"/>
+
+[FR-Vocab] s'abonner à.
+<break time="1.0s"/>
+[KO] 구독하다
+<break time="1.0s"/>
+[FR-Vocab] s'abonner à.
+<break time="1.5s"/>
+
+[FR-Vocab] se connecter.
+<break time="1.0s"/>
+[KO] 로그인하다
+<break time="1.0s"/>
+[FR-Vocab] se connecter.
+<break time="1.5s"/>
+
+[FR-Vocab] se déconnecter.
+<break time="1.0s"/>
+[KO] 로그아웃하다
+<break time="1.0s"/>
+[FR-Vocab] se déconnecter.
+<break time="1.5s"/>
+
+[FR-Vocab] cliquer sur.
+<break time="1.0s"/>
+[KO] 클릭하다
+<break time="1.0s"/>
+[FR-Vocab] cliquer sur.
+<break time="1.5s"/>
+
+[FR-Vocab] faire défiler.
+<break time="1.0s"/>
+[KO] 스크롤하다
+<break time="1.0s"/>
+[FR-Vocab] faire défiler.
+<break time="1.5s"/>

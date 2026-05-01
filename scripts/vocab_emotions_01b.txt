@@ -1,0 +1,59 @@
+# Vocabulaire — vocab_emotions_01b / part b
+# 패턴: FR → KO → FR
+# voices: Vocab=lisons-narrator
+
+[FR-Vocab] fier.
+<break time="1.0s"/>
+[KO] 자랑스러운, 남성형
+<break time="1.0s"/>
+[FR-Vocab] fier.
+<break time="1.5s"/>
+
+[FR-Vocab] fière.
+<break time="1.0s"/>
+[KO] 자랑스러운, 여성형
+<break time="1.0s"/>
+[FR-Vocab] fière.
+<break time="1.5s"/>
+
+[FR-Vocab] soulagé.
+<break time="1.0s"/>
+[KO] 안도한, 남성형
+<break time="1.0s"/>
+[FR-Vocab] soulagé.
+<break time="1.5s"/>
+
+[FR-Vocab] soulagée.
+<break time="1.0s"/>
+[KO] 안도한, 여성형
+<break time="1.0s"/>
+[FR-Vocab] soulagée.
+<break time="1.5s"/>
+
+[FR-Vocab] amoureux.
+<break time="1.0s"/>
+[KO] 사랑에 빠진, 남성형
+<break time="1.0s"/>
+[FR-Vocab] amoureux.
+<break time="1.5s"/>
+
+[FR-Vocab] amoureuse.
+<break time="1.0s"/>
+[KO] 사랑에 빠진, 여성형
+<break time="1.0s"/>
+[FR-Vocab] amoureuse.
+<break time="1.5s"/>
+
+[FR-Vocab] reconnaissant.
+<break time="1.0s"/>
+[KO] 감사하는, 남성형
+<break time="1.0s"/>
+[FR-Vocab] reconnaissant.
+<break time="1.5s"/>
+
+[FR-Vocab] reconnaissante.
+<break time="1.0s"/>
+[KO] 감사하는, 여성형
+<break time="1.0s"/>
+[FR-Vocab] reconnaissante.
+<break time="1.5s"/>

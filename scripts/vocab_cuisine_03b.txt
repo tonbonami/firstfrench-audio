@@ -1,0 +1,45 @@
+# Vocabulaire — vocab_cuisine_03b / part b
+# 패턴: FR → KO → FR
+# voices: Vocab=lisons-narrator
+
+[FR-Vocab] œufs.
+<break time="1.0s"/>
+[KO] 달걀, 복수형.
+<break time="1.0s"/>
+[FR-Vocab] œufs.
+<break time="1.5s"/>
+
+[FR-Vocab] lait.
+<break time="1.0s"/>
+[KO] 우유.
+<break time="1.0s"/>
+[FR-Vocab] lait.
+<break time="1.5s"/>
+
+[FR-Vocab] crème.
+<break time="1.0s"/>
+[KO] 크림.
+<break time="1.0s"/>
+[FR-Vocab] crème.
+<break time="1.5s"/>
+
+[FR-Vocab] ail.
+<break time="1.0s"/>
+[KO] 마늘.
+<break time="1.0s"/>
+[FR-Vocab] ail.
+<break time="1.5s"/>
+
+[FR-Vocab] oignon.
+<break time="1.0s"/>
+[KO] 양파.
+<break time="1.0s"/>
+[FR-Vocab] oignon.
+<break time="1.5s"/>
+
+[FR-Vocab] herbes.
+<break time="1.0s"/>
+[KO] 허브, 복수형.
+<break time="1.0s"/>
+[FR-Vocab] herbes.
+<break time="1.5s"/>

@@ -1,0 +1,59 @@
+# Vocabulaire — vocab_transports_04
+# 패턴: FR → KO → FR
+# voices: Vocab=lisons-narrator
+
+[FR-Vocab] permis de conduire.
+<break time="1.0s"/>
+[KO] 운전면허
+<break time="1.0s"/>
+[FR-Vocab] permis de conduire.
+<break time="1.5s"/>
+
+[FR-Vocab] volant.
+<break time="1.0s"/>
+[KO] 핸들
+<break time="1.0s"/>
+[FR-Vocab] volant.
+<break time="1.5s"/>
+
+[FR-Vocab] essence.
+<break time="1.0s"/>
+[KO] 휘발유
+<break time="1.0s"/>
+[FR-Vocab] essence.
+<break time="1.5s"/>
+
+[FR-Vocab] gasoil.
+<break time="1.0s"/>
+[KO] 경유
+<break time="1.0s"/>
+[FR-Vocab] gasoil.
+<break time="1.5s"/>
+
+[FR-Vocab] station-service.
+<break time="1.0s"/>
+[KO] 주유소
+<break time="1.0s"/>
+[FR-Vocab] station-service.
+<break time="1.5s"/>
+
+[FR-Vocab] parking.
+<break time="1.0s"/>
+[KO] 주차장
+<break time="1.0s"/>
+[FR-Vocab] parking.
+<break time="1.5s"/>
+
+[FR-Vocab] feu.
+<break time="1.0s"/>
+[KO] 신호등
+<break time="1.0s"/>
+[FR-Vocab] feu.
+<break time="1.5s"/>
+
+[FR-Vocab] rond-point.
+<break time="1.0s"/>
+[KO] 로터리
+<break time="1.0s"/>
+[FR-Vocab] rond-point.
+<break time="1.5s"/>

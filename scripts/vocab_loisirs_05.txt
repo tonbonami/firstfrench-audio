@@ -1,0 +1,23 @@
+# Vocabulaire — Les loisirs et les sports (여가·스포츠) / 섹션 5: 예문
+# voices: Vocab=warm-mother
+
+[FR-Vocab] Tu fais du sport ?
+<break time="1.0s"/>
+[FR-Vocab] Je fais du jogging trois fois par semaine.
+<break time="1.0s"/>
+[FR-Vocab] Tu as des loisirs ?
+<break time="1.0s"/>
+[FR-Vocab] J'aime lire et écouter de la musique.
+<break time="1.0s"/>
+[FR-Vocab] Tu joues d'un instrument ?
+<break time="1.0s"/>
+[FR-Vocab] Oui, je joue de la guitare depuis cinq ans.
+<break time="1.0s"/>
+[FR-Vocab] Je joue au football avec mes amis.
+<break time="1.0s"/>
+[FR-Vocab] Je fais de la natation tous les samedis.
+<break time="1.0s"/>
+[FR-Vocab] J'aime faire du vélo.
+<break time="1.0s"/>
+[FR-Vocab] Je fais de la randonnée le week-end.
+<break time="1.0s"/>

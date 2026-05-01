@@ -1,0 +1,45 @@
+# Vocabulaire — vocab_vetements_05
+# 패턴: FR → KO → FR
+# voices: Vocab=lisons-narrator
+
+[FR-Vocab] chapeau.
+<break time="1.0s"/>
+[KO] 모자
+<break time="1.0s"/>
+[FR-Vocab] chapeau.
+<break time="1.5s"/>
+
+[FR-Vocab] écharpe.
+<break time="1.0s"/>
+[KO] 목도리
+<break time="1.0s"/>
+[FR-Vocab] écharpe.
+<break time="1.5s"/>
+
+[FR-Vocab] gants.
+<break time="1.0s"/>
+[KO] 장갑, 복수형
+<break time="1.0s"/>
+[FR-Vocab] gants.
+<break time="1.5s"/>
+
+[FR-Vocab] ceinture.
+<break time="1.0s"/>
+[KO] 벨트
+<break time="1.0s"/>
+[FR-Vocab] ceinture.
+<break time="1.5s"/>
+
+[FR-Vocab] sac.
+<break time="1.0s"/>
+[KO] 가방
+<break time="1.0s"/>
+[FR-Vocab] sac.
+<break time="1.5s"/>
+
+[FR-Vocab] lunettes.
+<break time="1.0s"/>
+[KO] 안경, 복수형
+<break time="1.0s"/>
+[FR-Vocab] lunettes.
+<break time="1.5s"/>

@@ -1,0 +1,23 @@
+# Vocabulaire — Les adjectifs courants (자주 쓰는 형용사) / 섹션 5: 예문
+# voices: Vocab=warm-mother
+
+[FR-Vocab] Elle est grande.
+<break time="1.0s"/>
+[FR-Vocab] Le repas est vraiment délicieux.
+<break time="1.0s"/>
+[FR-Vocab] Ce film est intéressant.
+<break time="1.0s"/>
+[FR-Vocab] Ma chambre est propre.
+<break time="1.0s"/>
+[FR-Vocab] Il est très gentil.
+<break time="1.0s"/>
+[FR-Vocab] L'examen était difficile.
+<break time="1.0s"/>
+[FR-Vocab] Quel paysage magnifique !
+<break time="1.0s"/>
+[FR-Vocab] Une décision rapide est nécessaire.
+<break time="1.0s"/>
+[FR-Vocab] Un verre d'eau froide, s'il vous plaît.
+<break time="1.0s"/>
+[FR-Vocab] C'est impossible.
+<break time="1.0s"/>

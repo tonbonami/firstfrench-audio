@@ -1,0 +1,45 @@
+# Vocabulaire — vocab_vetements_01
+# 패턴: FR → KO → FR
+# voices: Vocab=lisons-narrator
+
+[FR-Vocab] chemise.
+<break time="1.0s"/>
+[KO] 셔츠
+<break time="1.0s"/>
+[FR-Vocab] chemise.
+<break time="1.5s"/>
+
+[FR-Vocab] tee-shirt.
+<break time="1.0s"/>
+[KO] 티셔츠
+<break time="1.0s"/>
+[FR-Vocab] tee-shirt.
+<break time="1.5s"/>
+
+[FR-Vocab] pull.
+<break time="1.0s"/>
+[KO] 스웨터
+<break time="1.0s"/>
+[FR-Vocab] pull.
+<break time="1.5s"/>
+
+[FR-Vocab] veste.
+<break time="1.0s"/>
+[KO] 재킷
+<break time="1.0s"/>
+[FR-Vocab] veste.
+<break time="1.5s"/>
+
+[FR-Vocab] manteau.
+<break time="1.0s"/>
+[KO] 코트
+<break time="1.0s"/>
+[FR-Vocab] manteau.
+<break time="1.5s"/>
+
+[FR-Vocab] blouson.
+<break time="1.0s"/>
+[KO] 점퍼
+<break time="1.0s"/>
+[FR-Vocab] blouson.
+<break time="1.5s"/>

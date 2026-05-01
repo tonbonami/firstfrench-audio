@@ -1,0 +1,43 @@
+# Vocabulaire — Les verbes essentiels (핵심 동사) / 섹션 4: 일상 동사
+# voices: Vocab=warm-mother
+
+[FR-Vocab] parler.
+<break time="0.5s"/>
+[FR-Vocab] écouter.
+<break time="0.5s"/>
+[FR-Vocab] regarder.
+<break time="0.5s"/>
+[FR-Vocab] lire.
+<break time="0.5s"/>
+[FR-Vocab] écrire.
+<break time="0.5s"/>
+[FR-Vocab] manger.
+<break time="0.5s"/>
+[FR-Vocab] boire.
+<break time="0.5s"/>
+[FR-Vocab] dormir.
+<break time="0.5s"/>
+[FR-Vocab] travailler.
+<break time="0.5s"/>
+[FR-Vocab] habiter.
+<break time="0.5s"/>
+[FR-Vocab] aimer.
+<break time="0.5s"/>
+[FR-Vocab] préférer.
+<break time="0.5s"/>
+[FR-Vocab] acheter.
+<break time="0.5s"/>
+[FR-Vocab] vendre.
+<break time="0.5s"/>
+[FR-Vocab] donner.
+<break time="0.5s"/>
+[FR-Vocab] prendre.
+<break time="0.5s"/>
+[FR-Vocab] mettre.
+<break time="0.5s"/>
+[FR-Vocab] voir.
+<break time="0.5s"/>
+[FR-Vocab] penser.
+<break time="0.5s"/>
+[FR-Vocab] croire.
+<break time="0.5s"/>

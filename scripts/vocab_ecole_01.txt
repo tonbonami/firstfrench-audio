@@ -1,0 +1,73 @@
+# Vocabulaire — vocab_ecole_01
+# 패턴: FR → KO → FR
+# voices: Vocab=lisons-narrator
+
+[FR-Vocab] école.
+<break time="1.0s"/>
+[KO] 학교
+<break time="1.0s"/>
+[FR-Vocab] école.
+<break time="1.5s"/>
+
+[FR-Vocab] collège.
+<break time="1.0s"/>
+[KO] 중학교
+<break time="1.0s"/>
+[FR-Vocab] collège.
+<break time="1.5s"/>
+
+[FR-Vocab] lycée.
+<break time="1.0s"/>
+[KO] 고등학교
+<break time="1.0s"/>
+[FR-Vocab] lycée.
+<break time="1.5s"/>
+
+[FR-Vocab] université.
+<break time="1.0s"/>
+[KO] 대학교
+<break time="1.0s"/>
+[FR-Vocab] université.
+<break time="1.5s"/>
+
+[FR-Vocab] fac.
+<break time="1.0s"/>
+[KO] 대학교
+<break time="1.0s"/>
+[FR-Vocab] fac.
+<break time="1.5s"/>
+
+[FR-Vocab] salle de classe.
+<break time="1.0s"/>
+[KO] 교실
+<break time="1.0s"/>
+[FR-Vocab] salle de classe.
+<break time="1.5s"/>
+
+[FR-Vocab] cantine.
+<break time="1.0s"/>
+[KO] 학교 식당
+<break time="1.0s"/>
+[FR-Vocab] cantine.
+<break time="1.5s"/>
+
+[FR-Vocab] couloir.
+<break time="1.0s"/>
+[KO] 복도
+<break time="1.0s"/>
+[FR-Vocab] couloir.
+<break time="1.5s"/>
+
+[FR-Vocab] récréation.
+<break time="1.0s"/>
+[KO] 쉬는 시간
+<break time="1.0s"/>
+[FR-Vocab] récréation.
+<break time="1.5s"/>
+
+[FR-Vocab] cours.
+<break time="1.0s"/>
+[KO] 수업
+<break time="1.0s"/>
+[FR-Vocab] cours.
+<break time="1.5s"/>

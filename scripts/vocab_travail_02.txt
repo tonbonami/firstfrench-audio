@@ -1,0 +1,35 @@
+# Vocabulaire — Le travail et l'entreprise (직장·회사) / 섹션 2: 업무 환경
+# voices: Vocab=warm-mother
+
+[FR-Vocab] bureau.
+<break time="0.5s"/>
+[FR-Vocab] réunion.
+<break time="0.5s"/>
+[FR-Vocab] projet.
+<break time="0.5s"/>
+[FR-Vocab] tâche.
+<break time="0.5s"/>
+[FR-Vocab] délai.
+<break time="0.5s"/>
+[FR-Vocab] rapport.
+<break time="0.5s"/>
+[FR-Vocab] présentation.
+<break time="0.5s"/>
+[FR-Vocab] objectif.
+<break time="0.5s"/>
+[FR-Vocab] budget.
+<break time="0.5s"/>
+[FR-Vocab] contrat.
+<break time="0.5s"/>
+[FR-Vocab] pause.
+<break time="0.5s"/>
+[FR-Vocab] télétravail.
+<break time="0.5s"/>
+[FR-Vocab] promotion.
+<break time="0.5s"/>
+[FR-Vocab] salaire.
+<break time="0.5s"/>
+[FR-Vocab] augmentation.
+<break time="0.5s"/>
+[FR-Vocab] heures supplémentaires.
+<break time="0.5s"/>

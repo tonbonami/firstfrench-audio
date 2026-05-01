@@ -1,0 +1,59 @@
+# Vocabulaire — vocab_adjectifs_03b / part b
+# 패턴: FR → KO → FR
+# voices: Vocab=lisons-narrator
+
+[FR-Vocab] sérieuse.
+<break time="1.0s"/>
+[KO] 진지한, 여성형
+<break time="1.0s"/>
+[FR-Vocab] sérieuse.
+<break time="1.5s"/>
+
+[FR-Vocab] paresseux.
+<break time="1.0s"/>
+[KO] 게으른, 남성형
+<break time="1.0s"/>
+[FR-Vocab] paresseux.
+<break time="1.5s"/>
+
+[FR-Vocab] paresseuse.
+<break time="1.0s"/>
+[KO] 게으른, 여성형
+<break time="1.0s"/>
+[FR-Vocab] paresseuse.
+<break time="1.5s"/>
+
+[FR-Vocab] intelligent.
+<break time="1.0s"/>
+[KO] 똑똑한, 남성형
+<break time="1.0s"/>
+[FR-Vocab] intelligent.
+<break time="1.5s"/>
+
+[FR-Vocab] intelligente.
+<break time="1.0s"/>
+[KO] 똑똑한, 여성형
+<break time="1.0s"/>
+[FR-Vocab] intelligente.
+<break time="1.5s"/>
+
+[FR-Vocab] créatif.
+<break time="1.0s"/>
+[KO] 창의적인, 남성형
+<break time="1.0s"/>
+[FR-Vocab] créatif.
+<break time="1.5s"/>
+
+[FR-Vocab] créative.
+<break time="1.0s"/>
+[KO] 창의적인, 여성형
+<break time="1.0s"/>
+[FR-Vocab] créative.
+<break time="1.5s"/>
+
+[FR-Vocab] calme.
+<break time="1.0s"/>
+[KO] 차분한
+<break time="1.0s"/>
+[FR-Vocab] calme.
+<break time="1.5s"/>

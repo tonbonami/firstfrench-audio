@@ -1,0 +1,45 @@
+# Vocabulaire — vocab_voyage_01b / part b
+# 패턴: FR → KO → FR
+# voices: Vocab=lisons-narrator
+
+[FR-Vocab] carte d'embarquement.
+<break time="1.0s"/>
+[KO] 탑승권
+<break time="1.0s"/>
+[FR-Vocab] carte d'embarquement.
+<break time="1.5s"/>
+
+[FR-Vocab] douane.
+<break time="1.0s"/>
+[KO] 세관
+<break time="1.0s"/>
+[FR-Vocab] douane.
+<break time="1.5s"/>
+
+[FR-Vocab] arrivée.
+<break time="1.0s"/>
+[KO] 도착
+<break time="1.0s"/>
+[FR-Vocab] arrivée.
+<break time="1.5s"/>
+
+[FR-Vocab] départ.
+<break time="1.0s"/>
+[KO] 출발
+<break time="1.0s"/>
+[FR-Vocab] départ.
+<break time="1.5s"/>
+
+[FR-Vocab] escale.
+<break time="1.0s"/>
+[KO] 경유
+<break time="1.0s"/>
+[FR-Vocab] escale.
+<break time="1.5s"/>
+
+[FR-Vocab] retard.
+<break time="1.0s"/>
+[KO] 연착
+<break time="1.0s"/>
+[FR-Vocab] retard.
+<break time="1.5s"/>

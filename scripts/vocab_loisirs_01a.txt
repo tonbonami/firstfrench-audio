@@ -1,0 +1,52 @@
+# Vocabulaire — vocab_loisirs_01a / part a
+# 패턴: FR → KO → FR
+# voices: Vocab=lisons-narrator
+
+[FR-Vocab] football.
+<break time="1.0s"/>
+[KO] 축구
+<break time="1.0s"/>
+[FR-Vocab] football.
+<break time="1.5s"/>
+
+[FR-Vocab] basket.
+<break time="1.0s"/>
+[KO] 농구
+<break time="1.0s"/>
+[FR-Vocab] basket.
+<break time="1.5s"/>
+
+[FR-Vocab] tennis.
+<break time="1.0s"/>
+[KO] 테니스
+<break time="1.0s"/>
+[FR-Vocab] tennis.
+<break time="1.5s"/>
+
+[FR-Vocab] volley.
+<break time="1.0s"/>
+[KO] 배구
+<break time="1.0s"/>
+[FR-Vocab] volley.
+<break time="1.5s"/>
+
+[FR-Vocab] natation.
+<break time="1.0s"/>
+[KO] 수영
+<break time="1.0s"/>
+[FR-Vocab] natation.
+<break time="1.5s"/>
+
+[FR-Vocab] course à pied.
+<break time="1.0s"/>
+[KO] 달리기
+<break time="1.0s"/>
+[FR-Vocab] course à pied.
+<break time="1.5s"/>
+
+[FR-Vocab] vélo.
+<break time="1.0s"/>
+[KO] 자전거
+<break time="1.0s"/>
+[FR-Vocab] vélo.
+<break time="1.5s"/>

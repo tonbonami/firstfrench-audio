@@ -1,0 +1,23 @@
+# Vocabulaire — La météo (날씨) / 섹션 5: 예문
+# voices: Vocab=warm-mother
+
+[FR-Vocab] Quel temps fait-il aujourd'hui ?
+<break time="1.0s"/>
+[FR-Vocab] Il fait beau et chaud !
+<break time="1.0s"/>
+[FR-Vocab] Tu as vu la météo ?
+<break time="1.0s"/>
+[FR-Vocab] Il paraît qu'il va pleuvoir demain.
+<break time="1.0s"/>
+[FR-Vocab] Il fait combien de degrés ?
+<break time="1.0s"/>
+[FR-Vocab] Il fait 25 degrés.
+<break time="1.0s"/>
+[FR-Vocab] Il fait doux au printemps.
+<break time="1.0s"/>
+[FR-Vocab] Il neige en décembre.
+<break time="1.0s"/>
+[FR-Vocab] Il y a du brouillard ce matin.
+<break time="1.0s"/>
+[FR-Vocab] J'ai vu un arc-en-ciel !
+<break time="1.0s"/>

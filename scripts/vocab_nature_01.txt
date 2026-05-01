@@ -1,0 +1,29 @@
+# Vocabulaire — La nature (자연·환경) / 섹션 1: 지형·풍경
+# voices: Vocab=warm-mother
+
+[FR-Vocab] montagne.
+<break time="0.5s"/>
+[FR-Vocab] colline.
+<break time="0.5s"/>
+[FR-Vocab] forêt.
+<break time="0.5s"/>
+[FR-Vocab] bois.
+<break time="0.5s"/>
+[FR-Vocab] plaine.
+<break time="0.5s"/>
+[FR-Vocab] désert.
+<break time="0.5s"/>
+[FR-Vocab] plage.
+<break time="0.5s"/>
+[FR-Vocab] côte.
+<break time="0.5s"/>
+[FR-Vocab] falaise.
+<break time="0.5s"/>
+[FR-Vocab] île.
+<break time="0.5s"/>
+[FR-Vocab] vallée.
+<break time="0.5s"/>
+[FR-Vocab] prairie.
+<break time="0.5s"/>
+[FR-Vocab] volcan.
+<break time="0.5s"/>

@@ -1,0 +1,73 @@
+# Vocabulaire — vocab_nature_03
+# 패턴: FR → KO → FR
+# voices: Vocab=lisons-narrator
+
+[FR-Vocab] arbre.
+<break time="1.0s"/>
+[KO] 나무
+<break time="1.0s"/>
+[FR-Vocab] arbre.
+<break time="1.5s"/>
+
+[FR-Vocab] fleur.
+<break time="1.0s"/>
+[KO] 꽃
+<break time="1.0s"/>
+[FR-Vocab] fleur.
+<break time="1.5s"/>
+
+[FR-Vocab] herbe.
+<break time="1.0s"/>
+[KO] 풀
+<break time="1.0s"/>
+[FR-Vocab] herbe.
+<break time="1.5s"/>
+
+[FR-Vocab] feuille.
+<break time="1.0s"/>
+[KO] 잎
+<break time="1.0s"/>
+[FR-Vocab] feuille.
+<break time="1.5s"/>
+
+[FR-Vocab] branche.
+<break time="1.0s"/>
+[KO] 가지
+<break time="1.0s"/>
+[FR-Vocab] branche.
+<break time="1.5s"/>
+
+[FR-Vocab] racine.
+<break time="1.0s"/>
+[KO] 뿌리
+<break time="1.0s"/>
+[FR-Vocab] racine.
+<break time="1.5s"/>
+
+[FR-Vocab] champignon.
+<break time="1.0s"/>
+[KO] 버섯
+<break time="1.0s"/>
+[FR-Vocab] champignon.
+<break time="1.5s"/>
+
+[FR-Vocab] rose.
+<break time="1.0s"/>
+[KO] 장미
+<break time="1.0s"/>
+[FR-Vocab] rose.
+<break time="1.5s"/>
+
+[FR-Vocab] chêne.
+<break time="1.0s"/>
+[KO] 참나무
+<break time="1.0s"/>
+[FR-Vocab] chêne.
+<break time="1.5s"/>
+
+[FR-Vocab] sapin.
+<break time="1.0s"/>
+[KO] 전나무
+<break time="1.0s"/>
+[FR-Vocab] sapin.
+<break time="1.5s"/>

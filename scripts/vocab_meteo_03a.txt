@@ -1,0 +1,52 @@
+# Vocabulaire — vocab_meteo_03a / part a
+# 패턴: FR → KO → FR
+# voices: Vocab=lisons-narrator
+
+[FR-Vocab] soleil.
+<break time="1.0s"/>
+[KO] 태양·햇빛
+<break time="1.0s"/>
+[FR-Vocab] soleil.
+<break time="1.5s"/>
+
+[FR-Vocab] pluie.
+<break time="1.0s"/>
+[KO] 비
+<break time="1.0s"/>
+[FR-Vocab] pluie.
+<break time="1.5s"/>
+
+[FR-Vocab] neige.
+<break time="1.0s"/>
+[KO] 눈
+<break time="1.0s"/>
+[FR-Vocab] neige.
+<break time="1.5s"/>
+
+[FR-Vocab] vent.
+<break time="1.0s"/>
+[KO] 바람
+<break time="1.0s"/>
+[FR-Vocab] vent.
+<break time="1.5s"/>
+
+[FR-Vocab] nuage.
+<break time="1.0s"/>
+[KO] 구름
+<break time="1.0s"/>
+[FR-Vocab] nuage.
+<break time="1.5s"/>
+
+[FR-Vocab] brouillard.
+<break time="1.0s"/>
+[KO] 안개
+<break time="1.0s"/>
+[FR-Vocab] brouillard.
+<break time="1.5s"/>
+
+[FR-Vocab] orage.
+<break time="1.0s"/>
+[KO] 천둥번개
+<break time="1.0s"/>
+[FR-Vocab] orage.
+<break time="1.5s"/>

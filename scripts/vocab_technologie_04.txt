@@ -1,0 +1,66 @@
+# Vocabulaire — vocab_technologie_04
+# 패턴: FR → KO → FR
+# voices: Vocab=lisons-narrator
+
+[FR-Vocab] télévision.
+<break time="1.0s"/>
+[KO] 텔레비전
+<break time="1.0s"/>
+[FR-Vocab] télévision.
+<break time="1.5s"/>
+
+[FR-Vocab] radio.
+<break time="1.0s"/>
+[KO] 라디오
+<break time="1.0s"/>
+[FR-Vocab] radio.
+<break time="1.5s"/>
+
+[FR-Vocab] journal.
+<break time="1.0s"/>
+[KO] 신문
+<break time="1.0s"/>
+[FR-Vocab] journal.
+<break time="1.5s"/>
+
+[FR-Vocab] magazine.
+<break time="1.0s"/>
+[KO] 잡지
+<break time="1.0s"/>
+[FR-Vocab] magazine.
+<break time="1.5s"/>
+
+[FR-Vocab] podcast.
+<break time="1.0s"/>
+[KO] 팟캐스트
+<break time="1.0s"/>
+[FR-Vocab] podcast.
+<break time="1.5s"/>
+
+[FR-Vocab] série.
+<break time="1.0s"/>
+[KO] 드라마
+<break time="1.0s"/>
+[FR-Vocab] série.
+<break time="1.5s"/>
+
+[FR-Vocab] documentaire.
+<break time="1.0s"/>
+[KO] 다큐멘터리
+<break time="1.0s"/>
+[FR-Vocab] documentaire.
+<break time="1.5s"/>
+
+[FR-Vocab] publicité.
+<break time="1.0s"/>
+[KO] 광고
+<break time="1.0s"/>
+[FR-Vocab] publicité.
+<break time="1.5s"/>
+
+[FR-Vocab] chaîne.
+<break time="1.0s"/>
+[KO] 채널
+<break time="1.0s"/>
+[FR-Vocab] chaîne.
+<break time="1.5s"/>

@@ -1,0 +1,52 @@
+# Vocabulaire — vocab_pays_03
+# 패턴: FR → KO → FR
+# voices: Vocab=lisons-narrator
+
+[FR-Vocab] Europe.
+<break time="1.0s"/>
+[KO] 유럽
+<break time="1.0s"/>
+[FR-Vocab] Europe.
+<break time="1.5s"/>
+
+[FR-Vocab] Asie.
+<break time="1.0s"/>
+[KO] 아시아
+<break time="1.0s"/>
+[FR-Vocab] Asie.
+<break time="1.5s"/>
+
+[FR-Vocab] Afrique.
+<break time="1.0s"/>
+[KO] 아프리카
+<break time="1.0s"/>
+[FR-Vocab] Afrique.
+<break time="1.5s"/>
+
+[FR-Vocab] Amérique du Nord.
+<break time="1.0s"/>
+[KO] 북아메리카
+<break time="1.0s"/>
+[FR-Vocab] Amérique du Nord.
+<break time="1.5s"/>
+
+[FR-Vocab] Amérique du Sud.
+<break time="1.0s"/>
+[KO] 남아메리카
+<break time="1.0s"/>
+[FR-Vocab] Amérique du Sud.
+<break time="1.5s"/>
+
+[FR-Vocab] Océanie.
+<break time="1.0s"/>
+[KO] 오세아니아
+<break time="1.0s"/>
+[FR-Vocab] Océanie.
+<break time="1.5s"/>
+
+[FR-Vocab] Moyen-Orient.
+<break time="1.0s"/>
+[KO] 중동
+<break time="1.0s"/>
+[FR-Vocab] Moyen-Orient.
+<break time="1.5s"/>

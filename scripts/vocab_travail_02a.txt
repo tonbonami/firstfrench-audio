@@ -1,0 +1,58 @@
+# Vocabulaire — Travail / 2a: 업무 환경
+# voices: Vocab=lisons-narrator
+
+[FR-Vocab] bureau.
+<break time="1.0s"/>
+[KO] 사무실.
+<break time="1.0s"/>
+[FR-Vocab] bureau.
+<break time="1.5s"/>
+
+[FR-Vocab] réunion.
+<break time="1.0s"/>
+[KO] 회의.
+<break time="1.0s"/>
+[FR-Vocab] réunion.
+<break time="1.5s"/>
+
+[FR-Vocab] projet.
+<break time="1.0s"/>
+[KO] 프로젝트.
+<break time="1.0s"/>
+[FR-Vocab] projet.
+<break time="1.5s"/>
+
+[FR-Vocab] tâche.
+<break time="1.0s"/>
+[KO] 업무나 태스크.
+<break time="1.0s"/>
+[FR-Vocab] tâche.
+<break time="1.5s"/>
+
+[FR-Vocab] délai.
+<break time="1.0s"/>
+[KO] 마감일.
+<break time="1.0s"/>
+[FR-Vocab] délai.
+<break time="1.5s"/>
+
+[FR-Vocab] rapport.
+<break time="1.0s"/>
+[KO] 보고서.
+<break time="1.0s"/>
+[FR-Vocab] rapport.
+<break time="1.5s"/>
+
+[FR-Vocab] présentation.
+<break time="1.0s"/>
+[KO] 프레젠테이션.
+<break time="1.0s"/>
+[FR-Vocab] présentation.
+<break time="1.5s"/>
+
+[FR-Vocab] objectif.
+<break time="1.0s"/>
+[KO] 목표.
+<break time="1.0s"/>
+[FR-Vocab] objectif.
+<break time="1.5s"/>

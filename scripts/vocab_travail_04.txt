@@ -1,0 +1,23 @@
+# Vocabulaire — Travail / 4: 예문
+# voices: Vocab=lisons-narrator
+
+[FR-Vocab] Je suis en réunion.
+<break time="1.0s"/>
+[FR-Vocab] On a une deadline demain.
+<break time="1.0s"/>
+[FR-Vocab] Je dois finir ce rapport.
+<break time="1.0s"/>
+[FR-Vocab] Tu peux m'envoyer le fichier ?
+<break time="1.0s"/>
+[FR-Vocab] Il est en déplacement.
+<break time="1.0s"/>
+[FR-Vocab] Je prends congé la semaine prochaine.
+<break time="1.0s"/>
+[FR-Vocab] Il y a une réunion à 9h.
+<break time="1.0s"/>
+[FR-Vocab] Je fais du télétravail.
+<break time="1.0s"/>
+[FR-Vocab] J'ai un entretien d'embauche.
+<break time="1.0s"/>
+[FR-Vocab] Je voudrais demander une augmentation.
+<break time="1.0s"/>

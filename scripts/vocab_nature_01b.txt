@@ -1,0 +1,45 @@
+# Vocabulaire — vocab_nature_01b / part b
+# 패턴: FR → KO → FR
+# voices: Vocab=lisons-narrator
+
+[FR-Vocab] côte.
+<break time="1.0s"/>
+[KO] 해안
+<break time="1.0s"/>
+[FR-Vocab] côte.
+<break time="1.5s"/>
+
+[FR-Vocab] falaise.
+<break time="1.0s"/>
+[KO] 절벽
+<break time="1.0s"/>
+[FR-Vocab] falaise.
+<break time="1.5s"/>
+
+[FR-Vocab] île.
+<break time="1.0s"/>
+[KO] 섬
+<break time="1.0s"/>
+[FR-Vocab] île.
+<break time="1.5s"/>
+
+[FR-Vocab] vallée.
+<break time="1.0s"/>
+[KO] 계곡
+<break time="1.0s"/>
+[FR-Vocab] vallée.
+<break time="1.5s"/>
+
+[FR-Vocab] prairie.
+<break time="1.0s"/>
+[KO] 초원
+<break time="1.0s"/>
+[FR-Vocab] prairie.
+<break time="1.5s"/>
+
+[FR-Vocab] volcan.
+<break time="1.0s"/>
+[KO] 화산
+<break time="1.0s"/>
+[FR-Vocab] volcan.
+<break time="1.5s"/>

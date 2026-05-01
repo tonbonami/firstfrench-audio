@@ -1,0 +1,59 @@
+# Vocabulaire — vocab_ville_04
+# 패턴: FR → KO → FR
+# voices: Vocab=lisons-narrator
+
+[FR-Vocab] à droite (de).
+<break time="1.0s"/>
+[KO] 오른쪽에
+<break time="1.0s"/>
+[FR-Vocab] à droite (de).
+<break time="1.5s"/>
+
+[FR-Vocab] à gauche (de).
+<break time="1.0s"/>
+[KO] 왼쪽에
+<break time="1.0s"/>
+[FR-Vocab] à gauche (de).
+<break time="1.5s"/>
+
+[FR-Vocab] en face de.
+<break time="1.0s"/>
+[KO] 맞은편에
+<break time="1.0s"/>
+[FR-Vocab] en face de.
+<break time="1.5s"/>
+
+[FR-Vocab] près de.
+<break time="1.0s"/>
+[KO] 가까이에
+<break time="1.0s"/>
+[FR-Vocab] près de.
+<break time="1.5s"/>
+
+[FR-Vocab] loin de.
+<break time="1.0s"/>
+[KO] 멀리에
+<break time="1.0s"/>
+[FR-Vocab] loin de.
+<break time="1.5s"/>
+
+[FR-Vocab] entre.
+<break time="1.0s"/>
+[KO] 사이에
+<break time="1.0s"/>
+[FR-Vocab] entre.
+<break time="1.5s"/>
+
+[FR-Vocab] au coin de.
+<break time="1.0s"/>
+[KO] 모퉁이에
+<break time="1.0s"/>
+[FR-Vocab] au coin de.
+<break time="1.5s"/>
+
+[FR-Vocab] devant / derrière.
+<break time="1.0s"/>
+[KO] 앞·뒤
+<break time="1.0s"/>
+[FR-Vocab] devant / derrière.
+<break time="1.5s"/>

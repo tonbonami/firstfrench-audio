@@ -1,0 +1,73 @@
+# Vocabulaire — vocab_achats_03
+# 패턴: FR → KO → FR
+# voices: Vocab=lisons-narrator
+
+[FR-Vocab] coûter.
+<break time="1.0s"/>
+[KO] ~의 가격이다
+<break time="1.0s"/>
+[FR-Vocab] coûter.
+<break time="1.5s"/>
+
+[FR-Vocab] valoir.
+<break time="1.0s"/>
+[KO] ~의 가치가 있다
+<break time="1.0s"/>
+[FR-Vocab] valoir.
+<break time="1.5s"/>
+
+[FR-Vocab] payer.
+<break time="1.0s"/>
+[KO] 지불하다
+<break time="1.0s"/>
+[FR-Vocab] payer.
+<break time="1.5s"/>
+
+[FR-Vocab] dépenser.
+<break time="1.0s"/>
+[KO] 소비하다
+<break time="1.0s"/>
+[FR-Vocab] dépenser.
+<break time="1.5s"/>
+
+[FR-Vocab] économiser.
+<break time="1.0s"/>
+[KO] 절약하다
+<break time="1.0s"/>
+[FR-Vocab] économiser.
+<break time="1.5s"/>
+
+[FR-Vocab] rembourser.
+<break time="1.0s"/>
+[KO] 환불하다
+<break time="1.0s"/>
+[FR-Vocab] rembourser.
+<break time="1.5s"/>
+
+[FR-Vocab] acheter.
+<break time="1.0s"/>
+[KO] 사다
+<break time="1.0s"/>
+[FR-Vocab] acheter.
+<break time="1.5s"/>
+
+[FR-Vocab] vendre.
+<break time="1.0s"/>
+[KO] 팔다
+<break time="1.0s"/>
+[FR-Vocab] vendre.
+<break time="1.5s"/>
+
+[FR-Vocab] chercher.
+<break time="1.0s"/>
+[KO] 찾다
+<break time="1.0s"/>
+[FR-Vocab] chercher.
+<break time="1.5s"/>
+
+[FR-Vocab] essayer.
+<break time="1.0s"/>
+[KO] 입어보다·시도하다
+<break time="1.0s"/>
+[FR-Vocab] essayer.
+<break time="1.5s"/>

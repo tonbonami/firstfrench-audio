@@ -1,0 +1,33 @@
+# Vocabulaire — Les adjectifs courants (자주 쓰는 형용사) / 섹션 4: 평가·감탄 형용사
+# voices: Vocab=warm-mother
+
+[FR-Vocab] magnifique.
+<break time="0.5s"/>
+[FR-Vocab] formidable.
+<break time="0.5s"/>
+[FR-Vocab] délicieux.
+<break time="0.5s"/>
+[FR-Vocab] délicieuse.
+<break time="0.5s"/>
+[FR-Vocab] terrible.
+<break time="0.5s"/>
+[FR-Vocab] bizarre.
+<break time="0.5s"/>
+[FR-Vocab] intéressant.
+<break time="0.5s"/>
+[FR-Vocab] intéressante.
+<break time="0.5s"/>
+[FR-Vocab] ennuyeux.
+<break time="0.5s"/>
+[FR-Vocab] ennuyeuse.
+<break time="0.5s"/>
+[FR-Vocab] difficile.
+<break time="0.5s"/>
+[FR-Vocab] facile.
+<break time="0.5s"/>
+[FR-Vocab] possible.
+<break time="0.5s"/>
+[FR-Vocab] impossible.
+<break time="0.5s"/>
+[FR-Vocab] nécessaire.
+<break time="0.5s"/>

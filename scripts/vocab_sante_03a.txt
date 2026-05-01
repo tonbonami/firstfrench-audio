@@ -1,0 +1,52 @@
+# Vocabulaire — vocab_sante_03a / part a
+# 패턴: FR → KO → FR
+# voices: Vocab=lisons-narrator
+
+[FR-Vocab] médecin.
+<break time="1.0s"/>
+[KO] 의사
+<break time="1.0s"/>
+[FR-Vocab] médecin.
+<break time="1.5s"/>
+
+[FR-Vocab] docteur.
+<break time="1.0s"/>
+[KO] 의사
+<break time="1.0s"/>
+[FR-Vocab] docteur.
+<break time="1.5s"/>
+
+[FR-Vocab] infirmier.
+<break time="1.0s"/>
+[KO] 간호사, 남성형
+<break time="1.0s"/>
+[FR-Vocab] infirmier.
+<break time="1.5s"/>
+
+[FR-Vocab] infirmière.
+<break time="1.0s"/>
+[KO] 간호사, 여성형
+<break time="1.0s"/>
+[FR-Vocab] infirmière.
+<break time="1.5s"/>
+
+[FR-Vocab] ordonnance.
+<break time="1.0s"/>
+[KO] 처방전
+<break time="1.0s"/>
+[FR-Vocab] ordonnance.
+<break time="1.5s"/>
+
+[FR-Vocab] médicament.
+<break time="1.0s"/>
+[KO] 약
+<break time="1.0s"/>
+[FR-Vocab] médicament.
+<break time="1.5s"/>
+
+[FR-Vocab] comprimé.
+<break time="1.0s"/>
+[KO] 알약
+<break time="1.0s"/>
+[FR-Vocab] comprimé.
+<break time="1.5s"/>

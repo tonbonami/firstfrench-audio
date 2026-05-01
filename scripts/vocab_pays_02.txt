@@ -1,0 +1,43 @@
+# Vocabulaire — Les pays et les nationalités (나라·국적) / 섹션 2: 국적 형용사
+# voices: Vocab=warm-mother
+
+[FR-Vocab] coréen.
+<break time="0.5s"/>
+[FR-Vocab] coréenne.
+<break time="0.5s"/>
+[FR-Vocab] français.
+<break time="0.5s"/>
+[FR-Vocab] française.
+<break time="0.5s"/>
+[FR-Vocab] japonais.
+<break time="0.5s"/>
+[FR-Vocab] japonaise.
+<break time="0.5s"/>
+[FR-Vocab] chinois.
+<break time="0.5s"/>
+[FR-Vocab] chinoise.
+<break time="0.5s"/>
+[FR-Vocab] américain.
+<break time="0.5s"/>
+[FR-Vocab] américaine.
+<break time="0.5s"/>
+[FR-Vocab] britannique.
+<break time="0.5s"/>
+[FR-Vocab] allemand.
+<break time="0.5s"/>
+[FR-Vocab] allemande.
+<break time="0.5s"/>
+[FR-Vocab] italien.
+<break time="0.5s"/>
+[FR-Vocab] italienne.
+<break time="0.5s"/>
+[FR-Vocab] espagnol.
+<break time="0.5s"/>
+[FR-Vocab] espagnole.
+<break time="0.5s"/>
+[FR-Vocab] belge.
+<break time="0.5s"/>
+[FR-Vocab] suisse.
+<break time="0.5s"/>
+[FR-Vocab] russe.
+<break time="0.5s"/>

@@ -1,0 +1,59 @@
+# Vocabulaire — vocab_emotions_01a / part a
+# 패턴: FR → KO → FR
+# voices: Vocab=lisons-narrator
+
+[FR-Vocab] heureux.
+<break time="1.0s"/>
+[KO] 행복한, 남성형
+<break time="1.0s"/>
+[FR-Vocab] heureux.
+<break time="1.5s"/>
+
+[FR-Vocab] heureuse.
+<break time="1.0s"/>
+[KO] 행복한, 여성형
+<break time="1.0s"/>
+[FR-Vocab] heureuse.
+<break time="1.5s"/>
+
+[FR-Vocab] content.
+<break time="1.0s"/>
+[KO] 만족한·기쁜, 남성형
+<break time="1.0s"/>
+[FR-Vocab] content.
+<break time="1.5s"/>
+
+[FR-Vocab] contente.
+<break time="1.0s"/>
+[KO] 만족한·기쁜, 여성형
+<break time="1.0s"/>
+[FR-Vocab] contente.
+<break time="1.5s"/>
+
+[FR-Vocab] joyeux.
+<break time="1.0s"/>
+[KO] 즐거운, 남성형
+<break time="1.0s"/>
+[FR-Vocab] joyeux.
+<break time="1.5s"/>
+
+[FR-Vocab] joyeuse.
+<break time="1.0s"/>
+[KO] 즐거운, 여성형
+<break time="1.0s"/>
+[FR-Vocab] joyeuse.
+<break time="1.5s"/>
+
+[FR-Vocab] enthousiaste.
+<break time="1.0s"/>
+[KO] 열정적인
+<break time="1.0s"/>
+[FR-Vocab] enthousiaste.
+<break time="1.5s"/>
+
+[FR-Vocab] calme.
+<break time="1.0s"/>
+[KO] 차분한
+<break time="1.0s"/>
+[FR-Vocab] calme.
+<break time="1.5s"/>

@@ -1,0 +1,44 @@
+# Expressions / 3: 음식·일상
+# voices: Vocab=lisons-narrator
+
+[FR-Vocab] casser la croûte.
+<break time="1.0s"/>
+[KO] 간단히 식사하다.
+<break time="1.0s"/>
+[FR-Vocab] casser la croûte.
+<break time="1.5s"/>
+
+[FR-Vocab] avoir la pêche.
+<break time="1.0s"/>
+[KO] 기운이 넘치다.
+<break time="1.0s"/>
+[FR-Vocab] avoir la pêche.
+<break time="1.5s"/>
+
+[FR-Vocab] ce n'est pas la mer à boire.
+<break time="1.0s"/>
+[KO] 대단한 일이 아니다.
+<break time="1.0s"/>
+[FR-Vocab] ce n'est pas la mer à boire.
+<break time="1.5s"/>
+
+[FR-Vocab] manger sur le pouce.
+<break time="1.0s"/>
+[KO] 후딱 먹다.
+<break time="1.0s"/>
+[FR-Vocab] manger sur le pouce.
+<break time="1.5s"/>
+
+[FR-Vocab] aller comme sur des roulettes.
+<break time="1.0s"/>
+[KO] 일이 잘 풀리다.
+<break time="1.0s"/>
+[FR-Vocab] aller comme sur des roulettes.
+<break time="1.5s"/>
+
+[FR-Vocab] mettre les bouchées doubles.
+<break time="1.0s"/>
+[KO] 더 빨리하다.
+<break time="1.0s"/>
+[FR-Vocab] mettre les bouchées doubles.
+<break time="1.5s"/>

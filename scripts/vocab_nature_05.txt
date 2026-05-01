@@ -1,0 +1,23 @@
+# Vocabulaire — La nature (자연·환경) / 섹션 5: 예문
+# voices: Vocab=warm-mother
+
+[FR-Vocab] La vue est magnifique.
+<break time="1.0s"/>
+[FR-Vocab] Il y a une forêt derrière la maison.
+<break time="1.0s"/>
+[FR-Vocab] Le fleuve traverse la ville.
+<break time="1.0s"/>
+[FR-Vocab] Les montagnes sont couvertes de neige.
+<break time="1.0s"/>
+[FR-Vocab] Le soleil se couche sur la mer.
+<break time="1.0s"/>
+[FR-Vocab] Les roses fleurissent dans le jardin.
+<break time="1.0s"/>
+[FR-Vocab] Les feuilles tombent en automne.
+<break time="1.0s"/>
+[FR-Vocab] Je me suis promené près du lac.
+<break time="1.0s"/>
+[FR-Vocab] Le tonnerre me fait peur.
+<break time="1.0s"/>
+[FR-Vocab] Le sable est doux sur la plage.
+<break time="1.0s"/>

@@ -1,0 +1,43 @@
+# Vocabulaire — Les adjectifs courants (자주 쓰는 형용사) / 섹션 2: 평가 (반의어)
+# voices: Vocab=warm-mother
+
+[FR-Vocab] beau.
+<break time="0.5s"/>
+[FR-Vocab] belle.
+<break time="0.5s"/>
+[FR-Vocab] laid.
+<break time="0.5s"/>
+[FR-Vocab] laide.
+<break time="0.5s"/>
+[FR-Vocab] bon.
+<break time="0.5s"/>
+[FR-Vocab] bonne.
+<break time="0.5s"/>
+[FR-Vocab] mauvais.
+<break time="0.5s"/>
+[FR-Vocab] mauvaise.
+<break time="0.5s"/>
+[FR-Vocab] chaud.
+<break time="0.5s"/>
+[FR-Vocab] chaude.
+<break time="0.5s"/>
+[FR-Vocab] froid.
+<break time="0.5s"/>
+[FR-Vocab] froide.
+<break time="0.5s"/>
+[FR-Vocab] rapide.
+<break time="0.5s"/>
+[FR-Vocab] lent.
+<break time="0.5s"/>
+[FR-Vocab] lente.
+<break time="0.5s"/>
+[FR-Vocab] fort.
+<break time="0.5s"/>
+[FR-Vocab] forte.
+<break time="0.5s"/>
+[FR-Vocab] faible.
+<break time="0.5s"/>
+[FR-Vocab] propre.
+<break time="0.5s"/>
+[FR-Vocab] sale.
+<break time="0.5s"/>

@@ -1,0 +1,59 @@
+# Vocabulaire — vocab_ville_03
+# 패턴: FR → KO → FR
+# voices: Vocab=lisons-narrator
+
+[FR-Vocab] église.
+<break time="1.0s"/>
+[KO] 교회
+<break time="1.0s"/>
+[FR-Vocab] église.
+<break time="1.5s"/>
+
+[FR-Vocab] place.
+<break time="1.0s"/>
+[KO] 광장
+<break time="1.0s"/>
+[FR-Vocab] place.
+<break time="1.5s"/>
+
+[FR-Vocab] aéroport.
+<break time="1.0s"/>
+[KO] 공항
+<break time="1.0s"/>
+[FR-Vocab] aéroport.
+<break time="1.5s"/>
+
+[FR-Vocab] hôtel.
+<break time="1.0s"/>
+[KO] 호텔
+<break time="1.0s"/>
+[FR-Vocab] hôtel.
+<break time="1.5s"/>
+
+[FR-Vocab] gare.
+<break time="1.0s"/>
+[KO] 기차역
+<break time="1.0s"/>
+[FR-Vocab] gare.
+<break time="1.5s"/>
+
+[FR-Vocab] hôpital.
+<break time="1.0s"/>
+[KO] 병원
+<break time="1.0s"/>
+[FR-Vocab] hôpital.
+<break time="1.5s"/>
+
+[FR-Vocab] école.
+<break time="1.0s"/>
+[KO] 학교
+<break time="1.0s"/>
+[FR-Vocab] école.
+<break time="1.5s"/>
+
+[FR-Vocab] mairie.
+<break time="1.0s"/>
+[KO] 시청·구청
+<break time="1.0s"/>
+[FR-Vocab] mairie.
+<break time="1.5s"/>

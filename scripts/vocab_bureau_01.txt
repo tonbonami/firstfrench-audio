@@ -1,0 +1,45 @@
+# Vocabulaire — vocab_bureau_01
+# 패턴: FR → KO → FR
+# voices: Vocab=lisons-narrator
+
+[FR-Vocab] ordinateur.
+<break time="1.0s"/>
+[KO] 컴퓨터
+<break time="1.0s"/>
+[FR-Vocab] ordinateur.
+<break time="1.5s"/>
+
+[FR-Vocab] ordinateur portable.
+<break time="1.0s"/>
+[KO] 노트북
+<break time="1.0s"/>
+[FR-Vocab] ordinateur portable.
+<break time="1.5s"/>
+
+[FR-Vocab] moniteur.
+<break time="1.0s"/>
+[KO] 모니터
+<break time="1.0s"/>
+[FR-Vocab] moniteur.
+<break time="1.5s"/>
+
+[FR-Vocab] souris.
+<break time="1.0s"/>
+[KO] 마우스
+<break time="1.0s"/>
+[FR-Vocab] souris.
+<break time="1.5s"/>
+
+[FR-Vocab] clavier.
+<break time="1.0s"/>
+[KO] 키보드
+<break time="1.0s"/>
+[FR-Vocab] clavier.
+<break time="1.5s"/>
+
+[FR-Vocab] imprimante.
+<break time="1.0s"/>
+[KO] 프린터
+<break time="1.0s"/>
+[FR-Vocab] imprimante.
+<break time="1.5s"/>

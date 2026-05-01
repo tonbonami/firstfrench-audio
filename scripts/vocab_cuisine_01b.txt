@@ -1,0 +1,66 @@
+# Vocabulaire — vocab_cuisine_01b / part b
+# 패턴: FR → KO → FR
+# voices: Vocab=lisons-narrator
+
+[FR-Vocab] assaisonner.
+<break time="1.0s"/>
+[KO] 양념하다.
+<break time="1.0s"/>
+[FR-Vocab] assaisonner.
+<break time="1.5s"/>
+
+[FR-Vocab] faire bouillir.
+<break time="1.0s"/>
+[KO] 끓이다.
+<break time="1.0s"/>
+[FR-Vocab] faire bouillir.
+<break time="1.5s"/>
+
+[FR-Vocab] faire cuire.
+<break time="1.0s"/>
+[KO] 익히다.
+<break time="1.0s"/>
+[FR-Vocab] faire cuire.
+<break time="1.5s"/>
+
+[FR-Vocab] faire frire.
+<break time="1.0s"/>
+[KO] 튀기다.
+<break time="1.0s"/>
+[FR-Vocab] faire frire.
+<break time="1.5s"/>
+
+[FR-Vocab] rôtir.
+<break time="1.0s"/>
+[KO] 굽다.
+<break time="1.0s"/>
+[FR-Vocab] rôtir.
+<break time="1.5s"/>
+
+[FR-Vocab] griller.
+<break time="1.0s"/>
+[KO] 그릴에 굽다.
+<break time="1.0s"/>
+[FR-Vocab] griller.
+<break time="1.5s"/>
+
+[FR-Vocab] mijoter.
+<break time="1.0s"/>
+[KO] 약불로 끓이다.
+<break time="1.0s"/>
+[FR-Vocab] mijoter.
+<break time="1.5s"/>
+
+[FR-Vocab] cuire à la vapeur.
+<break time="1.0s"/>
+[KO] 찌다.
+<break time="1.0s"/>
+[FR-Vocab] cuire à la vapeur.
+<break time="1.5s"/>
+
+[FR-Vocab] réchauffer.
+<break time="1.0s"/>
+[KO] 데우다.
+<break time="1.0s"/>
+[FR-Vocab] réchauffer.
+<break time="1.5s"/>

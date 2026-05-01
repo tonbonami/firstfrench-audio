@@ -1,0 +1,31 @@
+# Vocabulaire — vocab_pays_04
+# 패턴: FR → KO → FR
+# voices: Vocab=lisons-narrator
+
+[FR-Vocab] en + 여성 나라.
+<break time="1.0s"/>
+[KO] .
+<break time="1.0s"/>
+[FR-Vocab] en + 여성 나라.
+<break time="1.5s"/>
+
+[FR-Vocab] au + 남성 나라.
+<break time="1.0s"/>
+[KO] .
+<break time="1.0s"/>
+[FR-Vocab] au + 남성 나라.
+<break time="1.5s"/>
+
+[FR-Vocab] aux + 복수 나라.
+<break time="1.0s"/>
+[KO] .
+<break time="1.0s"/>
+[FR-Vocab] aux + 복수 나라.
+<break time="1.5s"/>
+
+[FR-Vocab] à + 도시.
+<break time="1.0s"/>
+[KO] .
+<break time="1.0s"/>
+[FR-Vocab] à + 도시.
+<break time="1.5s"/>

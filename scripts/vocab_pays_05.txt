@@ -1,0 +1,23 @@
+# Vocabulaire — Les pays et les nationalités (나라·국적) / 섹션 5: 예문
+# voices: Vocab=warm-mother
+
+[FR-Vocab] Je suis coréen.
+<break time="1.0s"/>
+[FR-Vocab] D'où viens-tu ?
+<break time="1.0s"/>
+[FR-Vocab] Je viens de Corée.
+<break time="1.0s"/>
+[FR-Vocab] Il est de nationalité française.
+<break time="1.0s"/>
+[FR-Vocab] Quelle est ta nationalité ?
+<break time="1.0s"/>
+[FR-Vocab] Je suis né en Corée mais je vis en France.
+<break time="1.0s"/>
+[FR-Vocab] Je suis allé au Japon.
+<break time="1.0s"/>
+[FR-Vocab] J'habite aux États-Unis.
+<break time="1.0s"/>
+[FR-Vocab] Elle est italienne.
+<break time="1.0s"/>
+[FR-Vocab] De quel pays venez-vous ?
+<break time="1.0s"/>

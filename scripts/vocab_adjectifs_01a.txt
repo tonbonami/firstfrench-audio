@@ -1,0 +1,59 @@
+# Vocabulaire — vocab_adjectifs_01a / part a
+# 패턴: FR → KO → FR
+# voices: Vocab=lisons-narrator
+
+[FR-Vocab] grand.
+<break time="1.0s"/>
+[KO] 큰, 남성형
+<break time="1.0s"/>
+[FR-Vocab] grand.
+<break time="1.5s"/>
+
+[FR-Vocab] grande.
+<break time="1.0s"/>
+[KO] 큰, 여성형
+<break time="1.0s"/>
+[FR-Vocab] grande.
+<break time="1.5s"/>
+
+[FR-Vocab] petit.
+<break time="1.0s"/>
+[KO] 작은, 남성형
+<break time="1.0s"/>
+[FR-Vocab] petit.
+<break time="1.5s"/>
+
+[FR-Vocab] petite.
+<break time="1.0s"/>
+[KO] 작은, 여성형
+<break time="1.0s"/>
+[FR-Vocab] petite.
+<break time="1.5s"/>
+
+[FR-Vocab] long.
+<break time="1.0s"/>
+[KO] 긴, 남성형
+<break time="1.0s"/>
+[FR-Vocab] long.
+<break time="1.5s"/>
+
+[FR-Vocab] longue.
+<break time="1.0s"/>
+[KO] 긴, 여성형
+<break time="1.0s"/>
+[FR-Vocab] longue.
+<break time="1.5s"/>
+
+[FR-Vocab] court.
+<break time="1.0s"/>
+[KO] 짧은, 남성형
+<break time="1.0s"/>
+[FR-Vocab] court.
+<break time="1.5s"/>
+
+[FR-Vocab] courte.
+<break time="1.0s"/>
+[KO] 짧은, 여성형
+<break time="1.0s"/>
+[FR-Vocab] courte.
+<break time="1.5s"/>

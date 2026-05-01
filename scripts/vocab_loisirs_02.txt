@@ -1,0 +1,73 @@
+# Vocabulaire — vocab_loisirs_02
+# 패턴: FR → KO → FR
+# voices: Vocab=lisons-narrator
+
+[FR-Vocab] regarder des films.
+<break time="1.0s"/>
+[KO] 영화 보다
+<break time="1.0s"/>
+[FR-Vocab] regarder des films.
+<break time="1.5s"/>
+
+[FR-Vocab] dessiner.
+<break time="1.0s"/>
+[KO] 그림 그리다
+<break time="1.0s"/>
+[FR-Vocab] dessiner.
+<break time="1.5s"/>
+
+[FR-Vocab] peindre.
+<break time="1.0s"/>
+[KO] 페인팅하다
+<break time="1.0s"/>
+[FR-Vocab] peindre.
+<break time="1.5s"/>
+
+[FR-Vocab] voyager.
+<break time="1.0s"/>
+[KO] 여행하다
+<break time="1.0s"/>
+[FR-Vocab] voyager.
+<break time="1.5s"/>
+
+[FR-Vocab] danser.
+<break time="1.0s"/>
+[KO] 춤추다
+<break time="1.0s"/>
+[FR-Vocab] danser.
+<break time="1.5s"/>
+
+[FR-Vocab] lire.
+<break time="1.0s"/>
+[KO] 읽다
+<break time="1.0s"/>
+[FR-Vocab] lire.
+<break time="1.5s"/>
+
+[FR-Vocab] écouter de la musique.
+<break time="1.0s"/>
+[KO] 음악 듣다
+<break time="1.0s"/>
+[FR-Vocab] écouter de la musique.
+<break time="1.5s"/>
+
+[FR-Vocab] jouer aux jeux vidéo.
+<break time="1.0s"/>
+[KO] 게임하다
+<break time="1.0s"/>
+[FR-Vocab] jouer aux jeux vidéo.
+<break time="1.5s"/>
+
+[FR-Vocab] se promener.
+<break time="1.0s"/>
+[KO] 산책하다
+<break time="1.0s"/>
+[FR-Vocab] se promener.
+<break time="1.5s"/>
+
+[FR-Vocab] cuisiner.
+<break time="1.0s"/>
+[KO] 요리하다
+<break time="1.0s"/>
+[FR-Vocab] cuisiner.
+<break time="1.5s"/>

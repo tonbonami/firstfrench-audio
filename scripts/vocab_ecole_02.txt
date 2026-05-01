@@ -1,0 +1,45 @@
+# Vocabulaire — vocab_ecole_02
+# 패턴: FR → KO → FR
+# voices: Vocab=lisons-narrator
+
+[FR-Vocab] professeur.
+<break time="1.0s"/>
+[KO] 선생님
+<break time="1.0s"/>
+[FR-Vocab] professeur.
+<break time="1.5s"/>
+
+[FR-Vocab] élève.
+<break time="1.0s"/>
+[KO] 학생
+<break time="1.0s"/>
+[FR-Vocab] élève.
+<break time="1.5s"/>
+
+[FR-Vocab] étudiant.
+<break time="1.0s"/>
+[KO] 학생, 남성형
+<break time="1.0s"/>
+[FR-Vocab] étudiant.
+<break time="1.5s"/>
+
+[FR-Vocab] étudiante.
+<break time="1.0s"/>
+[KO] 학생, 여성형
+<break time="1.0s"/>
+[FR-Vocab] étudiante.
+<break time="1.5s"/>
+
+[FR-Vocab] directeur.
+<break time="1.0s"/>
+[KO] 교장, 남성형
+<break time="1.0s"/>
+[FR-Vocab] directeur.
+<break time="1.5s"/>
+
+[FR-Vocab] directrice.
+<break time="1.0s"/>
+[KO] 교장, 여성형
+<break time="1.0s"/>
+[FR-Vocab] directrice.
+<break time="1.5s"/>

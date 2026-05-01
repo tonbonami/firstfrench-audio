@@ -1,0 +1,37 @@
+# Expressions / 4b: 자주 쓰는 일상 관용어 cont.
+# voices: Vocab=lisons-narrator
+
+[FR-Vocab] Avec plaisir.
+<break time="1.0s"/>
+[KO] 기꺼이.
+<break time="1.0s"/>
+[FR-Vocab] Avec plaisir.
+<break time="1.5s"/>
+
+[FR-Vocab] À vrai dire.
+<break time="1.0s"/>
+[KO] 사실대로 말하면.
+<break time="1.0s"/>
+[FR-Vocab] À vrai dire.
+<break time="1.5s"/>
+
+[FR-Vocab] En revanche.
+<break time="1.0s"/>
+[KO] 반면에.
+<break time="1.0s"/>
+[FR-Vocab] En revanche.
+<break time="1.5s"/>
+
+[FR-Vocab] Tant pis.
+<break time="1.0s"/>
+[KO] 어쩔 수 없네.
+<break time="1.0s"/>
+[FR-Vocab] Tant pis.
+<break time="1.5s"/>
+
+[FR-Vocab] Tant mieux.
+<break time="1.0s"/>
+[KO] 다행이다.
+<break time="1.0s"/>
+[FR-Vocab] Tant mieux.
+<break time="1.5s"/>

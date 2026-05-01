@@ -1,0 +1,52 @@
+# Vocabulaire — vocab_pays_01b / part b
+# 패턴: FR → KO → FR
+# voices: Vocab=lisons-narrator
+
+[FR-Vocab] Espagne.
+<break time="1.0s"/>
+[KO] 스페인
+<break time="1.0s"/>
+[FR-Vocab] Espagne.
+<break time="1.5s"/>
+
+[FR-Vocab] Portugal.
+<break time="1.0s"/>
+[KO] 포르투갈
+<break time="1.0s"/>
+[FR-Vocab] Portugal.
+<break time="1.5s"/>
+
+[FR-Vocab] Brésil.
+<break time="1.0s"/>
+[KO] 브라질
+<break time="1.0s"/>
+[FR-Vocab] Brésil.
+<break time="1.5s"/>
+
+[FR-Vocab] Russie.
+<break time="1.0s"/>
+[KO] 러시아
+<break time="1.0s"/>
+[FR-Vocab] Russie.
+<break time="1.5s"/>
+
+[FR-Vocab] Canada.
+<break time="1.0s"/>
+[KO] 캐나다
+<break time="1.0s"/>
+[FR-Vocab] Canada.
+<break time="1.5s"/>
+
+[FR-Vocab] Belgique.
+<break time="1.0s"/>
+[KO] 벨기에
+<break time="1.0s"/>
+[FR-Vocab] Belgique.
+<break time="1.5s"/>
+
+[FR-Vocab] Suisse.
+<break time="1.0s"/>
+[KO] 스위스
+<break time="1.0s"/>
+[FR-Vocab] Suisse.
+<break time="1.5s"/>

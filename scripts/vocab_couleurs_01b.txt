@@ -1,0 +1,45 @@
+# Vocabulaire — vocab_couleurs_01b / part b
+# 패턴: FR → KO → FR
+# voices: Vocab=lisons-narrator
+
+[FR-Vocab] noire.
+<break time="1.0s"/>
+[KO] 검정, 여성형.
+<break time="1.0s"/>
+[FR-Vocab] noire.
+<break time="1.5s"/>
+
+[FR-Vocab] blanc.
+<break time="1.0s"/>
+[KO] 하양, 남성형.
+<break time="1.0s"/>
+[FR-Vocab] blanc.
+<break time="1.5s"/>
+
+[FR-Vocab] blanche.
+<break time="1.0s"/>
+[KO] 하양, 여성형.
+<break time="1.0s"/>
+[FR-Vocab] blanche.
+<break time="1.5s"/>
+
+[FR-Vocab] gris.
+<break time="1.0s"/>
+[KO] 회색, 남성형.
+<break time="1.0s"/>
+[FR-Vocab] gris.
+<break time="1.5s"/>
+
+[FR-Vocab] grise.
+<break time="1.0s"/>
+[KO] 회색, 여성형.
+<break time="1.0s"/>
+[FR-Vocab] grise.
+<break time="1.5s"/>
+
+[FR-Vocab] rose.
+<break time="1.0s"/>
+[KO] 분홍. 남녀 동일.
+<break time="1.0s"/>
+[FR-Vocab] rose.
+<break time="1.5s"/>

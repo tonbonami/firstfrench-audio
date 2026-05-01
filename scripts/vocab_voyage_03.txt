@@ -1,0 +1,66 @@
+# Vocabulaire — vocab_voyage_03
+# 패턴: FR → KO → FR
+# voices: Vocab=lisons-narrator
+
+[FR-Vocab] train.
+<break time="1.0s"/>
+[KO] 기차
+<break time="1.0s"/>
+[FR-Vocab] train.
+<break time="1.5s"/>
+
+[FR-Vocab] métro.
+<break time="1.0s"/>
+[KO] 지하철
+<break time="1.0s"/>
+[FR-Vocab] métro.
+<break time="1.5s"/>
+
+[FR-Vocab] bus.
+<break time="1.0s"/>
+[KO] 버스
+<break time="1.0s"/>
+[FR-Vocab] bus.
+<break time="1.5s"/>
+
+[FR-Vocab] taxi.
+<break time="1.0s"/>
+[KO] 택시
+<break time="1.0s"/>
+[FR-Vocab] taxi.
+<break time="1.5s"/>
+
+[FR-Vocab] aller simple.
+<break time="1.0s"/>
+[KO] 편도
+<break time="1.0s"/>
+[FR-Vocab] aller simple.
+<break time="1.5s"/>
+
+[FR-Vocab] aller-retour.
+<break time="1.0s"/>
+[KO] 왕복
+<break time="1.0s"/>
+[FR-Vocab] aller-retour.
+<break time="1.5s"/>
+
+[FR-Vocab] quai.
+<break time="1.0s"/>
+[KO] 승강장
+<break time="1.0s"/>
+[FR-Vocab] quai.
+<break time="1.5s"/>
+
+[FR-Vocab] correspondance.
+<break time="1.0s"/>
+[KO] 환승
+<break time="1.0s"/>
+[FR-Vocab] correspondance.
+<break time="1.5s"/>
+
+[FR-Vocab] arrêt.
+<break time="1.0s"/>
+[KO] 정류장
+<break time="1.0s"/>
+[FR-Vocab] arrêt.
+<break time="1.5s"/>

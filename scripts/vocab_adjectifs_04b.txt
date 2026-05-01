@@ -1,0 +1,52 @@
+# Vocabulaire — vocab_adjectifs_04b / part b
+# 패턴: FR → KO → FR
+# voices: Vocab=lisons-narrator
+
+[FR-Vocab] intéressante.
+<break time="1.0s"/>
+[KO] 흥미로운, 여성형
+<break time="1.0s"/>
+[FR-Vocab] intéressante.
+<break time="1.5s"/>
+
+[FR-Vocab] ennuyeux.
+<break time="1.0s"/>
+[KO] 지루한, 남성형
+<break time="1.0s"/>
+[FR-Vocab] ennuyeux.
+<break time="1.5s"/>
+
+[FR-Vocab] ennuyeuse.
+<break time="1.0s"/>
+[KO] 지루한, 여성형
+<break time="1.0s"/>
+[FR-Vocab] ennuyeuse.
+<break time="1.5s"/>
+
+[FR-Vocab] difficile.
+<break time="1.0s"/>
+[KO] 어려운
+<break time="1.0s"/>
+[FR-Vocab] difficile.
+<break time="1.5s"/>
+
+[FR-Vocab] facile.
+<break time="1.0s"/>
+[KO] 쉬운
+<break time="1.0s"/>
+[FR-Vocab] facile.
+<break time="1.5s"/>
+
+[FR-Vocab] possible / impossible.
+<break time="1.0s"/>
+[KO] 가능한·불가능한
+<break time="1.0s"/>
+[FR-Vocab] possible / impossible.
+<break time="1.5s"/>
+
+[FR-Vocab] nécessaire.
+<break time="1.0s"/>
+[KO] 필요한
+<break time="1.0s"/>
+[FR-Vocab] nécessaire.
+<break time="1.5s"/>

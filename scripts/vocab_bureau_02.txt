@@ -1,0 +1,38 @@
+# Vocabulaire — vocab_bureau_02
+# 패턴: FR → KO → FR
+# voices: Vocab=lisons-narrator
+
+[FR-Vocab] email.
+<break time="1.0s"/>
+[KO] 이메일
+<break time="1.0s"/>
+[FR-Vocab] email.
+<break time="1.5s"/>
+
+[FR-Vocab] internet.
+<break time="1.0s"/>
+[KO] 인터넷
+<break time="1.0s"/>
+[FR-Vocab] internet.
+<break time="1.5s"/>
+
+[FR-Vocab] mot de passe.
+<break time="1.0s"/>
+[KO] 비밀번호
+<break time="1.0s"/>
+[FR-Vocab] mot de passe.
+<break time="1.5s"/>
+
+[FR-Vocab] fax.
+<break time="1.0s"/>
+[KO] 팩스
+<break time="1.0s"/>
+[FR-Vocab] fax.
+<break time="1.5s"/>
+
+[FR-Vocab] téléphone.
+<break time="1.0s"/>
+[KO] 전화
+<break time="1.0s"/>
+[FR-Vocab] téléphone.
+<break time="1.5s"/>

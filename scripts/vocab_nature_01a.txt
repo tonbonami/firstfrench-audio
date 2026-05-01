@@ -1,0 +1,52 @@
+# Vocabulaire — vocab_nature_01a / part a
+# 패턴: FR → KO → FR
+# voices: Vocab=lisons-narrator
+
+[FR-Vocab] montagne.
+<break time="1.0s"/>
+[KO] 산
+<break time="1.0s"/>
+[FR-Vocab] montagne.
+<break time="1.5s"/>
+
+[FR-Vocab] colline.
+<break time="1.0s"/>
+[KO] 언덕
+<break time="1.0s"/>
+[FR-Vocab] colline.
+<break time="1.5s"/>
+
+[FR-Vocab] forêt.
+<break time="1.0s"/>
+[KO] 숲
+<break time="1.0s"/>
+[FR-Vocab] forêt.
+<break time="1.5s"/>
+
+[FR-Vocab] bois.
+<break time="1.0s"/>
+[KO] 작은 숲
+<break time="1.0s"/>
+[FR-Vocab] bois.
+<break time="1.5s"/>
+
+[FR-Vocab] plaine.
+<break time="1.0s"/>
+[KO] 평야
+<break time="1.0s"/>
+[FR-Vocab] plaine.
+<break time="1.5s"/>
+
+[FR-Vocab] désert.
+<break time="1.0s"/>
+[KO] 사막
+<break time="1.0s"/>
+[FR-Vocab] désert.
+<break time="1.5s"/>
+
+[FR-Vocab] plage.
+<break time="1.0s"/>
+[KO] 해변
+<break time="1.0s"/>
+[FR-Vocab] plage.
+<break time="1.5s"/>
