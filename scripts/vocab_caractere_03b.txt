@@ -1,0 +1,44 @@
+# Vocabulaire — Caractère / 3b
+# voices: Vocab=lisons-narrator
+
+[FR-Vocab] ambitieux.
+<break time="1.0s"/>
+[KO] 야망 있는, 남성형.
+<break time="1.0s"/>
+[FR-Vocab] ambitieux.
+<break time="1.5s"/>
+
+[FR-Vocab] ambitieuse.
+<break time="1.0s"/>
+[KO] 야망 있는, 여성형.
+<break time="1.0s"/>
+[FR-Vocab] ambitieuse.
+<break time="1.5s"/>
+
+[FR-Vocab] perfectionniste.
+<break time="1.0s"/>
+[KO] 완벽주의적인. 남녀 동일.
+<break time="1.0s"/>
+[FR-Vocab] perfectionniste.
+<break time="1.5s"/>
+
+[FR-Vocab] sensible.
+<break time="1.0s"/>
+[KO] 감수성이 풍부한. 남녀 동일.
+<break time="1.0s"/>
+[FR-Vocab] sensible.
+<break time="1.5s"/>
+
+[FR-Vocab] sérieux.
+<break time="1.0s"/>
+[KO] 진지한, 남성형.
+<break time="1.0s"/>
+[FR-Vocab] sérieux.
+<break time="1.5s"/>
+
+[FR-Vocab] sérieuse.
+<break time="1.0s"/>
+[KO] 진지한, 여성형.
+<break time="1.0s"/>
+[FR-Vocab] sérieuse.
+<break time="1.5s"/>

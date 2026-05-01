@@ -1,0 +1,45 @@
+# Vocabulaire — La famille (가족) / 섹션 4: 친척
+# 패턴: FR → KO → FR
+# voices: Vocab=lisons-narrator
+
+[FR-Vocab] oncle.
+<break time="1.0s"/>
+[KO] 삼촌이나 외삼촌.
+<break time="1.0s"/>
+[FR-Vocab] oncle.
+<break time="1.5s"/>
+
+[FR-Vocab] tante.
+<break time="1.0s"/>
+[KO] 고모나 이모.
+<break time="1.0s"/>
+[FR-Vocab] tante.
+<break time="1.5s"/>
+
+[FR-Vocab] cousin.
+<break time="1.0s"/>
+[KO] 사촌, 남자.
+<break time="1.0s"/>
+[FR-Vocab] cousin.
+<break time="1.5s"/>
+
+[FR-Vocab] cousine.
+<break time="1.0s"/>
+[KO] 사촌, 여자.
+<break time="1.0s"/>
+[FR-Vocab] cousine.
+<break time="1.5s"/>
+
+[FR-Vocab] neveu.
+<break time="1.0s"/>
+[KO] 조카, 남자.
+<break time="1.0s"/>
+[FR-Vocab] neveu.
+<break time="1.5s"/>
+
+[FR-Vocab] nièce.
+<break time="1.0s"/>
+[KO] 조카, 여자.
+<break time="1.0s"/>
+[FR-Vocab] nièce.
+<break time="1.5s"/>

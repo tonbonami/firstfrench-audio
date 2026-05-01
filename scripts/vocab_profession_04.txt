@@ -1,0 +1,63 @@
+# Vocabulaire — Profession (직업) / 섹션 4: 예문
+# 패턴: FR → KO → FR
+# voices: FR=sANWqF1bCMzR6eyZbCGw, KO=uyVNoMrnUku1dZyVEXwD
+
+[FR] Elle est professeur.
+<break time="0.7s"/>
+[KO] 그녀는 교수예요.
+<break time="0.7s"/>
+[FR] Elle est professeur.
+<break time="1.5s"/>
+[FR] Je travaille comme ingénieur.
+<break time="0.7s"/>
+[KO] 저는 엔지니어로 일해요.
+<break time="0.7s"/>
+[FR] Je travaille comme ingénieur.
+<break time="1.5s"/>
+[FR] Je voudrais devenir médecin.
+<break time="0.7s"/>
+[KO] 저는 의사가 되고 싶어요.
+<break time="0.7s"/>
+[FR] Je voudrais devenir médecin.
+<break time="1.5s"/>
+[FR] Il est avocat.
+<break time="0.7s"/>
+[KO] 그는 변호사예요.
+<break time="0.7s"/>
+[FR] Il est avocat.
+<break time="1.5s"/>
+[FR] Ma mère est comptable.
+<break time="0.7s"/>
+[KO] 우리 어머니는 회계사세요.
+<break time="0.7s"/>
+[FR] Ma mère est comptable.
+<break time="1.5s"/>
+[FR] Qu'est-ce que vous faites dans la vie ?
+<break time="0.7s"/>
+[KO] 무슨 일 하세요?
+<break time="0.7s"/>
+[FR] Qu'est-ce que vous faites dans la vie ?
+<break time="1.5s"/>
+[FR] Elle est consultante.
+<break time="0.7s"/>
+[KO] 그녀는 컨설턴트예요.
+<break time="0.7s"/>
+[FR] Elle est consultante.
+<break time="1.5s"/>
+[FR] Ce cuisinier est célèbre.
+<break time="0.7s"/>
+[KO] 이 요리사는 유명해요.
+<break time="0.7s"/>
+[FR] Ce cuisinier est célèbre.
+<break time="1.5s"/>
+[FR] Mon frère est plombier.
+<break time="0.7s"/>
+[KO] 우리 오빠는 배관공이에요.
+<break time="0.7s"/>
+[FR] Mon frère est plombier.
+<break time="1.5s"/>
+[FR] La vendeuse de ce magasin est gentille.
+<break time="0.7s"/>
+[KO] 이 가게 판매원은 친절해요.
+<break time="0.7s"/>
+[FR] La vendeuse de ce magasin est gentille.

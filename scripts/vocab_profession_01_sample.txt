@@ -1,0 +1,9 @@
+# Vocabulaire — Profession (직업) / 샘플 검증 (médecin 1단어)
+# 패턴: FR → KO → FR
+# voices: FR=sANWqF1bCMzR6eyZbCGw, KO=uyVNoMrnUku1dZyVEXwD
+
+[FR] médecin.
+<break time="0.5s"/>
+[KO] 의사.
+<break time="0.7s"/>
+[FR] médecin.

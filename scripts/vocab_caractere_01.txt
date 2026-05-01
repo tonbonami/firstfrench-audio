@@ -1,0 +1,108 @@
+# Vocabulaire — Caractère (성격) / 섹션 1: 긍정적 성격
+# 패턴: FR → KO → FR
+# voices: Vocab=lisons-narrator
+
+[FR-Vocab] sympathique.
+<break time="1.0s"/>
+[KO] 친근한. 남녀 동일.
+<break time="1.0s"/>
+[FR-Vocab] sympathique.
+<break time="1.5s"/>
+
+[FR-Vocab] sympa.
+<break time="1.0s"/>
+[KO] 친근한, 구어체. 남녀 동일.
+<break time="1.0s"/>
+[FR-Vocab] sympa.
+<break time="1.5s"/>
+
+[FR-Vocab] gentil.
+<break time="1.0s"/>
+[KO] 친절한, 남성형.
+<break time="1.0s"/>
+[FR-Vocab] gentil.
+<break time="1.5s"/>
+
+[FR-Vocab] gentille.
+<break time="1.0s"/>
+[KO] 친절한, 여성형.
+<break time="1.0s"/>
+[FR-Vocab] gentille.
+<break time="1.5s"/>
+
+[FR-Vocab] courageux.
+<break time="1.0s"/>
+[KO] 용감한, 남성형.
+<break time="1.0s"/>
+[FR-Vocab] courageux.
+<break time="1.5s"/>
+
+[FR-Vocab] courageuse.
+<break time="1.0s"/>
+[KO] 용감한, 여성형.
+<break time="1.0s"/>
+[FR-Vocab] courageuse.
+<break time="1.5s"/>
+
+[FR-Vocab] honnête.
+<break time="1.0s"/>
+[KO] 정직한. 남녀 동일.
+<break time="1.0s"/>
+[FR-Vocab] honnête.
+<break time="1.5s"/>
+
+[FR-Vocab] créatif.
+<break time="1.0s"/>
+[KO] 창의적인, 남성형.
+<break time="1.0s"/>
+[FR-Vocab] créatif.
+<break time="1.5s"/>
+
+[FR-Vocab] créative.
+<break time="1.0s"/>
+[KO] 창의적인, 여성형.
+<break time="1.0s"/>
+[FR-Vocab] créative.
+<break time="1.5s"/>
+
+[FR-Vocab] sociable.
+<break time="1.0s"/>
+[KO] 사교적인. 남녀 동일.
+<break time="1.0s"/>
+[FR-Vocab] sociable.
+<break time="1.5s"/>
+
+[FR-Vocab] travailleur.
+<break time="1.0s"/>
+[KO] 부지런한, 남성형.
+<break time="1.0s"/>
+[FR-Vocab] travailleur.
+<break time="1.5s"/>
+
+[FR-Vocab] travailleuse.
+<break time="1.0s"/>
+[KO] 부지런한, 여성형.
+<break time="1.0s"/>
+[FR-Vocab] travailleuse.
+<break time="1.5s"/>
+
+[FR-Vocab] généreux.
+<break time="1.0s"/>
+[KO] 관대한, 남성형.
+<break time="1.0s"/>
+[FR-Vocab] généreux.
+<break time="1.5s"/>
+
+[FR-Vocab] généreuse.
+<break time="1.0s"/>
+[KO] 관대한, 여성형.
+<break time="1.0s"/>
+[FR-Vocab] généreuse.
+<break time="1.5s"/>
+
+[FR-Vocab] drôle.
+<break time="1.0s"/>
+[KO] 재밌는. 남녀 동일.
+<break time="1.0s"/>
+[FR-Vocab] drôle.
+<break time="1.5s"/>

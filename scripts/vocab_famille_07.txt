@@ -1,0 +1,23 @@
+# Vocabulaire — La famille (가족) / 섹션 7: 예문
+# voices: Vocab=warm-mother
+
+[FR-Vocab] J'ai un frère et une sœur.
+<break time="1.0s"/>
+[FR-Vocab] Ma mère est professeur.
+<break time="1.0s"/>
+[FR-Vocab] Mes grands-parents habitent à la campagne.
+<break time="1.0s"/>
+[FR-Vocab] Mon mari travaille à Paris.
+<break time="1.0s"/>
+[FR-Vocab] Tu as un copain ?
+<break time="1.0s"/>
+[FR-Vocab] Mon oncle habite aux États-Unis.
+<break time="1.0s"/>
+[FR-Vocab] J'ai beaucoup de cousins.
+<break time="1.0s"/>
+[FR-Vocab] Ma belle-mère est très gentille.
+<break time="1.0s"/>
+[FR-Vocab] Elle est célibataire.
+<break time="1.0s"/>
+[FR-Vocab] Je suis marié et j'ai deux enfants.
+<break time="1.0s"/>

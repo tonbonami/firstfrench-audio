@@ -1,0 +1,37 @@
+# Vocabulaire — Caractère / 2b
+# voices: Vocab=lisons-narrator
+
+[FR-Vocab] susceptible.
+<break time="1.0s"/>
+[KO] 예민한. 남녀 동일.
+<break time="1.0s"/>
+[FR-Vocab] susceptible.
+<break time="1.5s"/>
+
+[FR-Vocab] avare.
+<break time="1.0s"/>
+[KO] 인색한. 남녀 동일.
+<break time="1.0s"/>
+[FR-Vocab] avare.
+<break time="1.5s"/>
+
+[FR-Vocab] impatient.
+<break time="1.0s"/>
+[KO] 성급한, 남성형.
+<break time="1.0s"/>
+[FR-Vocab] impatient.
+<break time="1.5s"/>
+
+[FR-Vocab] impatiente.
+<break time="1.0s"/>
+[KO] 성급한, 여성형.
+<break time="1.0s"/>
+[FR-Vocab] impatiente.
+<break time="1.5s"/>
+
+[FR-Vocab] égoïste.
+<break time="1.0s"/>
+[KO] 이기적인. 남녀 동일.
+<break time="1.0s"/>
+[FR-Vocab] égoïste.
+<break time="1.5s"/>

@@ -1,0 +1,80 @@
+# Vocabulaire — Profession (직업) / 섹션 3: 손기술·서비스직
+# 패턴: FR → KO → FR
+# voices: Vocab=lisons-narrator
+
+[FR-Vocab] plombier.
+<break time="1.0s"/>
+[KO] 배관공.
+<break time="1.0s"/>
+[FR-Vocab] plombier.
+<break time="1.5s"/>
+
+[FR-Vocab] électricien.
+<break time="1.0s"/>
+[KO] 전기기사, 남성형.
+<break time="1.0s"/>
+[FR-Vocab] électricien.
+<break time="1.5s"/>
+
+[FR-Vocab] électricienne.
+<break time="1.0s"/>
+[KO] 전기기사, 여성형.
+<break time="1.0s"/>
+[FR-Vocab] électricienne.
+<break time="1.5s"/>
+
+[FR-Vocab] cuisinier.
+<break time="1.0s"/>
+[KO] 요리사, 남성형.
+<break time="1.0s"/>
+[FR-Vocab] cuisinier.
+<break time="1.5s"/>
+
+[FR-Vocab] cuisinière.
+<break time="1.0s"/>
+[KO] 요리사, 여성형.
+<break time="1.0s"/>
+[FR-Vocab] cuisinière.
+<break time="1.5s"/>
+
+[FR-Vocab] commerçant.
+<break time="1.0s"/>
+[KO] 상인, 남성형.
+<break time="1.0s"/>
+[FR-Vocab] commerçant.
+<break time="1.5s"/>
+
+[FR-Vocab] commerçante.
+<break time="1.0s"/>
+[KO] 상인, 여성형.
+<break time="1.0s"/>
+[FR-Vocab] commerçante.
+<break time="1.5s"/>
+
+[FR-Vocab] vendeur.
+<break time="1.0s"/>
+[KO] 판매원, 남성형.
+<break time="1.0s"/>
+[FR-Vocab] vendeur.
+<break time="1.5s"/>
+
+[FR-Vocab] vendeuse.
+<break time="1.0s"/>
+[KO] 판매원, 여성형.
+<break time="1.0s"/>
+[FR-Vocab] vendeuse.
+<break time="1.5s"/>
+
+[FR-Vocab] serveur.
+<break time="1.0s"/>
+[KO] 종업원, 남성형.
+<break time="1.0s"/>
+[FR-Vocab] serveur.
+<break time="1.5s"/>
+
+[FR-Vocab] serveuse.
+<break time="1.0s"/>
+[KO] 종업원, 여성형.
+<break time="1.0s"/>
+[FR-Vocab] serveuse.
+<break time="1.5s"/>

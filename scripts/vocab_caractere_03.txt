@@ -1,0 +1,80 @@
+# Vocabulaire — Caractère (성격) / 섹션 3: 중립적 성격
+# 패턴: FR → KO → FR
+# voices: Vocab=lisons-narrator
+
+[FR-Vocab] réservé.
+<break time="1.0s"/>
+[KO] 내성적인, 남성형.
+<break time="1.0s"/>
+[FR-Vocab] réservé.
+<break time="1.5s"/>
+
+[FR-Vocab] réservée.
+<break time="1.0s"/>
+[KO] 내성적인, 여성형.
+<break time="1.0s"/>
+[FR-Vocab] réservée.
+<break time="1.5s"/>
+
+[FR-Vocab] timide.
+<break time="1.0s"/>
+[KO] 수줍은. 남녀 동일.
+<break time="1.0s"/>
+[FR-Vocab] timide.
+<break time="1.5s"/>
+
+[FR-Vocab] indépendant.
+<break time="1.0s"/>
+[KO] 독립적인, 남성형.
+<break time="1.0s"/>
+[FR-Vocab] indépendant.
+<break time="1.5s"/>
+
+[FR-Vocab] indépendante.
+<break time="1.0s"/>
+[KO] 독립적인, 여성형.
+<break time="1.0s"/>
+[FR-Vocab] indépendante.
+<break time="1.5s"/>
+
+[FR-Vocab] ambitieux.
+<break time="1.0s"/>
+[KO] 야망 있는, 남성형.
+<break time="1.0s"/>
+[FR-Vocab] ambitieux.
+<break time="1.5s"/>
+
+[FR-Vocab] ambitieuse.
+<break time="1.0s"/>
+[KO] 야망 있는, 여성형.
+<break time="1.0s"/>
+[FR-Vocab] ambitieuse.
+<break time="1.5s"/>
+
+[FR-Vocab] perfectionniste.
+<break time="1.0s"/>
+[KO] 완벽주의적인. 남녀 동일.
+<break time="1.0s"/>
+[FR-Vocab] perfectionniste.
+<break time="1.5s"/>
+
+[FR-Vocab] sensible.
+<break time="1.0s"/>
+[KO] 감수성이 풍부한. 남녀 동일.
+<break time="1.0s"/>
+[FR-Vocab] sensible.
+<break time="1.5s"/>
+
+[FR-Vocab] sérieux.
+<break time="1.0s"/>
+[KO] 진지한, 남성형.
+<break time="1.0s"/>
+[FR-Vocab] sérieux.
+<break time="1.5s"/>
+
+[FR-Vocab] sérieuse.
+<break time="1.0s"/>
+[KO] 진지한, 여성형.
+<break time="1.0s"/>
+[FR-Vocab] sérieuse.
+<break time="1.5s"/>

@@ -1,0 +1,51 @@
+# Vocabulaire — Caractère / 1a
+# voices: Vocab=lisons-narrator
+
+[FR-Vocab] sympathique.
+<break time="1.0s"/>
+[KO] 친근한. 남녀 동일.
+<break time="1.0s"/>
+[FR-Vocab] sympathique.
+<break time="1.5s"/>
+
+[FR-Vocab] sympa.
+<break time="1.0s"/>
+[KO] 친근한, 구어체. 남녀 동일.
+<break time="1.0s"/>
+[FR-Vocab] sympa.
+<break time="1.5s"/>
+
+[FR-Vocab] gentil.
+<break time="1.0s"/>
+[KO] 친절한, 남성형.
+<break time="1.0s"/>
+[FR-Vocab] gentil.
+<break time="1.5s"/>
+
+[FR-Vocab] gentille.
+<break time="1.0s"/>
+[KO] 친절한, 여성형.
+<break time="1.0s"/>
+[FR-Vocab] gentille.
+<break time="1.5s"/>
+
+[FR-Vocab] courageux.
+<break time="1.0s"/>
+[KO] 용감한, 남성형.
+<break time="1.0s"/>
+[FR-Vocab] courageux.
+<break time="1.5s"/>
+
+[FR-Vocab] courageuse.
+<break time="1.0s"/>
+[KO] 용감한, 여성형.
+<break time="1.0s"/>
+[FR-Vocab] courageuse.
+<break time="1.5s"/>
+
+[FR-Vocab] honnête.
+<break time="1.0s"/>
+[KO] 정직한. 남녀 동일.
+<break time="1.0s"/>
+[FR-Vocab] honnête.
+<break time="1.5s"/>

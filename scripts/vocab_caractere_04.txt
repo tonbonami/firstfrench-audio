@@ -1,0 +1,23 @@
+# Vocabulaire — Le caractère et la personnalité (성격) / 섹션 4: 예문
+# voices: Vocab=warm-mother
+
+[FR-Vocab] Comment tu es dans la vie ?
+<break time="1.0s"/>
+[FR-Vocab] Je suis plutôt réservé mais honnête.
+<break time="1.0s"/>
+[FR-Vocab] Il est vraiment sympa.
+<break time="1.0s"/>
+[FR-Vocab] Elle est très travailleuse.
+<break time="1.0s"/>
+[FR-Vocab] Tu as des défauts ?
+<break time="1.0s"/>
+[FR-Vocab] Je suis un peu perfectionniste et impatient.
+<break time="1.0s"/>
+[FR-Vocab] Il est têtu comme une mule.
+<break time="1.0s"/>
+[FR-Vocab] C'est quelqu'un de très gentil.
+<break time="1.0s"/>
+[FR-Vocab] Elle est créative et ambitieuse.
+<break time="1.0s"/>
+[FR-Vocab] Il a un caractère difficile.
+<break time="1.0s"/>

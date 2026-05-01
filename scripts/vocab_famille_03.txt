@@ -1,0 +1,45 @@
+# Vocabulaire — La famille (가족) / 섹션 3: 배우자·연인
+# 패턴: FR → KO → FR
+# voices: Vocab=lisons-narrator
+
+[FR-Vocab] mari.
+<break time="1.0s"/>
+[KO] 남편.
+<break time="1.0s"/>
+[FR-Vocab] mari.
+<break time="1.5s"/>
+
+[FR-Vocab] femme.
+<break time="1.0s"/>
+[KO] 아내, 또는 여자.
+<break time="1.0s"/>
+[FR-Vocab] femme.
+<break time="1.5s"/>
+
+[FR-Vocab] copain.
+<break time="1.0s"/>
+[KO] 남자친구.
+<break time="1.0s"/>
+[FR-Vocab] copain.
+<break time="1.5s"/>
+
+[FR-Vocab] copine.
+<break time="1.0s"/>
+[KO] 여자친구.
+<break time="1.0s"/>
+[FR-Vocab] copine.
+<break time="1.5s"/>
+
+[FR-Vocab] fiancé.
+<break time="1.0s"/>
+[KO] 약혼남.
+<break time="1.0s"/>
+[FR-Vocab] fiancé.
+<break time="1.5s"/>
+
+[FR-Vocab] fiancée.
+<break time="1.0s"/>
+[KO] 약혼녀.
+<break time="1.0s"/>
+[FR-Vocab] fiancée.
+<break time="1.5s"/>

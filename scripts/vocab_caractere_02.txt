@@ -1,0 +1,80 @@
+# Vocabulaire — Caractère (성격) / 섹션 2: 부정적 성격
+# 패턴: FR → KO → FR
+# voices: Vocab=lisons-narrator
+
+[FR-Vocab] paresseux.
+<break time="1.0s"/>
+[KO] 게으른, 남성형.
+<break time="1.0s"/>
+[FR-Vocab] paresseux.
+<break time="1.5s"/>
+
+[FR-Vocab] paresseuse.
+<break time="1.0s"/>
+[KO] 게으른, 여성형.
+<break time="1.0s"/>
+[FR-Vocab] paresseuse.
+<break time="1.5s"/>
+
+[FR-Vocab] bavard.
+<break time="1.0s"/>
+[KO] 수다스러운, 남성형.
+<break time="1.0s"/>
+[FR-Vocab] bavard.
+<break time="1.5s"/>
+
+[FR-Vocab] bavarde.
+<break time="1.0s"/>
+[KO] 수다스러운, 여성형.
+<break time="1.0s"/>
+[FR-Vocab] bavarde.
+<break time="1.5s"/>
+
+[FR-Vocab] têtu.
+<break time="1.0s"/>
+[KO] 고집스러운, 남성형.
+<break time="1.0s"/>
+[FR-Vocab] têtu.
+<break time="1.5s"/>
+
+[FR-Vocab] têtue.
+<break time="1.0s"/>
+[KO] 고집스러운, 여성형.
+<break time="1.0s"/>
+[FR-Vocab] têtue.
+<break time="1.5s"/>
+
+[FR-Vocab] susceptible.
+<break time="1.0s"/>
+[KO] 예민한. 남녀 동일.
+<break time="1.0s"/>
+[FR-Vocab] susceptible.
+<break time="1.5s"/>
+
+[FR-Vocab] avare.
+<break time="1.0s"/>
+[KO] 인색한. 남녀 동일.
+<break time="1.0s"/>
+[FR-Vocab] avare.
+<break time="1.5s"/>
+
+[FR-Vocab] impatient.
+<break time="1.0s"/>
+[KO] 성급한, 남성형.
+<break time="1.0s"/>
+[FR-Vocab] impatient.
+<break time="1.5s"/>
+
+[FR-Vocab] impatiente.
+<break time="1.0s"/>
+[KO] 성급한, 여성형.
+<break time="1.0s"/>
+[FR-Vocab] impatiente.
+<break time="1.5s"/>
+
+[FR-Vocab] égoïste.
+<break time="1.0s"/>
+[KO] 이기적인. 남녀 동일.
+<break time="1.0s"/>
+[FR-Vocab] égoïste.
+<break time="1.5s"/>
