@@ -1,0 +1,4 @@
+# Lisons Le Petit Prince — Chapitre 9 / Scène 2: 화산과 바오밥
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] Il possédait aussi un volcan éteint. Mais, comme il disait, « On ne sait jamais ! » Il ramona donc également le volcan éteint. S'ils sont bien ramonés, les volcans brûlent doucement et régulièrement, sans éruptions. Les éruptions volcaniques sont comme des feux de cheminée. Évidemment sur notre terre nous sommes beaucoup trop petits pour ramoner nos volcans. C'est pourquoi ils nous causent des tas d'ennuis.

@@ -1,0 +1,8 @@
+# Lisons Le Petit Prince — Chapitre 20 / Scène 3: 자신과 닮은 꽃들
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] Le petit prince les regarda. Elles ressemblaient toutes à sa fleur.
+<break time="1.0s"/>
+[FR-Narrator] – Qui êtes-vous ? leur demanda-t-il, stupéfait.
+<break time="1.0s"/>
+[FR-Narrator] – Nous sommes des roses, dirent les roses.

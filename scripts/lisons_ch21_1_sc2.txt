@@ -1,0 +1,10 @@
+# Lisons Le Petit Prince — Chapitre 21-1 / Scène 2: 여우와의 첫 만남
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] – Qui es-tu ? dit le petit prince. Tu es bien joli…
+<break time="1.0s"/>
+[FR-Narrator] – Je suis un renard, dit le renard.
+<break time="1.0s"/>
+[FR-Narrator] – Viens jouer avec moi, lui proposa le petit prince. Je suis tellement triste…
+<break time="1.0s"/>
+[FR-Narrator] – Je ne puis pas jouer avec toi, dit le renard. Je ne suis pas apprivoisé.

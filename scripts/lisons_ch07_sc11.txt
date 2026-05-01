@@ -1,0 +1,6 @@
+# Lisons Le Petit Prince — Chapitre 7 / Scène 11: 단 하나뿐인 꽃
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] Il rougit, puis reprit :
+<break time="1.0s"/>
+[FR-Narrator] – Si quelqu'un aime une fleur qui n'existe qu'à un exemplaire dans les millions et les millions d'étoiles, ça suffit pour qu'il soit heureux quand il les regarde. Il se dit : « Ma fleur est là quelque part… » Mais si le mouton mange la fleur, c'est pour lui comme si, brusquement, toutes les étoiles s'éteignaient ! Et ce n'est pas important ça !

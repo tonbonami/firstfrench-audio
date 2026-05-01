@@ -1,0 +1,4 @@
+# Lisons Le Petit Prince — Chapitre 26 / Scène 12: 마지막 작별 인사
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] Il n'y eut rien qu'un éclair jaune près de sa cheville. Il demeura un instant immobile. Il ne cria pas. Il tomba doucement comme tombe un arbre. Ça ne fit même pas de bruit, à cause du sable.

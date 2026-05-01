@@ -1,0 +1,12 @@
+# Lisons Le Petit Prince — Chapitre 15 / Scène 3: 지리학자의 한계
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] – Ça c'est bien intéressant, dit le petit prince. Ça c'est enfin un véritable métier ! Et il jeta un coup d'œil autour de lui sur la planète du géographe. Il n'avait jamais vu encore une planète aussi majestueuse.
+<break time="1.0s"/>
+[FR-Narrator] – Elle est bien belle, votre planète. Est-ce qu'il y a des océans ?
+<break time="1.0s"/>
+[FR-Narrator] – Je ne puis pas le savoir, dit le géographe.
+<break time="1.0s"/>
+[FR-Narrator] – Ah ! (Le petit prince était déçu.) Et des montagnes ?
+<break time="1.0s"/>
+[FR-Narrator] – Je ne puis pas le savoir, dit le géographe.

@@ -1,0 +1,4 @@
+# Lisons Le Petit Prince — Chapitre 26 / Scène 8: 어린 왕자를 품에 안다
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] Je parvins au mur juste à temps pour y recevoir dans les bras mon petit bonhomme de prince, pâle comme la neige.

@@ -1,0 +1,4 @@
+# Lisons Le Petit Prince — Chapitre 23 / Scène 2: 갈증을 달래주는 알약
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] C'était un marchand de pilules perfectionnées qui apaisent la soif. On en avale une par semaine et l'on n'éprouve plus le besoin de boire.

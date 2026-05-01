@@ -1,0 +1,4 @@
+# Lisons Le Petit Prince — Chapitre 25 / Scène 2: 사하라의 우물과는 다른 우물
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] Le puits que nous avions atteint ne ressemblait pas aux puits sahariens. Les puits sahariens sont de simples trous creusés dans le sable. Celui-là ressemblait à un puits de village. Mais il n'y avait là aucun village, et je croyais rêver.

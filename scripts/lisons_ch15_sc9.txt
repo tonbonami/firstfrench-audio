@@ -1,0 +1,12 @@
+# Lisons Le Petit Prince — Chapitre 15 / Scène 9: 꽃의 운명
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] – Mais qu'est-ce que signifie « éphémère » ? répéta le petit prince qui, de sa vie, n'avait renoncé à une question, une fois qu'il l'avait posée.
+<break time="1.0s"/>
+[FR-Narrator] – Ça signifie « qui est menacé de disparition prochaine ».
+<break time="1.0s"/>
+[FR-Narrator] – Ma fleur est menacée de disparition prochaine ?
+<break time="1.0s"/>
+[FR-Narrator] – Bien sûr.
+<break time="1.0s"/>
+[FR-Narrator] Ma fleur est éphémère, se dit le petit prince, et elle n'a que quatre épines pour se défendre contre le monde ! Et je l'ai laissée toute seule chez moi !

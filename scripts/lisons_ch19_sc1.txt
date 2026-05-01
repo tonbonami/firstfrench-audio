@@ -1,0 +1,4 @@
+# Lisons Le Petit Prince — Chapitre 19 / Scène 1: 높은 산에 오른 어린 왕자
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] Le petit prince fit l'ascension d'une haute montagne. Les seules montagnes qu'il eût jamais connues étaient les trois volcans qui lui arrivaient au genou. Et il se servait du volcan éteint comme d'un tabouret. « D'une montagne haute comme celle-ci, se dit-il donc, j'apercevrai d'un coup toute la planète et tous les hommes… » Mais il n'aperçut rien que des aiguilles de roc bien aiguisées.

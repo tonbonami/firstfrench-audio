@@ -1,0 +1,4 @@
+# Lisons Le Petit Prince — Chapitre 14 / Scène 2: 유용한 직업
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] « Peut-être bien que cet homme est absurde. Cependant il est moins absurde que le roi, que le vaniteux, que le businessman et que le buveur. Au moins son travail a-t-il un sens. Quand il allume son réverbère, c'est comme s'il faisait naître une étoile de plus, ou une fleur. Quand il éteint son réverbère, ça endort la fleur ou l'étoile. C'est une occupation très jolie. C'est véritablement utile puisque c'est joli. »

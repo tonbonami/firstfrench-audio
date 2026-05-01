@@ -1,0 +1,4 @@
+# Lisons Le Petit Prince — Chapitre 4 / Scène 1: 집보다 조금 더 큰 별
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] J'avais ainsi appris une seconde chose très importante : C'est que sa planète d'origine était à peine plus grande qu'une maison !

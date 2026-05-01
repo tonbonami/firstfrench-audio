@@ -1,0 +1,10 @@
+# Lisons Le Petit Prince — Chapitre 25 / Scène 7: 약속을 지켜야 해
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] J'avais bu. Je respirais bien. Le sable, au lever du jour, est couleur de miel. J'étais heureux aussi de cette couleur de miel. Pourquoi fallait-il que j'eusse de la peine…
+<break time="1.0s"/>
+[FR-Narrator] – Il faut que tu tiennes ta promesse, me dit doucement le petit prince, qui, de nouveau, s'était assis auprès de moi.
+<break time="1.0s"/>
+[FR-Narrator] – Quelle promesse ?
+<break time="1.0s"/>
+[FR-Narrator] – Tu sais… une muselière pour mon mouton… je suis responsable de cette fleur !

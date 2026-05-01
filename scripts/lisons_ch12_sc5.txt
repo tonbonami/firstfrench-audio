@@ -1,0 +1,6 @@
+# Lisons Le Petit Prince — Chapitre 12 / Scène 5: 어린 왕자의 당혹감
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] Et le petit prince s'en fut, perplexe.
+<break time="1.0s"/>
+[FR-Narrator] « Les grandes personnes sont décidément très très bizarres », se disait-il en lui-même durant le voyage.

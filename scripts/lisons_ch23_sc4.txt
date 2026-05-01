@@ -1,0 +1,8 @@
+# Lisons Le Petit Prince — Chapitre 23 / Scène 4: 53분의 여유
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] – Et que fait-on de ces cinquante-trois minutes ?
+<break time="1.0s"/>
+[FR-Narrator] – On en fait ce que l'on veut…
+<break time="1.0s"/>
+[FR-Narrator] « Moi, se dit le petit prince, si j'avais cinquante-trois minutes à dépenser, je marcherais tout doucement vers une fontaine… »

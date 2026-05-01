@@ -1,0 +1,8 @@
+# Lisons Le Petit Prince — Chapitre 10-2 / Scène 13: 스스로를 심판하라
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] – Ton coucher de soleil, tu l'auras. Je l'exigerai. Mais j'attendrai, dans ma science du gouvernement, que les conditions soient favorables.
+<break time="1.0s"/>
+[FR-Narrator] – Quand ça sera-t-il ? s'informa le petit prince.
+<break time="1.0s"/>
+[FR-Narrator] – Hem ! hem ! lui répondit le roi, qui consulta d'abord un gros calendrier, hem ! hem ! ce sera, vers… vers… ce sera ce soir vers sept heures quarante ! Et tu verras comme je suis bien obéi.

@@ -1,0 +1,4 @@
+# Lisons Le Petit Prince — Chapitre 27 / Scène 1: 여섯 해가 지난 지금
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] Et maintenant, bien sûr, ça fait six ans déjà… Je n'ai jamais encore raconté cette histoire. Les camarades qui m'ont revu ont été bien contents de me revoir vivant. J'étais triste mais je leur disais : « C'est la fatigue… »

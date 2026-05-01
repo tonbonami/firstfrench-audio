@@ -1,0 +1,8 @@
+# Lisons Le Petit Prince — Chapitre 18 / Scène 2: 인사와 질문
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] – Bonjour, dit le petit prince.
+<break time="1.0s"/>
+[FR-Narrator] – Bonjour, dit la fleur.
+<break time="1.0s"/>
+[FR-Narrator] – Où sont les hommes ? demanda poliment le petit prince.

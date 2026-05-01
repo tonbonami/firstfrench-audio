@@ -1,0 +1,8 @@
+# Lisons Le Petit Prince — Chapitre 24 / Scène 7: 보이지 않는 꽃
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] Il était fatigué. Il s'assit. Je m'assis auprès de lui. Et, après un silence, il dit encore :
+<break time="1.0s"/>
+[FR-Narrator] – Les étoiles sont belles, à cause d'une fleur que l'on ne voit pas…
+<break time="1.0s"/>
+[FR-Narrator] Je répondis « bien sûr » et je regardai, sans parler, les plis du sable sous la lune.

@@ -1,0 +1,6 @@
+# Lisons Le Petit Prince — Chapitre 27 / Scène 7: 하늘을 바라보세요
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] Regardez le ciel. Demandez-vous : le mouton oui ou non a-t-il mangé la fleur ? Et vous verrez comme tout change…
+<break time="1.0s"/>
+[FR-Narrator] Et aucune grande personne ne comprendra jamais que ça a tellement d'importance !

@@ -1,0 +1,6 @@
+# Lisons Le Petit Prince — Chapitre 7 / Scène 8: 붉은 얼굴의 신사
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] Il me voyait, mon marteau à la main, et les doigts noirs de cambouis, penché sur un objet qui lui semblait très laid.
+<break time="1.0s"/>
+[FR-Narrator] – Tu parles comme les grandes personnes !

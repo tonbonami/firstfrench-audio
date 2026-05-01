@@ -1,0 +1,6 @@
+# Lisons Le Petit Prince — Chapitre 23 / Scène 1: 인사
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] – Bonjour, dit le petit prince.
+<break time="1.0s"/>
+[FR-Narrator] – Bonjour, dit le marchand.

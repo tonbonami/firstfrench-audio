@@ -1,0 +1,12 @@
+# Lisons Le Petit Prince — Chapitre 8 / Scène 3: 꽃의 첫인사
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] Et elle, qui avait travaillé avec tant de précision, dit en bâillant :
+<break time="1.0s"/>
+[FR-Narrator] – Ah ! Je me réveille à peine… Je vous demande pardon… Je suis encore toute décoiffée…
+<break time="1.0s"/>
+[FR-Narrator] Le petit prince, alors, ne put contenir son admiration :
+<break time="1.0s"/>
+[FR-Narrator] – Que vous êtes belle !
+<break time="1.0s"/>
+[FR-Narrator] – N'est-ce pas, répondit doucement la fleur. Et je suis née en même temps que le soleil…

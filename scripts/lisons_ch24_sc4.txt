@@ -1,0 +1,8 @@
+# Lisons Le Petit Prince — Chapitre 24 / Scène 4: 우물을 찾아서
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] Mais il me regarda et répondit à ma pensée :
+<break time="1.0s"/>
+[FR-Narrator] – J'ai soif aussi… cherchons un puits…
+<break time="1.0s"/>
+[FR-Narrator] J'eus un geste de lassitude : il est absurde de chercher un puits, au hasard, dans l'immensité du désert. Cependant nous nous mîmes en marche.

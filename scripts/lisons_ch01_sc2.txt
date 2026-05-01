@@ -1,0 +1,4 @@
+# Lisons Le Petit Prince — Chapitre 1 / Scène 2: 책에서 읽은 이야기
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] On disait dans le livre : « Les serpents boas avalent leur proie tout entière, sans la mâcher. Ensuite ils ne peuvent plus bouger et ils dorment pendant les six mois de leur digestion. »

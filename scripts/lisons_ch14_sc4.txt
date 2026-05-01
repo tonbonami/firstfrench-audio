@@ -1,0 +1,12 @@
+# Lisons Le Petit Prince — Chapitre 14 / Scène 4: 이해할 수 없는 규칙
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] – Mais pourquoi viens-tu de le rallumer ?
+<break time="1.0s"/>
+[FR-Narrator] – C'est la consigne, répondit l'allumeur.
+<break time="1.0s"/>
+[FR-Narrator] – Je ne comprends pas, dit le petit prince.
+<break time="1.0s"/>
+[FR-Narrator] – Il n'y a rien à comprendre, dit l'allumeur. La consigne c'est la consigne. Bonjour.
+<break time="1.0s"/>
+[FR-Narrator] Et il éteignit son réverbère.

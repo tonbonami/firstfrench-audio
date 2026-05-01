@@ -1,0 +1,4 @@
+# Lisons Le Petit Prince — Chapitre 14 / Scène 1: 다섯 번째 별과 가로등 켜는 사람
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] La cinquième planète était très curieuse. C'était la plus petite de toutes. Il y avait là juste assez de place pour loger un réverbère et un allumeur de réverbères. Le petit prince ne parvenait pas à s'expliquer à quoi pouvaient servir, quelque part dans le ciel, sur une planète sans maison, ni population, un réverbère et un allumeur de réverbères. Cependant il se dit en lui-même :

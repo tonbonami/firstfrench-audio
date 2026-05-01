@@ -1,0 +1,4 @@
+# Lisons Le Petit Prince — Chapitre 9 / Scène 3: 마지막 작별 준비
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] Le petit prince arracha aussi, avec un peu de mélancolie, les dernières pousses de baobabs. Il croyait ne jamais devoir revenir. Mais tous ces travaux familiers lui parurent, ce matin-là, extrêmement doux. Et, quand il arrosa une dernière fois la fleur, et se prépara à la mettre à l'abri sous son globe, il se découvrit l'envie de pleurer.

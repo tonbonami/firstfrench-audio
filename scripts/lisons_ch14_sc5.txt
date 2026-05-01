@@ -1,0 +1,10 @@
+# Lisons Le Petit Prince — Chapitre 14 / Scène 5: 끔찍한 직업
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] Puis il s'épongea le front avec un mouchoir à carreaux rouges.
+<break time="1.0s"/>
+[FR-Narrator] – Je fais là un métier terrible. C'était raisonnable autrefois. J'éteignais le matin et j'allumais le soir. J'avais le reste du jour pour me reposer, et le reste de la nuit pour dormir…
+<break time="1.0s"/>
+[FR-Narrator] – Et, depuis cette époque, la consigne a changé ?
+<break time="1.0s"/>
+[FR-Narrator] – La consigne n'a pas changé, dit l'allumeur. C'est bien là le drame ! La planète d'année en année a tourné de plus en plus vite, et la consigne n'a pas changé !

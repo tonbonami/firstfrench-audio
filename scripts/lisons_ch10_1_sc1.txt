@@ -1,0 +1,8 @@
+# Lisons Le Petit Prince — Chapitre 10-1 / Scène 1: 소행성 방문 시작
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] Il se trouvait dans la région des astéroïdes 325, 326, 327, 328, 329 et 330. Il commença donc par les visiter pour y chercher une occupation et pour s'instruire.
+<break time="1.0s"/>
+[FR-Narrator] La première était habitée par un roi. Le roi siégeait, habillé de pourpre et d'hermine, sur un trône très simple et cependant majestueux.
+<break time="1.0s"/>
+[FR-Narrator] – Ah ! Voilà un sujet, s'écria le roi quand il aperçut le petit prince.

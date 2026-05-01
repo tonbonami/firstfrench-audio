@@ -1,0 +1,8 @@
+# Lisons Le Petit Prince — Chapitre 10-2 / Scène 11: 떠나려는 어린 왕자
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] Un tel pouvoir émerveilla le petit prince. S'il l'avait détenu lui-même, il aurait pu assister, non pas à quarante-quatre, mais à soixante-douze, ou même à cent, ou même à deux cents couchers de soleil dans la même journée, sans avoir jamais à tirer sa chaise ! Et comme il se sentait un peu triste à cause du souvenir de sa petite planète abandonnée, il s'enhardit à solliciter une grâce du roi :
+<break time="1.0s"/>
+[FR-Narrator] – Je voudrais voir un coucher de soleil… Faites-moi plaisir… Ordonnez au soleil de se coucher…
+<break time="1.0s"/>
+[FR-Narrator] – Si j'ordonnais à un général de voler d'une fleur à l'autre à la façon d'un papillon, ou d'écrire une tragédie, ou de se changer en oiseau de mer, et si le général n'exécutait pas l'ordre reçu, qui, de lui ou de moi, serait dans son tort ?

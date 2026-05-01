@@ -1,0 +1,6 @@
+# Lisons Le Petit Prince — Chapitre 22 / Scène 6: 오직 아이들만이 아는 것
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] – Les enfants seuls savent ce qu'ils cherchent, fit le petit prince. Ils perdent du temps pour une poupée de chiffons, et elle devient très importante, et si on la leur enlève, ils pleurent…
+<break time="1.0s"/>
+[FR-Narrator] – Ils ont de la chance, dit l'aiguilleur.

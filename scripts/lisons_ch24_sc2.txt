@@ -1,0 +1,10 @@
+# Lisons Le Petit Prince — Chapitre 24 / Scène 2: 목말라 죽게 생겼어
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] – Mon ami le renard, me dit-il…
+<break time="1.0s"/>
+[FR-Narrator] – Mon petit bonhomme, il ne s'agit plus du renard !
+<break time="1.0s"/>
+[FR-Narrator] – Pourquoi ?
+<break time="1.0s"/>
+[FR-Narrator] – Parce qu'on va mourir de soif…

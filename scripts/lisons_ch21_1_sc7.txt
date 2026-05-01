@@ -1,0 +1,18 @@
+# Lisons Le Petit Prince — Chapitre 21-1 / Scène 7: 다른 행성에 대한 호기심
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] Le renard parut très intrigué :
+<break time="1.0s"/>
+[FR-Narrator] – Sur une autre planète ?
+<break time="1.0s"/>
+[FR-Narrator] – Oui.
+<break time="1.0s"/>
+[FR-Narrator] – Il y a des chasseurs, sur cette planète-là ?
+<break time="1.0s"/>
+[FR-Narrator] – Non.
+<break time="1.0s"/>
+[FR-Narrator] – Ça, c'est intéressant ! Et des poules ?
+<break time="1.0s"/>
+[FR-Narrator] – Non.
+<break time="1.0s"/>
+[FR-Narrator] – Rien n'est parfait, soupira le renard.

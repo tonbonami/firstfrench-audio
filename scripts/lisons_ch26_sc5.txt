@@ -1,0 +1,4 @@
+# Lisons Le Petit Prince — Chapitre 26 / Scène 5: 모래 위의 흔적
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] Je poursuivis ma marche vers le mur. Je ne voyais ni n'entendais toujours personne. Pourtant le petit prince répliqua de nouveau :

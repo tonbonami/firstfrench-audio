@@ -1,0 +1,25 @@
+{
+  "chapter": "Chapitre 23",
+  "page_id": "352b1658e7ec816789e4daf93a694429",
+  "stem_prefix": "lisons_ch23_sc",
+  "scenes": [
+    {"n": 1, "title": "인사", "anchor": "Scène 1 : 인사",
+     "paragraphs": [
+       "– Bonjour, dit le petit prince.",
+       "– Bonjour, dit le marchand."
+     ]},
+    {"n": 2, "title": "갈증을 달래주는 알약", "anchor": "Scène 2 : 갈증을 달래주는 알약",
+     "paragraphs": ["C'était un marchand de pilules perfectionnées qui apaisent la soif. On en avale une par semaine et l'on n'éprouve plus le besoin de boire."]},
+    {"n": 3, "title": "시간 절약", "anchor": "Scène 3 : 시간 절약",
+     "paragraphs": [
+       "– Pourquoi vends-tu ça ? dit le petit prince.",
+       "– C'est une grosse économie de temps, dit le marchand. Les experts ont fait des calculs. On épargne cinquante-trois minutes par semaine."
+     ]},
+    {"n": 4, "title": "53분의 여유", "anchor": "Scène 4 : 53분의 여유",
+     "paragraphs": [
+       "– Et que fait-on de ces cinquante-trois minutes ?",
+       "– On en fait ce que l'on veut…",
+       "« Moi, se dit le petit prince, si j'avais cinquante-trois minutes à dépenser, je marcherais tout doucement vers une fontaine… »"
+     ]}
+  ]
+}

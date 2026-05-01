@@ -1,0 +1,4 @@
+# Lisons Le Petit Prince — Chapitre 9 / Scène 1: 출발 준비
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] Je crois qu'il profita, pour son évasion, d'une migration d'oiseaux sauvages. Au matin du départ il mit sa planète bien en ordre. Il ramona soigneusement ses volcans en activité. Il possédait deux volcans en activité. Et c'était bien commode pour faire chauffer le petit déjeuner du matin.

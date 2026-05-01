@@ -1,0 +1,6 @@
+# Lisons Le Petit Prince — Chapitre 13 / Scène 2: 끝없는 계산
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] – Trois et deux font cinq. Cinq et sept douze. Douze et trois quinze. Bonjour. Quinze et sept vingt-deux. Vingt-deux et six vingt-huit. Pas le temps de la rallumer. Vingt-six et cinq trente et un. Ouf ! Ça fait donc cinq cent un millions six cent vingt-deux mille sept cent trente et un.
+<break time="1.0s"/>
+[FR-Narrator] – Cinq cents millions de quoi ?

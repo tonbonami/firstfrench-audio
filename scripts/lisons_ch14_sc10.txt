@@ -1,0 +1,8 @@
+# Lisons Le Petit Prince — Chapitre 14 / Scène 10: 아쉬운 이별
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] Il eut un soupir de regret et se dit encore :
+<break time="1.0s"/>
+[FR-Narrator] « Celui-là est le seul dont j'eusse pu faire mon ami. Mais sa planète est vraiment trop petite. Il n'y a pas de place pour deux… »
+<break time="1.0s"/>
+[FR-Narrator] Ce que le petit prince n'osait pas s'avouer, c'est qu'il regrettait cette planète bénie à cause, surtout, des mille quatre cent quarante couchers de soleil par vingt-quatre heures !

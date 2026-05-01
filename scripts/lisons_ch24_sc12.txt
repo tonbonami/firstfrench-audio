@@ -1,0 +1,6 @@
+# Lisons Le Petit Prince — Chapitre 24 / Scène 12: 우물을 발견하다
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] Comme ses lèvres entr'ouvertes ébauchaient un demi-sourire je me dis encore : « Ce qui m'émeut si fort de ce petit prince endormi, c'est sa fidélité pour une fleur, c'est l'image d'une rose qui rayonne en lui comme la flamme d'une lampe, même quand il dort… » Et je le devinai plus fragile encore. Il faut bien protéger les lampes : un coup de vent peut les éteindre…
+<break time="1.0s"/>
+[FR-Narrator] Et, marchant ainsi, je découvris le puits au lever du jour.

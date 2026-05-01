@@ -1,0 +1,8 @@
+# Lisons Le Petit Prince — Chapitre 21-1 / Scène 6: 장미꽃을 떠올리는 어린 왕자
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] – Je commence à comprendre, dit le petit prince. Il y a une fleur… je crois qu'elle m'a apprivoisé…
+<break time="1.0s"/>
+[FR-Narrator] – C'est possible, dit le renard. On voit sur la Terre toutes sortes de choses…
+<break time="1.0s"/>
+[FR-Narrator] – Oh ! ce n'est pas sur la Terre, dit le petit prince.

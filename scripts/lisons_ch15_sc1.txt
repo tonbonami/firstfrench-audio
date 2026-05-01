@@ -1,0 +1,8 @@
+# Lisons Le Petit Prince — Chapitre 15 / Scène 1: 지리학자와의 만남
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] La sixième planète était une planète dix fois plus vaste. Elle était habitée par un vieux Monsieur qui écrivait d'énormes livres.
+<break time="1.0s"/>
+[FR-Narrator] – Tiens ! voilà un explorateur ! s'écria-t-il, quand il aperçut le petit prince.
+<break time="1.0s"/>
+[FR-Narrator] Le petit prince s'assit sur la table et souffla un peu. Il avait déjà tant voyagé !

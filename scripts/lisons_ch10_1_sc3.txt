@@ -1,0 +1,8 @@
+# Lisons Le Petit Prince — Chapitre 10-1 / Scène 3: 하품 금지령
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] – Approche-toi que je te voie mieux, lui dit le roi qui était tout fier d'être roi pour quelqu'un.
+<break time="1.0s"/>
+[FR-Narrator] Le petit prince chercha des yeux où s'asseoir, mais la planète était toute encombrée par le magnifique manteau d'hermine. Il resta donc debout, et, comme il était fatigué, il bâilla.
+<break time="1.0s"/>
+[FR-Narrator] – Il est contraire à l'étiquette de bâiller en présence d'un roi, lui dit le monarque. Je te l'interdis.

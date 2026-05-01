@@ -1,0 +1,8 @@
+# Lisons Le Petit Prince — Chapitre 12 / Scène 4: 부끄러움의 악순환
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] – Pour oublier que j'ai honte, avoua le buveur en baissant la tête.
+<break time="1.0s"/>
+[FR-Narrator] – Honte de quoi ? s'informa le petit prince qui désirait le secourir.
+<break time="1.0s"/>
+[FR-Narrator] – Honte de boire ! acheva le buveur qui s'enferma définitivement dans le silence.

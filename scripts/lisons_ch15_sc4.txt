@@ -1,0 +1,10 @@
+# Lisons Le Petit Prince — Chapitre 15 / Scène 4: 탐험가의 필요성
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] – Et des villes et des fleuves et des déserts ?
+<break time="1.0s"/>
+[FR-Narrator] – Je ne puis pas le savoir non plus, dit le géographe.
+<break time="1.0s"/>
+[FR-Narrator] – Mais vous êtes géographe !
+<break time="1.0s"/>
+[FR-Narrator] – C'est exact, dit le géographe, mais je ne suis pas explorateur. Je manque absolument d'explorateurs. Ce n'est pas le géographe qui va faire le compte des villes, des fleuves, des montagnes, des mers, des océans et des déserts. Le géographe est trop important pour flâner. Il ne quitte pas son bureau. Mais il y reçoit les explorateurs. Il les interroge, et il prend en note leurs souvenirs. Et si les souvenirs de l'un d'entre eux lui paraissent intéressants, le géographe fait faire une enquête sur la moralité de l'explorateur.

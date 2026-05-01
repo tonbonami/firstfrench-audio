@@ -1,0 +1,12 @@
+# Lisons Le Petit Prince — Chapitre 15 / Scène 6: 증거의 요구
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] – On va voir ?
+<break time="1.0s"/>
+[FR-Narrator] – Non. C'est trop compliqué. Mais on exige de l'explorateur qu'il fournisse des preuves. S'il s'agit par exemple de la découverte d'une grosse montagne, on exige qu'il en rapporte de grosses pierres.
+<break time="1.0s"/>
+[FR-Narrator] Le géographe soudain s'émut.
+<break time="1.0s"/>
+[FR-Narrator] – Mais toi, tu viens de loin ! Tu es explorateur ! Tu vas me décrire ta planète !
+<break time="1.0s"/>
+[FR-Narrator] Et le géographe, ayant ouvert son registre, tailla son crayon. On note d'abord au crayon les récits des explorateurs. On attend, pour noter à l'encre, que l'explorateur ait fourni des preuves.

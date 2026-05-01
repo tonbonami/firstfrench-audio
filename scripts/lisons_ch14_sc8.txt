@@ -1,0 +1,14 @@
+# Lisons Le Petit Prince — Chapitre 14 / Scène 8: 잠자는 것이 소원
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] Le petit prince poursuivit :
+<break time="1.0s"/>
+[FR-Narrator] – Ta planète est tellement petite que tu en fais le tour en trois enjambées. Tu n'as qu'à marcher assez lentement pour rester toujours au soleil. Quand tu voudras te reposer tu marcheras… et le jour durera aussi longtemps que tu voudras.
+<break time="1.0s"/>
+[FR-Narrator] – Ça ne m'avance pas à grand'chose, dit l'allumeur. Ce que j'aime dans la vie, c'est dormir.
+<break time="1.0s"/>
+[FR-Narrator] – Ce n'est pas de chance, dit le petit prince.
+<break time="1.0s"/>
+[FR-Narrator] – Ce n'est pas de chance, dit l'allumeur. Bonjour.
+<break time="1.0s"/>
+[FR-Narrator] Et il éteignit son réverbère.

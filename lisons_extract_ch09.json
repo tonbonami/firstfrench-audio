@@ -1,0 +1,39 @@
+{
+  "chapter": "Chapitre 9",
+  "page_id": "352b1658e7ec8124ae8ecb2bfb40c99d",
+  "stem_prefix": "lisons_ch09_sc",
+  "scenes": [
+    {"n": 1, "title": "출발 준비", "anchor": "Scène 1 : 출발 준비",
+     "paragraphs": ["Je crois qu'il profita, pour son évasion, d'une migration d'oiseaux sauvages. Au matin du départ il mit sa planète bien en ordre. Il ramona soigneusement ses volcans en activité. Il possédait deux volcans en activité. Et c'était bien commode pour faire chauffer le petit déjeuner du matin."]},
+    {"n": 2, "title": "화산과 바오밥", "anchor": "Scène 2 : 화산과 바오밥",
+     "paragraphs": ["Il possédait aussi un volcan éteint. Mais, comme il disait, « On ne sait jamais ! » Il ramona donc également le volcan éteint. S'ils sont bien ramonés, les volcans brûlent doucement et régulièrement, sans éruptions. Les éruptions volcaniques sont comme des feux de cheminée. Évidemment sur notre terre nous sommes beaucoup trop petits pour ramoner nos volcans. C'est pourquoi ils nous causent des tas d'ennuis."]},
+    {"n": 3, "title": "마지막 작별 준비", "anchor": "Scène 3 : 마지막 작별 준비",
+     "paragraphs": ["Le petit prince arracha aussi, avec un peu de mélancolie, les dernières pousses de baobabs. Il croyait ne jamais devoir revenir. Mais tous ces travaux familiers lui parurent, ce matin-là, extrêmement doux. Et, quand il arrosa une dernière fois la fleur, et se prépara à la mettre à l'abri sous son globe, il se découvrit l'envie de pleurer."]},
+    {"n": 4, "title": "꽃의 고백", "anchor": "Scène 4 : 꽃의 고백",
+     "paragraphs": [
+       "– Adieu, dit-il à la fleur.",
+       "Mais elle ne lui répondit pas.",
+       "– Adieu, répéta-t-il.",
+       "La fleur toussa. Mais ce n'était pas à cause de son rhume.",
+       "– J'ai été sotte, lui dit-elle enfin. Je te demande pardon. Tâche d'être heureux."
+     ]},
+    {"n": 5, "title": "사랑의 고백", "anchor": "Scène 5 : 사랑의 고백",
+     "paragraphs": [
+       "Il fut surpris par l'absence de reproches. Il restait là tout déconcerté, le globe en l'air. Il ne comprenait pas cette douceur calme.",
+       "– Mais oui, je t'aime, lui dit la fleur. Tu n'en as rien su, par ma faute. Cela n'a aucune importance. Mais tu as été aussi sot que moi. Tâche d'être heureux… Laisse ce globe tranquille. Je n'en veux plus."
+     ]},
+    {"n": 6, "title": "꽃의 자존심", "anchor": "Scène 6 : 꽃의 자존심",
+     "paragraphs": [
+       "– Mais le vent…",
+       "– Je ne suis pas si enrhumée que ça… L'air frais de la nuit me fera du bien. Je suis une fleur.",
+       "– Mais les bêtes…",
+       "– Il faut bien que je supporte deux ou trois chenilles si je veux connaître les papillons. Il paraît que c'est tellement beau. Sinon qui me rendra visite ? Tu seras loin, toi. Quant aux grosses bêtes, je ne crains rien. J'ai mes griffes."
+     ]},
+    {"n": 7, "title": "이별", "anchor": "Scène 7 : 이별",
+     "paragraphs": [
+       "Et elle montrait naïvement ses quatre épines. Puis elle ajouta :",
+       "– Ne traîne pas comme ça, c'est agaçant. Tu as décidé de partir. Va-t'en.",
+       "Car elle ne voulait pas qu'il la vît pleurer. C'était une fleur tellement orgueilleuse…"
+     ]}
+  ]
+}

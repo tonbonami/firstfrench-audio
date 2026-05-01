@@ -1,0 +1,8 @@
+# Lisons Le Petit Prince — Chapitre 17 / Scène 3: 사막에 도착한 어린 왕자
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] Le petit prince, une fois sur terre, fut donc bien surpris de ne voir personne. Il avait déjà peur de s'être trompé de planète, quand un anneau couleur de lune remua dans le sable.
+<break time="1.0s"/>
+[FR-Narrator] – Bonne nuit, fit le petit prince à tout hasard.
+<break time="1.0s"/>
+[FR-Narrator] – Bonne nuit, fit le serpent.

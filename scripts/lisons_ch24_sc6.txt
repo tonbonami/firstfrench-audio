@@ -1,0 +1,8 @@
+# Lisons Le Petit Prince — Chapitre 24 / Scène 6: 마음을 위한 물
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] Mais il ne répondit pas à ma question. Il me dit simplement :
+<break time="1.0s"/>
+[FR-Narrator] – L'eau peut aussi être bonne pour le cœur…
+<break time="1.0s"/>
+[FR-Narrator] Je ne compris pas sa réponse mais je me tus… Je savais bien qu'il ne fallait pas l'interroger.

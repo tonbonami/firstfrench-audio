@@ -1,0 +1,16 @@
+# Lisons Le Petit Prince — Chapitre 14 / Scène 6: 1분에 한 번씩
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] – Alors ? dit le petit prince.
+<break time="1.0s"/>
+[FR-Narrator] – Alors maintenant qu'elle fait un tour par minute, je n'ai plus une seconde de repos. J'allume et j'éteins une fois par minute !
+<break time="1.0s"/>
+[FR-Narrator] – Ça c'est drôle ! Les jours chez toi durent une minute !
+<break time="1.0s"/>
+[FR-Narrator] – Ce n'est pas drôle du tout, dit l'allumeur. Ça fait déjà un mois que nous parlons ensemble.
+<break time="1.0s"/>
+[FR-Narrator] – Un mois ?
+<break time="1.0s"/>
+[FR-Narrator] – Oui. Trente minutes. Trente jours ! Bonsoir.
+<break time="1.0s"/>
+[FR-Narrator] Et il ralluma son réverbère.

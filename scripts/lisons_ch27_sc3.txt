@@ -1,0 +1,4 @@
+# Lisons Le Petit Prince — Chapitre 27 / Scène 3: 잊어버린 가죽 끈
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] Mais voilà qu'il se passe quelque chose d'extraordinaire. La muselière que j'ai dessinée pour le petit prince, j'ai oublié d'y ajouter la courroie de cuir ! Il n'aura jamais pu l'attacher au mouton. Alors je me demande : « Que s'est-il passé sur sa planète ? Peut-être bien que le mouton a mangé la fleur… »

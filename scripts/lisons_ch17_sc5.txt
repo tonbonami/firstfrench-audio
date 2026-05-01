@@ -1,0 +1,14 @@
+# Lisons Le Petit Prince — Chapitre 17 / Scène 5: 별을 바라보는 어린 왕자
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] Le petit prince s'assit sur une pierre et leva les yeux vers le ciel :
+<break time="1.0s"/>
+[FR-Narrator] – Je me demande, dit-il, si les étoiles sont éclairées afin que chacun puisse un jour retrouver la sienne. Regarde ma planète. Elle est juste au-dessus de nous… Mais comme elle est loin !
+<break time="1.0s"/>
+[FR-Narrator] – Elle est belle, dit le serpent. Que viens-tu faire ici ?
+<break time="1.0s"/>
+[FR-Narrator] – J'ai des difficultés avec une fleur, dit le petit prince.
+<break time="1.0s"/>
+[FR-Narrator] – Ah ! fit le serpent.
+<break time="1.0s"/>
+[FR-Narrator] Et ils se turent.

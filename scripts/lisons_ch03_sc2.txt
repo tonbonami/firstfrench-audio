@@ -1,0 +1,10 @@
+# Lisons Le Petit Prince — Chapitre 3 / Scène 2: 하늘에서 떨어진 나
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] Et j'étais fier de lui apprendre que je volais. Alors il s'écria :
+<break time="1.0s"/>
+[FR-Narrator] – Comment ! tu es tombé du ciel ?
+<break time="1.0s"/>
+[FR-Narrator] – Oui, fis-je modestement.
+<break time="1.0s"/>
+[FR-Narrator] – Ah ! ça c'est drôle…

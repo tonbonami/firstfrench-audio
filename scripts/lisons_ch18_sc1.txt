@@ -1,0 +1,4 @@
+# Lisons Le Petit Prince — Chapitre 18 / Scène 1: 사막에서 만난 꽃
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] Le petit prince traversa le désert et ne rencontra qu'une fleur. Une fleur à trois pétales, une fleur de rien du tout…

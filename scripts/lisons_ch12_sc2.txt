@@ -1,0 +1,6 @@
+# Lisons Le Petit Prince — Chapitre 12 / Scène 2: 술꾼과의 첫 대화
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] – Que fais-tu là ? dit-il au buveur, qu'il trouva installé en silence devant une collection de bouteilles vides et une collection de bouteilles pleines.
+<break time="1.0s"/>
+[FR-Narrator] – Je bois, répondit le buveur, d'un air lugubre.

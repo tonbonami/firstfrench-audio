@@ -1,0 +1,10 @@
+# Lisons Le Petit Prince — Chapitre 2-1 / Scène 4: 사막 한가운데의 아이
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] Je regardai donc cette apparition avec des yeux tout ronds d'étonnement. N'oubliez pas que je me trouvais à mille milles de toute région habitée. Or mon petit bonhomme ne me semblait ni égaré, ni mort de fatigue, ni mort de faim, ni mort de soif, ni mort de peur. Il n'avait en rien l'apparence d'un enfant perdu au milieu du désert, à mille milles de toute région habitée. Quand je réussis enfin à parler, je lui dis :
+<break time="1.0s"/>
+[FR-Narrator] – Mais… qu'est-ce que tu fais là ?
+<break time="1.0s"/>
+[FR-Narrator] Et il me répéta alors, tout doucement, comme une chose très sérieuse :
+<break time="1.0s"/>
+[FR-Narrator] – S'il vous plaît… dessine-moi un mouton…

@@ -1,0 +1,12 @@
+# Lisons Le Petit Prince — Chapitre 15 / Scène 2: 지리학자라는 직업
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] – D'où viens-tu ? lui dit le vieux Monsieur.
+<break time="1.0s"/>
+[FR-Narrator] – Quel est ce gros livre ? dit le petit prince. Que faites-vous ici ?
+<break time="1.0s"/>
+[FR-Narrator] – Je suis géographe, dit le vieux Monsieur.
+<break time="1.0s"/>
+[FR-Narrator] – Qu'est-ce qu'un géographe ?
+<break time="1.0s"/>
+[FR-Narrator] – C'est un savant qui connaît où se trouvent les mers, les fleuves, les villes, les montagnes et les déserts.

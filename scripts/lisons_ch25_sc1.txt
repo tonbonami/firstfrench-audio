@@ -1,0 +1,8 @@
+# Lisons Le Petit Prince — Chapitre 25 / Scène 1: 사람들이 찾는 것
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] – Les hommes, dit le petit prince, ils s'enfournent dans les rapides, mais ils ne savent plus ce qu'ils cherchent. Alors ils s'agitent et tournent en rond…
+<break time="1.0s"/>
+[FR-Narrator] Et il ajouta :
+<break time="1.0s"/>
+[FR-Narrator] – Ce n'est pas la peine…

@@ -1,0 +1,17 @@
+{
+  "chapter": "Chapitre 16",
+  "page_id": "352b1658e7ec81f7aa8efce6b5c5e78d",
+  "stem_prefix": "lisons_ch16_sc",
+  "scenes": [
+    {"n": 1, "title": "일곱 번째 별, 지구", "anchor": "Scène 1 : 일곱 번째 별, 지구",
+     "paragraphs": ["La septième planète fut donc la Terre."]},
+    {"n": 2, "title": "지구의 사람들", "anchor": "Scène 2 : 지구의 사람들",
+     "paragraphs": ["La Terre n'est pas une planète quelconque ! On y compte cent onze rois (en n'oubliant pas, bien sûr, les rois nègres), sept mille géographes, neuf cent mille businessmen, sept millions et demi d'ivrognes, trois cent onze millions de vaniteux, c'est-à-dire environ deux milliards de grandes personnes."]},
+    {"n": 3, "title": "가로등 점등부 군대", "anchor": "Scène 3 : 가로등 점등부 군대",
+     "paragraphs": ["Pour vous donner une idée des dimensions de la Terre je vous dirai qu'avant l'invention de l'électricité on y devait entretenir, sur l'ensemble des six continents, une véritable armée de quatre cent soixante-deux mille cinq cent onze allumeurs de réverbères."]},
+    {"n": 4, "title": "오페라 발레 같은 움직임", "anchor": "Scène 4 : 오페라 발레 같은 움직임",
+     "paragraphs": ["Vu d'un peu loin ça faisait un effet splendide. Les mouvements de cette armée étaient réglés comme ceux d'un ballet d'opéra. D'abord venait le tour des allumeurs de réverbères de Nouvelle-Zélande et d'Australie. Puis ceux-ci, ayant allumé leurs lampions, s'en allaient dormir. Alors entraient à leur tour dans la danse les allumeurs de réverbères de Chine et de Sibérie. Puis eux aussi s'escamotaient dans les coulisses. Alors venait le tour des allumeurs de réverbères de Russie et des Indes. Puis de ceux d'Afrique et d'Europe. Puis de ceux d'Amérique du Sud. Puis de ceux d'Amérique du Nord. Et jamais ils ne se trompaient dans leur ordre d'entrée en scène. C'était grandiose."]},
+    {"n": 5, "title": "북극과 남극의 점등부", "anchor": "Scène 5 : 북극과 남극의 점등부",
+     "paragraphs": ["Seuls, l'allumeur de l'unique réverbère du pôle Nord, et son confrère de l'unique réverbère du pôle Sud, menaient des vies d'oisiveté et de nonchalance : ils travaillaient deux fois par an."]}
+  ]
+}

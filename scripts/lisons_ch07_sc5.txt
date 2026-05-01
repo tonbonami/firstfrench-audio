@@ -1,0 +1,10 @@
+# Lisons Le Petit Prince — Chapitre 7 / Scène 5: 어린 왕자의 반박
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] – Les épines, ça ne sert à rien, c'est de la pure méchanceté de la part des fleurs !
+<break time="1.0s"/>
+[FR-Narrator] – Oh !
+<break time="1.0s"/>
+[FR-Narrator] Mais après un silence il me lança, avec une sorte de rancune :
+<break time="1.0s"/>
+[FR-Narrator] – Je ne te crois pas ! Les fleurs sont faibles. Elles sont naïves. Elles se rassurent comme elles peuvent. Elles se croient terribles avec leurs épines…

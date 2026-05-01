@@ -1,0 +1,4 @@
+# Lisons Le Petit Prince — Chapitre 4 / Scène 5: 옷차림의 중요성
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] Heureusement pour la réputation de l'astéroïde B 612 un dictateur turc imposa à son peuple, sous peine de mort, de s'habiller à l'Européenne. L'astronome refit sa démonstration en 1920, dans un habit très élégant. Et cette fois-ci tout le monde fut de son avis.

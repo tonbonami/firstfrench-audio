@@ -1,0 +1,8 @@
+# Lisons Le Petit Prince — Chapitre 10-1 / Scène 8: 일몰을 보고 싶어요
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] – Sire… sur quoi régnez-vous ?
+<break time="1.0s"/>
+[FR-Narrator] – Sur tout, répondit le roi, avec une grande simplicité.
+<break time="1.0s"/>
+[FR-Narrator] – Sur tout ?

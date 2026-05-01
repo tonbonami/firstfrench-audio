@@ -1,0 +1,8 @@
+# Lisons Le Petit Prince — Chapitre 12 / Scène 3: 잊기 위해 마시는 술
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] – Pourquoi bois-tu ? lui demanda le petit prince.
+<break time="1.0s"/>
+[FR-Narrator] – Pour oublier, répondit le buveur.
+<break time="1.0s"/>
+[FR-Narrator] – Pour oublier quoi ? s'enquit le petit prince qui déjà le plaignait.

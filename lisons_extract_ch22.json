@@ -1,0 +1,42 @@
+{
+  "chapter": "Chapitre 22",
+  "page_id": "352b1658e7ec812cb25df65799515142",
+  "stem_prefix": "lisons_ch22_sc",
+  "scenes": [
+    {"n": 1, "title": "전철수와의 만남", "anchor": "Scène 1 : 전철수와의 만남",
+     "paragraphs": [
+       "– Bonjour, dit le petit prince.",
+       "– Bonjour, dit l'aiguilleur.",
+       "– Que fais-tu ici ? dit le petit prince."
+     ]},
+    {"n": 2, "title": "여행객들을 분류하는 전철수", "anchor": "Scène 2 : 여행객들을 분류하는 전철수",
+     "paragraphs": [
+       "– Je trie les voyageurs, par paquets de mille, dit l'aiguilleur. J'expédie les trains qui les emportent, tantôt vers la droite, tantôt vers la gauche.",
+       "Et un rapide illuminé, grondant comme le tonnerre, fit trembler la cabine d'aiguillage."
+     ]},
+    {"n": 3, "title": "바쁘게 오가는 사람들", "anchor": "Scène 3 : 바쁘게 오가는 사람들",
+     "paragraphs": [
+       "– Ils sont bien pressés, dit le petit prince. Que cherchent-ils ?",
+       "– L'homme de la locomotive l'ignore lui-même, dit l'aiguilleur.",
+       "Et gronda, en sens inverse, un second rapide illuminé."
+     ]},
+    {"n": 4, "title": "만족하지 못하는 어른들", "anchor": "Scène 4 : 만족하지 못하는 어른들",
+     "paragraphs": [
+       "– Ils reviennent déjà ? demanda le petit prince…",
+       "– Ce ne sont pas les mêmes, dit l'aiguilleur. C'est un échange.",
+       "– Ils n'étaient pas contents, là où ils étaient ?",
+       "– On n'est jamais content là où l'on est, dit l'aiguilleur."
+     ]},
+    {"n": 5, "title": "잠을 자거나 하품하는 어른들", "anchor": "Scène 5 : 잠을 자거나 하품하는 어른들",
+     "paragraphs": [
+       "Et gronda le tonnerre d'un troisième rapide illuminé.",
+       "– Ils poursuivent les premiers voyageurs ? demanda le petit prince.",
+       "– Ils ne poursuivent rien du tout, dit l'aiguilleur. Ils dorment là-dedans, ou bien ils bâillent. Les enfants seuls écrasent leur nez contre les vitres."
+     ]},
+    {"n": 6, "title": "오직 아이들만이 아는 것", "anchor": "Scène 6 : 오직 아이들만이 아는 것",
+     "paragraphs": [
+       "– Les enfants seuls savent ce qu'ils cherchent, fit le petit prince. Ils perdent du temps pour une poupée de chiffons, et elle devient très importante, et si on la leur enlève, ils pleurent…",
+       "– Ils ont de la chance, dit l'aiguilleur."
+     ]}
+  ]
+}

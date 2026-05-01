@@ -1,0 +1,4 @@
+# Lisons Le Petit Prince — Chapitre 5 / Scène 6: 싹을 틔우는 식물들
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] Alors elle s'étire, et pousse d'abord timidement vers le soleil une ravissante petite brindille inoffensive. S'il s'agit d'une brindille de radis ou de rosier, on peut la laisser pousser comme elle veut. Mais s'il s'agit d'une mauvaise plante, il faut arracher la plante aussitôt, dès qu'on a su la reconnaître. Or il y avait des graines terribles sur la planète du petit prince… c'étaient les graines de baobabs.

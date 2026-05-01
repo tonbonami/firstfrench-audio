@@ -1,0 +1,22 @@
+# Lisons Le Petit Prince — Chapitre 13 / Scène 6: 소유의 논리
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] – Et que fais-tu de cinq cents millions d'étoiles ?
+<break time="1.0s"/>
+[FR-Narrator] – Cinq cent un millions six cent vingt-deux mille sept cent trente et un. Je suis sérieux, moi, je suis précis.
+<break time="1.0s"/>
+[FR-Narrator] – Et que fais-tu de ces étoiles ?
+<break time="1.0s"/>
+[FR-Narrator] – Ce que j'en fais ?
+<break time="1.0s"/>
+[FR-Narrator] – Oui.
+<break time="1.0s"/>
+[FR-Narrator] – Rien. Je les possède.
+<break time="1.0s"/>
+[FR-Narrator] – Tu possèdes les étoiles ?
+<break time="1.0s"/>
+[FR-Narrator] – Oui.
+<break time="1.0s"/>
+[FR-Narrator] – Mais j'ai déjà vu un roi qui…
+<break time="1.0s"/>
+[FR-Narrator] – Les rois ne possèdent pas. Ils « règnent » sur. C'est très différent.

@@ -1,0 +1,4 @@
+# Lisons Le Petit Prince — Chapitre 27 / Scène 6: 커다란 수수께끼
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] C'est là un bien grand mystère. Pour vous qui aimez aussi le petit prince, comme pour moi, rien de l'univers n'est semblable si quelque part, on ne sait où, un mouton que nous ne connaissons pas a, oui ou non, mangé une rose…

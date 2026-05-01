@@ -1,0 +1,4 @@
+# Lisons Le Petit Prince — Chapitre 26 / Scène 4: 장소가 아니야
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] – Si ! Si ! c'est bien le jour, mais ce n'est pas ici l'endroit…

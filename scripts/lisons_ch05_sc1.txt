@@ -1,0 +1,4 @@
+# Lisons Le Petit Prince — Chapitre 5 / Scène 1: 바오밥나무의 비극을 알게 되다
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] Chaque jour j'apprenais quelque chose sur la planète, sur le départ, sur le voyage. Ça venait tout doucement, au hasard des réflexions. C'est ainsi que, le troisième jour, je connus le drame des baobabs.

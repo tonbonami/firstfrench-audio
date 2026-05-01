@@ -1,0 +1,10 @@
+# Lisons Le Petit Prince — Chapitre 7 / Scène 2: 양과 꽃의 관계
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] – Un mouton, s'il mange les arbustes, il mange aussi les fleurs ?
+<break time="1.0s"/>
+[FR-Narrator] – Un mouton mange tout ce qu'il rencontre.
+<break time="1.0s"/>
+[FR-Narrator] – Même les fleurs qui ont des épines ?
+<break time="1.0s"/>
+[FR-Narrator] – Oui. Même les fleurs qui ont des épines.

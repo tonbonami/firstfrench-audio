@@ -1,0 +1,10 @@
+# Lisons Le Petit Prince — Chapitre 7 / Scène 10: 꽃들의 전쟁
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] – Un quoi ?
+<break time="1.0s"/>
+[FR-Narrator] – Un champignon !
+<break time="1.0s"/>
+[FR-Narrator] Le petit prince était maintenant tout pâle de colère.
+<break time="1.0s"/>
+[FR-Narrator] – Il y a des millions d'années que les fleurs fabriquent des épines. Il y a des millions d'années que les moutons mangent quand même les fleurs. Et ce n'est pas sérieux de chercher à comprendre pourquoi elles se donnent tant de mal pour se fabriquer des épines qui ne servent jamais à rien ? Ce n'est pas important la guerre des moutons et des fleurs ? Ce n'est pas plus sérieux et plus important que les additions d'un gros Monsieur rouge ? Et si je connais, moi, une fleur unique au monde, qui n'existe nulle part, sauf dans ma planète, et qu'un petit mouton peut anéantir d'un seul coup, comme ça, un matin, sans se rendre compte de ce qu'il fait, ce n'est pas important ça !

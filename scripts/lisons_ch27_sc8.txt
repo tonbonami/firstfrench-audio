@@ -1,0 +1,4 @@
+# Lisons Le Petit Prince — Chapitre 27 / Scène 8: 가장 아름답고 슬픈 풍경
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] Ça c'est, pour moi, le plus beau et le plus triste paysage du monde. C'est le même paysage que celui de la page précédente, mais je l'ai dessiné une fois encore pour bien vous le montrer. C'est ici que le petit prince a apparu sur terre, puis disparu.

@@ -1,0 +1,10 @@
+# Lisons Le Petit Prince — Chapitre 25 / Scène 12: 내일 저녁에 다시 와요
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] – Ah ! lui dis-je, j'ai peur…
+<break time="1.0s"/>
+[FR-Narrator] Mais il me répondit :
+<break time="1.0s"/>
+[FR-Narrator] – Tu dois maintenant travailler. Tu dois repartir vers ta machine. Je t'attends ici. Reviens demain soir…
+<break time="1.0s"/>
+[FR-Narrator] Mais je n'étais pas rassuré. Je me souvenais du renard. On risque de pleurer un peu si l'on s'est laissé apprivoiser…

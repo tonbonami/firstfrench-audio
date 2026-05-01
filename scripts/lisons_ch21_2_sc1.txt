@@ -1,0 +1,6 @@
+# Lisons Le Petit Prince — Chapitre 21-2 / Scène 1: 친구를 사귀는 방법
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] – On ne connaît que les choses que l'on apprivoise, dit le renard. Les hommes n'ont plus le temps de rien connaître. Ils achètent des choses toutes faites chez les marchands. Mais comme il n'existe point de marchands d'amis, les hommes n'ont plus d'amis. Si tu veux un ami, apprivoise-moi !
+<break time="1.0s"/>
+[FR-Narrator] – Que faut-il faire ? dit le petit prince.

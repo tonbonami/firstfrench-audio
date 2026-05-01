@@ -1,0 +1,4 @@
+# Lisons Le Petit Prince — Chapitre 4 / Scène 7: 어른들을 너그럽게 대해야 해요
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] Ainsi, si vous leur dites : « La preuve que le petit prince a existé c'est qu'il était ravissant, qu'il riait, et qu'il voulait un mouton. Quand on veut un mouton, c'est la preuve qu'on existe » elles hausseront les épaules et vous traiteront d'enfant ! Mais si vous leur dites : « La planète d'où il venait est l'astéroïde B 612 » alors elles seront convaincues, et elles vous laisseront tranquille avec leurs questions. Elles sont comme ça. Il ne faut pas leur en vouloir. Les enfants doivent être très indulgents envers les grandes personnes.

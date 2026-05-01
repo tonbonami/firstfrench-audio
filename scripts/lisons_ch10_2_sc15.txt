@@ -1,0 +1,8 @@
+# Lisons Le Petit Prince — Chapitre 10-2 / Scène 15: 떠나는 어린 왕자
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] – Ministre de quoi ?
+<break time="1.0s"/>
+[FR-Narrator] – De… de la justice !
+<break time="1.0s"/>
+[FR-Narrator] – Mais il n'y a personne à juger !

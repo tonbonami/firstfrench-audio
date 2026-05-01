@@ -1,0 +1,8 @@
+# Lisons Le Petit Prince — Chapitre 10-1 / Scène 7: 별들도 복종하나요?
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] Mais le petit prince s'étonnait. La planète était minuscule. Sur quoi le roi pouvait-il bien régner ?
+<break time="1.0s"/>
+[FR-Narrator] – Sire, lui dit-il… je vous demande pardon de vous interroger…
+<break time="1.0s"/>
+[FR-Narrator] – Je t'ordonne de m'interroger, se hâta de dire le roi.

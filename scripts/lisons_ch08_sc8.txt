@@ -1,0 +1,8 @@
+# Lisons Le Petit Prince — Chapitre 8 / Scène 8: 어린 왕자의 후회
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] « J'aurais dû ne pas l'écouter, me confia-t-il un jour, il ne faut jamais écouter les fleurs. Il faut les regarder et les respirer. La mienne embaumait ma planète, mais je ne savais pas m'en réjouir. Cette histoire de griffes, qui m'avait tellement agacé, eût dû m'attendrir… »
+<break time="1.0s"/>
+[FR-Narrator] Il me confia encore :
+<break time="1.0s"/>
+[FR-Narrator] « Je n'ai alors rien su comprendre ! J'aurais dû la juger sur les actes et non sur les mots. Elle m'embaumait et m'éclairait. Je n'aurais jamais dû m'enfuir ! J'aurais dû deviner sa tendresse derrière ses pauvres ruses. Les fleurs sont si contradictoires ! Mais j'étais trop jeune pour savoir l'aimer. »

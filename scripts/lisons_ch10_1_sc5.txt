@@ -1,0 +1,8 @@
+# Lisons Le Petit Prince — Chapitre 10-1 / Scène 5: 앉아도 될까요?
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] – Hum ! Hum ! répondit le roi. Alors je… je t'ordonne tantôt de bâiller et tantôt de…
+<break time="1.0s"/>
+[FR-Narrator] Il bredouillait un peu et paraissait vexé.
+<break time="1.0s"/>
+[FR-Narrator] Car le roi tenait essentiellement à ce que son autorité fût respectée. Il ne tolérait pas la désobéissance. C'était un monarque absolu. Mais, comme il était très bon, il donnait des ordres raisonnables.

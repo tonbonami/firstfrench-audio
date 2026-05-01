@@ -1,0 +1,8 @@
+# Lisons Le Petit Prince — Chapitre 22 / Scène 3: 바쁘게 오가는 사람들
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] – Ils sont bien pressés, dit le petit prince. Que cherchent-ils ?
+<break time="1.0s"/>
+[FR-Narrator] – L'homme de la locomotive l'ignore lui-même, dit l'aiguilleur.
+<break time="1.0s"/>
+[FR-Narrator] Et gronda, en sens inverse, un second rapide illuminé.

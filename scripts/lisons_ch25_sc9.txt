@@ -1,0 +1,12 @@
+# Lisons Le Petit Prince — Chapitre 25 / Scène 9: 입마개를 그려주다
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] – Tu es injuste, petit bonhomme, je ne savais rien dessiner que les boas fermés et les boas ouverts.
+<break time="1.0s"/>
+[FR-Narrator] – Oh ! ça ira, dit-il, les enfants savent.
+<break time="1.0s"/>
+[FR-Narrator] Je crayonnai donc une muselière. Et j'eus le cœur serré en la lui donnant :
+<break time="1.0s"/>
+[FR-Narrator] – Tu as des projets que j'ignore…
+<break time="1.0s"/>
+[FR-Narrator] Mais il ne me répondit pas.

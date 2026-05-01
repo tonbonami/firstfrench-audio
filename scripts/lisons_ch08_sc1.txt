@@ -1,0 +1,6 @@
+# Lisons Le Petit Prince — Chapitre 8 / Scène 1: 특별한 꽃의 등장
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] J'appris bien vite à mieux connaître cette fleur. Il y avait toujours eu, sur la planète du petit prince, des fleurs très simples, ornées d'un seul rang de pétales, et qui ne tenaient point de place, et qui ne dérangeaient personne. Elles apparaissaient un matin dans l'herbe, et puis elles s'éteignaient le soir.
+<break time="1.0s"/>
+[FR-Narrator] Mais celle-là avait germé un jour, d'une graine apportée d'on ne sait où, et le petit prince avait surveillé de très près cette brindille qui ne ressemblait pas aux autres brindilles. Ça pouvait être un nouveau genre de baobab. Mais l'arbuste cessa vite de croître, et commença de préparer une fleur.

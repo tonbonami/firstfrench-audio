@@ -1,0 +1,4 @@
+# Lisons Le Petit Prince — Chapitre 24 / Scène 11: 가장 중요한 것은 보이지 않는다
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] Comme le petit prince s'endormait, je le pris dans mes bras, et me remis en route. J'étais ému. Il me semblait porter un trésor fragile. Il me semblait même qu'il n'y eût rien de plus fragile sur la Terre. Je regardais, à la lumière de la lune, ce front pâle, ces yeux clos, ces mèches de cheveux qui tremblaient au vent, et je me disais : « Ce que je vois là n'est qu'une écorce. Le plus important est invisible… »

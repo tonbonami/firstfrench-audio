@@ -1,0 +1,4 @@
+# Lisons Le Petit Prince — Chapitre 27 / Scène 4: 웃고 있는 별들
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] Tantôt je me dis : « Sûrement non ! Le petit prince enferme sa fleur toutes les nuits sous son globe de verre, et il surveille bien son mouton… » Alors je suis heureux. Et toutes les étoiles rient doucement.

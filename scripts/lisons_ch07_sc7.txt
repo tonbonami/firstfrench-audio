@@ -1,0 +1,10 @@
+# Lisons Le Petit Prince — Chapitre 7 / Scène 7: 어른들처럼 말하기
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] – Et tu crois, toi, que les fleurs…
+<break time="1.0s"/>
+[FR-Narrator] – Mais non ! Mais non ! Je ne crois rien ! J'ai répondu n'importe quoi. Je m'occupe, moi, de choses sérieuses !
+<break time="1.0s"/>
+[FR-Narrator] Il me regarda stupéfait.
+<break time="1.0s"/>
+[FR-Narrator] – De choses sérieuses !

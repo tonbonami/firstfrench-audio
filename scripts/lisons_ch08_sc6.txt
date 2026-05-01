@@ -1,0 +1,10 @@
+# Lisons Le Petit Prince — Chapitre 8 / Scène 6: 바람막이와 거짓말
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] – Je ne crains rien des tigres, mais j'ai horreur des courants d'air. Vous n'auriez pas un paravent ?
+<break time="1.0s"/>
+[FR-Narrator] « Horreur des courants d'air… ce n'est pas de chance, pour une plante, avait remarqué le petit prince. Cette fleur est bien compliquée… »
+<break time="1.0s"/>
+[FR-Narrator] – Le soir vous me mettrez sous globe. Il fait très froid chez vous. C'est mal installé. Là d'où je viens…
+<break time="1.0s"/>
+[FR-Narrator] Mais elle s'était interrompue. Elle était venue sous forme de graine. Elle n'avait rien pu connaître des autres mondes. Humiliée de s'être laissé surprendre à préparer un mensonge aussi naïf, elle avait toussé deux ou trois fois, pour mettre le petit prince dans son tort :

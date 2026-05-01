@@ -1,0 +1,4 @@
+# Lisons Le Petit Prince — Chapitre 26 / Scène 2: 기억하지 못하니?
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] – Tu ne t'en souviens donc pas ? disait-il. Ce n'est pas tout à fait ici !

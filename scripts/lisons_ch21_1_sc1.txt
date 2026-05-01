@@ -1,0 +1,10 @@
+# Lisons Le Petit Prince — Chapitre 21-1 / Scène 1: 여우의 등장
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] C'est alors qu'apparut le renard.
+<break time="1.0s"/>
+[FR-Narrator] – Bonjour, dit le renard.
+<break time="1.0s"/>
+[FR-Narrator] – Bonjour, répondit poliment le petit prince, qui se retourna mais ne vit rien.
+<break time="1.0s"/>
+[FR-Narrator] – Je suis là, dit la voix, sous le pommier.

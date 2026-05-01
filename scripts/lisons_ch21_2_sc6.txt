@@ -1,0 +1,10 @@
+# Lisons Le Petit Prince — Chapitre 21-2 / Scène 6: 밀밭의 색깔
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] – Mais tu vas pleurer ! dit le petit prince.
+<break time="1.0s"/>
+[FR-Narrator] – Bien sûr, dit le renard.
+<break time="1.0s"/>
+[FR-Narrator] – Alors tu n'y gagnes rien !
+<break time="1.0s"/>
+[FR-Narrator] – J'y gagne, dit le renard, à cause de la couleur du blé.

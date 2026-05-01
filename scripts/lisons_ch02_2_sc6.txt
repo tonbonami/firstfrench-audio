@@ -1,0 +1,18 @@
+# Lisons Le Petit Prince — Chapitre 2-2 / Scène 6: 거절당하는 양들
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] Il regarda attentivement, puis :
+<break time="1.0s"/>
+[FR-Narrator] – Non ! Celui-là est déjà très malade. Fais-en un autre.
+<break time="1.0s"/>
+[FR-Narrator] Je dessinai.
+<break time="1.0s"/>
+[FR-Narrator] Mon ami sourit gentiment, avec indulgence :
+<break time="1.0s"/>
+[FR-Narrator] – Tu vois bien… ce n'est pas un mouton, c'est un bélier. Il a des cornes…
+<break time="1.0s"/>
+[FR-Narrator] Je refis donc encore mon dessin.
+<break time="1.0s"/>
+[FR-Narrator] Mais il fut refusé, comme les précédents :
+<break time="1.0s"/>
+[FR-Narrator] – Celui-là est trop vieux. Je veux un mouton qui vive longtemps.

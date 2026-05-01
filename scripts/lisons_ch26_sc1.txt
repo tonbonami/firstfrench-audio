@@ -1,0 +1,4 @@
+# Lisons Le Petit Prince — Chapitre 26 / Scène 1: 우물 옆의 오래된 돌담
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] Il y avait, à côté du puits, une ruine de vieux mur de pierre. Lorsque je revins de mon travail, le lendemain soir, j'aperçus de loin mon petit prince assis là-haut, les jambes pendantes. Et je l'entendis qui parlait :

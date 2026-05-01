@@ -1,0 +1,8 @@
+# Lisons Le Petit Prince — Chapitre 17 / Scène 9: 수수께끼를 푸는 뱀
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] – Oh ! J'ai très bien compris, fit le petit prince, mais pourquoi parles-tu toujours par énigmes ?
+<break time="1.0s"/>
+[FR-Narrator] – Je les résous toutes, dit le serpent.
+<break time="1.0s"/>
+[FR-Narrator] Et ils se turent.

@@ -1,0 +1,10 @@
+# Lisons Le Petit Prince — Chapitre 15 / Scène 10: 지구로의 출발
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] Ce fut là son premier mouvement de regret. Mais il reprit courage :
+<break time="1.0s"/>
+[FR-Narrator] – Que me conseillez-vous d'aller visiter ? demanda-t-il.
+<break time="1.0s"/>
+[FR-Narrator] – La planète Terre, lui répondit le géographe. Elle a une bonne réputation…
+<break time="1.0s"/>
+[FR-Narrator] Et le petit prince s'en fut, songeant à sa fleur.

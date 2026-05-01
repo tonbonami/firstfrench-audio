@@ -1,0 +1,4 @@
+# Lisons Le Petit Prince — Chapitre 4 / Scène 10: 다시 그림을 그리며
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] C'est dur de se remettre au dessin, à mon âge, quand on n'a jamais fait d'autres tentatives que celle d'un boa fermé et celle d'un boa ouvert, à l'âge de six ans ! J'essaierai, bien sûr, de faire des portraits le plus ressemblants possible. Mais je ne suis pas tout à fait certain de réussir. Un dessin va, et l'autre ne ressemble plus. Je me trompe un peu aussi sur la taille. Ici le petit prince est trop grand. Là il est trop petit. J'hésite aussi sur la couleur de son costume. Alors je tâtonne comme ci et comme ça, tant bien que mal.

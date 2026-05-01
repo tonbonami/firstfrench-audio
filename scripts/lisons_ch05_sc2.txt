@@ -1,0 +1,10 @@
+# Lisons Le Petit Prince — Chapitre 5 / Scène 2: 양이 작은 나무를 먹나요?
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] Cette fois-ci encore ce fut grâce au mouton, car brusquement le petit prince m'interrogea, comme pris d'un doute grave :
+<break time="1.0s"/>
+[FR-Narrator] – C'est bien vrai, n'est-ce pas, que les moutons mangent les arbustes ?
+<break time="1.0s"/>
+[FR-Narrator] – Oui. C'est vrai.
+<break time="1.0s"/>
+[FR-Narrator] – Ah ! Je suis content.

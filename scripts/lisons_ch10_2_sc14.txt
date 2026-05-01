@@ -1,0 +1,8 @@
+# Lisons Le Petit Prince — Chapitre 10-2 / Scène 14: 늙은 쥐 심판
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] Le petit prince bâilla. Il regrettait son coucher de soleil manqué. Et puis il s'ennuyait déjà un peu :
+<break time="1.0s"/>
+[FR-Narrator] – Je n'ai plus rien à faire ici, dit-il au roi. Je vais repartir !
+<break time="1.0s"/>
+[FR-Narrator] – Ne pars pas, répondit le roi qui était si fier d'avoir un sujet. Ne pars pas, je te fais ministre !

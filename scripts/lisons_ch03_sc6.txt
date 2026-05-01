@@ -1,0 +1,10 @@
+# Lisons Le Petit Prince — Chapitre 3 / Scène 6: 양을 묶어두는 밧줄
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] – Bien sûr. Et si tu es gentil, je te donnerai aussi une corde pour l'attacher pendant le jour. Et un piquet.
+<break time="1.0s"/>
+[FR-Narrator] La proposition parut choquer le petit prince :
+<break time="1.0s"/>
+[FR-Narrator] – L'attacher ? Quelle drôle d'idée !
+<break time="1.0s"/>
+[FR-Narrator] – Mais si tu ne l'attaches pas, il ira n'importe où, et il se perdra…

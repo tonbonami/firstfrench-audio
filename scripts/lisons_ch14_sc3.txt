@@ -1,0 +1,14 @@
+# Lisons Le Petit Prince — Chapitre 14 / Scène 3: 명령은 명령
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] Lorsqu'il aborda la planète il salua respectueusement l'allumeur :
+<break time="1.0s"/>
+[FR-Narrator] – Bonjour. Pourquoi viens-tu d'éteindre ton réverbère ?
+<break time="1.0s"/>
+[FR-Narrator] – C'est la consigne, répondit l'allumeur. Bonjour.
+<break time="1.0s"/>
+[FR-Narrator] – Qu'est-ce que la consigne ?
+<break time="1.0s"/>
+[FR-Narrator] – C'est d'éteindre mon réverbère. Bonsoir.
+<break time="1.0s"/>
+[FR-Narrator] Et il le ralluma.

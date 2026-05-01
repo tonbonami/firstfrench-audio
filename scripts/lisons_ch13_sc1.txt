@@ -1,0 +1,6 @@
+# Lisons Le Petit Prince — Chapitre 13 / Scène 1: 사업가의 행성
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] La quatrième planète était celle du businessman. Cet homme était si occupé qu'il ne leva même pas la tête à l'arrivée du petit prince.
+<break time="1.0s"/>
+[FR-Narrator] – Bonjour, lui dit celui-ci. Votre cigarette est éteinte.

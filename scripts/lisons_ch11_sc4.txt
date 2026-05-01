@@ -1,0 +1,8 @@
+# Lisons Le Petit Prince — Chapitre 11 / Scène 4: 단조로운 놀이
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] « Ça c'est plus amusant que la visite au roi », se dit en lui-même le petit prince. Et il recommença de frapper ses mains l'une contre l'autre. Le vaniteux recommença de saluer en soulevant son chapeau.
+<break time="1.0s"/>
+[FR-Narrator] Après cinq minutes d'exercice le petit prince se fatigua de la monotonie du jeu :
+<break time="1.0s"/>
+[FR-Narrator] – Et, pour que le chapeau tombe, demanda-t-il, que faut-il faire ?

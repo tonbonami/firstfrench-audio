@@ -1,0 +1,4 @@
+# Lisons Le Petit Prince — Chapitre 12 / Scène 1: 술꾼의 별 방문
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] La planète suivante était habitée par un buveur. Cette visite fut très courte, mais elle plongea le petit prince dans une grande mélancolie :

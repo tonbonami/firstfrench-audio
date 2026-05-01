@@ -1,0 +1,10 @@
+# Lisons Le Petit Prince — Chapitre 3 / Scène 3: 다른 행성에서 온 어린왕자
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] Et le petit prince eut un très joli éclat de rire qui m'irrita beaucoup. Je désire que l'on prenne mes malheurs au sérieux. Puis il ajouta :
+<break time="1.0s"/>
+[FR-Narrator] – Alors, toi aussi tu viens du ciel ! De quelle planète es-tu ?
+<break time="1.0s"/>
+[FR-Narrator] J'entrevis aussitôt une lueur, dans le mystère de sa présence, et j'interrogeai brusquement :
+<break time="1.0s"/>
+[FR-Narrator] – Tu viens donc d'une autre planète ?

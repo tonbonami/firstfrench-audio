@@ -1,0 +1,10 @@
+# Lisons Le Petit Prince — Chapitre 21-2 / Scène 9: 여우의 비밀
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] Et il revint vers le renard :
+<break time="1.0s"/>
+[FR-Narrator] – Adieu, dit-il…
+<break time="1.0s"/>
+[FR-Narrator] – Adieu, dit le renard. Voici mon secret. Il est très simple : on ne voit bien qu'avec le cœur. L'essentiel est invisible pour les yeux.
+<break time="1.0s"/>
+[FR-Narrator] – L'essentiel est invisible pour les yeux, répéta le petit prince, afin de se souvenir.

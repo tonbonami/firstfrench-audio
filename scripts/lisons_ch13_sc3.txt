@@ -1,0 +1,6 @@
+# Lisons Le Petit Prince — Chapitre 13 / Scène 3: 세 번의 방해
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] – Hein ? Tu es toujours là ? Cinq cent un millions de… je ne sais plus… J'ai tellement de travail ! Je suis sérieux, moi, je ne m'amuse pas à des balivernes ! Deux et cinq sept…
+<break time="1.0s"/>
+[FR-Narrator] – Cinq cent un millions de quoi ? répéta le petit prince qui jamais de sa vie, n'avait renoncé à une question, une fois qu'il l'avait posée.

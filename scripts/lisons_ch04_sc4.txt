@@ -1,0 +1,4 @@
+# Lisons Le Petit Prince — Chapitre 4 / Scène 4: 어른들은 그래요
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] Il avait fait alors une grande démonstration de sa découverte à un Congrès International d'Astronomie. Mais personne ne l'avait cru à cause de son costume. Les grandes personnes sont comme ça.

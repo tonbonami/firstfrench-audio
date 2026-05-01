@@ -1,0 +1,10 @@
+# Lisons Le Petit Prince — Chapitre 14 / Scène 7: 충실한 친구
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] Le petit prince le regarda et il aima cet allumeur qui était tellement fidèle à la consigne. Il se souvint des couchers de soleil que lui-même allait autrefois chercher, en tirant sa chaise. Il voulut aider son ami :
+<break time="1.0s"/>
+[FR-Narrator] – Tu sais… je connais un moyen de te reposer quand tu voudras…
+<break time="1.0s"/>
+[FR-Narrator] – Je veux toujours, dit l'allumeur.
+<break time="1.0s"/>
+[FR-Narrator] Car on peut être, à la fois, fidèle et paresseux.

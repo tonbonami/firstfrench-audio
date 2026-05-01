@@ -1,0 +1,4 @@
+# Lisons Le Petit Prince — Chapitre 24 / Scène 9: 모래의 신비로운 빛
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] Je fus surpris de comprendre soudain ce mystérieux rayonnement du sable. Lorsque j'étais petit garçon j'habitais une maison ancienne, et la légende racontait qu'un trésor y était enfoui. Bien sûr, jamais personne n'a su le découvrir, ni peut-être même ne l'a cherché. Mais il enchantait toute cette maison. Ma maison cachait un secret au fond de son cœur…

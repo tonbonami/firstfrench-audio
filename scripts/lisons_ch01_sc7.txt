@@ -1,0 +1,4 @@
+# Lisons Le Petit Prince — Chapitre 1 / Scène 7: 비행사가 되다
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] J'ai donc dû choisir un autre métier et j'ai appris à piloter des avions. J'ai volé un peu partout dans le monde. Et la géographie, c'est exact, m'a beaucoup servi. Je savais reconnaître, du premier coup d'œil, la Chine de l'Arizona. C'est très utile, si l'on est égaré pendant la nuit.

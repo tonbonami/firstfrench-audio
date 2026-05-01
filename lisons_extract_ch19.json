@@ -1,0 +1,20 @@
+{
+  "chapter": "Chapitre 19",
+  "page_id": "352b1658e7ec81fd9f60c6f405726f08",
+  "stem_prefix": "lisons_ch19_sc",
+  "scenes": [
+    {"n": 1, "title": "높은 산에 오른 어린 왕자", "anchor": "Scène 1 : 높은 산에 오른 어린 왕자",
+     "paragraphs": ["Le petit prince fit l'ascension d'une haute montagne. Les seules montagnes qu'il eût jamais connues étaient les trois volcans qui lui arrivaient au genou. Et il se servait du volcan éteint comme d'un tabouret. « D'une montagne haute comme celle-ci, se dit-il donc, j'apercevrai d'un coup toute la planète et tous les hommes… » Mais il n'aperçut rien que des aiguilles de roc bien aiguisées."]},
+    {"n": 2, "title": "메아리와의 대화", "anchor": "Scène 2 : 메아리와의 대화",
+     "paragraphs": [
+       "– Bonjour, dit-il à tout hasard.",
+       "– Bonjour… Bonjour… Bonjour… répondit l'écho.",
+       "– Qui êtes-vous ? dit le petit prince.",
+       "– Qui êtes-vous… qui êtes-vous… qui êtes-vous… répondit l'écho.",
+       "– Soyez mes amis, je suis seul, dit-il.",
+       "– Je suis seul… je suis seul… je suis seul… répondit l'écho."
+     ]},
+    {"n": 3, "title": "이상한 행성", "anchor": "Scène 3 : 이상한 행성",
+     "paragraphs": ["« Quelle drôle de planète ! pensa-t-il alors. Elle est toute sèche, et toute pointue et toute salée. Et les hommes manquent d'imagination. Ils répètent ce qu'on leur dit… Chez moi j'avais une fleur : elle parlait toujours la première… »"]}
+  ]
+}

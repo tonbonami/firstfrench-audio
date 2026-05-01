@@ -1,0 +1,10 @@
+# Lisons Le Petit Prince — Chapitre 21-2 / Scène 10: 책임감
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] – C'est le temps que tu as perdu pour ta rose qui fait ta rose si importante.
+<break time="1.0s"/>
+[FR-Narrator] – C'est le temps que j'ai perdu pour ma rose… fit le petit prince, afin de se souvenir.
+<break time="1.0s"/>
+[FR-Narrator] – Les hommes ont oublié cette vérité, dit le renard. Mais tu ne dois pas l'oublier. Tu deviens responsable pour toujours de ce que tu as apprivoisé. Tu es responsable de ta rose…
+<break time="1.0s"/>
+[FR-Narrator] – Je suis responsable de ma rose… répéta le petit prince, afin de se souvenir.

@@ -1,0 +1,12 @@
+# Lisons Le Petit Prince — Chapitre 6 / Scène 3: 마흔세 번의 일몰과 슬픔
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] – Un jour, j'ai vu le soleil se coucher quarante-trois fois !
+<break time="1.0s"/>
+[FR-Narrator] Et un peu plus tard tu ajoutais :
+<break time="1.0s"/>
+[FR-Narrator] – Tu sais… quand on est tellement triste on aime les couchers de soleil…
+<break time="1.0s"/>
+[FR-Narrator] – Le jour des quarante-trois fois tu étais donc tellement triste ?
+<break time="1.0s"/>
+[FR-Narrator] Mais le petit prince ne répondit pas.

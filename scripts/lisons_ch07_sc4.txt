@@ -1,0 +1,6 @@
+# Lisons Le Petit Prince — Chapitre 7 / Scène 4: 짜증난 대답
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] – Les épines, à quoi servent-elles ?
+<break time="1.0s"/>
+[FR-Narrator] Le petit prince ne renonçait jamais à une question, une fois qu'il l'avait posée. J'étais irrité par mon boulon et je répondis n'importe quoi :

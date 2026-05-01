@@ -1,0 +1,8 @@
+# Lisons Le Petit Prince — Chapitre 10-1 / Scène 4: 명령의 이유
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] – Je ne peux pas m'en empêcher, répondit le petit prince tout confus. J'ai fait un long voyage et je n'ai pas dormi…
+<break time="1.0s"/>
+[FR-Narrator] – Alors, lui dit le roi, je t'ordonne de bâiller. Je n'ai vu personne bâiller depuis des années. Les bâillements sont pour moi des curiosités. Allons ! bâille encore. C'est un ordre.
+<break time="1.0s"/>
+[FR-Narrator] – Ça m'intimide… je ne peux plus… fit le petit prince tout rougissant.

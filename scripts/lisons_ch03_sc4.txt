@@ -1,0 +1,8 @@
+# Lisons Le Petit Prince — Chapitre 3 / Scène 4: 멀리서 올 수 없는 비행기
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] Mais il ne me répondit pas. Il hochait la tête doucement tout en regardant mon avion :
+<break time="1.0s"/>
+[FR-Narrator] – C'est vrai que, là-dessus, tu ne peux pas venir de bien loin…
+<break time="1.0s"/>
+[FR-Narrator] Et il s'enfonça dans une rêverie qui dura longtemps. Puis, sortant mon mouton de sa poche, il se plongea dans la contemplation de son trésor.

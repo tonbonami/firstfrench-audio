@@ -1,0 +1,4 @@
+# Lisons Le Petit Prince — Chapitre 4 / Scène 9: 친구를 잊지 않기 위해
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] Car je n'aime pas qu'on lise mon livre à la légère. J'éprouve tant de chagrin à raconter ces souvenirs. Il y a six ans déjà que mon ami s'en est allé avec son mouton. Si j'essaie ici de le décrire, c'est afin de ne pas l'oublier. C'est triste d'oublier un ami. Tout le monde n'a pas eu un ami. Et je puis devenir comme les grandes personnes qui ne s'intéressent plus qu'aux chiffres. C'est donc pour ça encore que j'ai acheté une boîte de couleurs et des crayons.

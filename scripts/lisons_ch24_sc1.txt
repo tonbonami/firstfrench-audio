@@ -1,0 +1,6 @@
+# Lisons Le Petit Prince — Chapitre 24 / Scène 1: 물이 떨어지다
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] Nous en étions au huitième jour de ma panne dans le désert, et j'avais écouté l'histoire du marchand en buvant la dernière goutte de ma provision d'eau :
+<break time="1.0s"/>
+[FR-Narrator] – Ah ! dis-je au petit prince, ils sont bien jolis, tes souvenirs, mais je n'ai pas encore réparé mon avion, je n'ai plus rien à boire, et je serais heureux, moi aussi, si je pouvais marcher tout doucement vers une fontaine !

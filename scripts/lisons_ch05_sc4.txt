@@ -1,0 +1,10 @@
+# Lisons Le Petit Prince — Chapitre 5 / Scène 4: 코끼리 떼에 대한 상상
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] L'idée du troupeau d'éléphants fit rire le petit prince :
+<break time="1.0s"/>
+[FR-Narrator] – Il faudrait les mettre les uns sur les autres…
+<break time="1.0s"/>
+[FR-Narrator] Mais il remarqua avec sagesse :
+<break time="1.0s"/>
+[FR-Narrator] – Les baobabs, avant de grandir, ça commence par être petit.

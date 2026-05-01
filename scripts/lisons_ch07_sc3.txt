@@ -1,0 +1,6 @@
+# Lisons Le Petit Prince — Chapitre 7 / Scène 3: 가시의 용도
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] – Alors les épines, à quoi servent-elles ?
+<break time="1.0s"/>
+[FR-Narrator] Je ne le savais pas. J'étais alors très occupé à essayer de dévisser un boulon trop serré de mon moteur. J'étais très soucieux car ma panne commençait de m'apparaître comme très grave, et l'eau à boire qui s'épuisait me faisait craindre le pire.

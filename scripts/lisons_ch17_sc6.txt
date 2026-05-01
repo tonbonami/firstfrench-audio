@@ -1,0 +1,10 @@
+# Lisons Le Petit Prince — Chapitre 17 / Scène 6: 사막의 외로움
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] – Où sont les hommes ? reprit enfin le petit prince. On est un peu seul dans le désert…
+<break time="1.0s"/>
+[FR-Narrator] – On est seul aussi chez les hommes, dit le serpent.
+<break time="1.0s"/>
+[FR-Narrator] Le petit prince le regarda longtemps :
+<break time="1.0s"/>
+[FR-Narrator] – Tu es une drôle de bête, lui dit-il enfin, mince comme un doigt…

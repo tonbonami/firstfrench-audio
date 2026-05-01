@@ -1,0 +1,6 @@
+# Lisons Le Petit Prince — Chapitre 13 / Scène 9: 별을 관리하다
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] – Ça c'est vrai, dit le petit prince. Et qu'en fais-tu ?
+<break time="1.0s"/>
+[FR-Narrator] – Je les gère. Je les compte et je les recompte, dit le businessman. C'est difficile. Mais je suis un homme sérieux !

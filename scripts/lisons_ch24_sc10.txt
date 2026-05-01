@@ -1,0 +1,6 @@
+# Lisons Le Petit Prince — Chapitre 24 / Scène 10: 아름다움은 보이지 않는 것
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] – Oui, dis-je au petit prince, qu'il s'agisse de la maison, des étoiles ou du désert, ce qui fait leur beauté est invisible !
+<break time="1.0s"/>
+[FR-Narrator] – Je suis content, dit-il, que tu sois d'accord avec mon renard.

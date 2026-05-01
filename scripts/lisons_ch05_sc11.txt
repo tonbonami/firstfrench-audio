@@ -1,0 +1,4 @@
+# Lisons Le Petit Prince — Chapitre 5 / Scène 11: 절박한 심정으로 그린 그림
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] C'est pour avertir mes amis d'un danger qu'ils frôlaient depuis longtemps, comme moi-même, sans le connaître, que j'ai tant travaillé ce dessin-là. La leçon que je donnais en valait la peine. Vous vous demanderez peut-être : Pourquoi n'y a-t-il pas, dans ce livre, d'autres dessins aussi grandioses que le dessin des baobabs ? La réponse est bien simple : J'ai essayé mais je n'ai pas pu réussir. Quand j'ai dessiné les baobabs j'ai été animé par le sentiment de l'urgence.

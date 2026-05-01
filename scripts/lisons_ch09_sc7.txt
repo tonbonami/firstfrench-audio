@@ -1,0 +1,8 @@
+# Lisons Le Petit Prince — Chapitre 9 / Scène 7: 이별
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] Et elle montrait naïvement ses quatre épines. Puis elle ajouta :
+<break time="1.0s"/>
+[FR-Narrator] – Ne traîne pas comme ça, c'est agaçant. Tu as décidé de partir. Va-t'en.
+<break time="1.0s"/>
+[FR-Narrator] Car elle ne voulait pas qu'il la vît pleurer. C'était une fleur tellement orgueilleuse…

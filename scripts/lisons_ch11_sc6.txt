@@ -1,0 +1,8 @@
+# Lisons Le Petit Prince — Chapitre 11 / Scène 6: 찬양의 의미
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] – Admirer signifie reconnaître que je suis l'homme le plus beau, le mieux habillé, le plus riche et le plus intelligent de la planète.
+<break time="1.0s"/>
+[FR-Narrator] – Mais tu es seul sur ta planète !
+<break time="1.0s"/>
+[FR-Narrator] – Fais-moi ce plaisir. Admire-moi quand même !

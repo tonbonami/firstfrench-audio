@@ -1,0 +1,4 @@
+# Lisons Le Petit Prince — Chapitre 5 / Scène 10: 바오밥나무를 조심해!
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] Et, sur les indications du petit prince, j'ai dessiné cette planète-là. Je n'aime guère prendre le ton d'un moraliste. Mais le danger des baobabs est si peu connu, et les risques courus par celui qui s'égarerait dans un astéroïde sont si considérables, que, pour une fois, je fais exception à ma réserve. Je dis : « Enfants ! Faites attention aux baobabs ! »

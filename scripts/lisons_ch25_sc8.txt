@@ -1,0 +1,14 @@
+# Lisons Le Petit Prince — Chapitre 25 / Scène 8: 내 그림을 보고 웃는 어린 왕자
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] Je sortis de ma poche mes ébauches de dessin. Le petit prince les aperçut et dit en riant :
+<break time="1.0s"/>
+[FR-Narrator] – Tes baobabs, ils ressemblent un peu à des choux…
+<break time="1.0s"/>
+[FR-Narrator] – Oh !
+<break time="1.0s"/>
+[FR-Narrator] Moi qui étais si fier des baobabs !
+<break time="1.0s"/>
+[FR-Narrator] – Ton renard… ses oreilles… elles ressemblent un peu à des cornes… et elles sont trop longues !
+<break time="1.0s"/>
+[FR-Narrator] Et il rit encore.

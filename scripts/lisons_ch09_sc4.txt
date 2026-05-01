@@ -1,0 +1,12 @@
+# Lisons Le Petit Prince — Chapitre 9 / Scène 4: 꽃의 고백
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] – Adieu, dit-il à la fleur.
+<break time="1.0s"/>
+[FR-Narrator] Mais elle ne lui répondit pas.
+<break time="1.0s"/>
+[FR-Narrator] – Adieu, répéta-t-il.
+<break time="1.0s"/>
+[FR-Narrator] La fleur toussa. Mais ce n'était pas à cause de son rhume.
+<break time="1.0s"/>
+[FR-Narrator] – J'ai été sotte, lui dit-elle enfin. Je te demande pardon. Tâche d'être heureux.

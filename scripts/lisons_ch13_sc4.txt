@@ -1,0 +1,6 @@
+# Lisons Le Petit Prince — Chapitre 13 / Scène 4: 세 번의 방해 이야기
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] Le businessman leva la tête :
+<break time="1.0s"/>
+[FR-Narrator] – Depuis cinquante-quatre ans que j'habite cette planète-ci, je n'ai été dérangé que trois fois. La première fois ç'a été, il y a vingt-deux ans, par un hanneton qui était tombé Dieu sait d'où. Il répandait un bruit épouvantable, et j'ai fait quatre erreurs dans une addition. La seconde fois ç'a été, il y a onze ans, par une crise de rhumatisme. Je manque d'exercice. Je n'ai pas le temps de flâner. Je suis sérieux, moi. La troisième fois… la voici ! Je disais donc cinq cent un millions…

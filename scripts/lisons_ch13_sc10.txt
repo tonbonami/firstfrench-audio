@@ -1,0 +1,16 @@
+# Lisons Le Petit Prince — Chapitre 13 / Scène 10: 스카프와 별
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] Le petit prince n'était pas satisfait encore.
+<break time="1.0s"/>
+[FR-Narrator] – Moi, si je possède un foulard, je puis le mettre autour de mon cou et l'emporter. Moi, si je possède une fleur, je puis cueillir ma fleur et l'emporter. Mais tu ne peux pas cueillir les étoiles !
+<break time="1.0s"/>
+[FR-Narrator] – Non, mais je puis les placer en banque.
+<break time="1.0s"/>
+[FR-Narrator] – Qu'est-ce que ça veut dire ?
+<break time="1.0s"/>
+[FR-Narrator] – Ça veut dire que j'écris sur un petit papier le nombre de mes étoiles. Et puis j'enferme à clef ce papier-là dans un tiroir.
+<break time="1.0s"/>
+[FR-Narrator] – Et c'est tout ?
+<break time="1.0s"/>
+[FR-Narrator] – Ça suffit !

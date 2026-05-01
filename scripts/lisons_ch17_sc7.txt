@@ -1,0 +1,10 @@
+# Lisons Le Petit Prince — Chapitre 17 / Scène 7: 뱀의 힘
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] – Mais je suis plus puissant que le doigt d'un roi, dit le serpent.
+<break time="1.0s"/>
+[FR-Narrator] Le petit prince eut un sourire :
+<break time="1.0s"/>
+[FR-Narrator] – Tu n'es pas bien puissant… tu n'as même pas de pattes… tu ne peux même pas voyager…
+<break time="1.0s"/>
+[FR-Narrator] – Je puis t'emporter plus loin qu'un navire, dit le serpent.

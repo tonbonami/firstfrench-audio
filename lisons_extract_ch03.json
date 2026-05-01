@@ -1,0 +1,85 @@
+{
+  "chapter": "Chapitre 3",
+  "page_id": "352b1658e7ec812c87bce4409077f97c",
+  "stem_prefix": "lisons_ch03_sc",
+  "scenes": [
+    {
+      "n": 1,
+      "title": "비행기를 처음 본 어린왕자",
+      "anchor": "Scène 1 : 비행기를 처음 본 어린왕자",
+      "paragraphs": [
+        "Il me fallut longtemps pour comprendre d'où il venait. Le petit prince, qui me posait beaucoup de questions, ne semblait jamais entendre les miennes. Ce sont des mots prononcés par hasard qui, peu à peu, m'ont tout révélé. Ainsi, quand il aperçut pour la première fois mon avion (je ne dessinerai pas mon avion, c'est un dessin beaucoup trop compliqué pour moi) il me demanda :",
+        "– Qu'est-ce que c'est que cette chose-là ?",
+        "– Ce n'est pas une chose. Ça vole. C'est un avion. C'est mon avion."
+      ]
+    },
+    {
+      "n": 2,
+      "title": "하늘에서 떨어진 나",
+      "anchor": "Scène 2 : 하늘에서 떨어진 나",
+      "paragraphs": [
+        "Et j'étais fier de lui apprendre que je volais. Alors il s'écria :",
+        "– Comment ! tu es tombé du ciel ?",
+        "– Oui, fis-je modestement.",
+        "– Ah ! ça c'est drôle…"
+      ]
+    },
+    {
+      "n": 3,
+      "title": "다른 행성에서 온 어린왕자",
+      "anchor": "Scène 3 : 다른 행성에서 온 어린왕자",
+      "paragraphs": [
+        "Et le petit prince eut un très joli éclat de rire qui m'irrita beaucoup. Je désire que l'on prenne mes malheurs au sérieux. Puis il ajouta :",
+        "– Alors, toi aussi tu viens du ciel ! De quelle planète es-tu ?",
+        "J'entrevis aussitôt une lueur, dans le mystère de sa présence, et j'interrogeai brusquement :",
+        "– Tu viens donc d'une autre planète ?"
+      ]
+    },
+    {
+      "n": 4,
+      "title": "멀리서 올 수 없는 비행기",
+      "anchor": "Scène 4 : 멀리서 올 수 없는 비행기",
+      "paragraphs": [
+        "Mais il ne me répondit pas. Il hochait la tête doucement tout en regardant mon avion :",
+        "– C'est vrai que, là-dessus, tu ne peux pas venir de bien loin…",
+        "Et il s'enfonça dans une rêverie qui dura longtemps. Puis, sortant mon mouton de sa poche, il se plongea dans la contemplation de son trésor."
+      ]
+    },
+    {
+      "n": 5,
+      "title": "양이 살게 될 집",
+      "anchor": "Scène 5 : 양이 살게 될 집",
+      "paragraphs": [
+        "Vous imaginez combien j'avais pu être intrigué par cette demi-confidence sur « les autres planètes ». Je m'efforçai donc d'en savoir plus long :",
+        "– D'où viens-tu, mon petit bonhomme ? Où est-ce « chez toi » ? Où veux-tu emporter mon mouton ?",
+        "Il me répondit après un silence méditatif :",
+        "– Ce qui est bien, avec la caisse que tu m'as donnée, c'est que, la nuit, ça lui servira de maison."
+      ]
+    },
+    {
+      "n": 6,
+      "title": "양을 묶어두는 밧줄",
+      "anchor": "Scène 6 : 양을 묶어두는 밧줄",
+      "paragraphs": [
+        "– Bien sûr. Et si tu es gentil, je te donnerai aussi une corde pour l'attacher pendant le jour. Et un piquet.",
+        "La proposition parut choquer le petit prince :",
+        "– L'attacher ? Quelle drôle d'idée !",
+        "– Mais si tu ne l'attaches pas, il ira n'importe où, et il se perdra…"
+      ]
+    },
+    {
+      "n": 7,
+      "title": "앞으로 똑바로 가도",
+      "anchor": "Scène 7 : 앞으로 똑바로 가도",
+      "paragraphs": [
+        "Et mon ami eut un nouvel éclat de rire :",
+        "– Mais où veux-tu qu'il aille !",
+        "– N'importe où. Droit devant lui…",
+        "Alors le petit prince remarqua gravement :",
+        "– Ça ne fait rien, c'est tellement petit, chez moi !",
+        "Et, avec un peu de mélancolie, peut-être, il ajouta :",
+        "– Droit devant soi on ne peut pas aller bien loin…"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+# Lisons Le Petit Prince — Chapitre 2-2 / Scène 5: 그림을 그리다
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] Quand le mystère est trop impressionnant, on n'ose pas désobéir. Aussi absurde que cela me semblât à mille milles de tous les endroits habités et en danger de mort, je sortis de ma poche une feuille de papier et un stylographe. Mais je me rappelai alors que j'avais surtout étudié la géographie, l'histoire, le calcul et la grammaire et je dis au petit bonhomme (avec un peu de mauvaise humeur) que je ne savais pas dessiner. Il me répondit :
+<break time="1.0s"/>
+[FR-Narrator] – Ça ne fait rien. Dessine-moi un mouton.
+<break time="1.0s"/>
+[FR-Narrator] Comme je n'avais jamais dessiné un mouton je refis, pour lui, l'un des deux seuls dessins dont j'étais capable. Celui du boa fermé. Et je fus stupéfait d'entendre le petit bonhomme me répondre :
+<break time="1.0s"/>
+[FR-Narrator] – Non ! Non ! Je ne veux pas d'un éléphant dans un boa. Un boa c'est très dangereux, et un éléphant c'est très encombrant. Chez moi c'est tout petit. J'ai besoin d'un mouton. Dessine-moi un mouton.
+<break time="1.0s"/>
+[FR-Narrator] Alors j'ai dessiné.

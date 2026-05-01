@@ -1,0 +1,8 @@
+# Lisons Le Petit Prince — Chapitre 11 / Scène 7: 떠나는 어린 왕자
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] – Je t'admire, dit le petit prince, en haussant un peu les épaules, mais en quoi cela peut-il bien t'intéresser ?
+<break time="1.0s"/>
+[FR-Narrator] Et le petit prince s'en fut.
+<break time="1.0s"/>
+[FR-Narrator] « Les grandes personnes sont décidément bien bizarres », se dit-il simplement en lui-même durant son voyage.

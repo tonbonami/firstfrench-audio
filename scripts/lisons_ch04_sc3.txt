@@ -1,0 +1,4 @@
+# Lisons Le Petit Prince — Chapitre 4 / Scène 3: 소행성 B 612와 튀르키예 천문학자
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] J'ai de sérieuses raisons de croire que la planète d'où venait le petit prince est l'astéroïde B 612. Cet astéroïde n'a été aperçu qu'une fois au télescope, en 1909, par un astronome turc.

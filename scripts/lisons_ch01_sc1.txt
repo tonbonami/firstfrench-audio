@@ -1,0 +1,4 @@
+# Lisons Le Petit Prince — Chapitre 1 / Scène 1: 원시림의 그림
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] Lorsque j'avais six ans j'ai vu, une fois, une magnifique image, dans un livre sur la Forêt Vierge qui s'appelait « Histoires Vécues ». Ça représentait un serpent boa qui avalait un fauve. Voilà la copie du dessin.

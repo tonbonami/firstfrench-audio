@@ -1,0 +1,4 @@
+# Lisons Le Petit Prince — Chapitre 16 / Scène 4: 오페라 발레 같은 움직임
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] Vu d'un peu loin ça faisait un effet splendide. Les mouvements de cette armée étaient réglés comme ceux d'un ballet d'opéra. D'abord venait le tour des allumeurs de réverbères de Nouvelle-Zélande et d'Australie. Puis ceux-ci, ayant allumé leurs lampions, s'en allaient dormir. Alors entraient à leur tour dans la danse les allumeurs de réverbères de Chine et de Sibérie. Puis eux aussi s'escamotaient dans les coulisses. Alors venait le tour des allumeurs de réverbères de Russie et des Indes. Puis de ceux d'Afrique et d'Europe. Puis de ceux d'Amérique du Sud. Puis de ceux d'Amérique du Nord. Et jamais ils ne se trompaient dans leur ordre d'entrée en scène. C'était grandiose.

@@ -1,0 +1,14 @@
+# Lisons Le Petit Prince — Chapitre 25 / Scène 6: 마음으로 찾아야 해
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] – Les hommes de chez toi, dit le petit prince, cultivent cinq mille roses dans un même jardin… et ils n'y trouvent pas ce qu'ils cherchent…
+<break time="1.0s"/>
+[FR-Narrator] – Ils ne le trouvent pas, répondis-je…
+<break time="1.0s"/>
+[FR-Narrator] – Et cependant ce qu'ils cherchent pourrait être trouvé dans une seule rose ou un peu d'eau…
+<break time="1.0s"/>
+[FR-Narrator] – Bien sûr, répondis-je.
+<break time="1.0s"/>
+[FR-Narrator] Et le petit prince ajouta :
+<break time="1.0s"/>
+[FR-Narrator] – Mais les yeux sont aveugles. Il faut chercher avec le cœur.

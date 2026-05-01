@@ -1,0 +1,8 @@
+# Lisons Le Petit Prince — Chapitre 21-1 / Scène 4: 사람들을 찾는 어린 왕자
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] – Je cherche les hommes, dit le petit prince. Qu'est-ce que signifie « apprivoiser » ?
+<break time="1.0s"/>
+[FR-Narrator] – Les hommes, dit le renard, ils ont des fusils et ils chassent. C'est bien gênant ! Ils élèvent aussi des poules. C'est leur seul intérêt. Tu cherches des poules ?
+<break time="1.0s"/>
+[FR-Narrator] – Non, dit le petit prince. Je cherche des amis. Qu'est-ce que signifie « apprivoiser » ?

@@ -1,0 +1,6 @@
+# Lisons Le Petit Prince — Chapitre 11 / Scène 3: 박수와 인사
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] – Frappe tes mains l'une contre l'autre, conseilla donc le vaniteux.
+<break time="1.0s"/>
+[FR-Narrator] Le petit prince frappa ses mains l'une contre l'autre. Le vaniteux salua modestement en soulevant son chapeau.

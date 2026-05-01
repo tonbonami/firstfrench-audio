@@ -1,0 +1,6 @@
+# Lisons Le Petit Prince — Chapitre 13 / Scène 12: 떠나며
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] Le businessman ouvrit la bouche mais ne trouva rien à répondre, et le petit prince s'en fut.
+<break time="1.0s"/>
+[FR-Narrator] « Les grandes personnes sont décidément tout à fait extraordinaires », se disait-il simplement en lui-même durant le voyage.

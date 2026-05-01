@@ -1,0 +1,8 @@
+# Lisons Le Petit Prince — Chapitre 3 / Scène 1: 비행기를 처음 본 어린왕자
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] Il me fallut longtemps pour comprendre d'où il venait. Le petit prince, qui me posait beaucoup de questions, ne semblait jamais entendre les miennes. Ce sont des mots prononcés par hasard qui, peu à peu, m'ont tout révélé. Ainsi, quand il aperçut pour la première fois mon avion (je ne dessinerai pas mon avion, c'est un dessin beaucoup trop compliqué pour moi) il me demanda :
+<break time="1.0s"/>
+[FR-Narrator] – Qu'est-ce que c'est que cette chose-là ?
+<break time="1.0s"/>
+[FR-Narrator] – Ce n'est pas une chose. Ça vole. C'est un avion. C'est mon avion.

@@ -1,0 +1,10 @@
+# Lisons Le Petit Prince — Chapitre 21-2 / Scène 5: 이별의 슬픔
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] Ainsi le petit prince apprivoisa le renard. Et quand l'heure du départ fut proche :
+<break time="1.0s"/>
+[FR-Narrator] – Ah ! dit le renard… Je pleurerai.
+<break time="1.0s"/>
+[FR-Narrator] – C'est ta faute, dit le petit prince, je ne te souhaitais point de mal, mais tu as voulu que je t'apprivoise…
+<break time="1.0s"/>
+[FR-Narrator] – Bien sûr, dit le renard.

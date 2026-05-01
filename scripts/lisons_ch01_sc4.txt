@@ -1,0 +1,6 @@
+# Lisons Le Petit Prince — Chapitre 1 / Scène 4: 어른들에게 보여주다
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] J'ai montré mon chef-d'œuvre aux grandes personnes et je leur ai demandé si mon dessin leur faisait peur.
+<break time="1.0s"/>
+[FR-Narrator] Elles m'ont répondu : « Pourquoi un chapeau ferait-il peur ? »

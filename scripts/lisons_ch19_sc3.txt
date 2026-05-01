@@ -1,0 +1,4 @@
+# Lisons Le Petit Prince — Chapitre 19 / Scène 3: 이상한 행성
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] « Quelle drôle de planète ! pensa-t-il alors. Elle est toute sèche, et toute pointue et toute salée. Et les hommes manquent d'imagination. Ils répètent ce qu'on leur dit… Chez moi j'avais une fleur : elle parlait toujours la première… »

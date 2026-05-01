@@ -1,0 +1,8 @@
+# Lisons Le Petit Prince — Chapitre 11 / Scène 5: 칭찬만 듣는 사람
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] Mais le vaniteux ne l'entendit pas. Les vaniteux n'entendent jamais que les louanges.
+<break time="1.0s"/>
+[FR-Narrator] – Est-ce que tu m'admires vraiment beaucoup ? demanda-t-il au petit prince.
+<break time="1.0s"/>
+[FR-Narrator] – Qu'est-ce que signifie admirer ?

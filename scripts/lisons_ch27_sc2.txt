@@ -1,0 +1,4 @@
+# Lisons Le Petit Prince — Chapitre 27 / Scène 2: 별들을 듣는 밤
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] Maintenant je me suis un peu consolé. C'est-à-dire… pas tout à fait. Mais je sais bien qu'il est revenu à sa planète, car, au lever du jour, je n'ai pas retrouvé son corps. Ce n'était pas un corps tellement lourd… Et j'aime la nuit écouter les étoiles. C'est comme cinq cent millions de grelots…

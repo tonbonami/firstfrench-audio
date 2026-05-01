@@ -1,0 +1,4 @@
+# Lisons Le Petit Prince — Chapitre 20 / Scène 1: 길을 발견한 어린 왕자
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] Mais il arriva que le petit prince, ayant longtemps marché à travers les sables, les rocs et les neiges, découvrit enfin une route. Et les routes vont toutes chez les hommes.

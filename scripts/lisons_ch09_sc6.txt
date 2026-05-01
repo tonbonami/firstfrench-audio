@@ -1,0 +1,10 @@
+# Lisons Le Petit Prince — Chapitre 9 / Scène 6: 꽃의 자존심
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] – Mais le vent…
+<break time="1.0s"/>
+[FR-Narrator] – Je ne suis pas si enrhumée que ça… L'air frais de la nuit me fera du bien. Je suis une fleur.
+<break time="1.0s"/>
+[FR-Narrator] – Mais les bêtes…
+<break time="1.0s"/>
+[FR-Narrator] – Il faut bien que je supporte deux ou trois chenilles si je veux connaître les papillons. Il paraît que c'est tellement beau. Sinon qui me rendra visite ? Tu seras loin, toi. Quant aux grosses bêtes, je ne crains rien. J'ai mes griffes.

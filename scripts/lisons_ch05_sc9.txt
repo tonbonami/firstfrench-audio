@@ -1,0 +1,4 @@
+# Lisons Le Petit Prince — Chapitre 5 / Scène 9: 게으름뱅이의 별
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] Et un jour il me conseilla de m'appliquer à réussir un beau dessin, pour bien faire entrer ça dans la tête des enfants de chez moi. « S'ils voyagent un jour, me disait-il, ça pourra leur servir. Il est quelquefois sans inconvénient de remettre à plus tard son travail. Mais, s'il s'agit des baobabs, c'est toujours une catastrophe. J'ai connu une planète, habitée par un paresseux. Il avait négligé trois arbustes… »

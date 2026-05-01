@@ -1,0 +1,4 @@
+# Lisons Le Petit Prince — Chapitre 21-2 / Scène 2: 인내심과 침묵
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] – Il faut être très patient, répondit le renard. Tu t'assoiras d'abord un peu loin de moi, comme ça, dans l'herbe. Je te regarderai du coin de l'œil et tu ne diras rien. Le langage est source de malentendus. Mais, chaque jour, tu pourras t'asseoir un peu plus près…

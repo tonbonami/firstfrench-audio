@@ -1,0 +1,8 @@
+# Lisons Le Petit Prince — Chapitre 10-2 / Scène 9: 합리적인 명령
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] Le roi d'un geste discret désigna sa planète, les autres planètes et les étoiles.
+<break time="1.0s"/>
+[FR-Narrator] – Sur tout ça ? dit le petit prince.
+<break time="1.0s"/>
+[FR-Narrator] – Sur tout ça… répondit le roi.

@@ -1,0 +1,6 @@
+# Lisons Le Petit Prince — Chapitre 18 / Scène 4: 작별 인사
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] – Adieu, fit le petit prince.
+<break time="1.0s"/>
+[FR-Narrator] – Adieu, dit la fleur.

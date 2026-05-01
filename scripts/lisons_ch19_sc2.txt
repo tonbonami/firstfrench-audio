@@ -1,0 +1,14 @@
+# Lisons Le Petit Prince — Chapitre 19 / Scène 2: 메아리와의 대화
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] – Bonjour, dit-il à tout hasard.
+<break time="1.0s"/>
+[FR-Narrator] – Bonjour… Bonjour… Bonjour… répondit l'écho.
+<break time="1.0s"/>
+[FR-Narrator] – Qui êtes-vous ? dit le petit prince.
+<break time="1.0s"/>
+[FR-Narrator] – Qui êtes-vous… qui êtes-vous… qui êtes-vous… répondit l'écho.
+<break time="1.0s"/>
+[FR-Narrator] – Soyez mes amis, je suis seul, dit-il.
+<break time="1.0s"/>
+[FR-Narrator] – Je suis seul… je suis seul… je suis seul… répondit l'écho.

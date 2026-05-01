@@ -1,0 +1,8 @@
+# Lisons Le Petit Prince — Chapitre 25 / Scène 4: 내가 물을 긷다
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] Je ne voulais pas qu'il fît un effort :
+<break time="1.0s"/>
+[FR-Narrator] – Laisse-moi faire, lui dis-je, c'est trop lourd pour toi.
+<break time="1.0s"/>
+[FR-Narrator] Lentement je hissai le seau jusqu'à la margelle. Je l'y installai bien d'aplomb. Dans mes oreilles durait le chant de la poulie et, dans l'eau qui tremblait encore, je voyais trembler le soleil.

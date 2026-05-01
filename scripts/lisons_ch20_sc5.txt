@@ -1,0 +1,4 @@
+# Lisons Le Petit Prince — Chapitre 20 / Scène 5: 꽃의 반응을 상상하다
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] « Elle serait bien vexée, se dit-il, si elle voyait ça… elle tousserait énormément et ferait semblant de mourir pour échapper au ridicule. Et je serais bien obligé de faire semblant de la soigner, car, sinon, pour m'humilier moi aussi, elle se laisserait vraiment mourir… »

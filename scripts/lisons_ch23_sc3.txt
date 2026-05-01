@@ -1,0 +1,6 @@
+# Lisons Le Petit Prince — Chapitre 23 / Scène 3: 시간 절약
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] – Pourquoi vends-tu ça ? dit le petit prince.
+<break time="1.0s"/>
+[FR-Narrator] – C'est une grosse économie de temps, dit le marchand. Les experts ont fait des calculs. On épargne cinquante-trois minutes par semaine.

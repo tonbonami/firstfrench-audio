@@ -1,0 +1,14 @@
+# Lisons Le Petit Prince — Chapitre 25 / Scène 10: 지구에 떨어진 지 1년
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] Il me dit :
+<break time="1.0s"/>
+[FR-Narrator] – Tu sais, ma chute sur la Terre… c'en sera demain l'anniversaire…
+<break time="1.0s"/>
+[FR-Narrator] Puis, après un silence il dit encore :
+<break time="1.0s"/>
+[FR-Narrator] – J'étais tombé tout près d'ici…
+<break time="1.0s"/>
+[FR-Narrator] Et il rougit.
+<break time="1.0s"/>
+[FR-Narrator] Et de nouveau, sans comprendre pourquoi, j'éprouvai un chagrin bizarre. Cependant une question me vint :

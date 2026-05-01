@@ -1,0 +1,14 @@
+# Lisons Le Petit Prince — Chapitre 13 / Scène 8: 소유의 근거
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] – Comment peut-on posséder les étoiles ?
+<break time="1.0s"/>
+[FR-Narrator] – À qui sont-elles ? riposta, grincheux, le businessman.
+<break time="1.0s"/>
+[FR-Narrator] – Je ne sais pas. À personne.
+<break time="1.0s"/>
+[FR-Narrator] – Alors elles sont à moi, car j'y ai pensé le premier.
+<break time="1.0s"/>
+[FR-Narrator] – Ça suffit ?
+<break time="1.0s"/>
+[FR-Narrator] – Bien sûr. Quand tu trouves un diamant qui n'est à personne, il est à toi. Quand tu trouves une île qui n'est à personne, elle est à toi. Quand tu as une idée le premier, tu la fais breveter : elle est à toi. Et moi je possède les étoiles, puisque jamais personne avant moi n'a songé à les posséder.

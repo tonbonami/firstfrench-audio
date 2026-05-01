@@ -1,0 +1,8 @@
+# Lisons Le Petit Prince — Chapitre 11 / Scène 2: 이상한 모자
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] – Bonjour, dit le petit prince. Vous avez un drôle de chapeau.
+<break time="1.0s"/>
+[FR-Narrator] – C'est pour saluer, lui répondit le vaniteux. C'est pour saluer quand on m'acclame. Malheureusement il ne passe jamais personne par ici.
+<break time="1.0s"/>
+[FR-Narrator] – Ah oui ? dit le petit prince qui ne comprit pas.

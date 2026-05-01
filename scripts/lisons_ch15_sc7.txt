@@ -1,0 +1,16 @@
+# Lisons Le Petit Prince — Chapitre 15 / Scène 7: 어린 왕자의 별
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] – Alors ? interrogea le géographe.
+<break time="1.0s"/>
+[FR-Narrator] – Oh ! chez moi, dit le petit prince, ce n'est pas très intéressant, c'est tout petit. J'ai trois volcans. Deux volcans en activité, et un volcan éteint. Mais on ne sait jamais.
+<break time="1.0s"/>
+[FR-Narrator] – On ne sait jamais, dit le géographe.
+<break time="1.0s"/>
+[FR-Narrator] – J'ai aussi une fleur.
+<break time="1.0s"/>
+[FR-Narrator] – Nous ne notons pas les fleurs, dit le géographe.
+<break time="1.0s"/>
+[FR-Narrator] – Pourquoi ça ! c'est le plus joli !
+<break time="1.0s"/>
+[FR-Narrator] – Parce que les fleurs sont éphémères.

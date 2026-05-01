@@ -1,0 +1,4 @@
+# Lisons Le Petit Prince — Chapitre 5 / Scène 8: 규율의 문제
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] « C'est une question de discipline, me disait plus tard le petit prince. Quand on a terminé sa toilette du matin, il faut faire soigneusement la toilette de la planète. Il faut s'astreindre régulièrement à arracher les baobabs dès qu'on les distingue d'avec les rosiers auxquels ils ressemblent beaucoup quand ils sont très jeunes. C'est un travail très ennuyeux, mais très facile. »

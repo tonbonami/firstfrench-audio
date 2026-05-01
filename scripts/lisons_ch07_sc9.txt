@@ -1,0 +1,10 @@
+# Lisons Le Petit Prince — Chapitre 7 / Scène 9: 버섯 같은 사람
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] Ça me fit un peu honte. Mais, impitoyable, il ajouta :
+<break time="1.0s"/>
+[FR-Narrator] – Tu confonds tout… tu mélanges tout !
+<break time="1.0s"/>
+[FR-Narrator] Il était vraiment très irrité. Il secouait au vent des cheveux tout dorés :
+<break time="1.0s"/>
+[FR-Narrator] – Je connais une planète où il y a un Monsieur cramoisi. Il n'a jamais respiré une fleur. Il n'a jamais regardé une étoile. Il n'a jamais aimé personne. Il n'a jamais rien fait d'autre que des additions. Et toute la journée il répète comme toi : « Je suis un homme sérieux ! Je suis un homme sérieux ! » et ça le fait gonfler d'orgueil. Mais ce n'est pas un homme, c'est un champignon !

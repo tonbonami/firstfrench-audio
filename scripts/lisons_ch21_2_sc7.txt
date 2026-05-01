@@ -1,0 +1,12 @@
+# Lisons Le Petit Prince — Chapitre 21-2 / Scène 7: 장미꽃들을 다시 만나다
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] Puis il ajouta :
+<break time="1.0s"/>
+[FR-Narrator] – Va revoir les roses. Tu comprendras que la tienne est unique au monde. Tu reviendras me dire adieu, et je te ferai cadeau d'un secret.
+<break time="1.0s"/>
+[FR-Narrator] Le petit prince s'en fut revoir les roses.
+<break time="1.0s"/>
+[FR-Narrator] – Vous n'êtes pas du tout semblables à ma rose, vous n'êtes rien encore, leur dit-il. Personne ne vous a apprivoisées et vous n'avez apprivoisé personne. Vous êtes comme était mon renard. Ce n'était qu'un renard semblable à cent mille autres. Mais j'en ai fait mon ami, et il est maintenant unique au monde.
+<break time="1.0s"/>
+[FR-Narrator] Et les roses étaient bien gênées.

@@ -1,0 +1,6 @@
+# Lisons Le Petit Prince — Chapitre 20 / Scène 4: 충격에 빠진 어린 왕자
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] – Ah ! fit le petit prince…
+<break time="1.0s"/>
+[FR-Narrator] Et il se sentit très malheureux. Sa fleur lui avait raconté qu'elle était seule de son espèce dans l'univers. Et voici qu'il en était cinq mille, toutes semblables, dans un seul jardin !

@@ -1,0 +1,4 @@
+# Lisons Le Petit Prince — Chapitre 1 / Scène 5: 그림 2번
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] Mon dessin ne représentait pas un chapeau. Il représentait un serpent boa qui digérait un éléphant. J'ai alors dessiné l'intérieur du serpent boa, afin que les grandes personnes puissent comprendre. Elles ont toujours besoin d'explications. Mon dessin numéro 2 était comme ça :

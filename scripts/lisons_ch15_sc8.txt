@@ -1,0 +1,10 @@
+# Lisons Le Petit Prince — Chapitre 15 / Scène 8: 덧없음의 의미
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] – Qu'est-ce que signifie : « éphémère » ?
+<break time="1.0s"/>
+[FR-Narrator] – Les géographies, dit le géographe, sont les livres les plus précieux de tous les livres. Elles ne se démodent jamais. Il est très rare qu'une montagne change de place. Il est très rare qu'un océan se vide de son eau. Nous écrivons des choses éternelles.
+<break time="1.0s"/>
+[FR-Narrator] – Mais les volcans éteints peuvent se réveiller, interrompit le petit prince. Qu'est-ce que signifie « éphémère » ?
+<break time="1.0s"/>
+[FR-Narrator] – Que les volcans soient éteints ou soient éveillés, ça revient au même pour nous autres, dit le géographe. Ce qui compte pour nous, c'est la montagne. Elle ne change pas.

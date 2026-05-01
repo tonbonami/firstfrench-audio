@@ -1,0 +1,10 @@
+# Lisons Le Petit Prince — Chapitre 17 / Scène 8: 뱀의 수수께끼
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] Il s'enroula autour de la cheville du petit prince, comme un bracelet d'or :
+<break time="1.0s"/>
+[FR-Narrator] – Celui que je touche, je le rends à la terre dont il est sorti, dit-il encore. Mais tu es pur et tu viens d'une étoile…
+<break time="1.0s"/>
+[FR-Narrator] Le petit prince ne répondit rien.
+<break time="1.0s"/>
+[FR-Narrator] – Tu me fais pitié, toi si faible, sur cette Terre de granit. Je puis t'aider un jour si tu regrettes trop ta planète. Je puis…

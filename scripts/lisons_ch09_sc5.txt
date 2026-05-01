@@ -1,0 +1,6 @@
+# Lisons Le Petit Prince — Chapitre 9 / Scène 5: 사랑의 고백
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] Il fut surpris par l'absence de reproches. Il restait là tout déconcerté, le globe en l'air. Il ne comprenait pas cette douceur calme.
+<break time="1.0s"/>
+[FR-Narrator] – Mais oui, je t'aime, lui dit la fleur. Tu n'en as rien su, par ma faute. Cela n'a aucune importance. Mais tu as été aussi sot que moi. Tâche d'être heureux… Laisse ce globe tranquille. Je n'en veux plus.

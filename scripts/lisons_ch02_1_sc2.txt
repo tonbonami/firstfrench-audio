@@ -1,0 +1,10 @@
+# Lisons Le Petit Prince — Chapitre 2-1 / Scène 2: 이상한 작은 목소리
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] Le premier soir je me suis donc endormi sur le sable à mille milles de toute terre habitée. J'étais bien plus isolé qu'un naufragé sur un radeau au milieu de l'Océan. Alors vous imaginez ma surprise, au lever du jour, quand une drôle de petite voix m'a réveillé. Elle disait :
+<break time="1.0s"/>
+[FR-Narrator] – S'il vous plaît… dessine-moi un mouton !
+<break time="1.0s"/>
+[FR-Narrator] – Hein !
+<break time="1.0s"/>
+[FR-Narrator] – Dessine-moi un mouton…

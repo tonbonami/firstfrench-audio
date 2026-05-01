@@ -1,0 +1,12 @@
+# Lisons Le Petit Prince — Chapitre 8 / Scène 5: 호랑이와 발톱
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] Ainsi l'avait-elle bien vite tourmenté par sa vanité un peu ombrageuse. Un jour, par exemple, parlant de ses quatre épines, elle avait dit au petit prince :
+<break time="1.0s"/>
+[FR-Narrator] – Ils peuvent venir, les tigres, avec leurs griffes !
+<break time="1.0s"/>
+[FR-Narrator] – Il n'y a pas de tigres sur ma planète, avait objecté le petit prince, et puis les tigres ne mangent pas l'herbe.
+<break time="1.0s"/>
+[FR-Narrator] – Je ne suis pas une herbe, avait doucement répondu la fleur.
+<break time="1.0s"/>
+[FR-Narrator] – Pardonnez-moi…

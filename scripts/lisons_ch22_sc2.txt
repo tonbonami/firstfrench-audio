@@ -1,0 +1,6 @@
+# Lisons Le Petit Prince — Chapitre 22 / Scène 2: 여행객들을 분류하는 전철수
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] – Je trie les voyageurs, par paquets de mille, dit l'aiguilleur. J'expédie les trains qui les emportent, tantôt vers la droite, tantôt vers la gauche.
+<break time="1.0s"/>
+[FR-Narrator] Et un rapide illuminé, grondant comme le tonnerre, fit trembler la cabine d'aiguillage.

@@ -1,0 +1,8 @@
+# Lisons Le Petit Prince — Chapitre 20 / Scène 2: 장미 정원과의 만남
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] – Bonjour, dit-il.
+<break time="1.0s"/>
+[FR-Narrator] C'était un jardin fleuri de roses.
+<break time="1.0s"/>
+[FR-Narrator] – Bonjour, dirent les roses.

@@ -1,0 +1,8 @@
+# Lisons Le Petit Prince — Chapitre 10-2 / Scène 10: 일몰은 언제?
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] Car non seulement c'était un monarque absolu mais c'était un monarque universel.
+<break time="1.0s"/>
+[FR-Narrator] – Et les étoiles vous obéissent ?
+<break time="1.0s"/>
+[FR-Narrator] – Bien sûr, lui dit le roi. Elles obéissent aussitôt. Je ne tolère pas l'indiscipline.

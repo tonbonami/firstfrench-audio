@@ -1,0 +1,16 @@
+# Lisons Le Petit Prince — Chapitre 3 / Scène 7: 앞으로 똑바로 가도
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] Et mon ami eut un nouvel éclat de rire :
+<break time="1.0s"/>
+[FR-Narrator] – Mais où veux-tu qu'il aille !
+<break time="1.0s"/>
+[FR-Narrator] – N'importe où. Droit devant lui…
+<break time="1.0s"/>
+[FR-Narrator] Alors le petit prince remarqua gravement :
+<break time="1.0s"/>
+[FR-Narrator] – Ça ne fait rien, c'est tellement petit, chez moi !
+<break time="1.0s"/>
+[FR-Narrator] Et, avec un peu de mélancolie, peut-être, il ajouta :
+<break time="1.0s"/>
+[FR-Narrator] – Droit devant soi on ne peut pas aller bien loin…

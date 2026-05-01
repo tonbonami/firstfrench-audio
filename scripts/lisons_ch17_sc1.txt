@@ -1,0 +1,4 @@
+# Lisons Le Petit Prince — Chapitre 17 / Scène 1: 지구의 크기
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] Quand on veut faire de l'esprit, il arrive que l'on mente un peu. Je n'ai pas été très honnête en vous parlant des allumeurs de réverbères. Je risque de donner une fausse idée de notre planète à ceux qui ne la connaissent pas. Les hommes occupent très peu de place sur la terre. Si les deux milliards d'habitants qui peuplent la terre se tenaient debout et un peu serrés, comme pour un meeting, ils logeraient aisément sur une place publique de vingt milles de long sur vingt milles de large. On pourrait entasser l'humanité sur le moindre petit îlot du Pacifique.

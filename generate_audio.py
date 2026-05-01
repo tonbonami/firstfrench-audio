@@ -52,6 +52,8 @@ VOICE_REGISTRY = {
     "teen-male":          "mr1ubFaLs5xVrh1EqWtc",  # 중·고등학교 남자 (어린 캐릭터 대체)
     "whispering-male":    "k1w1SeihHyKDJXr7nZRX",  # 젊은 남자 속삭이는 톤
     "grandfather":        "M4DbUhGmKgKUc1GsJEHY",  # 할아버지 느낌
+    # 낭독 (Lisons Le Petit Prince)
+    "lisons-narrator":    "WeAAwKYcS06VmXw086yZ",  # 어린왕자 낭독 전용 내레이터
 }
 
 VOICE_SETTINGS = {

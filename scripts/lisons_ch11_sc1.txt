@@ -1,0 +1,8 @@
+# Lisons Le Petit Prince — Chapitre 11 / Scène 1: 허영심 많은 사람의 별
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] La seconde planète était habitée par un vaniteux :
+<break time="1.0s"/>
+[FR-Narrator] – Ah ! Ah ! Voilà la visite d'un admirateur ! s'écria de loin le vaniteux dès qu'il aperçut le petit prince.
+<break time="1.0s"/>
+[FR-Narrator] Car, pour les vaniteux, les autres hommes sont des admirateurs.

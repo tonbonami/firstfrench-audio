@@ -1,0 +1,4 @@
+# Lisons Le Petit Prince — Chapitre 26 / Scène 6: 모래 위의 흔적을 기다려라
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] – … Bien sûr. Tu verras où commence ma trace dans le sable. Tu n'as qu'à m'y attendre. J'y serai cette nuit.

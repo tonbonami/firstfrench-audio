@@ -1,0 +1,29 @@
+{
+  "chapter": "Chapitre 6",
+  "page_id": "352b1658e7ec8146a89acd177fbe32a0",
+  "stem_prefix": "lisons_ch06_sc",
+  "scenes": [
+    {"n": 1, "title": "어린왕자의 작은 행성과 일몰", "anchor": "Scène 1 : 어린왕자의 작은 행성과 일몰",
+     "paragraphs": [
+       "Ah ! petit prince, j'ai compris, peu à peu, ainsi, ta petite vie mélancolique. Tu n'avais eu longtemps pour distraction que la douceur des couchers de soleil. J'ai appris ce détail nouveau, le quatrième jour au matin, quand tu m'as dit :",
+       "– J'aime bien les couchers de soleil. Allons voir un coucher de soleil…",
+       "– Mais il faut attendre…",
+       "– Attendre quoi ?",
+       "– Attendre que le soleil se couche."
+     ]},
+    {"n": 2, "title": "작은 행성에서의 일몰 감상법", "anchor": "Scène 2 : 작은 행성에서의 일몰 감상법",
+     "paragraphs": [
+       "Tu as eu l'air très surpris d'abord, et puis tu as ri de toi-même. Et tu m'as dit :",
+       "– Je me crois toujours chez moi !",
+       "En effet. Quand il est midi aux États-Unis, le soleil, tout le monde le sait, se couche sur la France. Il suffirait de pouvoir aller en France en une minute pour assister au coucher de soleil. Malheureusement la France est bien trop éloignée. Mais, sur ta si petite planète, il te suffisait de tirer ta chaise de quelques pas. Et tu regardais le crépuscule chaque fois que tu le désirais…"
+     ]},
+    {"n": 3, "title": "마흔세 번의 일몰과 슬픔", "anchor": "Scène 3 : 마흔세 번의 일몰과 슬픔",
+     "paragraphs": [
+       "– Un jour, j'ai vu le soleil se coucher quarante-trois fois !",
+       "Et un peu plus tard tu ajoutais :",
+       "– Tu sais… quand on est tellement triste on aime les couchers de soleil…",
+       "– Le jour des quarante-trois fois tu étais donc tellement triste ?",
+       "Mais le petit prince ne répondit pas."
+     ]}
+  ]
+}

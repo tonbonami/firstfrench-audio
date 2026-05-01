@@ -1,0 +1,10 @@
+# Lisons Le Petit Prince — Chapitre 17 / Scène 4: 뱀과의 만남
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] – Sur quelle planète suis-je tombé ? demanda le petit prince.
+<break time="1.0s"/>
+[FR-Narrator] – Sur la Terre, en Afrique, répondit le serpent.
+<break time="1.0s"/>
+[FR-Narrator] – Ah !… Il n'y a donc personne sur la Terre ?
+<break time="1.0s"/>
+[FR-Narrator] – Ici c'est le désert. Il n'y a personne dans les déserts. La Terre est grande, dit le serpent.

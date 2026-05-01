@@ -1,0 +1,14 @@
+# Lisons Le Petit Prince — Chapitre 15 / Scène 5: 탐험가의 자격
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] – Pourquoi ça ?
+<break time="1.0s"/>
+[FR-Narrator] – Parce qu'un explorateur qui mentirait entraînerait des catastrophes dans les livres de géographie. Et aussi un explorateur qui boirait trop.
+<break time="1.0s"/>
+[FR-Narrator] – Pourquoi ça ? fit le petit prince.
+<break time="1.0s"/>
+[FR-Narrator] – Parce que les ivrognes voient double. Alors le géographe noterait deux montagnes, là où il n'y en a qu'une seule.
+<break time="1.0s"/>
+[FR-Narrator] – Je connais quelqu'un, dit le petit prince, qui serait mauvais explorateur.
+<break time="1.0s"/>
+[FR-Narrator] – C'est possible. Donc, quand la moralité de l'explorateur paraît bonne, on fait une enquête sur sa découverte.

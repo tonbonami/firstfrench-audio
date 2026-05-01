@@ -1,0 +1,4 @@
+# Lisons Le Petit Prince — Chapitre 26 / Scène 9: 어린 왕자의 고백
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] – Je suis content que tu aies trouvé ce qui manquait à ta machine. Tu vas pouvoir rentrer chez toi…

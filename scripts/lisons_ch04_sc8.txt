@@ -1,0 +1,6 @@
+# Lisons Le Petit Prince — Chapitre 4 / Scène 8: 동화처럼 시작하고 싶었던 이야기
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] Mais, bien sûr, nous qui comprenons la vie, nous nous moquons bien des numéros ! J'aurais aimé commencer cette histoire à la façon des contes de fées. J'aurais aimé dire :
+<break time="1.0s"/>
+[FR-Narrator] « Il était une fois un petit prince qui habitait une planète à peine plus grande que lui, et qui avait besoin d'un ami… » Pour ceux qui comprennent la vie, ça aurait eu l'air beaucoup plus vrai.

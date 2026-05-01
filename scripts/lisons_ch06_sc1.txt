@@ -1,0 +1,12 @@
+# Lisons Le Petit Prince — Chapitre 6 / Scène 1: 어린왕자의 작은 행성과 일몰
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] Ah ! petit prince, j'ai compris, peu à peu, ainsi, ta petite vie mélancolique. Tu n'avais eu longtemps pour distraction que la douceur des couchers de soleil. J'ai appris ce détail nouveau, le quatrième jour au matin, quand tu m'as dit :
+<break time="1.0s"/>
+[FR-Narrator] – J'aime bien les couchers de soleil. Allons voir un coucher de soleil…
+<break time="1.0s"/>
+[FR-Narrator] – Mais il faut attendre…
+<break time="1.0s"/>
+[FR-Narrator] – Attendre quoi ?
+<break time="1.0s"/>
+[FR-Narrator] – Attendre que le soleil se couche.

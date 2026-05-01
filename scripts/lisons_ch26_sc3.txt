@@ -1,0 +1,4 @@
+# Lisons Le Petit Prince — Chapitre 26 / Scène 3: 다른 목소리와 대답
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] Une autre voix lui répondit sans doute, puisqu'il répliqua :

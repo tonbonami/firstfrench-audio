@@ -1,0 +1,8 @@
+# Lisons Le Petit Prince — Chapitre 25 / Scène 3: 노래하는 우물
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] – C'est étrange, dis-je au petit prince, tout est prêt : la poulie, le seau et la corde…
+<break time="1.0s"/>
+[FR-Narrator] Il rit, toucha la corde, fit jouer la poulie. Et la poulie gémit comme gémit une vieille girouette quand le vent a longtemps dormi.
+<break time="1.0s"/>
+[FR-Narrator] – Tu entends, dit le petit prince, nous réveillons ce puits et il chante…

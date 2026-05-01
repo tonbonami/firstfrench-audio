@@ -1,0 +1,25 @@
+{
+  "chapter": "Chapitre 18",
+  "page_id": "352b1658e7ec81f69962f5f35b6eda1f",
+  "stem_prefix": "lisons_ch18_sc",
+  "scenes": [
+    {"n": 1, "title": "사막에서 만난 꽃", "anchor": "Scène 1 : 사막에서 만난 꽃",
+     "paragraphs": ["Le petit prince traversa le désert et ne rencontra qu'une fleur. Une fleur à trois pétales, une fleur de rien du tout…"]},
+    {"n": 2, "title": "인사와 질문", "anchor": "Scène 2 : 인사와 질문",
+     "paragraphs": [
+       "– Bonjour, dit le petit prince.",
+       "– Bonjour, dit la fleur.",
+       "– Où sont les hommes ? demanda poliment le petit prince."
+     ]},
+    {"n": 3, "title": "꽃의 대답", "anchor": "Scène 3 : 꽃의 대답",
+     "paragraphs": [
+       "La fleur, un jour, avait vu passer une caravane :",
+       "– Les hommes ? Il en existe, je crois, six ou sept. Je les ai aperçus il y a des années. Mais on ne sait jamais où les trouver. Le vent les promène. Ils manquent de racines, ça les gêne beaucoup."
+     ]},
+    {"n": 4, "title": "작별 인사", "anchor": "Scène 4 : 작별 인사",
+     "paragraphs": [
+       "– Adieu, fit le petit prince.",
+       "– Adieu, dit la fleur."
+     ]}
+  ]
+}

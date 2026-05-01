@@ -1,0 +1,20 @@
+# Lisons Le Petit Prince — Chapitre 13 / Scène 5: 별을 소유하다
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] – Millions de quoi ?
+<break time="1.0s"/>
+[FR-Narrator] Le businessman comprit qu'il n'était point d'espoir de paix :
+<break time="1.0s"/>
+[FR-Narrator] – Millions de ces petites choses que l'on voit quelquefois dans le ciel.
+<break time="1.0s"/>
+[FR-Narrator] – Des mouches ?
+<break time="1.0s"/>
+[FR-Narrator] – Mais non, des petites choses qui brillent.
+<break time="1.0s"/>
+[FR-Narrator] – Des abeilles ?
+<break time="1.0s"/>
+[FR-Narrator] – Mais non. Des petites choses dorées qui font rêvasser les fainéants. Mais je suis sérieux, moi ! Je n'ai pas le temps de rêvasser.
+<break time="1.0s"/>
+[FR-Narrator] – Ah ! des étoiles ?
+<break time="1.0s"/>
+[FR-Narrator] – C'est bien ça. Des étoiles.

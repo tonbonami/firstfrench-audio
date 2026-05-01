@@ -1,0 +1,6 @@
+# Lisons Le Petit Prince — Chapitre 21-2 / Scène 4: 의식이란 무엇인가
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] – Qu'est-ce qu'un rite ? dit le petit prince.
+<break time="1.0s"/>
+[FR-Narrator] – C'est aussi quelque chose de trop oublié, dit le renard. C'est ce qui fait qu'un jour est différent des autres jours, une heure, des autres heures. Il y a un rite, par exemple, chez mes chasseurs. Ils dansent le jeudi avec les filles du village. Alors le jeudi est jour merveilleux ! Je vais me promener jusqu'à la vigne. Si les chasseurs dansaient n'importe quand, les jours se ressembleraient tous, et je n'aurais point de vacances.

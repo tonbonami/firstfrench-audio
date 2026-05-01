@@ -1,0 +1,6 @@
+# Lisons Le Petit Prince — Chapitre 21-2 / Scène 3: 의식의 중요성
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] Le lendemain revint le petit prince.
+<break time="1.0s"/>
+[FR-Narrator] – Il eût mieux valu revenir à la même heure, dit le renard. Si tu viens, par exemple, à quatre heures de l'après-midi, dès trois heures je commencerai d'être heureux. Plus l'heure avancera, plus je me sentirai heureux. À quatre heures, déjà, je m'agiterai et m'inquiéterai ; je découvrirai le prix du bonheur ! Mais si tu viens n'importe quand, je ne saurai jamais à quelle heure m'habiller le cœur… Il faut des rites.

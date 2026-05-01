@@ -1,0 +1,28 @@
+# Lisons Le Petit Prince — Chapitre 10-2 / Scène 16: 대사가 된 어린 왕자
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] – On ne sait pas, lui dit le roi. Je n'ai pas fait encore le tour de mon royaume. Je suis très vieux, je n'ai pas de place pour un carrosse, et ça me fatigue de marcher.
+<break time="1.0s"/>
+[FR-Narrator] – Oh ! Mais j'ai déjà vu, dit le petit prince qui se pencha pour jeter encore un coup d'œil sur l'autre côté de la planète. Il n'y a personne là-bas non plus…
+<break time="1.0s"/>
+[FR-Narrator] – Tu te jugeras donc toi-même, lui répondit le roi. C'est le plus difficile. Il est bien plus difficile de se juger soi-même que de juger autrui. Si tu réussis à bien te juger, c'est que tu es un véritable sage.
+<break time="1.0s"/>
+[FR-Narrator] – Moi, dit le petit prince, je puis me juger moi-même n'importe où. Je n'ai pas besoin d'habiter ici.
+<break time="1.0s"/>
+[FR-Narrator] – Hem ! Hem ! dit le roi, je crois bien que sur ma planète il y a quelque part un vieux rat. Je l'entends la nuit. Tu pourras juger ce vieux rat. Tu le condamneras à mort de temps en temps. Ainsi sa vie dépendra de ta justice. Mais tu le gracieras chaque fois pour l'économiser. Il n'y en a qu'un.
+<break time="1.0s"/>
+[FR-Narrator] – Moi, répondit le petit prince, je n'aime pas condamner à mort, et je crois bien que je m'en vais.
+<break time="1.0s"/>
+[FR-Narrator] – Non, dit le roi.
+<break time="1.0s"/>
+[FR-Narrator] Mais le petit prince, ayant achevé ses préparatifs, ne voulut point peiner le vieux monarque :
+<break time="1.0s"/>
+[FR-Narrator] – Si Votre Majesté désirait être obéie ponctuellement, elle pourrait me donner un ordre raisonnable. Elle pourrait m'ordonner, par exemple, de partir avant une minute. Il me semble que les conditions sont favorables…
+<break time="1.0s"/>
+[FR-Narrator] Le roi n'ayant rien répondu, le petit prince hésita d'abord, puis, avec un soupir, prit le départ.
+<break time="1.0s"/>
+[FR-Narrator] – Je te fais mon ambassadeur, se hâta alors de crier le roi.
+<break time="1.0s"/>
+[FR-Narrator] Il avait un grand air d'autorité.
+<break time="1.0s"/>
+[FR-Narrator] « Les grandes personnes sont bien étranges », se dit le petit prince, en lui-même, durant son voyage.

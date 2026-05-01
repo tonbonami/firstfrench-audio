@@ -1,0 +1,8 @@
+# Lisons Le Petit Prince — Chapitre 13 / Scène 11: 진정한 소유
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] « C'est amusant, pensa le petit prince. C'est assez poétique. Mais ce n'est pas très sérieux. »
+<break time="1.0s"/>
+[FR-Narrator] Le petit prince avait sur les choses sérieuses des idées très différentes des idées des grandes personnes.
+<break time="1.0s"/>
+[FR-Narrator] – Moi, dit-il encore, je possède une fleur que j'arrose tous les jours. Je possède trois volcans que je ramone toutes les semaines. Car je ramone aussi celui qui est éteint. On ne sait jamais. C'est utile à mes volcans, et c'est utile à ma fleur, que je les possède. Mais tu n'es pas utile aux étoiles…

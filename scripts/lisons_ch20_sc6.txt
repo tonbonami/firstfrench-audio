@@ -1,0 +1,4 @@
+# Lisons Le Petit Prince — Chapitre 20 / Scène 6: 평범한 왕자
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] Puis il se dit encore : « Je me croyais riche d'une fleur unique, et je ne possède qu'une rose ordinaire. Ça et mes trois volcans qui m'arrivent au genou, et dont l'un, peut-être, est éteint pour toujours, ça ne fait pas de moi un bien grand prince… » Et, couché dans l'herbe, il pleura.

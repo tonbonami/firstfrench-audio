@@ -1,0 +1,4 @@
+# Lisons Le Petit Prince — Chapitre 16 / Scène 2: 지구의 사람들
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] La Terre n'est pas une planète quelconque ! On y compte cent onze rois (en n'oubliant pas, bien sûr, les rois nègres), sept mille géographes, neuf cent mille businessmen, sept millions et demi d'ivrognes, trois cent onze millions de vaniteux, c'est-à-dire environ deux milliards de grandes personnes.

@@ -1,0 +1,8 @@
+# Lisons Le Petit Prince — Chapitre 6 / Scène 2: 작은 행성에서의 일몰 감상법
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] Tu as eu l'air très surpris d'abord, et puis tu as ri de toi-même. Et tu m'as dit :
+<break time="1.0s"/>
+[FR-Narrator] – Je me crois toujours chez moi !
+<break time="1.0s"/>
+[FR-Narrator] En effet. Quand il est midi aux États-Unis, le soleil, tout le monde le sait, se couche sur la France. Il suffirait de pouvoir aller en France en une minute pour assister au coucher de soleil. Malheureusement la France est bien trop éloignée. Mais, sur ta si petite planète, il te suffisait de tirer ta chaise de quelques pas. Et tu regardais le crépuscule chaque fois que tu le désirais…

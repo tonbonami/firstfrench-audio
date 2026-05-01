@@ -1,0 +1,8 @@
+# Lisons Le Petit Prince — Chapitre 22 / Scène 1: 전철수와의 만남
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] – Bonjour, dit le petit prince.
+<break time="1.0s"/>
+[FR-Narrator] – Bonjour, dit l'aiguilleur.
+<break time="1.0s"/>
+[FR-Narrator] – Que fais-tu ici ? dit le petit prince.

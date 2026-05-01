@@ -1,0 +1,24 @@
+# Lisons Le Petit Prince — Chapitre 2-2 / Scène 7: 상자 속의 양
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] Alors, faute de patience, comme j'avais hâte de commencer le démontage de mon moteur, je griffonnai ce dessin-ci.
+<break time="1.0s"/>
+[FR-Narrator] Et je lançai :
+<break time="1.0s"/>
+[FR-Narrator] – Ça c'est la caisse. Le mouton que tu veux est dedans.
+<break time="1.0s"/>
+[FR-Narrator] Mais je fus bien surpris de voir s'illuminer le visage de mon jeune juge :
+<break time="1.0s"/>
+[FR-Narrator] – C'est tout à fait comme ça que je le voulais ! Crois-tu qu'il faille beaucoup d'herbe à ce mouton ?
+<break time="1.0s"/>
+[FR-Narrator] – Pourquoi ?
+<break time="1.0s"/>
+[FR-Narrator] – Parce que chez moi c'est tout petit…
+<break time="1.0s"/>
+[FR-Narrator] – Ça suffira sûrement. Je t'ai donné un tout petit mouton.
+<break time="1.0s"/>
+[FR-Narrator] Il pencha la tête vers le dessin :
+<break time="1.0s"/>
+[FR-Narrator] – Pas si petit que ça… Tiens ! Il s'est endormi…
+<break time="1.0s"/>
+[FR-Narrator] Et c'est ainsi que je fis la connaissance du petit prince.

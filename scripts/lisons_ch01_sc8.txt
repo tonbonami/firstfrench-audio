@@ -1,0 +1,4 @@
+# Lisons Le Petit Prince — Chapitre 1 / Scène 8: 어른들 사이에서
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] J'ai ainsi eu, au cours de ma vie, des tas de contacts avec des tas de gens sérieux. J'ai beaucoup vécu chez les grandes personnes. Je les ai vues de très près. Ça n'a pas trop amélioré mon opinion.

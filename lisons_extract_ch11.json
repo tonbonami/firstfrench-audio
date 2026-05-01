@@ -1,0 +1,48 @@
+{
+  "chapter": "Chapitre 11",
+  "page_id": "352b1658e7ec8160b186d0d11c8e5329",
+  "stem_prefix": "lisons_ch11_sc",
+  "scenes": [
+    {"n": 1, "title": "허영심 많은 사람의 별", "anchor": "Scène 1 : 허영심 많은 사람의 별",
+     "paragraphs": [
+       "La seconde planète était habitée par un vaniteux :",
+       "– Ah ! Ah ! Voilà la visite d'un admirateur ! s'écria de loin le vaniteux dès qu'il aperçut le petit prince.",
+       "Car, pour les vaniteux, les autres hommes sont des admirateurs."
+     ]},
+    {"n": 2, "title": "이상한 모자", "anchor": "Scène 2 : 이상한 모자",
+     "paragraphs": [
+       "– Bonjour, dit le petit prince. Vous avez un drôle de chapeau.",
+       "– C'est pour saluer, lui répondit le vaniteux. C'est pour saluer quand on m'acclame. Malheureusement il ne passe jamais personne par ici.",
+       "– Ah oui ? dit le petit prince qui ne comprit pas."
+     ]},
+    {"n": 3, "title": "박수와 인사", "anchor": "Scène 3 : 박수와 인사",
+     "paragraphs": [
+       "– Frappe tes mains l'une contre l'autre, conseilla donc le vaniteux.",
+       "Le petit prince frappa ses mains l'une contre l'autre. Le vaniteux salua modestement en soulevant son chapeau."
+     ]},
+    {"n": 4, "title": "단조로운 놀이", "anchor": "Scène 4 : 단조로운 놀이",
+     "paragraphs": [
+       "« Ça c'est plus amusant que la visite au roi », se dit en lui-même le petit prince. Et il recommença de frapper ses mains l'une contre l'autre. Le vaniteux recommença de saluer en soulevant son chapeau.",
+       "Après cinq minutes d'exercice le petit prince se fatigua de la monotonie du jeu :",
+       "– Et, pour que le chapeau tombe, demanda-t-il, que faut-il faire ?"
+     ]},
+    {"n": 5, "title": "칭찬만 듣는 사람", "anchor": "Scène 5 : 칭찬만 듣는 사람",
+     "paragraphs": [
+       "Mais le vaniteux ne l'entendit pas. Les vaniteux n'entendent jamais que les louanges.",
+       "– Est-ce que tu m'admires vraiment beaucoup ? demanda-t-il au petit prince.",
+       "– Qu'est-ce que signifie admirer ?"
+     ]},
+    {"n": 6, "title": "찬양의 의미", "anchor": "Scène 6 : 찬양의 의미",
+     "paragraphs": [
+       "– Admirer signifie reconnaître que je suis l'homme le plus beau, le mieux habillé, le plus riche et le plus intelligent de la planète.",
+       "– Mais tu es seul sur ta planète !",
+       "– Fais-moi ce plaisir. Admire-moi quand même !"
+     ]},
+    {"n": 7, "title": "떠나는 어린 왕자", "anchor": "Scène 7 : 떠나는 어린 왕자",
+     "paragraphs": [
+       "– Je t'admire, dit le petit prince, en haussant un peu les épaules, mais en quoi cela peut-il bien t'intéresser ?",
+       "Et le petit prince s'en fut.",
+       "« Les grandes personnes sont décidément bien bizarres », se dit-il simplement en lui-même durant son voyage."
+     ]}
+  ]
+}

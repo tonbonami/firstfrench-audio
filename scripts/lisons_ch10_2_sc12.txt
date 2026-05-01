@@ -1,0 +1,8 @@
+# Lisons Le Petit Prince — Chapitre 10-2 / Scène 12: 법무부 장관 임명
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] – Ce serait vous, dit fermement le petit prince.
+<break time="1.0s"/>
+[FR-Narrator] – Exact. Il faut exiger de chacun ce que chacun peut donner, reprit le roi. L'autorité repose d'abord sur la raison. Si tu ordonnes à ton peuple d'aller se jeter à la mer, il fera la révolution. J'ai le droit d'exiger l'obéissance parce que mes ordres sont raisonnables.
+<break time="1.0s"/>
+[FR-Narrator] – Alors mon coucher de soleil ? rappela le petit prince qui jamais n'oubliait une question une fois qu'il l'avait posée.

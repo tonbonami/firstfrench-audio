@@ -1,0 +1,4 @@
+# Lisons Le Petit Prince — Chapitre 17 / Scène 2: 어른들의 착각
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] Les grandes personnes, bien sûr, ne vous croiront pas. Elles s'imaginent tenir beaucoup de place. Elles se voient importantes comme des baobabs. Vous leur conseillerez donc de faire le calcul. Elles adorent les chiffres : ça leur plaira. Mais ne perdez pas votre temps à ce pensum. C'est inutile. Vous avez confiance en moi.

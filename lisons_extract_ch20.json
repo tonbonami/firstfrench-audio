@@ -1,0 +1,30 @@
+{
+  "chapter": "Chapitre 20",
+  "page_id": "352b1658e7ec818e9a9de720d769ed16",
+  "stem_prefix": "lisons_ch20_sc",
+  "scenes": [
+    {"n": 1, "title": "길을 발견한 어린 왕자", "anchor": "Scène 1 : 길을 발견한 어린 왕자",
+     "paragraphs": ["Mais il arriva que le petit prince, ayant longtemps marché à travers les sables, les rocs et les neiges, découvrit enfin une route. Et les routes vont toutes chez les hommes."]},
+    {"n": 2, "title": "장미 정원과의 만남", "anchor": "Scène 2 : 장미 정원과의 만남",
+     "paragraphs": [
+       "– Bonjour, dit-il.",
+       "C'était un jardin fleuri de roses.",
+       "– Bonjour, dirent les roses."
+     ]},
+    {"n": 3, "title": "자신과 닮은 꽃들", "anchor": "Scène 3 : 자신과 닮은 꽃들",
+     "paragraphs": [
+       "Le petit prince les regarda. Elles ressemblaient toutes à sa fleur.",
+       "– Qui êtes-vous ? leur demanda-t-il, stupéfait.",
+       "– Nous sommes des roses, dirent les roses."
+     ]},
+    {"n": 4, "title": "충격에 빠진 어린 왕자", "anchor": "Scène 4 : 충격에 빠진 어린 왕자",
+     "paragraphs": [
+       "– Ah ! fit le petit prince…",
+       "Et il se sentit très malheureux. Sa fleur lui avait raconté qu'elle était seule de son espèce dans l'univers. Et voici qu'il en était cinq mille, toutes semblables, dans un seul jardin !"
+     ]},
+    {"n": 5, "title": "꽃의 반응을 상상하다", "anchor": "Scène 5 : 꽃의 반응을 상상하다",
+     "paragraphs": ["« Elle serait bien vexée, se dit-il, si elle voyait ça… elle tousserait énormément et ferait semblant de mourir pour échapper au ridicule. Et je serais bien obligé de faire semblant de la soigner, car, sinon, pour m'humilier moi aussi, elle se laisserait vraiment mourir… »"]},
+    {"n": 6, "title": "평범한 왕자", "anchor": "Scène 6 : 평범한 왕자",
+     "paragraphs": ["Puis il se dit encore : « Je me croyais riche d'une fleur unique, et je ne possède qu'une rose ordinaire. Ça et mes trois volcans qui m'arrivent au genou, et dont l'un, peut-être, est éteint pour toujours, ça ne fait pas de moi un bien grand prince… » Et, couché dans l'herbe, il pleura."]}
+  ]
+}

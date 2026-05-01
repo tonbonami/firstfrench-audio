@@ -1,0 +1,8 @@
+# Lisons Le Petit Prince — Chapitre 22 / Scène 5: 잠을 자거나 하품하는 어른들
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] Et gronda le tonnerre d'un troisième rapide illuminé.
+<break time="1.0s"/>
+[FR-Narrator] – Ils poursuivent les premiers voyageurs ? demanda le petit prince.
+<break time="1.0s"/>
+[FR-Narrator] – Ils ne poursuivent rien du tout, dit l'aiguilleur. Ils dorment là-dedans, ou bien ils bâillent. Les enfants seuls écrasent leur nez contre les vitres.

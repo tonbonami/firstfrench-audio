@@ -1,0 +1,4 @@
+# Lisons Le Petit Prince — Chapitre 16 / Scène 1: 일곱 번째 별, 지구
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] La septième planète fut donc la Terre.

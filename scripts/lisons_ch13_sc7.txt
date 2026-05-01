@@ -1,0 +1,12 @@
+# Lisons Le Petit Prince — Chapitre 13 / Scène 7: 부자가 되는 이유
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] – Et à quoi cela te sert-il de posséder les étoiles ?
+<break time="1.0s"/>
+[FR-Narrator] – Ça me sert à être riche.
+<break time="1.0s"/>
+[FR-Narrator] – Et à quoi cela te sert-il d'être riche ?
+<break time="1.0s"/>
+[FR-Narrator] – À acheter d'autres étoiles, si quelqu'un en trouve.
+<break time="1.0s"/>
+[FR-Narrator] « Celui-là, se dit en lui-même le petit prince, il raisonne un peu comme mon ivrogne. »

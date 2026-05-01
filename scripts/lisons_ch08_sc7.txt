@@ -1,0 +1,10 @@
+# Lisons Le Petit Prince — Chapitre 8 / Scène 7: 억지 기침
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] – Ce paravent ?…
+<break time="1.0s"/>
+[FR-Narrator] – J'allais le chercher mais vous me parliez !
+<break time="1.0s"/>
+[FR-Narrator] Alors elle avait forcé sa toux pour lui infliger quand même des remords.
+<break time="1.0s"/>
+[FR-Narrator] Ainsi le petit prince, malgré la bonne volonté de son amour, avait vite douté d'elle. Il avait pris au sérieux des mots sans importance, et était devenu très malheureux.

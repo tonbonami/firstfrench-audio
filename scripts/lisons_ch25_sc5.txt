@@ -1,0 +1,8 @@
+# Lisons Le Petit Prince — Chapitre 25 / Scène 5: 마음을 위한 물
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] – J'ai soif de cette eau-là, dit le petit prince, donne-moi à boire…
+<break time="1.0s"/>
+[FR-Narrator] Et je compris ce qu'il avait cherché !
+<break time="1.0s"/>
+[FR-Narrator] Je soulevai le seau jusqu'à ses lèvres. Il but, les yeux fermés. C'était doux comme une fête. Cette eau était bien autre chose qu'un aliment. Elle était née de la marche sous les étoiles, du chant de la poulie, de l'effort de mes bras. Elle était bonne pour le cœur, comme un cadeau. Lorsque j'étais petit garçon, la lumière de l'arbre de Noël, la musique de la messe de minuit, la douceur des sourires faisaient ainsi tout le rayonnement du cadeau de Noël que je recevais.

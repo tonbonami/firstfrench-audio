@@ -258,5 +258,949 @@
   "dialogue_entretien_03_conseils": {
     "page_id": "351b1658e7ec813e9ae0defba5dd3738",
     "anchor": "Scene 3 — 종료·마지막 조언"
+  },
+  "lisons_ch01_sc1": {
+    "page_id": "352b1658e7ec816d84dfcdbe13b38493",
+    "anchor": "Scène 1 : 원시림의 그림"
+  },
+  "lisons_ch01_sc2": {
+    "page_id": "352b1658e7ec816d84dfcdbe13b38493",
+    "anchor": "Scène 2 : 책에서 읽은 이야기"
+  },
+  "lisons_ch01_sc3": {
+    "page_id": "352b1658e7ec816d84dfcdbe13b38493",
+    "anchor": "Scène 3 : 나의 첫 번째 그림"
+  },
+  "lisons_ch01_sc4": {
+    "page_id": "352b1658e7ec816d84dfcdbe13b38493",
+    "anchor": "Scène 4 : 어른들에게 보여주다"
+  },
+  "lisons_ch01_sc5": {
+    "page_id": "352b1658e7ec816d84dfcdbe13b38493",
+    "anchor": "Scène 5 : 그림 2번"
+  },
+  "lisons_ch01_sc6": {
+    "page_id": "352b1658e7ec816d84dfcdbe13b38493",
+    "anchor": "Scène 6 : 화가의 꿈을 포기하다"
+  },
+  "lisons_ch01_sc7": {
+    "page_id": "352b1658e7ec816d84dfcdbe13b38493",
+    "anchor": "Scène 7 : 비행사가 되다"
+  },
+  "lisons_ch01_sc8": {
+    "page_id": "352b1658e7ec816d84dfcdbe13b38493",
+    "anchor": "Scène 8 : 어른들 사이에서"
+  },
+  "lisons_ch01_sc9": {
+    "page_id": "352b1658e7ec816d84dfcdbe13b38493",
+    "anchor": "Scène 9 : 그림 1번의 시험"
+  },
+  "lisons_ch02_1_sc1": {
+    "page_id": "352b1658e7ec8183a8dced53342aabc2",
+    "anchor": "Scène 1 : 사하라 사막에서의 고장"
+  },
+  "lisons_ch02_1_sc2": {
+    "page_id": "352b1658e7ec8183a8dced53342aabc2",
+    "anchor": "Scène 2 : 이상한 작은 목소리"
+  },
+  "lisons_ch02_1_sc3": {
+    "page_id": "352b1658e7ec8183a8dced53342aabc2",
+    "anchor": "Scène 3 : 어린 왕자와의 첫 만남"
+  },
+  "lisons_ch02_1_sc4": {
+    "page_id": "352b1658e7ec8183a8dced53342aabc2",
+    "anchor": "Scène 4 : 사막 한가운데의 아이"
+  },
+  "lisons_ch02_2_sc5": {
+    "page_id": "352b1658e7ec81debfc4cd2a935c0105",
+    "anchor": "Scène 5 : 그림을 그리다"
+  },
+  "lisons_ch02_2_sc6": {
+    "page_id": "352b1658e7ec81debfc4cd2a935c0105",
+    "anchor": "Scène 6 : 거절당하는 양들"
+  },
+  "lisons_ch02_2_sc7": {
+    "page_id": "352b1658e7ec81debfc4cd2a935c0105",
+    "anchor": "Scène 7 : 상자 속의 양"
+  },
+  "lisons_ch03_sc1": {
+    "page_id": "352b1658e7ec812c87bce4409077f97c",
+    "anchor": "Scène 1 : 비행기를 처음 본 어린왕자"
+  },
+  "lisons_ch03_sc2": {
+    "page_id": "352b1658e7ec812c87bce4409077f97c",
+    "anchor": "Scène 2 : 하늘에서 떨어진 나"
+  },
+  "lisons_ch03_sc3": {
+    "page_id": "352b1658e7ec812c87bce4409077f97c",
+    "anchor": "Scène 3 : 다른 행성에서 온 어린왕자"
+  },
+  "lisons_ch03_sc4": {
+    "page_id": "352b1658e7ec812c87bce4409077f97c",
+    "anchor": "Scène 4 : 멀리서 올 수 없는 비행기"
+  },
+  "lisons_ch03_sc5": {
+    "page_id": "352b1658e7ec812c87bce4409077f97c",
+    "anchor": "Scène 5 : 양이 살게 될 집"
+  },
+  "lisons_ch03_sc6": {
+    "page_id": "352b1658e7ec812c87bce4409077f97c",
+    "anchor": "Scène 6 : 양을 묶어두는 밧줄"
+  },
+  "lisons_ch03_sc7": {
+    "page_id": "352b1658e7ec812c87bce4409077f97c",
+    "anchor": "Scène 7 : 앞으로 똑바로 가도"
+  },
+  "lisons_ch04_sc1": {
+    "page_id": "352b1658e7ec819e9737c5d58956d81d",
+    "anchor": "Scène 1 : 집보다 조금 더 큰 별"
+  },
+  "lisons_ch04_sc2": {
+    "page_id": "352b1658e7ec819e9737c5d58956d81d",
+    "anchor": "Scène 2 : 소행성 3251"
+  },
+  "lisons_ch04_sc3": {
+    "page_id": "352b1658e7ec819e9737c5d58956d81d",
+    "anchor": "Scène 3 : 소행성 B 612와 튀르키예 천문학자"
+  },
+  "lisons_ch04_sc4": {
+    "page_id": "352b1658e7ec819e9737c5d58956d81d",
+    "anchor": "Scène 4 : 어른들은 그래요"
+  },
+  "lisons_ch04_sc5": {
+    "page_id": "352b1658e7ec819e9737c5d58956d81d",
+    "anchor": "Scène 5 : 옷차림의 중요성"
+  },
+  "lisons_ch04_sc6": {
+    "page_id": "352b1658e7ec819e9737c5d58956d81d",
+    "anchor": "Scène 6 : 숫자를 좋아하는 어른들"
+  },
+  "lisons_ch04_sc7": {
+    "page_id": "352b1658e7ec819e9737c5d58956d81d",
+    "anchor": "Scène 7 : 어른들을 너그럽게 대해야 해요"
+  },
+  "lisons_ch04_sc8": {
+    "page_id": "352b1658e7ec819e9737c5d58956d81d",
+    "anchor": "Scène 8 : 동화처럼 시작하고 싶었던 이야기"
+  },
+  "lisons_ch04_sc9": {
+    "page_id": "352b1658e7ec819e9737c5d58956d81d",
+    "anchor": "Scène 9 : 친구를 잊지 않기 위해"
+  },
+  "lisons_ch04_sc10": {
+    "page_id": "352b1658e7ec819e9737c5d58956d81d",
+    "anchor": "Scène 10 : 다시 그림을 그리며"
+  },
+  "lisons_ch04_sc11": {
+    "page_id": "352b1658e7ec819e9737c5d58956d81d",
+    "anchor": "Scène 11 : 나도 어른이 되었나 봐요"
+  },
+  "lisons_ch05_sc1": {
+    "page_id": "352b1658e7ec810d9870e3515452ed2d",
+    "anchor": "Scène 1 : 바오밥나무의 비극을 알게 되다"
+  },
+  "lisons_ch05_sc2": {
+    "page_id": "352b1658e7ec810d9870e3515452ed2d",
+    "anchor": "Scène 2 : 양이 작은 나무를 먹나요?"
+  },
+  "lisons_ch05_sc3": {
+    "page_id": "352b1658e7ec810d9870e3515452ed2d",
+    "anchor": "Scène 3 : 바오밥나무도 먹을까?"
+  },
+  "lisons_ch05_sc4": {
+    "page_id": "352b1658e7ec810d9870e3515452ed2d",
+    "anchor": "Scène 4 : 코끼리 떼에 대한 상상"
+  },
+  "lisons_ch05_sc5": {
+    "page_id": "352b1658e7ec810d9870e3515452ed2d",
+    "anchor": "Scène 5 : 보이지 않는 씨앗들"
+  },
+  "lisons_ch05_sc6": {
+    "page_id": "352b1658e7ec810d9870e3515452ed2d",
+    "anchor": "Scène 6 : 싹을 틔우는 식물들"
+  },
+  "lisons_ch05_sc7": {
+    "page_id": "352b1658e7ec810d9870e3515452ed2d",
+    "anchor": "Scène 7 : 바오밥나무의 위험성"
+  },
+  "lisons_ch05_sc8": {
+    "page_id": "352b1658e7ec810d9870e3515452ed2d",
+    "anchor": "Scène 8 : 규율의 문제"
+  },
+  "lisons_ch05_sc9": {
+    "page_id": "352b1658e7ec810d9870e3515452ed2d",
+    "anchor": "Scène 9 : 게으름뱅이의 별"
+  },
+  "lisons_ch05_sc10": {
+    "page_id": "352b1658e7ec810d9870e3515452ed2d",
+    "anchor": "Scène 10 : 바오밥나무를 조심해!"
+  },
+  "lisons_ch05_sc11": {
+    "page_id": "352b1658e7ec810d9870e3515452ed2d",
+    "anchor": "Scène 11 : 절박한 심정으로 그린 그림"
+  },
+  "lisons_ch06_sc1": {
+    "page_id": "352b1658e7ec8146a89acd177fbe32a0",
+    "anchor": "Scène 1 : 어린왕자의 작은 행성과 일몰"
+  },
+  "lisons_ch06_sc2": {
+    "page_id": "352b1658e7ec8146a89acd177fbe32a0",
+    "anchor": "Scène 2 : 작은 행성에서의 일몰 감상법"
+  },
+  "lisons_ch06_sc3": {
+    "page_id": "352b1658e7ec8146a89acd177fbe32a0",
+    "anchor": "Scène 3 : 마흔세 번의 일몰과 슬픔"
+  },
+  "lisons_ch07_sc1": {
+    "page_id": "352b1658e7ec81a98543f20d321d055d",
+    "anchor": "Scène 1 : 비밀의 폭로"
+  },
+  "lisons_ch07_sc2": {
+    "page_id": "352b1658e7ec81a98543f20d321d055d",
+    "anchor": "Scène 2 : 양과 꽃의 관계"
+  },
+  "lisons_ch07_sc3": {
+    "page_id": "352b1658e7ec81a98543f20d321d055d",
+    "anchor": "Scène 3 : 가시의 용도"
+  },
+  "lisons_ch07_sc4": {
+    "page_id": "352b1658e7ec81a98543f20d321d055d",
+    "anchor": "Scène 4 : 짜증난 대답"
+  },
+  "lisons_ch07_sc5": {
+    "page_id": "352b1658e7ec81a98543f20d321d055d",
+    "anchor": "Scène 5 : 어린 왕자의 반박"
+  },
+  "lisons_ch07_sc6": {
+    "page_id": "352b1658e7ec81a98543f20d321d055d",
+    "anchor": "Scène 6 : 진지한 일"
+  },
+  "lisons_ch07_sc7": {
+    "page_id": "352b1658e7ec81a98543f20d321d055d",
+    "anchor": "Scène 7 : 어른들처럼 말하기"
+  },
+  "lisons_ch07_sc8": {
+    "page_id": "352b1658e7ec81a98543f20d321d055d",
+    "anchor": "Scène 8 : 붉은 얼굴의 신사"
+  },
+  "lisons_ch07_sc9": {
+    "page_id": "352b1658e7ec81a98543f20d321d055d",
+    "anchor": "Scène 9 : 버섯 같은 사람"
+  },
+  "lisons_ch07_sc10": {
+    "page_id": "352b1658e7ec81a98543f20d321d055d",
+    "anchor": "Scène 10 : 꽃들의 전쟁"
+  },
+  "lisons_ch07_sc11": {
+    "page_id": "352b1658e7ec81a98543f20d321d055d",
+    "anchor": "Scène 11 : 단 하나뿐인 꽃"
+  },
+  "lisons_ch07_sc12": {
+    "page_id": "352b1658e7ec81a98543f20d321d055d",
+    "anchor": "Scène 12 : 눈물의 나라"
+  },
+  "lisons_ch08_sc1": {
+    "page_id": "352b1658e7ec81df984bcfba0f7c9121",
+    "anchor": "Scène 1 : 특별한 꽃의 등장"
+  },
+  "lisons_ch08_sc2": {
+    "page_id": "352b1658e7ec81df984bcfba0f7c9121",
+    "anchor": "Scène 2 : 꽃의 단장"
+  },
+  "lisons_ch08_sc3": {
+    "page_id": "352b1658e7ec81df984bcfba0f7c9121",
+    "anchor": "Scène 3 : 꽃의 첫인사"
+  },
+  "lisons_ch08_sc4": {
+    "page_id": "352b1658e7ec81df984bcfba0f7c9121",
+    "anchor": "Scène 4 : 아침 식사 시간"
+  },
+  "lisons_ch08_sc5": {
+    "page_id": "352b1658e7ec81df984bcfba0f7c9121",
+    "anchor": "Scène 5 : 호랑이와 발톱"
+  },
+  "lisons_ch08_sc6": {
+    "page_id": "352b1658e7ec81df984bcfba0f7c9121",
+    "anchor": "Scène 6 : 바람막이와 거짓말"
+  },
+  "lisons_ch08_sc7": {
+    "page_id": "352b1658e7ec81df984bcfba0f7c9121",
+    "anchor": "Scène 7 : 억지 기침"
+  },
+  "lisons_ch08_sc8": {
+    "page_id": "352b1658e7ec81df984bcfba0f7c9121",
+    "anchor": "Scène 8 : 어린 왕자의 후회"
+  },
+  "lisons_ch10_1_sc1": {
+    "page_id": "352b1658e7ec8188a9b0de0fa245c5a7",
+    "anchor": "Scène 1 : 소행성 방문 시작"
+  },
+  "lisons_ch10_1_sc2": {
+    "page_id": "352b1658e7ec8188a9b0de0fa245c5a7",
+    "anchor": "Scène 2 : 왕과의 만남"
+  },
+  "lisons_ch10_1_sc3": {
+    "page_id": "352b1658e7ec8188a9b0de0fa245c5a7",
+    "anchor": "Scène 3 : 하품 금지령"
+  },
+  "lisons_ch10_1_sc4": {
+    "page_id": "352b1658e7ec8188a9b0de0fa245c5a7",
+    "anchor": "Scène 4 : 명령의 이유"
+  },
+  "lisons_ch10_1_sc5": {
+    "page_id": "352b1658e7ec8188a9b0de0fa245c5a7",
+    "anchor": "Scène 5 : 앉아도 될까요?"
+  },
+  "lisons_ch10_1_sc6": {
+    "page_id": "352b1658e7ec8188a9b0de0fa245c5a7",
+    "anchor": "Scène 6 : 모든 것을 다스리는 왕"
+  },
+  "lisons_ch10_1_sc7": {
+    "page_id": "352b1658e7ec8188a9b0de0fa245c5a7",
+    "anchor": "Scène 7 : 별들도 복종하나요?"
+  },
+  "lisons_ch10_1_sc8": {
+    "page_id": "352b1658e7ec8188a9b0de0fa245c5a7",
+    "anchor": "Scène 8 : 일몰을 보고 싶어요"
+  },
+  "lisons_ch10_2_sc9": {
+    "page_id": "352b1658e7ec8175a9a2cd47b2fda086",
+    "anchor": "Scène 9 : 합리적인 명령"
+  },
+  "lisons_ch10_2_sc10": {
+    "page_id": "352b1658e7ec8175a9a2cd47b2fda086",
+    "anchor": "Scène 10 : 일몰은 언제?"
+  },
+  "lisons_ch10_2_sc11": {
+    "page_id": "352b1658e7ec8175a9a2cd47b2fda086",
+    "anchor": "Scène 11 : 떠나려는 어린 왕자"
+  },
+  "lisons_ch10_2_sc12": {
+    "page_id": "352b1658e7ec8175a9a2cd47b2fda086",
+    "anchor": "Scène 12 : 법무부 장관 임명"
+  },
+  "lisons_ch10_2_sc13": {
+    "page_id": "352b1658e7ec8175a9a2cd47b2fda086",
+    "anchor": "Scène 13 : 스스로를 심판하라"
+  },
+  "lisons_ch10_2_sc14": {
+    "page_id": "352b1658e7ec8175a9a2cd47b2fda086",
+    "anchor": "Scène 14 : 늙은 쥐 심판"
+  },
+  "lisons_ch10_2_sc15": {
+    "page_id": "352b1658e7ec8175a9a2cd47b2fda086",
+    "anchor": "Scène 15 : 떠나는 어린 왕자"
+  },
+  "lisons_ch10_2_sc16": {
+    "page_id": "352b1658e7ec8175a9a2cd47b2fda086",
+    "anchor": "Scène 16 : 대사가 된 어린 왕자"
+  },
+  "lisons_ch11_sc1": {
+    "page_id": "352b1658e7ec8160b186d0d11c8e5329",
+    "anchor": "Scène 1 : 허영심 많은 사람의 별"
+  },
+  "lisons_ch11_sc2": {
+    "page_id": "352b1658e7ec8160b186d0d11c8e5329",
+    "anchor": "Scène 2 : 이상한 모자"
+  },
+  "lisons_ch11_sc3": {
+    "page_id": "352b1658e7ec8160b186d0d11c8e5329",
+    "anchor": "Scène 3 : 박수와 인사"
+  },
+  "lisons_ch11_sc4": {
+    "page_id": "352b1658e7ec8160b186d0d11c8e5329",
+    "anchor": "Scène 4 : 단조로운 놀이"
+  },
+  "lisons_ch11_sc5": {
+    "page_id": "352b1658e7ec8160b186d0d11c8e5329",
+    "anchor": "Scène 5 : 칭찬만 듣는 사람"
+  },
+  "lisons_ch11_sc6": {
+    "page_id": "352b1658e7ec8160b186d0d11c8e5329",
+    "anchor": "Scène 6 : 찬양의 의미"
+  },
+  "lisons_ch11_sc7": {
+    "page_id": "352b1658e7ec8160b186d0d11c8e5329",
+    "anchor": "Scène 7 : 떠나는 어린 왕자"
+  },
+  "lisons_ch12_sc1": {
+    "page_id": "352b1658e7ec810789a8d225eb408580",
+    "anchor": "Scène 1 : 술꾼의 별 방문"
+  },
+  "lisons_ch12_sc2": {
+    "page_id": "352b1658e7ec810789a8d225eb408580",
+    "anchor": "Scène 2 : 술꾼과의 첫 대화"
+  },
+  "lisons_ch12_sc3": {
+    "page_id": "352b1658e7ec810789a8d225eb408580",
+    "anchor": "Scène 3 : 잊기 위해 마시는 술"
+  },
+  "lisons_ch12_sc4": {
+    "page_id": "352b1658e7ec810789a8d225eb408580",
+    "anchor": "Scène 4 : 부끄러움의 악순환"
+  },
+  "lisons_ch12_sc5": {
+    "page_id": "352b1658e7ec810789a8d225eb408580",
+    "anchor": "Scène 5 : 어린 왕자의 당혹감"
+  },
+  "lisons_ch14_sc1": {
+    "page_id": "352b1658e7ec81c59645c0a2777d2722",
+    "anchor": "Scène 1 : 다섯 번째 별과 가로등 켜는 사람"
+  },
+  "lisons_ch14_sc2": {
+    "page_id": "352b1658e7ec81c59645c0a2777d2722",
+    "anchor": "Scène 2 : 유용한 직업"
+  },
+  "lisons_ch14_sc3": {
+    "page_id": "352b1658e7ec81c59645c0a2777d2722",
+    "anchor": "Scène 3 : 명령은 명령"
+  },
+  "lisons_ch14_sc4": {
+    "page_id": "352b1658e7ec81c59645c0a2777d2722",
+    "anchor": "Scène 4 : 이해할 수 없는 규칙"
+  },
+  "lisons_ch14_sc5": {
+    "page_id": "352b1658e7ec81c59645c0a2777d2722",
+    "anchor": "Scène 5 : 끔찍한 직업"
+  },
+  "lisons_ch14_sc6": {
+    "page_id": "352b1658e7ec81c59645c0a2777d2722",
+    "anchor": "Scène 6 : 1분에 한 번씩"
+  },
+  "lisons_ch14_sc7": {
+    "page_id": "352b1658e7ec81c59645c0a2777d2722",
+    "anchor": "Scène 7 : 충실한 친구"
+  },
+  "lisons_ch14_sc8": {
+    "page_id": "352b1658e7ec81c59645c0a2777d2722",
+    "anchor": "Scène 8 : 잠자는 것이 소원"
+  },
+  "lisons_ch14_sc9": {
+    "page_id": "352b1658e7ec81c59645c0a2777d2722",
+    "anchor": "Scène 9 : 우스꽝스럽지 않은 유일한 사람"
+  },
+  "lisons_ch14_sc10": {
+    "page_id": "352b1658e7ec81c59645c0a2777d2722",
+    "anchor": "Scène 10 : 아쉬운 이별"
+  },
+  "lisons_ch15_sc1": {
+    "page_id": "352b1658e7ec81499586f03d48cc4763",
+    "anchor": "Scène 1 : 지리학자와의 만남"
+  },
+  "lisons_ch15_sc2": {
+    "page_id": "352b1658e7ec81499586f03d48cc4763",
+    "anchor": "Scène 2 : 지리학자라는 직업"
+  },
+  "lisons_ch15_sc3": {
+    "page_id": "352b1658e7ec81499586f03d48cc4763",
+    "anchor": "Scène 3 : 지리학자의 한계"
+  },
+  "lisons_ch15_sc4": {
+    "page_id": "352b1658e7ec81499586f03d48cc4763",
+    "anchor": "Scène 4 : 탐험가의 필요성"
+  },
+  "lisons_ch15_sc5": {
+    "page_id": "352b1658e7ec81499586f03d48cc4763",
+    "anchor": "Scène 5 : 탐험가의 자격"
+  },
+  "lisons_ch15_sc6": {
+    "page_id": "352b1658e7ec81499586f03d48cc4763",
+    "anchor": "Scène 6 : 증거의 요구"
+  },
+  "lisons_ch15_sc7": {
+    "page_id": "352b1658e7ec81499586f03d48cc4763",
+    "anchor": "Scène 7 : 어린 왕자의 별"
+  },
+  "lisons_ch15_sc8": {
+    "page_id": "352b1658e7ec81499586f03d48cc4763",
+    "anchor": "Scène 8 : 덧없음의 의미"
+  },
+  "lisons_ch15_sc9": {
+    "page_id": "352b1658e7ec81499586f03d48cc4763",
+    "anchor": "Scène 9 : 꽃의 운명"
+  },
+  "lisons_ch15_sc10": {
+    "page_id": "352b1658e7ec81499586f03d48cc4763",
+    "anchor": "Scène 10 : 지구로의 출발"
+  },
+  "lisons_ch16_sc1": {
+    "page_id": "352b1658e7ec81f7aa8efce6b5c5e78d",
+    "anchor": "Scène 1 : 일곱 번째 별, 지구"
+  },
+  "lisons_ch16_sc2": {
+    "page_id": "352b1658e7ec81f7aa8efce6b5c5e78d",
+    "anchor": "Scène 2 : 지구의 사람들"
+  },
+  "lisons_ch16_sc3": {
+    "page_id": "352b1658e7ec81f7aa8efce6b5c5e78d",
+    "anchor": "Scène 3 : 가로등 점등부 군대"
+  },
+  "lisons_ch16_sc4": {
+    "page_id": "352b1658e7ec81f7aa8efce6b5c5e78d",
+    "anchor": "Scène 4 : 오페라 발레 같은 움직임"
+  },
+  "lisons_ch16_sc5": {
+    "page_id": "352b1658e7ec81f7aa8efce6b5c5e78d",
+    "anchor": "Scène 5 : 북극과 남극의 점등부"
+  },
+  "lisons_ch17_sc1": {
+    "page_id": "352b1658e7ec81249761ca20b7b97fa5",
+    "anchor": "Scène 1 : 지구의 크기"
+  },
+  "lisons_ch17_sc2": {
+    "page_id": "352b1658e7ec81249761ca20b7b97fa5",
+    "anchor": "Scène 2 : 어른들의 착각"
+  },
+  "lisons_ch17_sc3": {
+    "page_id": "352b1658e7ec81249761ca20b7b97fa5",
+    "anchor": "Scène 3 : 사막에 도착한 어린 왕자"
+  },
+  "lisons_ch17_sc4": {
+    "page_id": "352b1658e7ec81249761ca20b7b97fa5",
+    "anchor": "Scène 4 : 뱀과의 만남"
+  },
+  "lisons_ch17_sc5": {
+    "page_id": "352b1658e7ec81249761ca20b7b97fa5",
+    "anchor": "Scène 5 : 별을 바라보는 어린 왕자"
+  },
+  "lisons_ch17_sc6": {
+    "page_id": "352b1658e7ec81249761ca20b7b97fa5",
+    "anchor": "Scène 6 : 사막의 외로움"
+  },
+  "lisons_ch17_sc7": {
+    "page_id": "352b1658e7ec81249761ca20b7b97fa5",
+    "anchor": "Scène 7 : 뱀의 힘"
+  },
+  "lisons_ch17_sc8": {
+    "page_id": "352b1658e7ec81249761ca20b7b97fa5",
+    "anchor": "Scène 8 : 뱀의 수수께끼"
+  },
+  "lisons_ch17_sc9": {
+    "page_id": "352b1658e7ec81249761ca20b7b97fa5",
+    "anchor": "Scène 9 : 수수께끼를 푸는 뱀"
+  },
+  "lisons_ch18_sc1": {
+    "page_id": "352b1658e7ec81f69962f5f35b6eda1f",
+    "anchor": "Scène 1 : 사막에서 만난 꽃"
+  },
+  "lisons_ch18_sc2": {
+    "page_id": "352b1658e7ec81f69962f5f35b6eda1f",
+    "anchor": "Scène 2 : 인사와 질문"
+  },
+  "lisons_ch18_sc3": {
+    "page_id": "352b1658e7ec81f69962f5f35b6eda1f",
+    "anchor": "Scène 3 : 꽃의 대답"
+  },
+  "lisons_ch18_sc4": {
+    "page_id": "352b1658e7ec81f69962f5f35b6eda1f",
+    "anchor": "Scène 4 : 작별 인사"
+  },
+  "lisons_ch19_sc1": {
+    "page_id": "352b1658e7ec81fd9f60c6f405726f08",
+    "anchor": "Scène 1 : 높은 산에 오른 어린 왕자"
+  },
+  "lisons_ch19_sc2": {
+    "page_id": "352b1658e7ec81fd9f60c6f405726f08",
+    "anchor": "Scène 2 : 메아리와의 대화"
+  },
+  "lisons_ch19_sc3": {
+    "page_id": "352b1658e7ec81fd9f60c6f405726f08",
+    "anchor": "Scène 3 : 이상한 행성"
+  },
+  "lisons_ch20_sc1": {
+    "page_id": "352b1658e7ec818e9a9de720d769ed16",
+    "anchor": "Scène 1 : 길을 발견한 어린 왕자"
+  },
+  "lisons_ch20_sc2": {
+    "page_id": "352b1658e7ec818e9a9de720d769ed16",
+    "anchor": "Scène 2 : 장미 정원과의 만남"
+  },
+  "lisons_ch20_sc3": {
+    "page_id": "352b1658e7ec818e9a9de720d769ed16",
+    "anchor": "Scène 3 : 자신과 닮은 꽃들"
+  },
+  "lisons_ch20_sc4": {
+    "page_id": "352b1658e7ec818e9a9de720d769ed16",
+    "anchor": "Scène 4 : 충격에 빠진 어린 왕자"
+  },
+  "lisons_ch20_sc5": {
+    "page_id": "352b1658e7ec818e9a9de720d769ed16",
+    "anchor": "Scène 5 : 꽃의 반응을 상상하다"
+  },
+  "lisons_ch20_sc6": {
+    "page_id": "352b1658e7ec818e9a9de720d769ed16",
+    "anchor": "Scène 6 : 평범한 왕자"
+  },
+  "lisons_ch21_1_sc1": {
+    "page_id": "352b1658e7ec81579cfcd1e4413a7545",
+    "anchor": "Scène 1 : 여우의 등장"
+  },
+  "lisons_ch21_1_sc2": {
+    "page_id": "352b1658e7ec81579cfcd1e4413a7545",
+    "anchor": "Scène 2 : 여우와의 첫 만남"
+  },
+  "lisons_ch21_1_sc3": {
+    "page_id": "352b1658e7ec81579cfcd1e4413a7545",
+    "anchor": "Scène 3 : 길들인다는 것의 의미"
+  },
+  "lisons_ch21_1_sc4": {
+    "page_id": "352b1658e7ec81579cfcd1e4413a7545",
+    "anchor": "Scène 4 : 사람들을 찾는 어린 왕자"
+  },
+  "lisons_ch21_1_sc5": {
+    "page_id": "352b1658e7ec81579cfcd1e4413a7545",
+    "anchor": "Scène 5 : 관계를 맺는다는 것"
+  },
+  "lisons_ch21_1_sc6": {
+    "page_id": "352b1658e7ec81579cfcd1e4413a7545",
+    "anchor": "Scène 6 : 장미꽃을 떠올리는 어린 왕자"
+  },
+  "lisons_ch21_1_sc7": {
+    "page_id": "352b1658e7ec81579cfcd1e4413a7545",
+    "anchor": "Scène 7 : 다른 행성에 대한 호기심"
+  },
+  "lisons_ch21_1_sc8": {
+    "page_id": "352b1658e7ec81579cfcd1e4413a7545",
+    "anchor": "Scène 8 : 여우의 단조로운 삶과 기대"
+  },
+  "lisons_ch21_1_sc9": {
+    "page_id": "352b1658e7ec81579cfcd1e4413a7545",
+    "anchor": "Scène 9 : 길들여지기를 바라는 여우"
+  },
+  "lisons_ch21_2_sc1": {
+    "page_id": "352b1658e7ec8163ad02fca6ca297c19",
+    "anchor": "Scène 1 : 친구를 사귀는 방법"
+  },
+  "lisons_ch21_2_sc2": {
+    "page_id": "352b1658e7ec8163ad02fca6ca297c19",
+    "anchor": "Scène 2 : 인내심과 침묵"
+  },
+  "lisons_ch21_2_sc3": {
+    "page_id": "352b1658e7ec8163ad02fca6ca297c19",
+    "anchor": "Scène 3 : 의식의 중요성"
+  },
+  "lisons_ch21_2_sc4": {
+    "page_id": "352b1658e7ec8163ad02fca6ca297c19",
+    "anchor": "Scène 4 : 의식이란 무엇인가"
+  },
+  "lisons_ch21_2_sc5": {
+    "page_id": "352b1658e7ec8163ad02fca6ca297c19",
+    "anchor": "Scène 5 : 이별의 슬픔"
+  },
+  "lisons_ch21_2_sc6": {
+    "page_id": "352b1658e7ec8163ad02fca6ca297c19",
+    "anchor": "Scène 6 : 밀밭의 색깔"
+  },
+  "lisons_ch21_2_sc7": {
+    "page_id": "352b1658e7ec8163ad02fca6ca297c19",
+    "anchor": "Scène 7 : 장미꽃들을 다시 만나다"
+  },
+  "lisons_ch21_2_sc8": {
+    "page_id": "352b1658e7ec8163ad02fca6ca297c19",
+    "anchor": "Scène 8 : 나의 장미꽃이 특별한 이유"
+  },
+  "lisons_ch21_2_sc9": {
+    "page_id": "352b1658e7ec8163ad02fca6ca297c19",
+    "anchor": "Scène 9 : 여우의 비밀"
+  },
+  "lisons_ch21_2_sc10": {
+    "page_id": "352b1658e7ec8163ad02fca6ca297c19",
+    "anchor": "Scène 10 : 책임감"
+  },
+  "lisons_ch22_sc1": {
+    "page_id": "352b1658e7ec812cb25df65799515142",
+    "anchor": "Scène 1 : 전철수와의 만남"
+  },
+  "lisons_ch22_sc2": {
+    "page_id": "352b1658e7ec812cb25df65799515142",
+    "anchor": "Scène 2 : 여행객들을 분류하는 전철수"
+  },
+  "lisons_ch22_sc3": {
+    "page_id": "352b1658e7ec812cb25df65799515142",
+    "anchor": "Scène 3 : 바쁘게 오가는 사람들"
+  },
+  "lisons_ch22_sc4": {
+    "page_id": "352b1658e7ec812cb25df65799515142",
+    "anchor": "Scène 4 : 만족하지 못하는 어른들"
+  },
+  "lisons_ch22_sc5": {
+    "page_id": "352b1658e7ec812cb25df65799515142",
+    "anchor": "Scène 5 : 잠을 자거나 하품하는 어른들"
+  },
+  "lisons_ch22_sc6": {
+    "page_id": "352b1658e7ec812cb25df65799515142",
+    "anchor": "Scène 6 : 오직 아이들만이 아는 것"
+  },
+  "lisons_ch23_sc1": {
+    "page_id": "352b1658e7ec816789e4daf93a694429",
+    "anchor": "Scène 1 : 인사"
+  },
+  "lisons_ch23_sc2": {
+    "page_id": "352b1658e7ec816789e4daf93a694429",
+    "anchor": "Scène 2 : 갈증을 달래주는 알약"
+  },
+  "lisons_ch23_sc3": {
+    "page_id": "352b1658e7ec816789e4daf93a694429",
+    "anchor": "Scène 3 : 시간 절약"
+  },
+  "lisons_ch23_sc4": {
+    "page_id": "352b1658e7ec816789e4daf93a694429",
+    "anchor": "Scène 4 : 53분의 여유"
+  },
+  "lisons_ch24_sc1": {
+    "page_id": "352b1658e7ec81de8653d253a0430ae8",
+    "anchor": "Scène 1 : 물이 떨어지다"
+  },
+  "lisons_ch24_sc2": {
+    "page_id": "352b1658e7ec81de8653d253a0430ae8",
+    "anchor": "Scène 2 : 목말라 죽게 생겼어"
+  },
+  "lisons_ch24_sc3": {
+    "page_id": "352b1658e7ec81de8653d253a0430ae8",
+    "anchor": "Scène 3 : 위험을 모르는 어린 왕자"
+  },
+  "lisons_ch24_sc4": {
+    "page_id": "352b1658e7ec81de8653d253a0430ae8",
+    "anchor": "Scène 4 : 우물을 찾아서"
+  },
+  "lisons_ch24_sc5": {
+    "page_id": "352b1658e7ec81de8653d253a0430ae8",
+    "anchor": "Scène 5 : 밤이 내리고"
+  },
+  "lisons_ch24_sc6": {
+    "page_id": "352b1658e7ec81de8653d253a0430ae8",
+    "anchor": "Scène 6 : 마음을 위한 물"
+  },
+  "lisons_ch24_sc7": {
+    "page_id": "352b1658e7ec81de8653d253a0430ae8",
+    "anchor": "Scène 7 : 보이지 않는 꽃"
+  },
+  "lisons_ch24_sc8": {
+    "page_id": "352b1658e7ec81de8653d253a0430ae8",
+    "anchor": "Scène 8 : 사막이 아름다운 이유"
+  },
+  "lisons_ch24_sc9": {
+    "page_id": "352b1658e7ec81de8653d253a0430ae8",
+    "anchor": "Scène 9 : 모래의 신비로운 빛"
+  },
+  "lisons_ch24_sc10": {
+    "page_id": "352b1658e7ec81de8653d253a0430ae8",
+    "anchor": "Scène 10 : 아름다움은 보이지 않는 것"
+  },
+  "lisons_ch24_sc11": {
+    "page_id": "352b1658e7ec81de8653d253a0430ae8",
+    "anchor": "Scène 11 : 가장 중요한 것은 보이지 않는다"
+  },
+  "lisons_ch24_sc12": {
+    "page_id": "352b1658e7ec81de8653d253a0430ae8",
+    "anchor": "Scène 12 : 우물을 발견하다"
+  },
+  "lisons_ch25_sc1": {
+    "page_id": "352b1658e7ec813898aaee8c8be4fb16",
+    "anchor": "Scène 1 : 사람들이 찾는 것"
+  },
+  "lisons_ch25_sc2": {
+    "page_id": "352b1658e7ec813898aaee8c8be4fb16",
+    "anchor": "Scène 2 : 사하라의 우물과는 다른 우물"
+  },
+  "lisons_ch25_sc3": {
+    "page_id": "352b1658e7ec813898aaee8c8be4fb16",
+    "anchor": "Scène 3 : 노래하는 우물"
+  },
+  "lisons_ch25_sc4": {
+    "page_id": "352b1658e7ec813898aaee8c8be4fb16",
+    "anchor": "Scène 4 : 내가 물을 긷다"
+  },
+  "lisons_ch25_sc5": {
+    "page_id": "352b1658e7ec813898aaee8c8be4fb16",
+    "anchor": "Scène 5 : 마음을 위한 물"
+  },
+  "lisons_ch25_sc6": {
+    "page_id": "352b1658e7ec813898aaee8c8be4fb16",
+    "anchor": "Scène 6 : 마음으로 찾아야 해"
+  },
+  "lisons_ch25_sc7": {
+    "page_id": "352b1658e7ec813898aaee8c8be4fb16",
+    "anchor": "Scène 7 : 약속을 지켜야 해"
+  },
+  "lisons_ch25_sc8": {
+    "page_id": "352b1658e7ec813898aaee8c8be4fb16",
+    "anchor": "Scène 8 : 내 그림을 보고 웃는 어린 왕자"
+  },
+  "lisons_ch25_sc9": {
+    "page_id": "352b1658e7ec813898aaee8c8be4fb16",
+    "anchor": "Scène 9 : 입마개를 그려주다"
+  },
+  "lisons_ch25_sc10": {
+    "page_id": "352b1658e7ec813898aaee8c8be4fb16",
+    "anchor": "Scène 10 : 지구에 떨어진 지 1년"
+  },
+  "lisons_ch25_sc11": {
+    "page_id": "352b1658e7ec813898aaee8c8be4fb16",
+    "anchor": "Scène 11 : 우연이 아니었어"
+  },
+  "lisons_ch25_sc12": {
+    "page_id": "352b1658e7ec813898aaee8c8be4fb16",
+    "anchor": "Scène 12 : 내일 저녁에 다시 와요"
+  },
+  "lisons_ch26_sc1": {
+    "page_id": "352b1658e7ec81ac9cbbf2777e609ec4",
+    "anchor": "Scène 1 : 우물 옆의 오래된 돌담"
+  },
+  "lisons_ch26_sc2": {
+    "page_id": "352b1658e7ec81ac9cbbf2777e609ec4",
+    "anchor": "Scène 2 : 기억하지 못하니?"
+  },
+  "lisons_ch26_sc3": {
+    "page_id": "352b1658e7ec81ac9cbbf2777e609ec4",
+    "anchor": "Scène 3 : 다른 목소리와 대답"
+  },
+  "lisons_ch26_sc4": {
+    "page_id": "352b1658e7ec81ac9cbbf2777e609ec4",
+    "anchor": "Scène 4 : 장소가 아니야"
+  },
+  "lisons_ch26_sc5": {
+    "page_id": "352b1658e7ec81ac9cbbf2777e609ec4",
+    "anchor": "Scène 5 : 모래 위의 흔적"
+  },
+  "lisons_ch26_sc6": {
+    "page_id": "352b1658e7ec81ac9cbbf2777e609ec4",
+    "anchor": "Scène 6 : 모래 위의 흔적을 기다려라"
+  },
+  "lisons_ch26_sc7": {
+    "page_id": "352b1658e7ec81ac9cbbf2777e609ec4",
+    "anchor": "Scène 7 : 뱀과의 만남"
+  },
+  "lisons_ch26_sc8": {
+    "page_id": "352b1658e7ec81ac9cbbf2777e609ec4",
+    "anchor": "Scène 8 : 어린 왕자를 품에 안다"
+  },
+  "lisons_ch26_sc9": {
+    "page_id": "352b1658e7ec81ac9cbbf2777e609ec4",
+    "anchor": "Scène 9 : 어린 왕자의 고백"
+  },
+  "lisons_ch26_sc10": {
+    "page_id": "352b1658e7ec81ac9cbbf2777e609ec4",
+    "anchor": "Scène 10 : 별과 선물"
+  },
+  "lisons_ch26_sc11": {
+    "page_id": "352b1658e7ec81ac9cbbf2777e609ec4",
+    "anchor": "Scène 11 : 별들이 웃는다"
+  },
+  "lisons_ch26_sc12": {
+    "page_id": "352b1658e7ec81ac9cbbf2777e609ec4",
+    "anchor": "Scène 12 : 마지막 작별 인사"
+  },
+  "lisons_ch27_sc1": {
+    "page_id": "352b1658e7ec8172aed9c27e4f340593",
+    "anchor": "Scène 1 : 여섯 해가 지난 지금"
+  },
+  "lisons_ch27_sc2": {
+    "page_id": "352b1658e7ec8172aed9c27e4f340593",
+    "anchor": "Scène 2 : 별들을 듣는 밤"
+  },
+  "lisons_ch27_sc3": {
+    "page_id": "352b1658e7ec8172aed9c27e4f340593",
+    "anchor": "Scène 3 : 잊어버린 가죽 끈"
+  },
+  "lisons_ch27_sc4": {
+    "page_id": "352b1658e7ec8172aed9c27e4f340593",
+    "anchor": "Scène 4 : 웃고 있는 별들"
+  },
+  "lisons_ch27_sc5": {
+    "page_id": "352b1658e7ec8172aed9c27e4f340593",
+    "anchor": "Scène 5 : 눈물로 변한 방울들"
+  },
+  "lisons_ch27_sc6": {
+    "page_id": "352b1658e7ec8172aed9c27e4f340593",
+    "anchor": "Scène 6 : 커다란 수수께끼"
+  },
+  "lisons_ch27_sc7": {
+    "page_id": "352b1658e7ec8172aed9c27e4f340593",
+    "anchor": "Scène 7 : 하늘을 바라보세요"
+  },
+  "lisons_ch27_sc8": {
+    "page_id": "352b1658e7ec8172aed9c27e4f340593",
+    "anchor": "Scène 8 : 가장 아름답고 슬픈 풍경"
+  },
+  "lisons_ch27_sc9": {
+    "page_id": "352b1658e7ec8172aed9c27e4f340593",
+    "anchor": "Scène 9 : 사막에서 그를 만난다면"
+  },
+  "lisons_ch09_sc1": {
+    "page_id": "352b1658e7ec8124ae8ecb2bfb40c99d",
+    "anchor": "Scène 1 : 출발 준비"
+  },
+  "lisons_ch09_sc2": {
+    "page_id": "352b1658e7ec8124ae8ecb2bfb40c99d",
+    "anchor": "Scène 2 : 화산과 바오밥"
+  },
+  "lisons_ch09_sc3": {
+    "page_id": "352b1658e7ec8124ae8ecb2bfb40c99d",
+    "anchor": "Scène 3 : 마지막 작별 준비"
+  },
+  "lisons_ch09_sc4": {
+    "page_id": "352b1658e7ec8124ae8ecb2bfb40c99d",
+    "anchor": "Scène 4 : 꽃의 고백"
+  },
+  "lisons_ch09_sc5": {
+    "page_id": "352b1658e7ec8124ae8ecb2bfb40c99d",
+    "anchor": "Scène 5 : 사랑의 고백"
+  },
+  "lisons_ch09_sc6": {
+    "page_id": "352b1658e7ec8124ae8ecb2bfb40c99d",
+    "anchor": "Scène 6 : 꽃의 자존심"
+  },
+  "lisons_ch09_sc7": {
+    "page_id": "352b1658e7ec8124ae8ecb2bfb40c99d",
+    "anchor": "Scène 7 : 이별"
+  },
+  "lisons_ch13_sc1": {
+    "page_id": "352b1658e7ec81a2bff8e42f35d6ad19",
+    "anchor": "Scène 1 : 사업가의 행성"
+  },
+  "lisons_ch13_sc2": {
+    "page_id": "352b1658e7ec81a2bff8e42f35d6ad19",
+    "anchor": "Scène 2 : 끝없는 계산"
+  },
+  "lisons_ch13_sc3": {
+    "page_id": "352b1658e7ec81a2bff8e42f35d6ad19",
+    "anchor": "Scène 3 : 세 번의 방해"
+  },
+  "lisons_ch13_sc4": {
+    "page_id": "352b1658e7ec81a2bff8e42f35d6ad19",
+    "anchor": "Scène 4 : 세 번의 방해 이야기"
+  },
+  "lisons_ch13_sc5": {
+    "page_id": "352b1658e7ec81a2bff8e42f35d6ad19",
+    "anchor": "Scène 5 : 별을 소유하다"
+  },
+  "lisons_ch13_sc6": {
+    "page_id": "352b1658e7ec81a2bff8e42f35d6ad19",
+    "anchor": "Scène 6 : 소유의 논리"
+  },
+  "lisons_ch13_sc7": {
+    "page_id": "352b1658e7ec81a2bff8e42f35d6ad19",
+    "anchor": "Scène 7 : 부자가 되는 이유"
+  },
+  "lisons_ch13_sc8": {
+    "page_id": "352b1658e7ec81a2bff8e42f35d6ad19",
+    "anchor": "Scène 8 : 소유의 근거"
+  },
+  "lisons_ch13_sc9": {
+    "page_id": "352b1658e7ec81a2bff8e42f35d6ad19",
+    "anchor": "Scène 9 : 별을 관리하다"
+  },
+  "lisons_ch13_sc10": {
+    "page_id": "352b1658e7ec81a2bff8e42f35d6ad19",
+    "anchor": "Scène 10 : 스카프와 별"
+  },
+  "lisons_ch13_sc11": {
+    "page_id": "352b1658e7ec81a2bff8e42f35d6ad19",
+    "anchor": "Scène 11 : 진정한 소유"
+  },
+  "lisons_ch13_sc12": {
+    "page_id": "352b1658e7ec81a2bff8e42f35d6ad19",
+    "anchor": "Scène 12 : 떠나며"
   }
 }

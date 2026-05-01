@@ -1,0 +1,10 @@
+# Lisons Le Petit Prince — Chapitre 22 / Scène 4: 만족하지 못하는 어른들
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] – Ils reviennent déjà ? demanda le petit prince…
+<break time="1.0s"/>
+[FR-Narrator] – Ce ne sont pas les mêmes, dit l'aiguilleur. C'est un échange.
+<break time="1.0s"/>
+[FR-Narrator] – Ils n'étaient pas contents, là où ils étaient ?
+<break time="1.0s"/>
+[FR-Narrator] – On n'est jamais content là où l'on est, dit l'aiguilleur.

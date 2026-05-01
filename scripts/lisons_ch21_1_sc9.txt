@@ -1,0 +1,8 @@
+# Lisons Le Petit Prince — Chapitre 21-1 / Scène 9: 길들여지기를 바라는 여우
+# voices: Narrator=lisons-narrator
+
+[FR-Narrator] Le renard se tut et regarda longtemps le petit prince :
+<break time="1.0s"/>
+[FR-Narrator] – S'il te plaît… apprivoise-moi ! dit-il.
+<break time="1.0s"/>
+[FR-Narrator] – Je veux bien, répondit le petit prince, mais je n'ai pas beaucoup de temps. J'ai des amis à découvrir et beaucoup de choses à connaître.
