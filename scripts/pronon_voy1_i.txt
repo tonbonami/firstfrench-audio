@@ -1,4 +1,5 @@
-# 모음 i — FR-KO-FR (인트로 없음)
+# 모음 ① — i
+# 인트로 없음, FR-KO-FR 패턴만
 
 [FR] ici.
 <break time="0.7s"/>

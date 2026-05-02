@@ -1,8 +1,5 @@
-# 프랑스어 모음 정리 ① — o [오]
-
-# o [오]
-[KO] o [오].
-<break time="1.0s"/>
+# 모음 ① — o
+# 인트로 없음, FR-KO-FR 패턴만
 
 [FR] poste.
 <break time="0.7s"/>

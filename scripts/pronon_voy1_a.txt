@@ -1,8 +1,5 @@
-# 프랑스어 모음 정리 ① — a [아]
-
-# a [아]
-[KO] a [아].
-<break time="1.0s"/>
+# 모음 ① — a
+# 인트로 없음, FR-KO-FR 패턴만
 
 [FR] classe.
 <break time="0.7s"/>
