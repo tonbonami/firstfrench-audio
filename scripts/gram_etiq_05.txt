@@ -1,11 +1,11 @@
 # Grammaire 기초 — 철자 기호 / 5. ë ï ü (Tréma)
 # voices: Vocab=warm-mother
 
-[FR-Vocab] mais.
+[FR-Vocab] <phoneme alphabet="ipa" ph="mɛ">mais</phoneme>.
 <break time="1.0s"/>
 [KO] 그런데.
 <break time="1.0s"/>
-[FR-Vocab] mais.
+[FR-Vocab] <phoneme alphabet="ipa" ph="mɛ">mais</phoneme>.
 <break time="1.5s"/>
 
 [FR-Vocab] <phoneme alphabet="ipa" ph="mais">maïs</phoneme>.
