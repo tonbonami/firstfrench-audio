@@ -1,18 +1,18 @@
 # Grammaire 기초 — 철자 기호 / 5. ë ï ü (Tréma)
 # voices: Vocab=warm-mother
 
-[FR-Vocab] <phoneme alphabet="ipa" ph="mɛ">mais</phoneme>.
+[FR-Vocab] mais.
 <break time="1.0s"/>
 [KO] 그런데.
 <break time="1.0s"/>
-[FR-Vocab] <phoneme alphabet="ipa" ph="mɛ">mais</phoneme>.
+[FR-Vocab] mais.
 <break time="1.5s"/>
 
-[FR-Vocab] <phoneme alphabet="ipa" ph="mais">maïs</phoneme>.
+[FR-Vocab] maïs.
 <break time="1.0s"/>
 [KO] 옥수수.
 <break time="1.0s"/>
-[FR-Vocab] <phoneme alphabet="ipa" ph="mais">maïs</phoneme>.
+[FR-Vocab] maïs.
 <break time="1.5s"/>
 
 [FR-Vocab] Noël.
@@ -22,9 +22,9 @@
 [FR-Vocab] Noël.
 <break time="1.5s"/>
 
-[FR-Vocab] <phoneme alphabet="ipa" ph="aiti">Haïti</phoneme>.
+[FR-Vocab] Haïti.
 <break time="1.0s"/>
 [KO] 아이티.
 <break time="1.0s"/>
-[FR-Vocab] <phoneme alphabet="ipa" ph="aiti">Haïti</phoneme>.
+[FR-Vocab] Haïti.
 <break time="1.5s"/>
