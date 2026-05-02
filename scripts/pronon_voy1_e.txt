@@ -1,11 +1,10 @@
-# 모음 ① — e
-# 인트로 없음, FR-KO-FR 패턴만
+# 모음 ① — e (관사로 발음 정확화: la classe / le reste)
 
-[FR] classe.
+[FR] la classe.
 <break time="0.7s"/>
 [KO] 반.
 <break time="0.5s"/>
-[FR] classe.
+[FR] la classe.
 <break time="1.5s"/>
 
 [FR] petit.
@@ -22,11 +21,11 @@
 [FR] merci.
 <break time="1.5s"/>
 
-[FR] reste.
+[FR] le reste.
 <break time="0.7s"/>
 [KO] 나머지.
 <break time="0.5s"/>
-[FR] reste.
+[FR] le reste.
 <break time="1.5s"/>
 
 [FR] perdre.
