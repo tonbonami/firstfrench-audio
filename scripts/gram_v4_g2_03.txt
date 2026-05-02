@@ -1,0 +1,21 @@
+# Grammaire 2 — 2군 동사 / réussir
+# voices: Vocab=warm-mother
+
+[FR-Vocab] réussir.
+<break time="1.0s"/>
+[KO] 성공하다.
+<break time="1.0s"/>
+[FR-Vocab] réussir.
+<break time="1.5s"/>
+
+[FR-Vocab] je réussis.
+<break time="0.8s"/>
+[FR-Vocab] tu réussis.
+<break time="0.8s"/>
+[FR-Vocab] il réussit.
+<break time="0.8s"/>
+[FR-Vocab] nous réussissons.
+<break time="0.8s"/>
+[FR-Vocab] vous réussissez.
+<break time="0.8s"/>
+[FR-Vocab] ils réussissent.

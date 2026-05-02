@@ -1,0 +1,21 @@
+# Grammaire 2 — 3군 TYPE 2 / tenir
+# voices: Vocab=warm-mother
+
+[FR-Vocab] tenir.
+<break time="1.0s"/>
+[KO] 잡다.
+<break time="1.0s"/>
+[FR-Vocab] tenir.
+<break time="1.5s"/>
+
+[FR-Vocab] je tiens.
+<break time="0.8s"/>
+[FR-Vocab] tu tiens.
+<break time="0.8s"/>
+[FR-Vocab] il tient.
+<break time="0.8s"/>
+[FR-Vocab] nous tenons.
+<break time="0.8s"/>
+[FR-Vocab] vous tenez.
+<break time="0.8s"/>
+[FR-Vocab] ils tiennent.

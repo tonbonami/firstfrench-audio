@@ -1,0 +1,21 @@
+# Grammaire 2 — 3군 TYPE 3 / être
+# voices: Vocab=warm-mother
+
+[FR-Vocab] être.
+<break time="1.0s"/>
+[KO] 이다.
+<break time="1.0s"/>
+[FR-Vocab] être.
+<break time="1.5s"/>
+
+[FR-Vocab] je suis.
+<break time="0.8s"/>
+[FR-Vocab] tu es.
+<break time="0.8s"/>
+[FR-Vocab] il est.
+<break time="0.8s"/>
+[FR-Vocab] nous sommes.
+<break time="0.8s"/>
+[FR-Vocab] vous êtes.
+<break time="0.8s"/>
+[FR-Vocab] ils sont.

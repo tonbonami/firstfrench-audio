@@ -1,0 +1,44 @@
+# Grammaire 2 — 현재형 의문문
+# voices: Vocab=warm-mother
+
+[FR-Vocab] Tu pars maintenant ?
+<break time="1.0s"/>
+[KO] 너 지금 출발해?
+<break time="1.0s"/>
+[FR-Vocab] Tu pars maintenant ?
+<break time="1.5s"/>
+
+[FR-Vocab] Est-ce que tu viens ce soir ?
+<break time="1.0s"/>
+[KO] 너 오늘 저녁에 와?
+<break time="1.0s"/>
+[FR-Vocab] Est-ce que tu viens ce soir ?
+<break time="1.5s"/>
+
+[FR-Vocab] Est-ce qu'ils prennent le bus ?
+<break time="1.0s"/>
+[KO] 그들은 버스를 타?
+<break time="1.0s"/>
+[FR-Vocab] Est-ce qu'ils prennent le bus ?
+<break time="1.5s"/>
+
+[FR-Vocab] Pars-tu maintenant ?
+<break time="1.0s"/>
+[KO] 너 지금 출발하니?
+<break time="1.0s"/>
+[FR-Vocab] Pars-tu maintenant ?
+<break time="1.5s"/>
+
+[FR-Vocab] Arrive-t-il ?
+<break time="1.0s"/>
+[KO] 그가 도착해?
+<break time="1.0s"/>
+[FR-Vocab] Arrive-t-il ?
+<break time="1.5s"/>
+
+[FR-Vocab] Habite-t-elle ici ?
+<break time="1.0s"/>
+[KO] 그녀가 여기 살아?
+<break time="1.0s"/>
+[FR-Vocab] Habite-t-elle ici ?
+<break time="1.5s"/>

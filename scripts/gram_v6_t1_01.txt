@@ -1,0 +1,21 @@
+# Grammaire 2 — 3군 TYPE 1 / partir
+# voices: Vocab=warm-mother
+
+[FR-Vocab] partir.
+<break time="1.0s"/>
+[KO] 떠나다.
+<break time="1.0s"/>
+[FR-Vocab] partir.
+<break time="1.5s"/>
+
+[FR-Vocab] je pars.
+<break time="0.8s"/>
+[FR-Vocab] tu pars.
+<break time="0.8s"/>
+[FR-Vocab] il part.
+<break time="0.8s"/>
+[FR-Vocab] nous partons.
+<break time="0.8s"/>
+[FR-Vocab] vous partez.
+<break time="0.8s"/>
+[FR-Vocab] ils partent.

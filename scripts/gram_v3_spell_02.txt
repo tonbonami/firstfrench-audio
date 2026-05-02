@@ -1,0 +1,21 @@
+# Grammaire 2 — 철자 변형 / appeler (자음 중첩 l → ll)
+# voices: Vocab=warm-mother
+
+[FR-Vocab] appeler.
+<break time="1.0s"/>
+[KO] 부르다.
+<break time="1.0s"/>
+[FR-Vocab] appeler.
+<break time="1.5s"/>
+
+[FR-Vocab] j'appelle.
+<break time="0.8s"/>
+[FR-Vocab] tu appelles.
+<break time="0.8s"/>
+[FR-Vocab] il appelle.
+<break time="0.8s"/>
+[FR-Vocab] nous appelons.
+<break time="0.8s"/>
+[FR-Vocab] vous appelez.
+<break time="0.8s"/>
+[FR-Vocab] ils appellent.

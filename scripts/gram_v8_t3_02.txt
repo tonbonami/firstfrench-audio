@@ -1,0 +1,21 @@
+# Grammaire 2 — 3군 TYPE 3 / avoir
+# voices: Vocab=warm-mother
+
+[FR-Vocab] avoir.
+<break time="1.0s"/>
+[KO] 가지다.
+<break time="1.0s"/>
+[FR-Vocab] avoir.
+<break time="1.5s"/>
+
+[FR-Vocab] j'ai.
+<break time="0.8s"/>
+[FR-Vocab] tu as.
+<break time="0.8s"/>
+[FR-Vocab] il a.
+<break time="0.8s"/>
+[FR-Vocab] nous avons.
+<break time="0.8s"/>
+[FR-Vocab] vous avez.
+<break time="0.8s"/>
+[FR-Vocab] ils ont.

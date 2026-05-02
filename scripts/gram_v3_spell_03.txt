@@ -1,0 +1,21 @@
+# Grammaire 2 — 철자 변형 / préférer (é → è)
+# voices: Vocab=warm-mother
+
+[FR-Vocab] préférer.
+<break time="1.0s"/>
+[KO] 더 좋아하다.
+<break time="1.0s"/>
+[FR-Vocab] préférer.
+<break time="1.5s"/>
+
+[FR-Vocab] je préfère.
+<break time="0.8s"/>
+[FR-Vocab] tu préfères.
+<break time="0.8s"/>
+[FR-Vocab] il préfère.
+<break time="0.8s"/>
+[FR-Vocab] nous préférons.
+<break time="0.8s"/>
+[FR-Vocab] vous préférez.
+<break time="0.8s"/>
+[FR-Vocab] ils préfèrent.

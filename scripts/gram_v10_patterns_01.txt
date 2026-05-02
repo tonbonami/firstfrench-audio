@@ -1,0 +1,72 @@
+# Grammaire 2 — 3군 자주 쓰는 문장 패턴
+# voices: Vocab=warm-mother
+
+[FR-Vocab] Je pars à huit heures.
+<break time="1.0s"/>
+[KO] 나는 8시에 출발한다.
+<break time="1.0s"/>
+[FR-Vocab] Je pars à huit heures.
+<break time="1.5s"/>
+
+[FR-Vocab] Nous partons demain.
+<break time="1.0s"/>
+[KO] 우리는 내일 출발한다.
+<break time="1.0s"/>
+[FR-Vocab] Nous partons demain.
+<break time="1.5s"/>
+
+[FR-Vocab] Il dort beaucoup.
+<break time="1.0s"/>
+[KO] 그는 많이 잔다.
+<break time="1.0s"/>
+[FR-Vocab] Il dort beaucoup.
+<break time="1.5s"/>
+
+[FR-Vocab] Ils dorment ici.
+<break time="1.0s"/>
+[KO] 그들은 여기서 잔다.
+<break time="1.0s"/>
+[FR-Vocab] Ils dorment ici.
+<break time="1.5s"/>
+
+[FR-Vocab] Elle vient de Paris.
+<break time="1.0s"/>
+[KO] 그녀는 파리에서 온다.
+<break time="1.0s"/>
+[FR-Vocab] Elle vient de Paris.
+<break time="1.5s"/>
+
+[FR-Vocab] Nous venons ce soir.
+<break time="1.0s"/>
+[KO] 우리는 오늘 저녁에 온다.
+<break time="1.0s"/>
+[FR-Vocab] Nous venons ce soir.
+<break time="1.5s"/>
+
+[FR-Vocab] Je prends le bus.
+<break time="1.0s"/>
+[KO] 나는 버스를 탄다.
+<break time="1.0s"/>
+[FR-Vocab] Je prends le bus.
+<break time="1.5s"/>
+
+[FR-Vocab] Nous prenons un café.
+<break time="1.0s"/>
+[KO] 우리는 커피를 마신다.
+<break time="1.0s"/>
+[FR-Vocab] Nous prenons un café.
+<break time="1.5s"/>
+
+[FR-Vocab] Tu sors souvent ?
+<break time="1.0s"/>
+[KO] 너 자주 나가?
+<break time="1.0s"/>
+[FR-Vocab] Tu sors souvent ?
+<break time="1.5s"/>
+
+[FR-Vocab] Ils sortent le soir.
+<break time="1.0s"/>
+[KO] 그들은 저녁에 외출한다.
+<break time="1.0s"/>
+[FR-Vocab] Ils sortent le soir.
+<break time="1.5s"/>

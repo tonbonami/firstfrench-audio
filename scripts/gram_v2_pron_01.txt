@@ -1,0 +1,28 @@
+# Grammaire 2 — 1군 발음 함정 / nous 형태 + 동음 활용
+# voices: Vocab=warm-mother
+
+[FR-Vocab] nous mangeons.
+<break time="0.8s"/>
+[FR-Vocab] nous commençons.
+<break time="0.8s"/>
+[FR-Vocab] nous partageons.
+<break time="0.8s"/>
+[FR-Vocab] nous prononçons.
+<break time="2.0s"/>
+
+[FR-Vocab] je parle.
+<break time="0.8s"/>
+[FR-Vocab] tu parles.
+<break time="0.8s"/>
+[FR-Vocab] il parle.
+<break time="0.8s"/>
+[FR-Vocab] ils parlent.
+<break time="2.0s"/>
+
+[FR-Vocab] j'aime.
+<break time="0.8s"/>
+[FR-Vocab] tu aimes.
+<break time="0.8s"/>
+[FR-Vocab] il aime.
+<break time="0.8s"/>
+[FR-Vocab] ils aiment.

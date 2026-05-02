@@ -1,0 +1,44 @@
+# Grammaire 2 — 현재형 부정문 ne...pas
+# voices: Vocab=warm-mother
+
+[FR-Vocab] Je ne parle pas.
+<break time="1.0s"/>
+[KO] 나는 말하지 않는다.
+<break time="1.0s"/>
+[FR-Vocab] Je ne parle pas.
+<break time="1.5s"/>
+
+[FR-Vocab] Je ne prends pas le bus.
+<break time="1.0s"/>
+[KO] 나는 버스를 타지 않는다.
+<break time="1.0s"/>
+[FR-Vocab] Je ne prends pas le bus.
+<break time="1.5s"/>
+
+[FR-Vocab] Nous ne partons pas demain.
+<break time="1.0s"/>
+[KO] 우리는 내일 출발하지 않는다.
+<break time="1.0s"/>
+[FR-Vocab] Nous ne partons pas demain.
+<break time="1.5s"/>
+
+[FR-Vocab] Il ne dort pas.
+<break time="1.0s"/>
+[KO] 그는 자지 않는다.
+<break time="1.0s"/>
+[FR-Vocab] Il ne dort pas.
+<break time="1.5s"/>
+
+[FR-Vocab] Je n'arrive pas.
+<break time="1.0s"/>
+[KO] 나는 도착하지 않는다.
+<break time="1.0s"/>
+[FR-Vocab] Je n'arrive pas.
+<break time="1.5s"/>
+
+[FR-Vocab] Il n'habite pas ici.
+<break time="1.0s"/>
+[KO] 그는 여기 살지 않는다.
+<break time="1.0s"/>
+[FR-Vocab] Il n'habite pas ici.
+<break time="1.5s"/>

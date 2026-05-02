@@ -1,0 +1,21 @@
+# Grammaire 2 — 3군 TYPE 2 / venir
+# voices: Vocab=warm-mother
+
+[FR-Vocab] venir.
+<break time="1.0s"/>
+[KO] 오다.
+<break time="1.0s"/>
+[FR-Vocab] venir.
+<break time="1.5s"/>
+
+[FR-Vocab] je viens.
+<break time="0.8s"/>
+[FR-Vocab] tu viens.
+<break time="0.8s"/>
+[FR-Vocab] il vient.
+<break time="0.8s"/>
+[FR-Vocab] nous venons.
+<break time="0.8s"/>
+[FR-Vocab] vous venez.
+<break time="0.8s"/>
+[FR-Vocab] ils viennent.

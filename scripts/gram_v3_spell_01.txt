@@ -1,0 +1,21 @@
+# Grammaire 2 — 철자 변형 / acheter (e → è)
+# voices: Vocab=warm-mother
+
+[FR-Vocab] acheter.
+<break time="1.0s"/>
+[KO] 사다.
+<break time="1.0s"/>
+[FR-Vocab] acheter.
+<break time="1.5s"/>
+
+[FR-Vocab] j'achète.
+<break time="0.8s"/>
+[FR-Vocab] tu achètes.
+<break time="0.8s"/>
+[FR-Vocab] il achète.
+<break time="0.8s"/>
+[FR-Vocab] nous achetons.
+<break time="0.8s"/>
+[FR-Vocab] vous achetez.
+<break time="0.8s"/>
+[FR-Vocab] ils achètent.

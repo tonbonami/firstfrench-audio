@@ -1,0 +1,21 @@
+# Grammaire 2 — 3군 TYPE 3 / faire
+# voices: Vocab=warm-mother
+
+[FR-Vocab] faire.
+<break time="1.0s"/>
+[KO] 하다.
+<break time="1.0s"/>
+[FR-Vocab] faire.
+<break time="1.5s"/>
+
+[FR-Vocab] je fais.
+<break time="0.8s"/>
+[FR-Vocab] tu fais.
+<break time="0.8s"/>
+[FR-Vocab] il fait.
+<break time="0.8s"/>
+[FR-Vocab] nous faisons.
+<break time="0.8s"/>
+[FR-Vocab] vous faites.
+<break time="0.8s"/>
+[FR-Vocab] ils font.

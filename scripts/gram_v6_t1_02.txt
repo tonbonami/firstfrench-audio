@@ -1,0 +1,21 @@
+# Grammaire 2 — 3군 TYPE 1 / dormir
+# voices: Vocab=warm-mother
+
+[FR-Vocab] dormir.
+<break time="1.0s"/>
+[KO] 자다.
+<break time="1.0s"/>
+[FR-Vocab] dormir.
+<break time="1.5s"/>
+
+[FR-Vocab] je dors.
+<break time="0.8s"/>
+[FR-Vocab] tu dors.
+<break time="0.8s"/>
+[FR-Vocab] il dort.
+<break time="0.8s"/>
+[FR-Vocab] nous dormons.
+<break time="0.8s"/>
+[FR-Vocab] vous dormez.
+<break time="0.8s"/>
+[FR-Vocab] ils dorment.

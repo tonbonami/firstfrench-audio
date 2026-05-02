@@ -1,0 +1,21 @@
+# Grammaire 2 — 2군 동사 / finir
+# voices: Vocab=warm-mother
+
+[FR-Vocab] finir.
+<break time="1.0s"/>
+[KO] 끝내다.
+<break time="1.0s"/>
+[FR-Vocab] finir.
+<break time="1.5s"/>
+
+[FR-Vocab] je finis.
+<break time="0.8s"/>
+[FR-Vocab] tu finis.
+<break time="0.8s"/>
+[FR-Vocab] il finit.
+<break time="0.8s"/>
+[FR-Vocab] nous finissons.
+<break time="0.8s"/>
+[FR-Vocab] vous finissez.
+<break time="0.8s"/>
+[FR-Vocab] ils finissent.

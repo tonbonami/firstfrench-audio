@@ -1,0 +1,21 @@
+# Grammaire 2 — 2군 동사 / choisir
+# voices: Vocab=warm-mother
+
+[FR-Vocab] choisir.
+<break time="1.0s"/>
+[KO] 선택하다.
+<break time="1.0s"/>
+[FR-Vocab] choisir.
+<break time="1.5s"/>
+
+[FR-Vocab] je choisis.
+<break time="0.8s"/>
+[FR-Vocab] tu choisis.
+<break time="0.8s"/>
+[FR-Vocab] il choisit.
+<break time="0.8s"/>
+[FR-Vocab] nous choisissons.
+<break time="0.8s"/>
+[FR-Vocab] vous choisissez.
+<break time="0.8s"/>
+[FR-Vocab] ils choisissent.
