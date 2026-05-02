@@ -1,4 +1,4 @@
-# R 단어 발음
+# R 단어 끝
 
 [FR] Bonjour.
 <break time="0.7s"/>
@@ -14,17 +14,17 @@
 [FR] Tous les jours.
 <break time="1.5s"/>
 
-[FR] amour.
+[FR-V25] amour.
 <break time="0.7s"/>
 [KO] 사랑.
 <break time="0.5s"/>
-[FR] amour.
+[FR-V25] amour.
 <break time="1.5s"/>
 
-[FR] Paris.
+[FR-V25] Paris.
 <break time="0.7s"/>
 [KO] 파리.
 <break time="0.5s"/>
-[FR] Paris.
+[FR-V25] Paris.
 <break time="1.5s"/>
 

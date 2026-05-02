@@ -1,4 +1,4 @@
-# R 단어 발음
+# R 단어 중간 2
 
 [FR] Pardon.
 <break time="0.7s"/>
@@ -14,11 +14,11 @@
 [FR] pareil.
 <break time="1.5s"/>
 
-[FR] France.
+[FR-V25] France.
 <break time="0.7s"/>
 [KO] 프랑스.
 <break time="0.5s"/>
-[FR] France.
+[FR-V25] France.
 <break time="1.5s"/>
 
 [FR] perdre.

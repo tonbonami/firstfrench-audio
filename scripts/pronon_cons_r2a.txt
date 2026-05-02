@@ -1,4 +1,4 @@
-# R 단어 발음
+# R 단어 중간 1
 
 [FR] merci.
 <break time="0.7s"/>
@@ -21,11 +21,11 @@
 [FR] Versailles.
 <break time="1.5s"/>
 
-[FR] certain.
+[FR-V25] certain.
 <break time="0.7s"/>
 [KO] 확실한.
 <break time="0.5s"/>
-[FR] certain.
+[FR-V25] certain.
 <break time="1.5s"/>
 
 [FR-V25] fruit.

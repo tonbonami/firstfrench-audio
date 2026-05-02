@@ -1,17 +1,17 @@
-# R 단어 발음
+# R 단어 첫머리
 
-[FR] Rose.
+[FR-V25] Rose.
 <break time="0.7s"/>
 [KO] 장미.
 <break time="0.5s"/>
-[FR] Rose.
+[FR-V25] Rose.
 <break time="1.5s"/>
 
-[FR] Rue.
+[FR-V25] Rue.
 <break time="0.7s"/>
 [KO] 길.
 <break time="0.5s"/>
-[FR] Rue.
+[FR-V25] Rue.
 <break time="1.5s"/>
 
 [FR-V25] Riz.
@@ -21,11 +21,11 @@
 [FR-V25] Riz.
 <break time="1.5s"/>
 
-[FR] Reportage.
+[FR-V25] Reportage.
 <break time="0.7s"/>
 [KO] 보도.
 <break time="0.5s"/>
-[FR] Reportage.
+[FR-V25] Reportage.
 <break time="1.5s"/>
 
 [FR] Réussir.
