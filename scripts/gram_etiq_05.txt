@@ -8,11 +8,11 @@
 [FR-Vocab] mais.
 <break time="1.5s"/>
 
-[FR-Vocab] maïs.
+[FR-Vocab] <phoneme alphabet="ipa" ph="mais">maïs</phoneme>.
 <break time="1.0s"/>
 [KO] 옥수수.
 <break time="1.0s"/>
-[FR-Vocab] maïs.
+[FR-Vocab] <phoneme alphabet="ipa" ph="mais">maïs</phoneme>.
 <break time="1.5s"/>
 
 [FR-Vocab] Noël.
@@ -22,9 +22,9 @@
 [FR-Vocab] Noël.
 <break time="1.5s"/>
 
-[FR-Vocab] Haïti.
+[FR-Vocab] <phoneme alphabet="ipa" ph="aiti">Haïti</phoneme>.
 <break time="1.0s"/>
 [KO] 아이티.
 <break time="1.0s"/>
-[FR-Vocab] Haïti.
+[FR-Vocab] <phoneme alphabet="ipa" ph="aiti">Haïti</phoneme>.
 <break time="1.5s"/>
