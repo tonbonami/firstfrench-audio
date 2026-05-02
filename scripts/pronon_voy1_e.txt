@@ -1,10 +1,10 @@
-# 모음 ① — e (classe/reste phoneme 강제)
+# 모음 ① — e (warm-mother + multilingual_v2 + 관사 포함)
 
-[FR] la <phoneme alphabet="ipa" ph="klas">classe</phoneme>.
+[FR] la classe.
 <break time="0.7s"/>
 [KO] 반.
 <break time="0.5s"/>
-[FR] la <phoneme alphabet="ipa" ph="klas">classe</phoneme>.
+[FR] la classe.
 <break time="1.5s"/>
 
 [FR] petit.
@@ -21,11 +21,11 @@
 [FR] merci.
 <break time="1.5s"/>
 
-[FR] le <phoneme alphabet="ipa" ph="ʁɛst">reste</phoneme>.
+[FR] le reste.
 <break time="0.7s"/>
 [KO] 나머지.
 <break time="0.5s"/>
-[FR] le <phoneme alphabet="ipa" ph="ʁɛst">reste</phoneme>.
+[FR] le reste.
 <break time="1.5s"/>
 
 [FR] perdre.
@@ -35,31 +35,31 @@
 [FR] perdre.
 <break time="1.5s"/>
 
-[FR] semelle.
+[FR] la semelle.
 <break time="0.7s"/>
 [KO] 구두창.
 <break time="0.5s"/>
-[FR] semelle.
+[FR] la semelle.
 <break time="1.5s"/>
 
-[FR] bébé.
+[FR] le bébé.
 <break time="0.7s"/>
 [KO] 아기.
 <break time="0.5s"/>
-[FR] bébé.
+[FR] le bébé.
 <break time="1.5s"/>
 
-[FR] père.
+[FR] le père.
 <break time="0.7s"/>
 [KO] 아버지.
 <break time="0.5s"/>
-[FR] père.
+[FR] le père.
 <break time="1.5s"/>
 
-[FR] tête.
+[FR] la tête.
 <break time="0.7s"/>
 [KO] 머리.
 <break time="0.5s"/>
-[FR] tête.
+[FR] la tête.
 <break time="1.5s"/>
 

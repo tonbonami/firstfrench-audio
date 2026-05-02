@@ -1,18 +1,17 @@
-# 모음 ① — a
-# 인트로 없음, FR-KO-FR 패턴만
+# 모음 ① — a (warm-mother + multilingual_v2 + 관사 포함)
 
-[FR] classe.
+[FR] la classe.
 <break time="0.7s"/>
 [KO] 반.
 <break time="0.5s"/>
-[FR] classe.
+[FR] la classe.
 <break time="1.5s"/>
 
-[FR] ami.
+[FR] un ami.
 <break time="0.7s"/>
 [KO] 친구.
 <break time="0.5s"/>
-[FR] ami.
+[FR] un ami.
 <break time="1.5s"/>
 
 [FR] là.

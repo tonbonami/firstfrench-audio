@@ -1,5 +1,4 @@
-# 모음 ① — i
-# 인트로 없음, FR-KO-FR 패턴만
+# 모음 ① — i (warm-mother + multilingual_v2 + 관사 포함)
 
 [FR] ici.
 <break time="0.7s"/>
@@ -8,11 +7,11 @@
 [FR] ici.
 <break time="1.5s"/>
 
-[FR] île.
+[FR] une île.
 <break time="0.7s"/>
 [KO] 섬.
 <break time="0.5s"/>
-[FR] île.
+[FR] une île.
 <break time="1.5s"/>
 
 [FR] il.

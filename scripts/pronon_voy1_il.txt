@@ -1,24 +1,24 @@
-# 모음 ① — il/ill (fille은 관사만, feuille KO=잎사귀)
+# 모음 ① — il, ill (warm-mother + multilingual_v2 + 관사 포함)
 
-[FR] travail.
+[FR] le travail.
 <break time="0.7s"/>
 [KO] 일.
 <break time="0.5s"/>
-[FR] travail.
+[FR] le travail.
 <break time="1.5s"/>
 
-[FR] bataille.
+[FR] la bataille.
 <break time="0.7s"/>
 [KO] 전투.
 <break time="0.5s"/>
-[FR] bataille.
+[FR] la bataille.
 <break time="1.5s"/>
 
-[FR] soleil.
+[FR] le soleil.
 <break time="0.7s"/>
 [KO] 태양.
 <break time="0.5s"/>
-[FR] soleil.
+[FR] le soleil.
 <break time="1.5s"/>
 
 [FR] la fille.
@@ -28,25 +28,25 @@
 [FR] la fille.
 <break time="1.5s"/>
 
-[FR] feuille.
+[FR] la feuille.
 <break time="0.7s"/>
 [KO] 잎사귀.
 <break time="0.5s"/>
-[FR] feuille.
+[FR] la feuille.
 <break time="1.5s"/>
 
-[FR] œil.
+[FR] un œil.
 <break time="0.7s"/>
 [KO] 눈.
 <break time="0.5s"/>
-[FR] œil.
+[FR] un œil.
 <break time="1.5s"/>
 
-[FR] village.
+[FR] le village.
 <break time="0.7s"/>
 [KO] 마을.
 <break time="0.5s"/>
-[FR] village.
+[FR] le village.
 <break time="1.5s"/>
 
 [FR] tranquille.

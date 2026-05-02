@@ -1,38 +1,37 @@
-# 모음 ① — o
-# 인트로 없음, FR-KO-FR 패턴만
+# 모음 ① — o (warm-mother + multilingual_v2 + 관사 포함)
 
-[FR] poste.
+[FR] la poste.
 <break time="0.7s"/>
 [KO] 우체국.
 <break time="0.5s"/>
-[FR] poste.
+[FR] la poste.
 <break time="1.5s"/>
 
-[FR] rose.
+[FR] la rose.
 <break time="0.7s"/>
 [KO] 장미.
 <break time="0.5s"/>
-[FR] rose.
+[FR] la rose.
 <break time="1.5s"/>
 
-[FR] dôme.
+[FR] le dôme.
 <break time="0.7s"/>
 [KO] 돔.
 <break time="0.5s"/>
-[FR] dôme.
+[FR] le dôme.
 <break time="1.5s"/>
 
-[FR] hôtel.
+[FR] un hôtel.
 <break time="0.7s"/>
 [KO] 호텔.
 <break time="0.5s"/>
-[FR] hôtel.
+[FR] un hôtel.
 <break time="1.5s"/>
 
-[FR] homme.
+[FR] un homme.
 <break time="0.7s"/>
 [KO] 남자.
 <break time="0.5s"/>
-[FR] homme.
+[FR] un homme.
 <break time="1.5s"/>
 

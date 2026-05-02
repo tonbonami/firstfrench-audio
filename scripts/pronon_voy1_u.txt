@@ -1,5 +1,4 @@
-# 모음 ① — u
-# 인트로 없음, FR-KO-FR 패턴만
+# 모음 ① — u (warm-mother + multilingual_v2 + 관사 포함)
 
 [FR] utile.
 <break time="0.7s"/>
@@ -8,31 +7,31 @@
 [FR] utile.
 <break time="1.5s"/>
 
-[FR] futur.
+[FR] le futur.
 <break time="0.7s"/>
 [KO] 미래.
 <break time="0.5s"/>
-[FR] futur.
+[FR] le futur.
 <break time="1.5s"/>
 
-[FR] flûte.
+[FR] la flûte.
 <break time="0.7s"/>
 [KO] 플루트.
 <break time="0.5s"/>
-[FR] flûte.
+[FR] la flûte.
 <break time="1.5s"/>
 
-[FR] rue.
+[FR] la rue.
 <break time="0.7s"/>
 [KO] 길.
 <break time="0.5s"/>
-[FR] rue.
+[FR] la rue.
 <break time="1.5s"/>
 
-[FR] musée.
+[FR] le musée.
 <break time="0.7s"/>
 [KO] 박물관.
 <break time="0.5s"/>
-[FR] musée.
+[FR] le musée.
 <break time="1.5s"/>
 
