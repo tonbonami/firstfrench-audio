@@ -1,0 +1,72 @@
+# Grammaire 3 — 중급 / 소유형용사
+# voices: Vocab=warm-mother
+
+[FR-Vocab] mon livre.
+<break time="1.0s"/>
+[KO] 나의 책.
+<break time="1.0s"/>
+[FR-Vocab] mon livre.
+<break time="1.5s"/>
+
+[FR-Vocab] ma chambre.
+<break time="1.0s"/>
+[KO] 나의 방.
+<break time="1.0s"/>
+[FR-Vocab] ma chambre.
+<break time="1.5s"/>
+
+[FR-Vocab] mes amis.
+<break time="1.0s"/>
+[KO] 나의 친구들.
+<break time="1.0s"/>
+[FR-Vocab] mes amis.
+<break time="1.5s"/>
+
+[FR-Vocab] ton père.
+<break time="1.0s"/>
+[KO] 너의 아버지.
+<break time="1.0s"/>
+[FR-Vocab] ton père.
+<break time="1.5s"/>
+
+[FR-Vocab] ta mère.
+<break time="1.0s"/>
+[KO] 너의 어머니.
+<break time="1.0s"/>
+[FR-Vocab] ta mère.
+<break time="1.5s"/>
+
+[FR-Vocab] ses parents.
+<break time="1.0s"/>
+[KO] 그의 부모님.
+<break time="1.0s"/>
+[FR-Vocab] ses parents.
+<break time="1.5s"/>
+
+[FR-Vocab] notre maison.
+<break time="1.0s"/>
+[KO] 우리의 집.
+<break time="1.0s"/>
+[FR-Vocab] notre maison.
+<break time="1.5s"/>
+
+[FR-Vocab] votre travail.
+<break time="1.0s"/>
+[KO] 당신의 일.
+<break time="1.0s"/>
+[FR-Vocab] votre travail.
+<break time="1.5s"/>
+
+[FR-Vocab] leurs enfants.
+<break time="1.0s"/>
+[KO] 그들의 아이들.
+<break time="1.0s"/>
+[FR-Vocab] leurs enfants.
+<break time="1.5s"/>
+
+[FR-Vocab] mon école.
+<break time="1.0s"/>
+[KO] 나의 학교, 모음 앞 mon.
+<break time="1.0s"/>
+[FR-Vocab] mon école.
+<break time="1.5s"/>

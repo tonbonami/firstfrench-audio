@@ -1,0 +1,65 @@
+# Grammaire 3 — 중급 / 지시형용사
+# voices: Vocab=warm-mother
+
+[FR-Vocab] ce livre.
+<break time="1.0s"/>
+[KO] 이 책.
+<break time="1.0s"/>
+[FR-Vocab] ce livre.
+<break time="1.5s"/>
+
+[FR-Vocab] ce garçon.
+<break time="1.0s"/>
+[KO] 이 남자아이.
+<break time="1.0s"/>
+[FR-Vocab] ce garçon.
+<break time="1.5s"/>
+
+[FR-Vocab] cet homme.
+<break time="1.0s"/>
+[KO] 이 남자.
+<break time="1.0s"/>
+[FR-Vocab] cet homme.
+<break time="1.5s"/>
+
+[FR-Vocab] cet hôtel.
+<break time="1.0s"/>
+[KO] 이 호텔.
+<break time="1.0s"/>
+[FR-Vocab] cet hôtel.
+<break time="1.5s"/>
+
+[FR-Vocab] cette maison.
+<break time="1.0s"/>
+[KO] 이 집.
+<break time="1.0s"/>
+[FR-Vocab] cette maison.
+<break time="1.5s"/>
+
+[FR-Vocab] cette femme.
+<break time="1.0s"/>
+[KO] 이 여자.
+<break time="1.0s"/>
+[FR-Vocab] cette femme.
+<break time="1.5s"/>
+
+[FR-Vocab] ces enfants.
+<break time="1.0s"/>
+[KO] 이 아이들.
+<break time="1.0s"/>
+[FR-Vocab] ces enfants.
+<break time="1.5s"/>
+
+[FR-Vocab] cet endroit-ci.
+<break time="1.0s"/>
+[KO] 이곳, 가까운 곳.
+<break time="1.0s"/>
+[FR-Vocab] cet endroit-ci.
+<break time="1.5s"/>
+
+[FR-Vocab] cette personne-là.
+<break time="1.0s"/>
+[KO] 저 사람.
+<break time="1.0s"/>
+[FR-Vocab] cette personne-là.
+<break time="1.5s"/>

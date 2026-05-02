@@ -1,0 +1,44 @@
+# Grammaire 3 — 중급 / Il y a 구문
+# voices: Vocab=warm-mother
+
+[FR-Vocab] Il y a un lit dans la chambre.
+<break time="1.0s"/>
+[KO] 방에 침대가 있다.
+<break time="1.0s"/>
+[FR-Vocab] Il y a un lit dans la chambre.
+<break time="1.5s"/>
+
+[FR-Vocab] Il y a sept jours dans une semaine.
+<break time="1.0s"/>
+[KO] 일주일에는 7일이 있다.
+<break time="1.0s"/>
+[FR-Vocab] Il y a sept jours dans une semaine.
+<break time="1.5s"/>
+
+[FR-Vocab] Il n'y a pas de poissons dans la rivière.
+<break time="1.0s"/>
+[KO] 강에 물고기가 없다.
+<break time="1.0s"/>
+[FR-Vocab] Il n'y a pas de poissons dans la rivière.
+<break time="1.5s"/>
+
+[FR-Vocab] Il n'y a pas d'eau.
+<break time="1.0s"/>
+[KO] 물이 없다.
+<break time="1.0s"/>
+[FR-Vocab] Il n'y a pas d'eau.
+<break time="1.5s"/>
+
+[FR-Vocab] Est-ce qu'il y a un restaurant par ici ?
+<break time="1.0s"/>
+[KO] 이 근처에 식당이 있나요?
+<break time="1.0s"/>
+[FR-Vocab] Est-ce qu'il y a un restaurant par ici ?
+<break time="1.5s"/>
+
+[FR-Vocab] Y a-t-il un restaurant par ici ?
+<break time="1.0s"/>
+[KO] 이 근처에 식당이 있나요? 도치.
+<break time="1.0s"/>
+[FR-Vocab] Y a-t-il un restaurant par ici ?
+<break time="1.5s"/>

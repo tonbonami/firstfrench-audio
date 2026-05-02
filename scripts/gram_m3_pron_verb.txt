@@ -1,0 +1,58 @@
+# Grammaire 3 — 중급 / 대명동사 (verbe pronominal)
+# voices: Vocab=warm-mother
+
+[FR-Vocab] Je me lève.
+<break time="1.0s"/>
+[KO] 나는 일어난다.
+<break time="1.0s"/>
+[FR-Vocab] Je me lève.
+<break time="1.5s"/>
+
+[FR-Vocab] Tu te lèves.
+<break time="1.0s"/>
+[KO] 너는 일어난다.
+<break time="1.0s"/>
+[FR-Vocab] Tu te lèves.
+<break time="1.5s"/>
+
+[FR-Vocab] Il se couche.
+<break time="1.0s"/>
+[KO] 그는 잠자리에 든다.
+<break time="1.0s"/>
+[FR-Vocab] Il se couche.
+<break time="1.5s"/>
+
+[FR-Vocab] Nous nous promenons.
+<break time="1.0s"/>
+[KO] 우리는 산책한다.
+<break time="1.0s"/>
+[FR-Vocab] Nous nous promenons.
+<break time="1.5s"/>
+
+[FR-Vocab] Je m'habille.
+<break time="1.0s"/>
+[KO] 나는 옷을 입는다.
+<break time="1.0s"/>
+[FR-Vocab] Je m'habille.
+<break time="1.5s"/>
+
+[FR-Vocab] Tu t'appelles comment ?
+<break time="1.0s"/>
+[KO] 이름이 뭐야?
+<break time="1.0s"/>
+[FR-Vocab] Tu t'appelles comment ?
+<break time="1.5s"/>
+
+[FR-Vocab] Elle se lève à 7 heures.
+<break time="1.0s"/>
+[KO] 그녀는 7시에 일어난다.
+<break time="1.0s"/>
+[FR-Vocab] Elle se lève à 7 heures.
+<break time="1.5s"/>
+
+[FR-Vocab] Comment vous appelez-vous ?
+<break time="1.0s"/>
+[KO] 성함이 어떻게 되세요?
+<break time="1.0s"/>
+[FR-Vocab] Comment vous appelez-vous ?
+<break time="1.5s"/>

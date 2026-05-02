@@ -1,0 +1,58 @@
+# Grammaire 3 — 중급 / 인칭대명사 2 (목적어/강세형)
+# voices: Vocab=warm-mother
+
+[FR-Vocab] Je la veux.
+<break time="1.0s"/>
+[KO] 나는 그것을 원한다.
+<break time="1.0s"/>
+[FR-Vocab] Je la veux.
+<break time="1.5s"/>
+
+[FR-Vocab] Elle les cherche.
+<break time="1.0s"/>
+[KO] 그녀는 그것들을 찾는다.
+<break time="1.0s"/>
+[FR-Vocab] Elle les cherche.
+<break time="1.5s"/>
+
+[FR-Vocab] Je lui ai écrit.
+<break time="1.0s"/>
+[KO] 나는 그에게 편지를 썼다.
+<break time="1.0s"/>
+[FR-Vocab] Je lui ai écrit.
+<break time="1.5s"/>
+
+[FR-Vocab] Je leur donne ces livres.
+<break time="1.0s"/>
+[KO] 나는 그들에게 책을 준다.
+<break time="1.0s"/>
+[FR-Vocab] Je leur donne ces livres.
+<break time="1.5s"/>
+
+[FR-Vocab] Je le lui donne.
+<break time="1.0s"/>
+[KO] 나는 그것을 그에게 준다.
+<break time="1.0s"/>
+[FR-Vocab] Je le lui donne.
+<break time="1.5s"/>
+
+[FR-Vocab] Moi, je n'y vais pas.
+<break time="1.0s"/>
+[KO] 나는 거기 가지 않는다.
+<break time="1.0s"/>
+[FR-Vocab] Moi, je n'y vais pas.
+<break time="1.5s"/>
+
+[FR-Vocab] Je viens avec toi.
+<break time="1.0s"/>
+[KO] 나는 너와 함께 간다.
+<break time="1.0s"/>
+[FR-Vocab] Je viens avec toi.
+<break time="1.5s"/>
+
+[FR-Vocab] C'est pour moi ?
+<break time="1.0s"/>
+[KO] 이거 나를 위한 거야?
+<break time="1.0s"/>
+[FR-Vocab] C'est pour moi ?
+<break time="1.5s"/>
