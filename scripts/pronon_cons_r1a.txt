@@ -1,40 +1,37 @@
-# R 모음 조합
+# R 발음 — R 모음 조합
 
-[KO] R 발음 — 모음 조합.
+[FR-V25] Ra.
 <break time="1.0s"/>
-
-[FR] Ra.
-<break time="0.7s"/>
-[FR] Ra.
+[FR-V25] Ra.
 <break time="1.5s"/>
 
-[FR] Ri.
-<break time="0.7s"/>
-[FR] Ri.
+[FR-V25] Ri.
+<break time="1.0s"/>
+[FR-V25] Ri.
 <break time="1.5s"/>
 
-[FR] Rou.
-<break time="0.7s"/>
-[FR] Rou.
+[FR-V25] Rou.
+<break time="1.0s"/>
+[FR-V25] Rou.
 <break time="1.5s"/>
 
-[FR] Ré.
-<break time="0.7s"/>
-[FR] Ré.
+[FR-V25] Ré.
+<break time="1.0s"/>
+[FR-V25] Ré.
 <break time="1.5s"/>
 
-[FR] Ro.
-<break time="0.7s"/>
-[FR] Ro.
+[FR-V25] Ro.
+<break time="1.0s"/>
+[FR-V25] Ro.
 <break time="1.5s"/>
 
-[FR] Ru.
-<break time="0.7s"/>
-[FR] Ru.
+[FR-V25] Ru.
+<break time="1.0s"/>
+[FR-V25] Ru.
 <break time="1.5s"/>
 
-[FR] Re.
-<break time="0.7s"/>
-[FR] Re.
+[FR-V25] Re.
+<break time="1.0s"/>
+[FR-V25] Re.
 <break time="1.5s"/>
 

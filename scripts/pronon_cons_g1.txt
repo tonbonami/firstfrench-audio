@@ -1,34 +1,30 @@
-# g — e/i/y 부드러운
+# 자음 (인트로 제거, hybrid)
 
-# g — e/i/y 부드러운 소리
-[KO] g — e/i/y 부드러운 소리.
-<break time="1.0s"/>
-
-[FR] genou.
+[FR] le genou.
 <break time="0.7s"/>
 [KO] 무릎.
 <break time="0.5s"/>
-[FR] genou.
+[FR] le genou.
 <break time="1.5s"/>
 
-[FR] gilet.
+[FR] le gilet.
 <break time="0.7s"/>
 [KO] 조끼.
 <break time="0.5s"/>
-[FR] gilet.
+[FR] le gilet.
 <break time="1.5s"/>
 
-[FR] gymnastique.
+[FR] la gymnastique.
 <break time="0.7s"/>
 [KO] 체조.
 <break time="0.5s"/>
-[FR] gymnastique.
+[FR] la gymnastique.
 <break time="1.5s"/>
 
-[FR] garage.
+[FR] le garage.
 <break time="0.7s"/>
 [KO] 차고.
 <break time="0.5s"/>
-[FR] garage.
+[FR] le garage.
 <break time="1.5s"/>
 

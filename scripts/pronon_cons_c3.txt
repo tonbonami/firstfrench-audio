@@ -1,27 +1,23 @@
-# ç — 항상 [s]
+# 자음 (인트로 제거, hybrid)
 
-# 쎄디유 — 항상 s 소리
-[KO] 쎄디유 — 항상 s 소리.
-<break time="1.0s"/>
-
-[FR] garçon.
+[FR] le garçon.
 <break time="0.7s"/>
 [KO] 소년.
 <break time="0.5s"/>
-[FR] garçon.
+[FR] le garçon.
 <break time="1.5s"/>
 
-[FR] ça.
+[FR-V25] ça.
 <break time="0.7s"/>
 [KO] 그것.
 <break time="0.5s"/>
-[FR] ça.
+[FR-V25] ça.
 <break time="1.5s"/>
 
-[FR] reçu.
+[FR-V25] reçu.
 <break time="0.7s"/>
-[KO] 영수증.
+[KO] 받은.
 <break time="0.5s"/>
-[FR] reçu.
+[FR-V25] reçu.
 <break time="1.5s"/>
 

@@ -1,8 +1,4 @@
-# c — e/i/y 앞 [s]
-
-# c — e/i/y 앞 s 소리
-[KO] c — e/i/y 앞 s 소리.
-<break time="1.0s"/>
+# 자음 (인트로 제거, hybrid)
 
 [FR] ceci.
 <break time="0.7s"/>
@@ -11,18 +7,18 @@
 [FR] ceci.
 <break time="1.5s"/>
 
-[FR] bicyclette.
+[FR] la bicyclette.
 <break time="0.7s"/>
 [KO] 자전거.
 <break time="0.5s"/>
-[FR] bicyclette.
+[FR] la bicyclette.
 <break time="1.5s"/>
 
-[FR] police.
+[FR] la police.
 <break time="0.7s"/>
 [KO] 경찰.
 <break time="0.5s"/>
-[FR] police.
+[FR] la police.
 <break time="1.5s"/>
 
 [FR] mince.

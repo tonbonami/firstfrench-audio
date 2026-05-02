@@ -1,8 +1,4 @@
-# R 단어 끝
-
-# R 단어 끝
-[KO] R 단어 끝.
-<break time="1.0s"/>
+# R 단어 발음
 
 [FR] Bonjour.
 <break time="0.7s"/>

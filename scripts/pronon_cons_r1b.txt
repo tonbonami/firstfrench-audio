@@ -1,8 +1,4 @@
-# R 단어 첫머리
-
-# R 단어 첫머리
-[KO] R 단어 첫머리.
-<break time="1.0s"/>
+# R 단어 발음
 
 [FR] Rose.
 <break time="0.7s"/>
@@ -18,11 +14,11 @@
 [FR] Rue.
 <break time="1.5s"/>
 
-[FR] Riz.
+[FR-V25] Riz.
 <break time="0.7s"/>
 [KO] 쌀.
 <break time="0.5s"/>
-[FR] Riz.
+[FR-V25] Riz.
 <break time="1.5s"/>
 
 [FR] Reportage.

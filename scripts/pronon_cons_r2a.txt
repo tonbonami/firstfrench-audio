@@ -1,8 +1,4 @@
-# R 단어 중간 (1)
-
-# R 단어 중간 (1)
-[KO] R 단어 중간 (1).
-<break time="1.0s"/>
+# R 단어 발음
 
 [FR] merci.
 <break time="0.7s"/>
@@ -32,10 +28,10 @@
 [FR] certain.
 <break time="1.5s"/>
 
-[FR] fruit.
+[FR-V25] fruit.
 <break time="0.7s"/>
 [KO] 과일.
 <break time="0.5s"/>
-[FR] fruit.
+[FR-V25] fruit.
 <break time="1.5s"/>
 

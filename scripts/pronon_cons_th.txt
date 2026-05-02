@@ -1,27 +1,23 @@
-# 프랑스어의 자음 — th — [t]
+# 자음 (인트로 제거, hybrid)
 
-# th — [t]
-[KO] th — [t].
-<break time="1.0s"/>
-
-[FR] théâtre.
+[FR] le théâtre.
 <break time="0.7s"/>
 [KO] 극장.
 <break time="0.5s"/>
-[FR] théâtre.
+[FR] le théâtre.
 <break time="1.5s"/>
 
-[FR] méthode.
+[FR] la méthode.
 <break time="0.7s"/>
 [KO] 방법.
 <break time="0.5s"/>
-[FR] méthode.
+[FR] la méthode.
 <break time="1.5s"/>
 
-[FR] thé.
+[FR-V25] le thé.
 <break time="0.7s"/>
 [KO] 차.
 <break time="0.5s"/>
-[FR] thé.
+[FR-V25] le thé.
 <break time="1.5s"/>
 

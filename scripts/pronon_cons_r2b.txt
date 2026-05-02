@@ -1,8 +1,4 @@
-# R 단어 중간 (2)
-
-# R 단어 중간 (2)
-[KO] R 단어 중간 (2).
-<break time="1.0s"/>
+# R 단어 발음
 
 [FR] Pardon.
 <break time="0.7s"/>

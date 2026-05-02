@@ -1,27 +1,23 @@
-# 프랑스어의 자음 — gn — 니으
+# 자음 (인트로 제거, hybrid)
 
-# gn — 니으
-[KO] gn — 니으.
-<break time="1.0s"/>
-
-[FR] montagne.
+[FR] la montagne.
 <break time="0.7s"/>
 [KO] 산.
 <break time="0.5s"/>
-[FR] montagne.
+[FR] la montagne.
 <break time="1.5s"/>
 
-[FR] bagnole.
+[FR] la bagnole.
 <break time="0.7s"/>
-[KO] 자동차.
+[KO] 자동차 구어.
 <break time="0.5s"/>
-[FR] bagnole.
+[FR] la bagnole.
 <break time="1.5s"/>
 
-[FR] signe.
+[FR] le signe.
 <break time="0.7s"/>
 [KO] 기호.
 <break time="0.5s"/>
-[FR] signe.
+[FR] le signe.
 <break time="1.5s"/>
 

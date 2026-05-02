@@ -1,14 +1,10 @@
-# 프랑스어의 자음 — ch — sh 소리
+# 자음 (인트로 제거, hybrid)
 
-# ch — sh 소리
-[KO] ch — sh 소리.
-<break time="1.0s"/>
-
-[FR] chapeau.
+[FR] le chapeau.
 <break time="0.7s"/>
 [KO] 모자.
 <break time="0.5s"/>
-[FR] chapeau.
+[FR] le chapeau.
 <break time="1.5s"/>
 
 [FR] acheter.
@@ -18,17 +14,17 @@
 [FR] acheter.
 <break time="1.5s"/>
 
-[FR] dimanche.
+[FR] le dimanche.
 <break time="0.7s"/>
 [KO] 일요일.
 <break time="0.5s"/>
-[FR] dimanche.
+[FR] le dimanche.
 <break time="1.5s"/>
 
-[FR] chanson.
+[FR] la chanson.
 <break time="0.7s"/>
 [KO] 노래.
 <break time="0.5s"/>
-[FR] chanson.
+[FR] la chanson.
 <break time="1.5s"/>
 
