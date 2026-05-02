@@ -1,4 +1,4 @@
-# 모음 ① — o (warm-mother + multilingual_v2 + 관사 포함)
+# 모음 ① — o (모음 시작 명사는 관사 제거)
 
 [FR] la poste.
 <break time="0.7s"/>
@@ -21,17 +21,17 @@
 [FR] le dôme.
 <break time="1.5s"/>
 
-[FR] un hôtel.
+[FR] hôtel.
 <break time="0.7s"/>
 [KO] 호텔.
 <break time="0.5s"/>
-[FR] un hôtel.
+[FR] hôtel.
 <break time="1.5s"/>
 
-[FR] un homme.
+[FR] homme.
 <break time="0.7s"/>
 [KO] 남자.
 <break time="0.5s"/>
-[FR] un homme.
+[FR] homme.
 <break time="1.5s"/>
 
