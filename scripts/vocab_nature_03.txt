@@ -22,11 +22,11 @@
 [FR-Vocab] l'herbe.
 <break time="1.5s"/>
 
-[FR-Vocab] la feuille.
+[FR-Vocab] la <phoneme alphabet="ipa" ph="fœj">feuille</phoneme>.
 <break time="1.0s"/>
 [KO] 잎.
 <break time="1.0s"/>
-[FR-Vocab] la feuille.
+[FR-Vocab] la <phoneme alphabet="ipa" ph="fœj">feuille</phoneme>.
 <break time="1.5s"/>
 
 [FR-Vocab] la branche.

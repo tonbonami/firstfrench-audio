@@ -22,11 +22,11 @@
 [FR-Vocab] le remboursement.
 <break time="1.5s"/>
 
-[FR-Vocab] la taille.
+[FR-Vocab] la <phoneme alphabet="ipa" ph="taj">taille</phoneme>.
 <break time="1.0s"/>
 [KO] 옷 사이즈.
 <break time="1.0s"/>
-[FR-Vocab] la taille.
+[FR-Vocab] la <phoneme alphabet="ipa" ph="taj">taille</phoneme>.
 <break time="1.5s"/>
 
 [FR-Vocab] le panier.

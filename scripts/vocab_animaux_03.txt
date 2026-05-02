@@ -19,7 +19,7 @@
 <break time="0.5s"/>
 [FR-Vocab] serpent.
 <break time="0.5s"/>
-[FR-Vocab] grenouille.
+[FR-Vocab] <phoneme alphabet="ipa" ph="ɡʁənuj">grenouille</phoneme>.
 <break time="0.5s"/>
 [FR-Vocab] dauphin.
 <break time="0.5s"/>

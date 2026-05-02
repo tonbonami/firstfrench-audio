@@ -5,7 +5,7 @@
 <break time="1.0s"/>
 [FR-Vocab] Je cherche une veste en cuir.
 <break time="1.0s"/>
-[FR-Vocab] Vous faites quelle taille ?
+[FR-Vocab] Vous faites quelle <phoneme alphabet="ipa" ph="taj">taille</phoneme> ?
 <break time="1.0s"/>
 [FR-Vocab] Est-ce que je peux l'essayer ?
 <break time="1.0s"/>

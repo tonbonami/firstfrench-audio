@@ -5,7 +5,7 @@
 <break time="0.5s"/>
 [FR-Vocab] gentil.
 <break time="0.5s"/>
-[FR-Vocab] gentille.
+[FR-Vocab] <phoneme alphabet="ipa" ph="ʒɑ̃tij">gentille</phoneme>.
 <break time="0.5s"/>
 [FR-Vocab] timide.
 <break time="0.5s"/>

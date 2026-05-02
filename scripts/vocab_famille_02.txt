@@ -29,11 +29,11 @@
 [FR-Vocab] le petit-fils.
 <break time="1.5s"/>
 
-[FR-Vocab] la petite-fille.
+[FR-Vocab] la petite-<phoneme alphabet="ipa" ph="fij">fille</phoneme>.
 <break time="1.0s"/>
 [KO] 손녀.
 <break time="1.0s"/>
-[FR-Vocab] la petite-fille.
+[FR-Vocab] la petite-<phoneme alphabet="ipa" ph="fij">fille</phoneme>.
 <break time="1.5s"/>
 
 [FR-Vocab] le petits-enfants.

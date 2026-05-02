@@ -15,7 +15,7 @@
 <break time="1.0s"/>
 [FR-Vocab] J'ai perdu mon sac.
 <break time="1.0s"/>
-[FR-Vocab] Quelle est votre taille ?
+[FR-Vocab] Quelle est votre <phoneme alphabet="ipa" ph="taj">taille</phoneme> ?
 <break time="1.0s"/>
 [FR-Vocab] Je peux essayer ?
 <break time="1.0s"/>

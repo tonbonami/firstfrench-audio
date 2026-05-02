@@ -7,7 +7,7 @@
 <break time="1.0s"/>
 [FR-Vocab] J'adore les chats mais j'ai peur des chiens.
 <break time="1.0s"/>
-[FR-Vocab] Ma fille veut un lapin.
+[FR-Vocab] Ma <phoneme alphabet="ipa" ph="fij">fille</phoneme> veut un lapin.
 <break time="1.0s"/>
 [FR-Vocab] J'ai peur des araignées.
 <break time="1.0s"/>

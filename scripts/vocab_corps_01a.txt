@@ -50,9 +50,9 @@
 [FR-Vocab] le nez.
 <break time="1.5s"/>
 
-[FR-Vocab] l'oreille.
+[FR-Vocab] l'<phoneme alphabet="ipa" ph="ɔʁɛj">oreille</phoneme>.
 <break time="1.0s"/>
 [KO] 귀.
 <break time="1.0s"/>
-[FR-Vocab] l'oreille.
+[FR-Vocab] l'<phoneme alphabet="ipa" ph="ɔʁɛj">oreille</phoneme>.
 <break time="1.5s"/>

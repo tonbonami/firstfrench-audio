@@ -1,0 +1,29 @@
+# -ille 발음 테스트
+# voices: Vocab=warm-mother
+
+# A: 원본
+[FR-Vocab] gentille.
+<break time="2.0s"/>
+
+# B: phoneme SSML tag (작동하면 가장 정확)
+[FR-Vocab] <phoneme alphabet="ipa" ph="ʒɑ̃tij">gentille</phoneme>.
+<break time="2.0s"/>
+
+# C: phonetic spelling — yeu 대신
+[FR-Vocab] gentilleuh.
+<break time="2.0s"/>
+
+# D: 띄어쓰기 분리 (gentil + le 같이)
+[FR-Vocab] gentil-yeu.
+<break time="2.0s"/>
+
+# E: 관사 추가 (la gentille)
+[FR-Vocab] la gentille.
+<break time="2.0s"/>
+
+# F: 다른 -ille 단어 비교 (정상 발음 케이스)
+[FR-Vocab] famille.
+<break time="1.0s"/>
+[FR-Vocab] oreille.
+<break time="1.0s"/>
+[FR-Vocab] feuille.

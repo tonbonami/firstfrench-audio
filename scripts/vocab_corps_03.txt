@@ -30,11 +30,11 @@
 [FR-Vocab] mollet.
 <break time="1.5s"/>
 
-[FR-Vocab] cheville.
+[FR-Vocab] <phoneme alphabet="ipa" ph="ʃəvij">cheville</phoneme>.
 <break time="1.0s"/>
 [KO] 발목.
 <break time="1.0s"/>
-[FR-Vocab] cheville.
+[FR-Vocab] <phoneme alphabet="ipa" ph="ʃəvij">cheville</phoneme>.
 <break time="1.5s"/>
 
 [FR-Vocab] pied.

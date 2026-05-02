@@ -15,11 +15,11 @@
 [FR-Vocab] gentil.
 <break time="1.5s"/>
 
-[FR-Vocab] gentille.
+[FR-Vocab] <phoneme alphabet="ipa" ph="ʒɑ̃tij">gentille</phoneme>.
 <break time="1.0s"/>
 [KO] 친절한.
 <break time="1.0s"/>
-[FR-Vocab] gentille.
+[FR-Vocab] <phoneme alphabet="ipa" ph="ʒɑ̃tij">gentille</phoneme>.
 <break time="1.5s"/>
 
 [FR-Vocab] timide.

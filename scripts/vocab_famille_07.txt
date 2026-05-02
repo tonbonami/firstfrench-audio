@@ -15,7 +15,7 @@
 <break time="1.0s"/>
 [FR-Vocab] J'ai beaucoup de cousins.
 <break time="1.0s"/>
-[FR-Vocab] Ma belle-mère est très gentille.
+[FR-Vocab] Ma belle-mère est très <phoneme alphabet="ipa" ph="ʒɑ̃tij">gentille</phoneme>.
 <break time="1.0s"/>
 [FR-Vocab] Elle est célibataire.
 <break time="1.0s"/>

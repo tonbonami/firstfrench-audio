@@ -51,11 +51,11 @@
 [FR-Vocab] nez.
 <break time="1.5s"/>
 
-[FR-Vocab] oreille.
+[FR-Vocab] <phoneme alphabet="ipa" ph="ɔʁɛj">oreille</phoneme>.
 <break time="1.0s"/>
 [KO] 귀.
 <break time="1.0s"/>
-[FR-Vocab] oreille.
+[FR-Vocab] <phoneme alphabet="ipa" ph="ɔʁɛj">oreille</phoneme>.
 <break time="1.5s"/>
 
 [FR-Vocab] bouche.

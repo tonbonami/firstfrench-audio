@@ -22,11 +22,11 @@
 [FR-Vocab] le serpent.
 <break time="1.5s"/>
 
-[FR-Vocab] la grenouille.
+[FR-Vocab] la <phoneme alphabet="ipa" ph="ɡʁənuj">grenouille</phoneme>.
 <break time="1.0s"/>
 [KO] 개구리.
 <break time="1.0s"/>
-[FR-Vocab] la grenouille.
+[FR-Vocab] la <phoneme alphabet="ipa" ph="ɡʁənuj">grenouille</phoneme>.
 <break time="1.5s"/>
 
 [FR-Vocab] le dauphin.

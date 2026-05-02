@@ -1,11 +1,11 @@
 # Vocabulaire — vocab_famille_01
 # voices: Vocab=warm-mother
 
-[FR-Vocab] la famille.
+[FR-Vocab] la <phoneme alphabet="ipa" ph="famij">famille</phoneme>.
 <break time="1.0s"/>
 [KO] 가족.
 <break time="1.0s"/>
-[FR-Vocab] la famille.
+[FR-Vocab] la <phoneme alphabet="ipa" ph="famij">famille</phoneme>.
 <break time="1.5s"/>
 
 [FR-Vocab] le parents.
@@ -36,11 +36,11 @@
 [FR-Vocab] le fils.
 <break time="1.5s"/>
 
-[FR-Vocab] la fille.
+[FR-Vocab] la <phoneme alphabet="ipa" ph="fij">fille</phoneme>.
 <break time="1.0s"/>
 [KO] 딸.
 <break time="1.0s"/>
-[FR-Vocab] la fille.
+[FR-Vocab] la <phoneme alphabet="ipa" ph="fij">fille</phoneme>.
 <break time="1.5s"/>
 
 [FR-Vocab] le frère.

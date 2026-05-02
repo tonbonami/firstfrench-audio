@@ -1,11 +1,11 @@
 # Vocabulaire — vocab_animaux_04
 # voices: Vocab=warm-mother
 
-[FR-Vocab] l'abeille.
+[FR-Vocab] l'<phoneme alphabet="ipa" ph="abɛj">abeille</phoneme>.
 <break time="1.0s"/>
 [KO] 벌.
 <break time="1.0s"/>
-[FR-Vocab] l'abeille.
+[FR-Vocab] l'<phoneme alphabet="ipa" ph="abɛj">abeille</phoneme>.
 <break time="1.5s"/>
 
 [FR-Vocab] le moustique.

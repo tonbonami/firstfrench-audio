@@ -29,11 +29,11 @@
 [FR-Vocab] le mollet.
 <break time="1.5s"/>
 
-[FR-Vocab] la cheville.
+[FR-Vocab] la <phoneme alphabet="ipa" ph="ʃəvij">cheville</phoneme>.
 <break time="1.0s"/>
 [KO] 발목.
 <break time="1.0s"/>
-[FR-Vocab] la cheville.
+[FR-Vocab] la <phoneme alphabet="ipa" ph="ʃəvij">cheville</phoneme>.
 <break time="1.5s"/>
 
 [FR-Vocab] le pied.
