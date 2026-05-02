@@ -1,0 +1,44 @@
+# Grammaire 기초 — 복수형 / 1. 기본 +s
+# voices: Vocab=warm-mother
+
+[FR-Vocab] un ami.
+<break time="1.0s"/>
+[KO] 친구 한 명.
+<break time="1.0s"/>
+[FR-Vocab] un ami.
+<break time="1.5s"/>
+
+[FR-Vocab] des amis.
+<break time="1.0s"/>
+[KO] 여러 친구들.
+<break time="1.0s"/>
+[FR-Vocab] des amis.
+<break time="1.5s"/>
+
+[FR-Vocab] une table.
+<break time="1.0s"/>
+[KO] 테이블 하나.
+<break time="1.0s"/>
+[FR-Vocab] une table.
+<break time="1.5s"/>
+
+[FR-Vocab] des tables.
+<break time="1.0s"/>
+[KO] 테이블들.
+<break time="1.0s"/>
+[FR-Vocab] des tables.
+<break time="1.5s"/>
+
+[FR-Vocab] le livre.
+<break time="1.0s"/>
+[KO] 그 책.
+<break time="1.0s"/>
+[FR-Vocab] le livre.
+<break time="1.5s"/>
+
+[FR-Vocab] les livres.
+<break time="1.0s"/>
+[KO] 그 책들.
+<break time="1.0s"/>
+[FR-Vocab] les livres.
+<break time="1.5s"/>

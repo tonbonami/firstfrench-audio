@@ -1,0 +1,30 @@
+# Grammaire 기초 — 명사의 성 / 1. 자연 성별
+# voices: Vocab=warm-mother
+
+[FR-Vocab] la mère.
+<break time="1.0s"/>
+[KO] 엄마.
+<break time="1.0s"/>
+[FR-Vocab] la mère.
+<break time="1.5s"/>
+
+[FR-Vocab] le père.
+<break time="1.0s"/>
+[KO] 아빠.
+<break time="1.0s"/>
+[FR-Vocab] le père.
+<break time="1.5s"/>
+
+[FR-Vocab] la femme.
+<break time="1.0s"/>
+[KO] 여자.
+<break time="1.0s"/>
+[FR-Vocab] la femme.
+<break time="1.5s"/>
+
+[FR-Vocab] l'homme.
+<break time="1.0s"/>
+[KO] 남자.
+<break time="1.0s"/>
+[FR-Vocab] l'homme.
+<break time="1.5s"/>

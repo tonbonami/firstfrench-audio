@@ -1,0 +1,72 @@
+# Grammaire 기초 — 복수형 / 2. au/eau/eu → x (예외 bleu, pneu)
+# voices: Vocab=warm-mother
+
+[FR-Vocab] un bateau.
+<break time="1.0s"/>
+[KO] 배 한 척.
+<break time="1.0s"/>
+[FR-Vocab] un bateau.
+<break time="1.5s"/>
+
+[FR-Vocab] des bateaux.
+<break time="1.0s"/>
+[KO] 배들.
+<break time="1.0s"/>
+[FR-Vocab] des bateaux.
+<break time="1.5s"/>
+
+[FR-Vocab] un cadeau.
+<break time="1.0s"/>
+[KO] 선물 하나.
+<break time="1.0s"/>
+[FR-Vocab] un cadeau.
+<break time="1.5s"/>
+
+[FR-Vocab] des cadeaux.
+<break time="1.0s"/>
+[KO] 선물들.
+<break time="1.0s"/>
+[FR-Vocab] des cadeaux.
+<break time="1.5s"/>
+
+[FR-Vocab] un jeu.
+<break time="1.0s"/>
+[KO] 게임 하나.
+<break time="1.0s"/>
+[FR-Vocab] un jeu.
+<break time="1.5s"/>
+
+[FR-Vocab] des jeux.
+<break time="1.0s"/>
+[KO] 게임들.
+<break time="1.0s"/>
+[FR-Vocab] des jeux.
+<break time="1.5s"/>
+
+[FR-Vocab] un bleu.
+<break time="1.0s"/>
+[KO] 멍 하나.
+<break time="1.0s"/>
+[FR-Vocab] un bleu.
+<break time="1.5s"/>
+
+[FR-Vocab] des bleus.
+<break time="1.0s"/>
+[KO] 멍들.
+<break time="1.0s"/>
+[FR-Vocab] des bleus.
+<break time="1.5s"/>
+
+[FR-Vocab] un pneu.
+<break time="1.0s"/>
+[KO] 타이어.
+<break time="1.0s"/>
+[FR-Vocab] un pneu.
+<break time="1.5s"/>
+
+[FR-Vocab] des pneus.
+<break time="1.0s"/>
+[KO] 타이어들.
+<break time="1.0s"/>
+[FR-Vocab] des pneus.
+<break time="1.5s"/>

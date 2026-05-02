@@ -1,0 +1,107 @@
+# Grammaire 기초 — 인칭 대명사 (9개) + 엘리지옹 + 리에종
+# voices: Vocab=warm-mother
+
+[FR-Vocab] je.
+<break time="1.0s"/>
+[KO] 나.
+<break time="1.0s"/>
+[FR-Vocab] je.
+<break time="1.5s"/>
+
+[FR-Vocab] tu.
+<break time="1.0s"/>
+[KO] 너.
+<break time="1.0s"/>
+[FR-Vocab] tu.
+<break time="1.5s"/>
+
+[FR-Vocab] il.
+<break time="1.0s"/>
+[KO] 그.
+<break time="1.0s"/>
+[FR-Vocab] il.
+<break time="1.5s"/>
+
+[FR-Vocab] elle.
+<break time="1.0s"/>
+[KO] 그녀.
+<break time="1.0s"/>
+[FR-Vocab] elle.
+<break time="1.5s"/>
+
+[FR-Vocab] on.
+<break time="1.0s"/>
+[KO] 우리.
+<break time="1.0s"/>
+[FR-Vocab] on.
+<break time="1.5s"/>
+
+[FR-Vocab] nous.
+<break time="1.0s"/>
+[KO] 우리.
+<break time="1.0s"/>
+[FR-Vocab] nous.
+<break time="1.5s"/>
+
+[FR-Vocab] vous.
+<break time="1.0s"/>
+[KO] 당신, 또는 당신들.
+<break time="1.0s"/>
+[FR-Vocab] vous.
+<break time="1.5s"/>
+
+[FR-Vocab] ils.
+<break time="1.0s"/>
+[KO] 그들.
+<break time="1.0s"/>
+[FR-Vocab] ils.
+<break time="1.5s"/>
+
+[FR-Vocab] elles.
+<break time="1.0s"/>
+[KO] 그녀들.
+<break time="1.0s"/>
+[FR-Vocab] elles.
+<break time="1.5s"/>
+
+[FR-Vocab] j'aime le café.
+<break time="1.0s"/>
+[KO] 커피를 좋아한다.
+<break time="1.0s"/>
+[FR-Vocab] j'aime le café.
+<break time="1.5s"/>
+
+[FR-Vocab] j'habite à Paris.
+<break time="1.0s"/>
+[KO] 파리에 산다.
+<break time="1.0s"/>
+[FR-Vocab] j'habite à Paris.
+<break time="1.5s"/>
+
+[FR-Vocab] nous avons.
+<break time="1.0s"/>
+[KO] 우리는 가지고 있다.
+<break time="1.0s"/>
+[FR-Vocab] nous avons.
+<break time="1.5s"/>
+
+[FR-Vocab] vous êtes.
+<break time="1.0s"/>
+[KO] 당신은 ~이다.
+<break time="1.0s"/>
+[FR-Vocab] vous êtes.
+<break time="1.5s"/>
+
+[FR-Vocab] ils arrivent.
+<break time="1.0s"/>
+[KO] 그들은 도착한다.
+<break time="1.0s"/>
+[FR-Vocab] ils arrivent.
+<break time="1.5s"/>
+
+[FR-Vocab] elles ont.
+<break time="1.0s"/>
+[KO] 그녀들은 가지고 있다.
+<break time="1.0s"/>
+[FR-Vocab] elles ont.
+<break time="1.5s"/>

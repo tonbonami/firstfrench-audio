@@ -1,0 +1,37 @@
+# Grammaire 기초 — 관사 / 2. 부정관사 (un, une, des) + les vs des
+# voices: Vocab=warm-mother
+
+[FR-Vocab] un livre.
+<break time="1.0s"/>
+[KO] 책 한 권.
+<break time="1.0s"/>
+[FR-Vocab] un livre.
+<break time="1.5s"/>
+
+[FR-Vocab] une maison.
+<break time="1.0s"/>
+[KO] 집 한 채.
+<break time="1.0s"/>
+[FR-Vocab] une maison.
+<break time="1.5s"/>
+
+[FR-Vocab] des livres.
+<break time="1.0s"/>
+[KO] 책 몇 권.
+<break time="1.0s"/>
+[FR-Vocab] des livres.
+<break time="1.5s"/>
+
+[FR-Vocab] Je regarde les photos.
+<break time="1.0s"/>
+[KO] 그 사진들을 본다.
+<break time="1.0s"/>
+[FR-Vocab] Je regarde les photos.
+<break time="1.5s"/>
+
+[FR-Vocab] Je regarde des photos.
+<break time="1.0s"/>
+[KO] 사진 몇 장을 본다.
+<break time="1.0s"/>
+[FR-Vocab] Je regarde des photos.
+<break time="1.5s"/>

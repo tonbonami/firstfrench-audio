@@ -1,0 +1,51 @@
+# Grammaire 기초 — 복수형 / 3. ou 예외 7개 → x
+# voices: Vocab=warm-mother
+
+[FR-Vocab] un bijou.
+<break time="1.0s"/>
+[KO] 보석.
+<break time="1.0s"/>
+[FR-Vocab] un bijou.
+<break time="1.5s"/>
+
+[FR-Vocab] des bijoux.
+<break time="1.0s"/>
+[KO] 보석들.
+<break time="1.0s"/>
+[FR-Vocab] des bijoux.
+<break time="1.5s"/>
+
+[FR-Vocab] un caillou.
+<break time="1.0s"/>
+[KO] 조약돌.
+<break time="1.0s"/>
+[FR-Vocab] un caillou.
+<break time="1.5s"/>
+
+[FR-Vocab] des cailloux.
+<break time="1.0s"/>
+[KO] 조약돌들.
+<break time="1.0s"/>
+[FR-Vocab] des cailloux.
+<break time="1.5s"/>
+
+[FR-Vocab] un chou.
+<break time="1.0s"/>
+[KO] 양배추.
+<break time="1.0s"/>
+[FR-Vocab] un chou.
+<break time="1.5s"/>
+
+[FR-Vocab] des choux.
+<break time="1.0s"/>
+[KO] 양배추들.
+<break time="1.0s"/>
+[FR-Vocab] des choux.
+<break time="1.5s"/>
+
+[FR-Vocab] un genou.
+<break time="1.0s"/>
+[KO] 무릎.
+<break time="1.0s"/>
+[FR-Vocab] un genou.
+<break time="1.5s"/>

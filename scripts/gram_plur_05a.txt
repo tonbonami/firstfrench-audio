@@ -1,0 +1,44 @@
+# Grammaire 기초 — 복수형 / 5. 불규칙 + 변화 없음 + 항상 복수
+# voices: Vocab=warm-mother
+
+[FR-Vocab] un œil.
+<break time="1.0s"/>
+[KO] 한쪽 눈.
+<break time="1.0s"/>
+[FR-Vocab] un œil.
+<break time="1.5s"/>
+
+[FR-Vocab] des yeux.
+<break time="1.0s"/>
+[KO] 두 눈.
+<break time="1.0s"/>
+[FR-Vocab] des yeux.
+<break time="1.5s"/>
+
+[FR-Vocab] un fils.
+<break time="1.0s"/>
+[KO] 아들.
+<break time="1.0s"/>
+[FR-Vocab] un fils.
+<break time="1.5s"/>
+
+[FR-Vocab] des fils.
+<break time="1.0s"/>
+[KO] 아들들.
+<break time="1.0s"/>
+[FR-Vocab] des fils.
+<break time="1.5s"/>
+
+[FR-Vocab] une voix.
+<break time="1.0s"/>
+[KO] 목소리.
+<break time="1.0s"/>
+[FR-Vocab] une voix.
+<break time="1.5s"/>
+
+[FR-Vocab] des voix.
+<break time="1.0s"/>
+[KO] 목소리들.
+<break time="1.0s"/>
+[FR-Vocab] des voix.
+<break time="1.5s"/>

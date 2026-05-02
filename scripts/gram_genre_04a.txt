@@ -1,0 +1,51 @@
+# Grammaire 기초 — 명사의 성 / 4. 어미 패턴 (남성형) + 부록
+# voices: Vocab=warm-mother
+
+[FR-Vocab] le changement.
+<break time="1.0s"/>
+[KO] 변화.
+<break time="1.0s"/>
+[FR-Vocab] le changement.
+<break time="1.5s"/>
+
+[FR-Vocab] le bateau.
+<break time="1.0s"/>
+[KO] 배.
+<break time="1.0s"/>
+[FR-Vocab] le bateau.
+<break time="1.5s"/>
+
+[FR-Vocab] le chapeau.
+<break time="1.0s"/>
+[KO] 모자.
+<break time="1.0s"/>
+[FR-Vocab] le chapeau.
+<break time="1.5s"/>
+
+[FR-Vocab] le sac.
+<break time="1.0s"/>
+[KO] 가방.
+<break time="1.0s"/>
+[FR-Vocab] le sac.
+<break time="1.5s"/>
+
+[FR-Vocab] le professeur.
+<break time="1.0s"/>
+[KO] 선생님.
+<break time="1.0s"/>
+[FR-Vocab] le professeur.
+<break time="1.5s"/>
+
+[FR-Vocab] la <phoneme alphabet="ipa" ph="fij">fille</phoneme>.
+<break time="1.0s"/>
+[KO] 딸.
+<break time="1.0s"/>
+[FR-Vocab] la <phoneme alphabet="ipa" ph="fij">fille</phoneme>.
+<break time="1.5s"/>
+
+[FR-Vocab] le fils.
+<break time="1.0s"/>
+[KO] 아들.
+<break time="1.0s"/>
+[FR-Vocab] le fils.
+<break time="1.5s"/>

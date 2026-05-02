@@ -1,0 +1,72 @@
+# Grammaire 기초 — 복수형 / 4. al → aux + 예외 + ail
+# voices: Vocab=warm-mother
+
+[FR-Vocab] un animal.
+<break time="1.0s"/>
+[KO] 동물.
+<break time="1.0s"/>
+[FR-Vocab] un animal.
+<break time="1.5s"/>
+
+[FR-Vocab] des animaux.
+<break time="1.0s"/>
+[KO] 동물들.
+<break time="1.0s"/>
+[FR-Vocab] des animaux.
+<break time="1.5s"/>
+
+[FR-Vocab] un journal.
+<break time="1.0s"/>
+[KO] 신문.
+<break time="1.0s"/>
+[FR-Vocab] un journal.
+<break time="1.5s"/>
+
+[FR-Vocab] des journaux.
+<break time="1.0s"/>
+[KO] 신문들.
+<break time="1.0s"/>
+[FR-Vocab] des journaux.
+<break time="1.5s"/>
+
+[FR-Vocab] un bal.
+<break time="1.0s"/>
+[KO] 무도회.
+<break time="1.0s"/>
+[FR-Vocab] un bal.
+<break time="1.5s"/>
+
+[FR-Vocab] des bals.
+<break time="1.0s"/>
+[KO] 무도회들.
+<break time="1.0s"/>
+[FR-Vocab] des bals.
+<break time="1.5s"/>
+
+[FR-Vocab] un festival.
+<break time="1.0s"/>
+[KO] 축제.
+<break time="1.0s"/>
+[FR-Vocab] un festival.
+<break time="1.5s"/>
+
+[FR-Vocab] des festivals.
+<break time="1.0s"/>
+[KO] 축제들.
+<break time="1.0s"/>
+[FR-Vocab] des festivals.
+<break time="1.5s"/>
+
+[FR-Vocab] un travail.
+<break time="1.0s"/>
+[KO] 일.
+<break time="1.0s"/>
+[FR-Vocab] un travail.
+<break time="1.5s"/>
+
+[FR-Vocab] des travaux.
+<break time="1.0s"/>
+[KO] 일들.
+<break time="1.0s"/>
+[FR-Vocab] des travaux.
+<break time="1.5s"/>

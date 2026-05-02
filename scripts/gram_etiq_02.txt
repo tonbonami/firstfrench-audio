@@ -1,0 +1,30 @@
+# Grammaire 기초 — 철자 기호 / 2. è à ù (Accent grave)
+# voices: Vocab=warm-mother
+
+[FR-Vocab] célèbre.
+<break time="1.0s"/>
+[KO] 유명한.
+<break time="1.0s"/>
+[FR-Vocab] célèbre.
+<break time="1.5s"/>
+
+[FR-Vocab] à.
+<break time="1.0s"/>
+[KO] 전치사 a.
+<break time="1.0s"/>
+[FR-Vocab] à.
+<break time="1.5s"/>
+
+[FR-Vocab] là.
+<break time="1.0s"/>
+[KO] 거기.
+<break time="1.0s"/>
+[FR-Vocab] là.
+<break time="1.5s"/>
+
+[FR-Vocab] où.
+<break time="1.0s"/>
+[KO] 어디.
+<break time="1.0s"/>
+[FR-Vocab] où.
+<break time="1.5s"/>

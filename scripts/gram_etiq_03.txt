@@ -1,0 +1,37 @@
+# Grammaire 기초 — 철자 기호 / 3. â ê î ô û (Accent circonflexe)
+# voices: Vocab=warm-mother
+
+[FR-Vocab] fête.
+<break time="1.0s"/>
+[KO] 축제.
+<break time="1.0s"/>
+[FR-Vocab] fête.
+<break time="1.5s"/>
+
+[FR-Vocab] hôpital.
+<break time="1.0s"/>
+[KO] 병원.
+<break time="1.0s"/>
+[FR-Vocab] hôpital.
+<break time="1.5s"/>
+
+[FR-Vocab] forêt.
+<break time="1.0s"/>
+[KO] 숲.
+<break time="1.0s"/>
+[FR-Vocab] forêt.
+<break time="1.5s"/>
+
+[FR-Vocab] pâte.
+<break time="1.0s"/>
+[KO] 반죽.
+<break time="1.0s"/>
+[FR-Vocab] pâte.
+<break time="1.5s"/>
+
+[FR-Vocab] patte.
+<break time="1.0s"/>
+[KO] 동물의 발.
+<break time="1.0s"/>
+[FR-Vocab] patte.
+<break time="1.5s"/>

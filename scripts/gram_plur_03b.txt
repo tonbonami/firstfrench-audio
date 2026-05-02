@@ -1,0 +1,51 @@
+# Grammaire 기초 — 복수형 / 3. ou 예외 7개 → x
+# voices: Vocab=warm-mother
+
+[FR-Vocab] des <phoneme alphabet="ipa" ph="ʒənu">genoux</phoneme>.
+<break time="1.0s"/>
+[KO] 무릎들.
+<break time="1.0s"/>
+[FR-Vocab] des <phoneme alphabet="ipa" ph="ʒənu">genoux</phoneme>.
+<break time="1.5s"/>
+
+[FR-Vocab] un hibou.
+<break time="1.0s"/>
+[KO] 부엉이.
+<break time="1.0s"/>
+[FR-Vocab] un hibou.
+<break time="1.5s"/>
+
+[FR-Vocab] des hiboux.
+<break time="1.0s"/>
+[KO] 부엉이들.
+<break time="1.0s"/>
+[FR-Vocab] des hiboux.
+<break time="1.5s"/>
+
+[FR-Vocab] un joujou.
+<break time="1.0s"/>
+[KO] 장난감.
+<break time="1.0s"/>
+[FR-Vocab] un joujou.
+<break time="1.5s"/>
+
+[FR-Vocab] des joujoux.
+<break time="1.0s"/>
+[KO] 장난감들.
+<break time="1.0s"/>
+[FR-Vocab] des joujoux.
+<break time="1.5s"/>
+
+[FR-Vocab] un pou.
+<break time="1.0s"/>
+[KO] 이.
+<break time="1.0s"/>
+[FR-Vocab] un pou.
+<break time="1.5s"/>
+
+[FR-Vocab] des poux.
+<break time="1.0s"/>
+[KO] 이들.
+<break time="1.0s"/>
+[FR-Vocab] des poux.
+<break time="1.5s"/>

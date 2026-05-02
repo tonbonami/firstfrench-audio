@@ -1,0 +1,51 @@
+# Grammaire 기초 — 관사 / 1. 정관사 (le, la, l', les)
+# voices: Vocab=warm-mother
+
+[FR-Vocab] le livre.
+<break time="1.0s"/>
+[KO] 그 책.
+<break time="1.0s"/>
+[FR-Vocab] le livre.
+<break time="1.5s"/>
+
+[FR-Vocab] la maison.
+<break time="1.0s"/>
+[KO] 그 집.
+<break time="1.0s"/>
+[FR-Vocab] la maison.
+<break time="1.5s"/>
+
+[FR-Vocab] l'ami.
+<break time="1.0s"/>
+[KO] 그 친구.
+<break time="1.0s"/>
+[FR-Vocab] l'ami.
+<break time="1.5s"/>
+
+[FR-Vocab] l'homme.
+<break time="1.0s"/>
+[KO] 그 남자.
+<break time="1.0s"/>
+[FR-Vocab] l'homme.
+<break time="1.5s"/>
+
+[FR-Vocab] les livres.
+<break time="1.0s"/>
+[KO] 그 책들.
+<break time="1.0s"/>
+[FR-Vocab] les livres.
+<break time="1.5s"/>
+
+[FR-Vocab] les maisons.
+<break time="1.0s"/>
+[KO] 그 집들.
+<break time="1.0s"/>
+[FR-Vocab] les maisons.
+<break time="1.5s"/>
+
+[FR-Vocab] le héros.
+<break time="1.0s"/>
+[KO] 그 영웅.
+<break time="1.0s"/>
+[FR-Vocab] le héros.
+<break time="1.5s"/>

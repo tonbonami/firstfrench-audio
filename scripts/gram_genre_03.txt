@@ -1,0 +1,65 @@
+# Grammaire 기초 — 명사의 성 / 3. 어미 패턴 (여성형)
+# voices: Vocab=warm-mother
+
+[FR-Vocab] la question.
+<break time="1.0s"/>
+[KO] 질문.
+<break time="1.0s"/>
+[FR-Vocab] la question.
+<break time="1.5s"/>
+
+[FR-Vocab] la décision.
+<break time="1.0s"/>
+[KO] 결정.
+<break time="1.0s"/>
+[FR-Vocab] la décision.
+<break time="1.5s"/>
+
+[FR-Vocab] la vie.
+<break time="1.0s"/>
+[KO] 인생.
+<break time="1.0s"/>
+[FR-Vocab] la vie.
+<break time="1.5s"/>
+
+[FR-Vocab] la boulangerie.
+<break time="1.0s"/>
+[KO] 빵집.
+<break time="1.0s"/>
+[FR-Vocab] la boulangerie.
+<break time="1.5s"/>
+
+[FR-Vocab] la chance.
+<break time="1.0s"/>
+[KO] 행운.
+<break time="1.0s"/>
+[FR-Vocab] la chance.
+<break time="1.5s"/>
+
+[FR-Vocab] la baguette.
+<break time="1.0s"/>
+[KO] 바게트.
+<break time="1.0s"/>
+[FR-Vocab] la baguette.
+<break time="1.5s"/>
+
+[FR-Vocab] la journée.
+<break time="1.0s"/>
+[KO] 하루.
+<break time="1.0s"/>
+[FR-Vocab] la journée.
+<break time="1.5s"/>
+
+[FR-Vocab] la lumière.
+<break time="1.0s"/>
+[KO] 빛.
+<break time="1.0s"/>
+[FR-Vocab] la lumière.
+<break time="1.5s"/>
+
+[FR-Vocab] la chaleur.
+<break time="1.0s"/>
+[KO] 더위.
+<break time="1.0s"/>
+[FR-Vocab] la chaleur.
+<break time="1.5s"/>

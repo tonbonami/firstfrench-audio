@@ -1,0 +1,23 @@
+# Grammaire 기초 — 철자 기호 / 4. ç (Cédille)
+# voices: Vocab=warm-mother
+
+[FR-Vocab] ça.
+<break time="1.0s"/>
+[KO] 이것.
+<break time="1.0s"/>
+[FR-Vocab] ça.
+<break time="1.5s"/>
+
+[FR-Vocab] leçon.
+<break time="1.0s"/>
+[KO] 수업.
+<break time="1.0s"/>
+[FR-Vocab] leçon.
+<break time="1.5s"/>
+
+[FR-Vocab] garçon.
+<break time="1.0s"/>
+[KO] 소년이나 웨이터.
+<break time="1.0s"/>
+[FR-Vocab] garçon.
+<break time="1.5s"/>

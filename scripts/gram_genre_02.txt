@@ -1,0 +1,16 @@
+# Grammaire 기초 — 명사의 성 / 2. 사물 (예측 불가, 암기)
+# voices: Vocab=warm-mother
+
+[FR-Vocab] la maison.
+<break time="1.0s"/>
+[KO] 집.
+<break time="1.0s"/>
+[FR-Vocab] la maison.
+<break time="1.5s"/>
+
+[FR-Vocab] le livre.
+<break time="1.0s"/>
+[KO] 책.
+<break time="1.0s"/>
+[FR-Vocab] le livre.
+<break time="1.5s"/>

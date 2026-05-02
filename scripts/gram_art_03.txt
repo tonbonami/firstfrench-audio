@@ -1,0 +1,58 @@
+# Grammaire 기초 — 관사 / 3. 부정문 + 수량 표현
+# voices: Vocab=warm-mother
+
+[FR-Vocab] Je veux un café.
+<break time="1.0s"/>
+[KO] 커피를 원한다.
+<break time="1.0s"/>
+[FR-Vocab] Je veux un café.
+<break time="1.5s"/>
+
+[FR-Vocab] Je ne veux pas de café.
+<break time="1.0s"/>
+[KO] 커피를 원하지 않는다.
+<break time="1.0s"/>
+[FR-Vocab] Je ne veux pas de café.
+<break time="1.5s"/>
+
+[FR-Vocab] C'est un livre.
+<break time="1.0s"/>
+[KO] 이것은 책이다.
+<break time="1.0s"/>
+[FR-Vocab] C'est un livre.
+<break time="1.5s"/>
+
+[FR-Vocab] Ce n'est pas un livre.
+<break time="1.0s"/>
+[KO] 이것은 책이 아니다, 예외 être.
+<break time="1.0s"/>
+[FR-Vocab] Ce n'est pas un livre.
+<break time="1.5s"/>
+
+[FR-Vocab] beaucoup de travail.
+<break time="1.0s"/>
+[KO] 많은 일.
+<break time="1.0s"/>
+[FR-Vocab] beaucoup de travail.
+<break time="1.5s"/>
+
+[FR-Vocab] un peu de lait.
+<break time="1.0s"/>
+[KO] 약간의 우유.
+<break time="1.0s"/>
+[FR-Vocab] un peu de lait.
+<break time="1.5s"/>
+
+[FR-Vocab] trop d'argent.
+<break time="1.0s"/>
+[KO] 너무 많은 돈.
+<break time="1.0s"/>
+[FR-Vocab] trop d'argent.
+<break time="1.5s"/>
+
+[FR-Vocab] assez d'amis.
+<break time="1.0s"/>
+[KO] 충분한 친구들.
+<break time="1.0s"/>
+[FR-Vocab] assez d'amis.
+<break time="1.5s"/>

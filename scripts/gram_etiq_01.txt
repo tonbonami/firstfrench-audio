@@ -1,0 +1,30 @@
+# Grammaire 기초 — 철자 기호 / 1. é (Accent aigu)
+# voices: Vocab=warm-mother
+
+[FR-Vocab] Corée.
+<break time="1.0s"/>
+[KO] 한국.
+<break time="1.0s"/>
+[FR-Vocab] Corée.
+<break time="1.5s"/>
+
+[FR-Vocab] été.
+<break time="1.0s"/>
+[KO] 여름.
+<break time="1.0s"/>
+[FR-Vocab] été.
+<break time="1.5s"/>
+
+[FR-Vocab] éponge.
+<break time="1.0s"/>
+[KO] 스펀지.
+<break time="1.0s"/>
+[FR-Vocab] éponge.
+<break time="1.5s"/>
+
+[FR-Vocab] étrange.
+<break time="1.0s"/>
+[KO] 이상한.
+<break time="1.0s"/>
+[FR-Vocab] étrange.
+<break time="1.5s"/>
