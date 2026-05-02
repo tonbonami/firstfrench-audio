@@ -1,52 +1,51 @@
 # Vocabulaire — vocab_sante_03a / part a
-# 패턴: FR → KO → FR
-# voices: Vocab=lisons-narrator
+# voices: Vocab=warm-mother
 
-[FR-Vocab] médecin.
+[FR-Vocab] le médecin.
 <break time="1.0s"/>
-[KO] 의사
+[KO] 의사.
 <break time="1.0s"/>
-[FR-Vocab] médecin.
+[FR-Vocab] le médecin.
 <break time="1.5s"/>
 
-[FR-Vocab] docteur.
+[FR-Vocab] le docteur.
 <break time="1.0s"/>
-[KO] 의사
+[KO] 의사 (호칭).
 <break time="1.0s"/>
-[FR-Vocab] docteur.
+[FR-Vocab] le docteur.
 <break time="1.5s"/>
 
-[FR-Vocab] infirmier.
+[FR-Vocab] l'infirmier.
 <break time="1.0s"/>
-[KO] 간호사, 남성형
+[KO] 간호사.
 <break time="1.0s"/>
-[FR-Vocab] infirmier.
+[FR-Vocab] l'infirmier.
 <break time="1.5s"/>
 
-[FR-Vocab] infirmière.
+[FR-Vocab] l'infirmière.
 <break time="1.0s"/>
-[KO] 간호사, 여성형
+[KO] 간호사.
 <break time="1.0s"/>
-[FR-Vocab] infirmière.
+[FR-Vocab] l'infirmière.
 <break time="1.5s"/>
 
-[FR-Vocab] ordonnance.
+[FR-Vocab] l'ordonnance.
 <break time="1.0s"/>
-[KO] 처방전
+[KO] 처방전.
 <break time="1.0s"/>
-[FR-Vocab] ordonnance.
+[FR-Vocab] l'ordonnance.
 <break time="1.5s"/>
 
-[FR-Vocab] médicament.
+[FR-Vocab] le médicament.
 <break time="1.0s"/>
-[KO] 약
+[KO] 약.
 <break time="1.0s"/>
-[FR-Vocab] médicament.
+[FR-Vocab] le médicament.
 <break time="1.5s"/>
 
-[FR-Vocab] comprimé.
+[FR-Vocab] le comprimé.
 <break time="1.0s"/>
-[KO] 알약
+[KO] 알약.
 <break time="1.0s"/>
-[FR-Vocab] comprimé.
+[FR-Vocab] le comprimé.
 <break time="1.5s"/>

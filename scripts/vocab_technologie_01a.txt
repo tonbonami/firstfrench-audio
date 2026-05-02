@@ -1,52 +1,51 @@
 # Vocabulaire — vocab_technologie_01a / part a
-# 패턴: FR → KO → FR
-# voices: Vocab=lisons-narrator
+# voices: Vocab=warm-mother
 
-[FR-Vocab] téléphone (portable).
+[FR-Vocab] le téléphone (portable).
 <break time="1.0s"/>
-[KO] 휴대폰
+[KO] 휴대폰.
 <break time="1.0s"/>
-[FR-Vocab] téléphone (portable).
+[FR-Vocab] le téléphone (portable).
 <break time="1.5s"/>
 
-[FR-Vocab] smartphone.
+[FR-Vocab] le smartphone.
 <break time="1.0s"/>
-[KO] 스마트폰
+[KO] 스마트폰.
 <break time="1.0s"/>
-[FR-Vocab] smartphone.
+[FR-Vocab] le smartphone.
 <break time="1.5s"/>
 
-[FR-Vocab] ordinateur.
+[FR-Vocab] l'ordinateur.
 <break time="1.0s"/>
-[KO] 컴퓨터
+[KO] 컴퓨터.
 <break time="1.0s"/>
-[FR-Vocab] ordinateur.
+[FR-Vocab] l'ordinateur.
 <break time="1.5s"/>
 
-[FR-Vocab] ordinateur portable.
+[FR-Vocab] l'ordinateur portable.
 <break time="1.0s"/>
-[KO] 노트북
+[KO] 노트북.
 <break time="1.0s"/>
-[FR-Vocab] ordinateur portable.
+[FR-Vocab] l'ordinateur portable.
 <break time="1.5s"/>
 
-[FR-Vocab] tablette.
+[FR-Vocab] la tablette.
 <break time="1.0s"/>
-[KO] 태블릿
+[KO] 태블릿.
 <break time="1.0s"/>
-[FR-Vocab] tablette.
+[FR-Vocab] la tablette.
 <break time="1.5s"/>
 
-[FR-Vocab] écran.
+[FR-Vocab] l'écran.
 <break time="1.0s"/>
-[KO] 화면
+[KO] 화면.
 <break time="1.0s"/>
-[FR-Vocab] écran.
+[FR-Vocab] l'écran.
 <break time="1.5s"/>
 
-[FR-Vocab] clavier.
+[FR-Vocab] le clavier.
 <break time="1.0s"/>
-[KO] 키보드
+[KO] 키보드.
 <break time="1.0s"/>
-[FR-Vocab] clavier.
+[FR-Vocab] le clavier.
 <break time="1.5s"/>

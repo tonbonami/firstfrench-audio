@@ -1,45 +1,44 @@
 # Vocabulaire — vocab_sante_01a / part a
-# 패턴: FR → KO → FR
-# voices: Vocab=lisons-narrator
+# voices: Vocab=warm-mother
 
 [FR-Vocab] avoir mal à la tête.
 <break time="1.0s"/>
-[KO] 머리가 아프다
+[KO] 머리가 아프다.
 <break time="1.0s"/>
 [FR-Vocab] avoir mal à la tête.
 <break time="1.5s"/>
 
 [FR-Vocab] avoir mal au ventre.
 <break time="1.0s"/>
-[KO] 배가 아프다
+[KO] 배가 아프다.
 <break time="1.0s"/>
 [FR-Vocab] avoir mal au ventre.
 <break time="1.5s"/>
 
 [FR-Vocab] avoir mal à la gorge.
 <break time="1.0s"/>
-[KO] 목이 아프다
+[KO] 목이 아프다.
 <break time="1.0s"/>
 [FR-Vocab] avoir mal à la gorge.
 <break time="1.5s"/>
 
 [FR-Vocab] avoir mal au dos.
 <break time="1.0s"/>
-[KO] 등이 아프다
+[KO] 등이 아프다.
 <break time="1.0s"/>
 [FR-Vocab] avoir mal au dos.
 <break time="1.5s"/>
 
 [FR-Vocab] avoir de la fièvre.
 <break time="1.0s"/>
-[KO] 열이 있다
+[KO] 열이 있다.
 <break time="1.0s"/>
 [FR-Vocab] avoir de la fièvre.
 <break time="1.5s"/>
 
 [FR-Vocab] avoir le nez qui coule.
 <break time="1.0s"/>
-[KO] 콧물이 나다
+[KO] 콧물이 나다.
 <break time="1.0s"/>
 [FR-Vocab] avoir le nez qui coule.
 <break time="1.5s"/>

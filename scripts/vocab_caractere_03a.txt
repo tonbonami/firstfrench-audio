@@ -1,37 +1,44 @@
-# Vocabulaire — Caractère / 3a
-# voices: Vocab=lisons-narrator
+# Vocabulaire — vocab_caractere_03a / part a
+# voices: Vocab=warm-mother
 
 [FR-Vocab] réservé.
 <break time="1.0s"/>
-[KO] 내성적인, 남성형.
+[KO] 내성적인.
 <break time="1.0s"/>
 [FR-Vocab] réservé.
 <break time="1.5s"/>
 
 [FR-Vocab] réservée.
 <break time="1.0s"/>
-[KO] 내성적인, 여성형.
+[KO] 내성적인.
 <break time="1.0s"/>
 [FR-Vocab] réservée.
 <break time="1.5s"/>
 
 [FR-Vocab] timide.
 <break time="1.0s"/>
-[KO] 수줍은. 남녀 동일.
+[KO] 수줍은.
 <break time="1.0s"/>
 [FR-Vocab] timide.
 <break time="1.5s"/>
 
 [FR-Vocab] indépendant.
 <break time="1.0s"/>
-[KO] 독립적인, 남성형.
+[KO] 독립적인.
 <break time="1.0s"/>
 [FR-Vocab] indépendant.
 <break time="1.5s"/>
 
 [FR-Vocab] indépendante.
 <break time="1.0s"/>
-[KO] 독립적인, 여성형.
+[KO] 독립적인.
 <break time="1.0s"/>
 [FR-Vocab] indépendante.
+<break time="1.5s"/>
+
+[FR-Vocab] ambitieux.
+<break time="1.0s"/>
+[KO] 야망 있는.
+<break time="1.0s"/>
+[FR-Vocab] ambitieux.
 <break time="1.5s"/>

@@ -1,59 +1,58 @@
 # Vocabulaire — vocab_voyage_04
-# 패턴: FR → KO → FR
-# voices: Vocab=lisons-narrator
+# voices: Vocab=warm-mother
 
-[FR-Vocab] voyage.
+[FR-Vocab] le voyage.
 <break time="1.0s"/>
-[KO] 여행
+[KO] 여행.
 <break time="1.0s"/>
-[FR-Vocab] voyage.
+[FR-Vocab] le voyage.
 <break time="1.5s"/>
 
-[FR-Vocab] touriste.
+[FR-Vocab] le touriste.
 <break time="1.0s"/>
-[KO] 관광객
+[KO] 관광객.
 <break time="1.0s"/>
-[FR-Vocab] touriste.
+[FR-Vocab] le touriste.
 <break time="1.5s"/>
 
-[FR-Vocab] carte.
+[FR-Vocab] la carte.
 <break time="1.0s"/>
-[KO] 지도
+[KO] 지도.
 <break time="1.0s"/>
-[FR-Vocab] carte.
+[FR-Vocab] la carte.
 <break time="1.5s"/>
 
-[FR-Vocab] guide.
+[FR-Vocab] le guide.
 <break time="1.0s"/>
-[KO] 가이드·안내서
+[KO] 가이드·안내서.
 <break time="1.0s"/>
-[FR-Vocab] guide.
+[FR-Vocab] le guide.
 <break time="1.5s"/>
 
-[FR-Vocab] monument.
+[FR-Vocab] le monument.
 <break time="1.0s"/>
-[KO] 기념물
+[KO] 기념물.
 <break time="1.0s"/>
-[FR-Vocab] monument.
+[FR-Vocab] le monument.
 <break time="1.5s"/>
 
-[FR-Vocab] musée.
+[FR-Vocab] le musée.
 <break time="1.0s"/>
-[KO] 박물관
+[KO] 박물관.
 <break time="1.0s"/>
-[FR-Vocab] musée.
+[FR-Vocab] le musée.
 <break time="1.5s"/>
 
-[FR-Vocab] plage.
+[FR-Vocab] la plage.
 <break time="1.0s"/>
-[KO] 해변
+[KO] 해변.
 <break time="1.0s"/>
-[FR-Vocab] plage.
+[FR-Vocab] la plage.
 <break time="1.5s"/>
 
-[FR-Vocab] montagne.
+[FR-Vocab] la montagne.
 <break time="1.0s"/>
-[KO] 산
+[KO] 산.
 <break time="1.0s"/>
-[FR-Vocab] montagne.
+[FR-Vocab] la montagne.
 <break time="1.5s"/>

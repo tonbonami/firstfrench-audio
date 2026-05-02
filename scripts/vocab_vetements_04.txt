@@ -1,38 +1,37 @@
 # Vocabulaire — vocab_vetements_04
-# 패턴: FR → KO → FR
-# voices: Vocab=lisons-narrator
+# voices: Vocab=warm-mother
 
-[FR-Vocab] chaussures.
+[FR-Vocab] la chaussures.
 <break time="1.0s"/>
-[KO] 신발, 복수형
+[KO] 신발.
 <break time="1.0s"/>
-[FR-Vocab] chaussures.
+[FR-Vocab] la chaussures.
 <break time="1.5s"/>
 
-[FR-Vocab] chaussettes.
+[FR-Vocab] la chaussettes.
 <break time="1.0s"/>
-[KO] 양말, 복수형
+[KO] 양말.
 <break time="1.0s"/>
-[FR-Vocab] chaussettes.
+[FR-Vocab] la chaussettes.
 <break time="1.5s"/>
 
-[FR-Vocab] baskets.
+[FR-Vocab] la baskets.
 <break time="1.0s"/>
-[KO] 운동화, 복수형
+[KO] 운동화.
 <break time="1.0s"/>
-[FR-Vocab] baskets.
+[FR-Vocab] la baskets.
 <break time="1.5s"/>
 
-[FR-Vocab] bottes.
+[FR-Vocab] la bottes.
 <break time="1.0s"/>
-[KO] 부츠, 복수형
+[KO] 부츠.
 <break time="1.0s"/>
-[FR-Vocab] bottes.
+[FR-Vocab] la bottes.
 <break time="1.5s"/>
 
-[FR-Vocab] sandales.
+[FR-Vocab] la sandales.
 <break time="1.0s"/>
-[KO] 샌들, 복수형
+[KO] 샌들.
 <break time="1.0s"/>
-[FR-Vocab] sandales.
+[FR-Vocab] la sandales.
 <break time="1.5s"/>

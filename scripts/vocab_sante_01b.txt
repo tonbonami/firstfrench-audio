@@ -1,38 +1,37 @@
 # Vocabulaire — vocab_sante_01b / part b
-# 패턴: FR → KO → FR
-# voices: Vocab=lisons-narrator
+# voices: Vocab=warm-mother
 
 [FR-Vocab] tousser.
 <break time="1.0s"/>
-[KO] 기침하다
+[KO] 기침하다.
 <break time="1.0s"/>
 [FR-Vocab] tousser.
 <break time="1.5s"/>
 
 [FR-Vocab] éternuer.
 <break time="1.0s"/>
-[KO] 재채기하다
+[KO] 재채기하다.
 <break time="1.0s"/>
 [FR-Vocab] éternuer.
 <break time="1.5s"/>
 
 [FR-Vocab] se sentir fatigué(e).
 <break time="1.0s"/>
-[KO] 피곤함을 느끼다
+[KO] 피곤함을 느끼다.
 <break time="1.0s"/>
 [FR-Vocab] se sentir fatigué(e).
 <break time="1.5s"/>
 
 [FR-Vocab] avoir des vertiges.
 <break time="1.0s"/>
-[KO] 어지럽다
+[KO] 어지럽다.
 <break time="1.0s"/>
 [FR-Vocab] avoir des vertiges.
 <break time="1.5s"/>
 
 [FR-Vocab] vomir.
 <break time="1.0s"/>
-[KO] 구토하다
+[KO] 구토하다.
 <break time="1.0s"/>
 [FR-Vocab] vomir.
 <break time="1.5s"/>

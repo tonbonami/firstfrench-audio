@@ -1,45 +1,44 @@
 # Vocabulaire — vocab_nombres_01b / part b
-# 패턴: FR → KO → FR
-# voices: Vocab=lisons-narrator
+# voices: Vocab=warm-mother
 
 [FR-Vocab] cinq.
 <break time="1.0s"/>
-[KO] 5
+[KO] 5.
 <break time="1.0s"/>
 [FR-Vocab] cinq.
 <break time="1.5s"/>
 
 [FR-Vocab] six.
 <break time="1.0s"/>
-[KO] 6
+[KO] 6.
 <break time="1.0s"/>
 [FR-Vocab] six.
 <break time="1.5s"/>
 
 [FR-Vocab] sept.
 <break time="1.0s"/>
-[KO] 7
+[KO] 7.
 <break time="1.0s"/>
 [FR-Vocab] sept.
 <break time="1.5s"/>
 
-[FR-Vocab] huit.
+[FR-Vocab] l'huit.
 <break time="1.0s"/>
-[KO] 8
+[KO] 8.
 <break time="1.0s"/>
-[FR-Vocab] huit.
+[FR-Vocab] l'huit.
 <break time="1.5s"/>
 
 [FR-Vocab] neuf.
 <break time="1.0s"/>
-[KO] 9
+[KO] 9.
 <break time="1.0s"/>
 [FR-Vocab] neuf.
 <break time="1.5s"/>
 
 [FR-Vocab] dix.
 <break time="1.0s"/>
-[KO] 10
+[KO] 10.
 <break time="1.0s"/>
 [FR-Vocab] dix.
 <break time="1.5s"/>

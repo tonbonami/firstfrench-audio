@@ -1,45 +1,44 @@
 # Vocabulaire — vocab_cuisine_02b / part b
-# 패턴: FR → KO → FR
-# voices: Vocab=lisons-narrator
+# voices: Vocab=warm-mother
 
-[FR-Vocab] planche à découper.
+[FR-Vocab] la planche à découper.
 <break time="1.0s"/>
 [KO] 도마.
 <break time="1.0s"/>
-[FR-Vocab] planche à découper.
+[FR-Vocab] la planche à découper.
 <break time="1.5s"/>
 
-[FR-Vocab] bol.
+[FR-Vocab] le bol.
 <break time="1.0s"/>
 [KO] 보울.
 <break time="1.0s"/>
-[FR-Vocab] bol.
+[FR-Vocab] le bol.
 <break time="1.5s"/>
 
-[FR-Vocab] passoire.
+[FR-Vocab] la passoire.
 <break time="1.0s"/>
 [KO] 체.
 <break time="1.0s"/>
-[FR-Vocab] passoire.
+[FR-Vocab] la passoire.
 <break time="1.5s"/>
 
-[FR-Vocab] fouet.
+[FR-Vocab] le fouet.
 <break time="1.0s"/>
 [KO] 거품기.
 <break time="1.0s"/>
-[FR-Vocab] fouet.
+[FR-Vocab] le fouet.
 <break time="1.5s"/>
 
-[FR-Vocab] spatule.
+[FR-Vocab] la spatule.
 <break time="1.0s"/>
 [KO] 주걱.
 <break time="1.0s"/>
-[FR-Vocab] spatule.
+[FR-Vocab] la spatule.
 <break time="1.5s"/>
 
-[FR-Vocab] tablier.
+[FR-Vocab] le tablier.
 <break time="1.0s"/>
 [KO] 앞치마.
 <break time="1.0s"/>
-[FR-Vocab] tablier.
+[FR-Vocab] le tablier.
 <break time="1.5s"/>

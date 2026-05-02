@@ -1,5 +1,5 @@
-# Expressions / 3: 음식·일상
-# voices: Vocab=lisons-narrator
+# Vocabulaire — vocab_expressions_03
+# voices: Vocab=warm-mother
 
 [FR-Vocab] casser la croûte.
 <break time="1.0s"/>

@@ -1,31 +1,30 @@
 # Vocabulaire — vocab_nourriture_01
-# 패턴: FR → KO → FR
-# voices: Vocab=lisons-narrator
+# voices: Vocab=warm-mother
 
-[FR-Vocab] pain.
+[FR-Vocab] le pain.
 <break time="1.0s"/>
 [KO] 빵.
 <break time="1.0s"/>
-[FR-Vocab] pain.
+[FR-Vocab] le pain.
 <break time="1.5s"/>
 
-[FR-Vocab] riz.
+[FR-Vocab] le riz.
 <break time="1.0s"/>
-[KO] 쌀이나 밥.
+[KO] 쌀·밥.
 <break time="1.0s"/>
-[FR-Vocab] riz.
+[FR-Vocab] le riz.
 <break time="1.5s"/>
 
-[FR-Vocab] pâtes.
+[FR-Vocab] la pâtes.
 <break time="1.0s"/>
-[KO] 파스타, 복수형.
+[KO] 파스타.
 <break time="1.0s"/>
-[FR-Vocab] pâtes.
+[FR-Vocab] la pâtes.
 <break time="1.5s"/>
 
-[FR-Vocab] céréales.
+[FR-Vocab] la céréales.
 <break time="1.0s"/>
-[KO] 시리얼, 복수형.
+[KO] 시리얼.
 <break time="1.0s"/>
-[FR-Vocab] céréales.
+[FR-Vocab] la céréales.
 <break time="1.5s"/>

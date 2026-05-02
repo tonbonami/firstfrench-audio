@@ -1,5 +1,5 @@
-# Expressions / 2: 동물 관련
-# voices: Vocab=lisons-narrator
+# Vocabulaire — vocab_expressions_02
+# voices: Vocab=warm-mother
 
 [FR-Vocab] poser un lapin.
 <break time="1.0s"/>
@@ -10,7 +10,7 @@
 
 [FR-Vocab] donner sa langue au chat.
 <break time="1.0s"/>
-[KO] 모르겠다고 인정하다.
+[KO] 모르겠다 인정하다.
 <break time="1.0s"/>
 [FR-Vocab] donner sa langue au chat.
 <break time="1.5s"/>

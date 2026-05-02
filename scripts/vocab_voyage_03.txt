@@ -1,66 +1,65 @@
 # Vocabulaire — vocab_voyage_03
-# 패턴: FR → KO → FR
-# voices: Vocab=lisons-narrator
+# voices: Vocab=warm-mother
 
-[FR-Vocab] train.
+[FR-Vocab] le train.
 <break time="1.0s"/>
-[KO] 기차
+[KO] 기차.
 <break time="1.0s"/>
-[FR-Vocab] train.
+[FR-Vocab] le train.
 <break time="1.5s"/>
 
-[FR-Vocab] métro.
+[FR-Vocab] le métro.
 <break time="1.0s"/>
-[KO] 지하철
+[KO] 지하철.
 <break time="1.0s"/>
-[FR-Vocab] métro.
+[FR-Vocab] le métro.
 <break time="1.5s"/>
 
-[FR-Vocab] bus.
+[FR-Vocab] le bus.
 <break time="1.0s"/>
-[KO] 버스
+[KO] 버스.
 <break time="1.0s"/>
-[FR-Vocab] bus.
+[FR-Vocab] le bus.
 <break time="1.5s"/>
 
-[FR-Vocab] taxi.
+[FR-Vocab] le taxi.
 <break time="1.0s"/>
-[KO] 택시
+[KO] 택시.
 <break time="1.0s"/>
-[FR-Vocab] taxi.
+[FR-Vocab] le taxi.
 <break time="1.5s"/>
 
 [FR-Vocab] aller simple.
 <break time="1.0s"/>
-[KO] 편도
+[KO] 편도.
 <break time="1.0s"/>
 [FR-Vocab] aller simple.
 <break time="1.5s"/>
 
 [FR-Vocab] aller-retour.
 <break time="1.0s"/>
-[KO] 왕복
+[KO] 왕복.
 <break time="1.0s"/>
 [FR-Vocab] aller-retour.
 <break time="1.5s"/>
 
-[FR-Vocab] quai.
+[FR-Vocab] le quai.
 <break time="1.0s"/>
-[KO] 승강장
+[KO] 승강장.
 <break time="1.0s"/>
-[FR-Vocab] quai.
+[FR-Vocab] le quai.
 <break time="1.5s"/>
 
-[FR-Vocab] correspondance.
+[FR-Vocab] la correspondance.
 <break time="1.0s"/>
-[KO] 환승
+[KO] 환승.
 <break time="1.0s"/>
-[FR-Vocab] correspondance.
+[FR-Vocab] la correspondance.
 <break time="1.5s"/>
 
-[FR-Vocab] arrêt.
+[FR-Vocab] l'arrêt.
 <break time="1.0s"/>
-[KO] 정류장
+[KO] 정류장.
 <break time="1.0s"/>
-[FR-Vocab] arrêt.
+[FR-Vocab] l'arrêt.
 <break time="1.5s"/>

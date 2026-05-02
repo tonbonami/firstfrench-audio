@@ -1,73 +1,72 @@
 # Vocabulaire — vocab_pays_02a / part a
-# 패턴: FR → KO → FR
-# voices: Vocab=lisons-narrator
+# voices: Vocab=warm-mother
 
-[FR-Vocab] coréen.
+[FR-Vocab] le coréen.
 <break time="1.0s"/>
-[KO] 한국인, 남성형
+[KO] 한국인.
 <break time="1.0s"/>
-[FR-Vocab] coréen.
+[FR-Vocab] le coréen.
 <break time="1.5s"/>
 
-[FR-Vocab] coréenne.
+[FR-Vocab] la coréenne.
 <break time="1.0s"/>
-[KO] 한국인, 여성형
+[KO] 한국인.
 <break time="1.0s"/>
-[FR-Vocab] coréenne.
+[FR-Vocab] la coréenne.
 <break time="1.5s"/>
 
-[FR-Vocab] français.
+[FR-Vocab] le français.
 <break time="1.0s"/>
-[KO] 프랑스인, 남성형
+[KO] 프랑스인.
 <break time="1.0s"/>
-[FR-Vocab] français.
+[FR-Vocab] le français.
 <break time="1.5s"/>
 
-[FR-Vocab] française.
+[FR-Vocab] la française.
 <break time="1.0s"/>
-[KO] 프랑스인, 여성형
+[KO] 프랑스인.
 <break time="1.0s"/>
-[FR-Vocab] française.
+[FR-Vocab] la française.
 <break time="1.5s"/>
 
-[FR-Vocab] japonais.
+[FR-Vocab] le japonais.
 <break time="1.0s"/>
-[KO] 일본인, 남성형
+[KO] 일본인.
 <break time="1.0s"/>
-[FR-Vocab] japonais.
+[FR-Vocab] le japonais.
 <break time="1.5s"/>
 
-[FR-Vocab] japonaise.
+[FR-Vocab] la japonaise.
 <break time="1.0s"/>
-[KO] 일본인, 여성형
+[KO] 일본인.
 <break time="1.0s"/>
-[FR-Vocab] japonaise.
+[FR-Vocab] la japonaise.
 <break time="1.5s"/>
 
-[FR-Vocab] chinois.
+[FR-Vocab] le chinois.
 <break time="1.0s"/>
-[KO] 중국인, 남성형
+[KO] 중국인.
 <break time="1.0s"/>
-[FR-Vocab] chinois.
+[FR-Vocab] le chinois.
 <break time="1.5s"/>
 
-[FR-Vocab] chinoise.
+[FR-Vocab] la chinoise.
 <break time="1.0s"/>
-[KO] 중국인, 여성형
+[KO] 중국인.
 <break time="1.0s"/>
-[FR-Vocab] chinoise.
+[FR-Vocab] la chinoise.
 <break time="1.5s"/>
 
-[FR-Vocab] américain.
+[FR-Vocab] l'américain.
 <break time="1.0s"/>
-[KO] 미국인, 남성형
+[KO] 미국인.
 <break time="1.0s"/>
-[FR-Vocab] américain.
+[FR-Vocab] l'américain.
 <break time="1.5s"/>
 
-[FR-Vocab] américaine.
+[FR-Vocab] l'américaine.
 <break time="1.0s"/>
-[KO] 미국인, 여성형
+[KO] 미국인.
 <break time="1.0s"/>
-[FR-Vocab] américaine.
+[FR-Vocab] l'américaine.
 <break time="1.5s"/>

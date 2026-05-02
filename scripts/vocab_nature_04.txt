@@ -1,73 +1,72 @@
 # Vocabulaire — vocab_nature_04
-# 패턴: FR → KO → FR
-# voices: Vocab=lisons-narrator
+# voices: Vocab=warm-mother
 
-[FR-Vocab] soleil.
+[FR-Vocab] le soleil.
 <break time="1.0s"/>
-[KO] 해
+[KO] 해.
 <break time="1.0s"/>
-[FR-Vocab] soleil.
+[FR-Vocab] le soleil.
 <break time="1.5s"/>
 
-[FR-Vocab] lune.
+[FR-Vocab] la lune.
 <break time="1.0s"/>
-[KO] 달
+[KO] 달.
 <break time="1.0s"/>
-[FR-Vocab] lune.
+[FR-Vocab] la lune.
 <break time="1.5s"/>
 
-[FR-Vocab] étoiles.
+[FR-Vocab] l'étoiles.
 <break time="1.0s"/>
-[KO] 별
+[KO] 별.
 <break time="1.0s"/>
-[FR-Vocab] étoiles.
+[FR-Vocab] l'étoiles.
 <break time="1.5s"/>
 
-[FR-Vocab] ciel.
+[FR-Vocab] le ciel.
 <break time="1.0s"/>
-[KO] 하늘
+[KO] 하늘.
 <break time="1.0s"/>
-[FR-Vocab] ciel.
+[FR-Vocab] le ciel.
 <break time="1.5s"/>
 
-[FR-Vocab] foudre.
+[FR-Vocab] la foudre.
 <break time="1.0s"/>
-[KO] 번개
+[KO] 번개.
 <break time="1.0s"/>
-[FR-Vocab] foudre.
+[FR-Vocab] la foudre.
 <break time="1.5s"/>
 
-[FR-Vocab] tonnerre.
+[FR-Vocab] le tonnerre.
 <break time="1.0s"/>
-[KO] 천둥
+[KO] 천둥.
 <break time="1.0s"/>
-[FR-Vocab] tonnerre.
+[FR-Vocab] le tonnerre.
 <break time="1.5s"/>
 
-[FR-Vocab] tempête.
+[FR-Vocab] la tempête.
 <break time="1.0s"/>
-[KO] 폭풍
+[KO] 폭풍.
 <break time="1.0s"/>
-[FR-Vocab] tempête.
+[FR-Vocab] la tempête.
 <break time="1.5s"/>
 
-[FR-Vocab] arc-en-ciel.
+[FR-Vocab] l'arc-en-ciel.
 <break time="1.0s"/>
-[KO] 무지개
+[KO] 무지개.
 <break time="1.0s"/>
-[FR-Vocab] arc-en-ciel.
+[FR-Vocab] l'arc-en-ciel.
 <break time="1.5s"/>
 
-[FR-Vocab] sécheresse.
+[FR-Vocab] la sécheresse.
 <break time="1.0s"/>
-[KO] 가뭄
+[KO] 가뭄.
 <break time="1.0s"/>
-[FR-Vocab] sécheresse.
+[FR-Vocab] la sécheresse.
 <break time="1.5s"/>
 
-[FR-Vocab] inondation.
+[FR-Vocab] l'inondation.
 <break time="1.0s"/>
-[KO] 홍수
+[KO] 홍수.
 <break time="1.0s"/>
-[FR-Vocab] inondation.
+[FR-Vocab] l'inondation.
 <break time="1.5s"/>

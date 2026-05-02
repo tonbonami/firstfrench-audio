@@ -1,45 +1,44 @@
 # Vocabulaire — vocab_nourriture_06
-# 패턴: FR → KO → FR
-# voices: Vocab=lisons-narrator
+# voices: Vocab=warm-mother
 
-[FR-Vocab] lait.
+[FR-Vocab] le lait.
 <break time="1.0s"/>
 [KO] 우유.
 <break time="1.0s"/>
-[FR-Vocab] lait.
+[FR-Vocab] le lait.
 <break time="1.5s"/>
 
-[FR-Vocab] fromage.
+[FR-Vocab] le fromage.
 <break time="1.0s"/>
 [KO] 치즈.
 <break time="1.0s"/>
-[FR-Vocab] fromage.
+[FR-Vocab] le fromage.
 <break time="1.5s"/>
 
-[FR-Vocab] beurre.
+[FR-Vocab] le beurre.
 <break time="1.0s"/>
 [KO] 버터.
 <break time="1.0s"/>
-[FR-Vocab] beurre.
+[FR-Vocab] le beurre.
 <break time="1.5s"/>
 
-[FR-Vocab] yaourt.
+[FR-Vocab] le yaourt.
 <break time="1.0s"/>
 [KO] 요거트.
 <break time="1.0s"/>
-[FR-Vocab] yaourt.
+[FR-Vocab] le yaourt.
 <break time="1.5s"/>
 
-[FR-Vocab] crème.
+[FR-Vocab] la crème.
 <break time="1.0s"/>
 [KO] 크림.
 <break time="1.0s"/>
-[FR-Vocab] crème.
+[FR-Vocab] la crème.
 <break time="1.5s"/>
 
-[FR-Vocab] œuf.
+[FR-Vocab] l'œuf.
 <break time="1.0s"/>
 [KO] 달걀.
 <break time="1.0s"/>
-[FR-Vocab] œuf.
+[FR-Vocab] l'œuf.
 <break time="1.5s"/>

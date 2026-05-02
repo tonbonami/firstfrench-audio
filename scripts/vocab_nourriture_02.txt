@@ -1,38 +1,37 @@
 # Vocabulaire — vocab_nourriture_02
-# 패턴: FR → KO → FR
-# voices: Vocab=lisons-narrator
+# voices: Vocab=warm-mother
 
-[FR-Vocab] bœuf.
+[FR-Vocab] le bœuf.
 <break time="1.0s"/>
 [KO] 소고기.
 <break time="1.0s"/>
-[FR-Vocab] bœuf.
+[FR-Vocab] le bœuf.
 <break time="1.5s"/>
 
-[FR-Vocab] porc.
+[FR-Vocab] le porc.
 <break time="1.0s"/>
 [KO] 돼지고기.
 <break time="1.0s"/>
-[FR-Vocab] porc.
+[FR-Vocab] le porc.
 <break time="1.5s"/>
 
-[FR-Vocab] poulet.
+[FR-Vocab] le poulet.
 <break time="1.0s"/>
 [KO] 닭고기.
 <break time="1.0s"/>
-[FR-Vocab] poulet.
+[FR-Vocab] le poulet.
 <break time="1.5s"/>
 
-[FR-Vocab] agneau.
+[FR-Vocab] l'agneau.
 <break time="1.0s"/>
 [KO] 양고기.
 <break time="1.0s"/>
-[FR-Vocab] agneau.
+[FR-Vocab] l'agneau.
 <break time="1.5s"/>
 
-[FR-Vocab] jambon.
+[FR-Vocab] le jambon.
 <break time="1.0s"/>
 [KO] 햄.
 <break time="1.0s"/>
-[FR-Vocab] jambon.
+[FR-Vocab] le jambon.
 <break time="1.5s"/>

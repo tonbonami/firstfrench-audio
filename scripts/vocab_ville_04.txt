@@ -1,59 +1,58 @@
 # Vocabulaire — vocab_ville_04
-# 패턴: FR → KO → FR
-# voices: Vocab=lisons-narrator
+# voices: Vocab=warm-mother
 
-[FR-Vocab] à droite (de).
+[FR-Vocab] l'à droite (de).
 <break time="1.0s"/>
-[KO] 오른쪽에
+[KO] 오른쪽에.
 <break time="1.0s"/>
-[FR-Vocab] à droite (de).
+[FR-Vocab] l'à droite (de).
 <break time="1.5s"/>
 
-[FR-Vocab] à gauche (de).
+[FR-Vocab] l'à gauche (de).
 <break time="1.0s"/>
-[KO] 왼쪽에
+[KO] 왼쪽에.
 <break time="1.0s"/>
-[FR-Vocab] à gauche (de).
+[FR-Vocab] l'à gauche (de).
 <break time="1.5s"/>
 
-[FR-Vocab] en face de.
+[FR-Vocab] l'en face de.
 <break time="1.0s"/>
-[KO] 맞은편에
+[KO] 맞은편에.
 <break time="1.0s"/>
-[FR-Vocab] en face de.
+[FR-Vocab] l'en face de.
 <break time="1.5s"/>
 
 [FR-Vocab] près de.
 <break time="1.0s"/>
-[KO] 가까이에
+[KO] 가까이에.
 <break time="1.0s"/>
 [FR-Vocab] près de.
 <break time="1.5s"/>
 
 [FR-Vocab] loin de.
 <break time="1.0s"/>
-[KO] 멀리에
+[KO] 멀리에.
 <break time="1.0s"/>
 [FR-Vocab] loin de.
 <break time="1.5s"/>
 
-[FR-Vocab] entre.
+[FR-Vocab] l'entre.
 <break time="1.0s"/>
-[KO] 사이에
+[KO] 사이에.
 <break time="1.0s"/>
-[FR-Vocab] entre.
+[FR-Vocab] l'entre.
 <break time="1.5s"/>
 
-[FR-Vocab] au coin de.
+[FR-Vocab] l'au coin de.
 <break time="1.0s"/>
-[KO] 모퉁이에
+[KO] 모퉁이에.
 <break time="1.0s"/>
-[FR-Vocab] au coin de.
+[FR-Vocab] l'au coin de.
 <break time="1.5s"/>
 
 [FR-Vocab] devant / derrière.
 <break time="1.0s"/>
-[KO] 앞·뒤
+[KO] 앞·뒤.
 <break time="1.0s"/>
 [FR-Vocab] devant / derrière.
 <break time="1.5s"/>

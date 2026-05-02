@@ -1,45 +1,44 @@
 # Vocabulaire — vocab_nourriture_04
-# 패턴: FR → KO → FR
-# voices: Vocab=lisons-narrator
+# voices: Vocab=warm-mother
 
-[FR-Vocab] tomate.
+[FR-Vocab] la tomate.
 <break time="1.0s"/>
 [KO] 토마토.
 <break time="1.0s"/>
-[FR-Vocab] tomate.
+[FR-Vocab] la tomate.
 <break time="1.5s"/>
 
-[FR-Vocab] carotte.
+[FR-Vocab] la carotte.
 <break time="1.0s"/>
 [KO] 당근.
 <break time="1.0s"/>
-[FR-Vocab] carotte.
+[FR-Vocab] la carotte.
 <break time="1.5s"/>
 
-[FR-Vocab] oignon.
+[FR-Vocab] l'oignon.
 <break time="1.0s"/>
 [KO] 양파.
 <break time="1.0s"/>
-[FR-Vocab] oignon.
+[FR-Vocab] l'oignon.
 <break time="1.5s"/>
 
-[FR-Vocab] pomme de terre.
+[FR-Vocab] la pomme de terre.
 <break time="1.0s"/>
 [KO] 감자.
 <break time="1.0s"/>
-[FR-Vocab] pomme de terre.
+[FR-Vocab] la pomme de terre.
 <break time="1.5s"/>
 
-[FR-Vocab] salade.
+[FR-Vocab] la salade.
 <break time="1.0s"/>
-[KO] 샐러드나 상추.
+[KO] 샐러드·상추.
 <break time="1.0s"/>
-[FR-Vocab] salade.
+[FR-Vocab] la salade.
 <break time="1.5s"/>
 
-[FR-Vocab] légumes.
+[FR-Vocab] le légumes.
 <break time="1.0s"/>
-[KO] 채소, 복수형.
+[KO] 채소.
 <break time="1.0s"/>
-[FR-Vocab] légumes.
+[FR-Vocab] le légumes.
 <break time="1.5s"/>

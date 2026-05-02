@@ -1,45 +1,44 @@
 # Vocabulaire — vocab_sante_02
-# 패턴: FR → KO → FR
-# voices: Vocab=lisons-narrator
+# voices: Vocab=warm-mother
 
-[FR-Vocab] grippe.
+[FR-Vocab] la grippe.
 <break time="1.0s"/>
-[KO] 독감
+[KO] 독감.
 <break time="1.0s"/>
-[FR-Vocab] grippe.
+[FR-Vocab] la grippe.
 <break time="1.5s"/>
 
-[FR-Vocab] allergie.
+[FR-Vocab] l'allergie.
 <break time="1.0s"/>
-[KO] 알레르기
+[KO] 알레르기.
 <break time="1.0s"/>
-[FR-Vocab] allergie.
+[FR-Vocab] l'allergie.
 <break time="1.5s"/>
 
-[FR-Vocab] fracture.
+[FR-Vocab] la fracture.
 <break time="1.0s"/>
-[KO] 골절
+[KO] 골절.
 <break time="1.0s"/>
-[FR-Vocab] fracture.
+[FR-Vocab] la fracture.
 <break time="1.5s"/>
 
-[FR-Vocab] hypertension.
+[FR-Vocab] l'hypertension.
 <break time="1.0s"/>
-[KO] 고혈압
+[KO] 고혈압.
 <break time="1.0s"/>
-[FR-Vocab] hypertension.
+[FR-Vocab] l'hypertension.
 <break time="1.5s"/>
 
-[FR-Vocab] rhume.
+[FR-Vocab] le rhume.
 <break time="1.0s"/>
-[KO] 감기
+[KO] 감기.
 <break time="1.0s"/>
-[FR-Vocab] rhume.
+[FR-Vocab] le rhume.
 <break time="1.5s"/>
 
-[FR-Vocab] migraine.
+[FR-Vocab] la migraine.
 <break time="1.0s"/>
-[KO] 편두통
+[KO] 편두통.
 <break time="1.0s"/>
-[FR-Vocab] migraine.
+[FR-Vocab] la migraine.
 <break time="1.5s"/>

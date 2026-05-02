@@ -1,66 +1,65 @@
-# Vocabulaire — Le Corps (신체부위) / 섹션 2: 상체
-# 패턴: FR → KO → FR
-# voices: Vocab=lisons-narrator
+# Vocabulaire — vocab_corps_02
+# voices: Vocab=warm-mother
 
-[FR-Vocab] épaule.
+[FR-Vocab] l'épaule.
 <break time="1.0s"/>
 [KO] 어깨.
 <break time="1.0s"/>
-[FR-Vocab] épaule.
+[FR-Vocab] l'épaule.
 <break time="1.5s"/>
 
-[FR-Vocab] bras.
+[FR-Vocab] le bras.
 <break time="1.0s"/>
 [KO] 팔.
 <break time="1.0s"/>
-[FR-Vocab] bras.
+[FR-Vocab] le bras.
 <break time="1.5s"/>
 
-[FR-Vocab] coude.
+[FR-Vocab] le coude.
 <break time="1.0s"/>
 [KO] 팔꿈치.
 <break time="1.0s"/>
-[FR-Vocab] coude.
+[FR-Vocab] le coude.
 <break time="1.5s"/>
 
-[FR-Vocab] poitrine.
+[FR-Vocab] la poitrine.
 <break time="1.0s"/>
 [KO] 가슴.
 <break time="1.0s"/>
-[FR-Vocab] poitrine.
+[FR-Vocab] la poitrine.
 <break time="1.5s"/>
 
-[FR-Vocab] ventre.
+[FR-Vocab] le ventre.
 <break time="1.0s"/>
 [KO] 배.
 <break time="1.0s"/>
-[FR-Vocab] ventre.
+[FR-Vocab] le ventre.
 <break time="1.5s"/>
 
-[FR-Vocab] nombril.
+[FR-Vocab] le nombril.
 <break time="1.0s"/>
 [KO] 배꼽.
 <break time="1.0s"/>
-[FR-Vocab] nombril.
+[FR-Vocab] le nombril.
 <break time="1.5s"/>
 
-[FR-Vocab] dos.
+[FR-Vocab] le dos.
 <break time="1.0s"/>
 [KO] 등.
 <break time="1.0s"/>
-[FR-Vocab] dos.
+[FR-Vocab] le dos.
 <break time="1.5s"/>
 
-[FR-Vocab] fesses.
+[FR-Vocab] la fesses.
 <break time="1.0s"/>
-[KO] 엉덩이, 복수형.
+[KO] 엉덩이.
 <break time="1.0s"/>
-[FR-Vocab] fesses.
+[FR-Vocab] la fesses.
 <break time="1.5s"/>
 
-[FR-Vocab] main.
+[FR-Vocab] la main.
 <break time="1.0s"/>
 [KO] 손.
 <break time="1.0s"/>
-[FR-Vocab] main.
+[FR-Vocab] la main.
 <break time="1.5s"/>

@@ -1,59 +1,58 @@
 # Vocabulaire — vocab_transports_02
-# 패턴: FR → KO → FR
-# voices: Vocab=lisons-narrator
+# voices: Vocab=warm-mother
 
-[FR-Vocab] gare.
+[FR-Vocab] la gare.
 <break time="1.0s"/>
-[KO] 기차역
+[KO] 기차역.
 <break time="1.0s"/>
-[FR-Vocab] gare.
+[FR-Vocab] la gare.
 <break time="1.5s"/>
 
-[FR-Vocab] station.
+[FR-Vocab] la station.
 <break time="1.0s"/>
-[KO] 역
+[KO] 역 (지하철).
 <break time="1.0s"/>
-[FR-Vocab] station.
+[FR-Vocab] la station.
 <break time="1.5s"/>
 
-[FR-Vocab] arrêt.
+[FR-Vocab] l'arrêt.
 <break time="1.0s"/>
-[KO] 정류장
+[KO] 정류장.
 <break time="1.0s"/>
-[FR-Vocab] arrêt.
+[FR-Vocab] l'arrêt.
 <break time="1.5s"/>
 
-[FR-Vocab] aéroport.
+[FR-Vocab] l'aéroport.
 <break time="1.0s"/>
-[KO] 공항
+[KO] 공항.
 <break time="1.0s"/>
-[FR-Vocab] aéroport.
+[FR-Vocab] l'aéroport.
 <break time="1.5s"/>
 
-[FR-Vocab] port.
+[FR-Vocab] le port.
 <break time="1.0s"/>
-[KO] 항구
+[KO] 항구.
 <break time="1.0s"/>
-[FR-Vocab] port.
+[FR-Vocab] le port.
 <break time="1.5s"/>
 
-[FR-Vocab] quai.
+[FR-Vocab] le quai.
 <break time="1.0s"/>
-[KO] 플랫폼
+[KO] 플랫폼.
 <break time="1.0s"/>
-[FR-Vocab] quai.
+[FR-Vocab] le quai.
 <break time="1.5s"/>
 
-[FR-Vocab] sortie.
+[FR-Vocab] la sortie.
 <break time="1.0s"/>
-[KO] 출구
+[KO] 출구.
 <break time="1.0s"/>
-[FR-Vocab] sortie.
+[FR-Vocab] la sortie.
 <break time="1.5s"/>
 
-[FR-Vocab] entrée.
+[FR-Vocab] l'entrée.
 <break time="1.0s"/>
-[KO] 입구
+[KO] 입구.
 <break time="1.0s"/>
-[FR-Vocab] entrée.
+[FR-Vocab] l'entrée.
 <break time="1.5s"/>

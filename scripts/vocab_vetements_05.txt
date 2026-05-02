@@ -1,45 +1,44 @@
 # Vocabulaire — vocab_vetements_05
-# 패턴: FR → KO → FR
-# voices: Vocab=lisons-narrator
+# voices: Vocab=warm-mother
 
-[FR-Vocab] chapeau.
+[FR-Vocab] le chapeau.
 <break time="1.0s"/>
-[KO] 모자
+[KO] 모자.
 <break time="1.0s"/>
-[FR-Vocab] chapeau.
+[FR-Vocab] le chapeau.
 <break time="1.5s"/>
 
-[FR-Vocab] écharpe.
+[FR-Vocab] l'écharpe.
 <break time="1.0s"/>
-[KO] 목도리
+[KO] 목도리.
 <break time="1.0s"/>
-[FR-Vocab] écharpe.
+[FR-Vocab] l'écharpe.
 <break time="1.5s"/>
 
-[FR-Vocab] gants.
+[FR-Vocab] le gants.
 <break time="1.0s"/>
-[KO] 장갑, 복수형
+[KO] 장갑.
 <break time="1.0s"/>
-[FR-Vocab] gants.
+[FR-Vocab] le gants.
 <break time="1.5s"/>
 
-[FR-Vocab] ceinture.
+[FR-Vocab] la ceinture.
 <break time="1.0s"/>
-[KO] 벨트
+[KO] 벨트.
 <break time="1.0s"/>
-[FR-Vocab] ceinture.
+[FR-Vocab] la ceinture.
 <break time="1.5s"/>
 
-[FR-Vocab] sac.
+[FR-Vocab] le sac.
 <break time="1.0s"/>
-[KO] 가방
+[KO] 가방.
 <break time="1.0s"/>
-[FR-Vocab] sac.
+[FR-Vocab] le sac.
 <break time="1.5s"/>
 
-[FR-Vocab] lunettes.
+[FR-Vocab] la lunettes.
 <break time="1.0s"/>
-[KO] 안경, 복수형
+[KO] 안경.
 <break time="1.0s"/>
-[FR-Vocab] lunettes.
+[FR-Vocab] la lunettes.
 <break time="1.5s"/>

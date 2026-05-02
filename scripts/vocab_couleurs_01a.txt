@@ -1,52 +1,51 @@
 # Vocabulaire — vocab_couleurs_01a / part a
-# 패턴: FR → KO → FR
-# voices: Vocab=lisons-narrator
+# voices: Vocab=warm-mother
 
 [FR-Vocab] rouge.
 <break time="1.0s"/>
-[KO] 빨강. 남녀 동일.
+[KO] 빨강.
 <break time="1.0s"/>
 [FR-Vocab] rouge.
 <break time="1.5s"/>
 
 [FR-Vocab] bleu.
 <break time="1.0s"/>
-[KO] 파랑, 남성형.
+[KO] 파랑.
 <break time="1.0s"/>
 [FR-Vocab] bleu.
 <break time="1.5s"/>
 
 [FR-Vocab] bleue.
 <break time="1.0s"/>
-[KO] 파랑, 여성형.
+[KO] 파랑.
 <break time="1.0s"/>
 [FR-Vocab] bleue.
 <break time="1.5s"/>
 
 [FR-Vocab] vert.
 <break time="1.0s"/>
-[KO] 초록, 남성형.
+[KO] 초록.
 <break time="1.0s"/>
 [FR-Vocab] vert.
 <break time="1.5s"/>
 
 [FR-Vocab] verte.
 <break time="1.0s"/>
-[KO] 초록, 여성형.
+[KO] 초록.
 <break time="1.0s"/>
 [FR-Vocab] verte.
 <break time="1.5s"/>
 
 [FR-Vocab] jaune.
 <break time="1.0s"/>
-[KO] 노랑. 남녀 동일.
+[KO] 노랑.
 <break time="1.0s"/>
 [FR-Vocab] jaune.
 <break time="1.5s"/>
 
 [FR-Vocab] noir.
 <break time="1.0s"/>
-[KO] 검정, 남성형.
+[KO] 검정.
 <break time="1.0s"/>
 [FR-Vocab] noir.
 <break time="1.5s"/>

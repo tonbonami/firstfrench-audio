@@ -1,6 +1,5 @@
 # Vocabulaire — vocab_cuisine_01b / part b
-# 패턴: FR → KO → FR
-# voices: Vocab=lisons-narrator
+# voices: Vocab=warm-mother
 
 [FR-Vocab] assaisonner.
 <break time="1.0s"/>

@@ -1,73 +1,72 @@
 # Vocabulaire — vocab_adjectifs_02a / part a
-# 패턴: FR → KO → FR
-# voices: Vocab=lisons-narrator
+# voices: Vocab=warm-mother
 
 [FR-Vocab] beau.
 <break time="1.0s"/>
-[KO] 아름다운, 남성형
+[KO] 아름다운.
 <break time="1.0s"/>
 [FR-Vocab] beau.
 <break time="1.5s"/>
 
 [FR-Vocab] belle.
 <break time="1.0s"/>
-[KO] 아름다운, 여성형
+[KO] 아름다운.
 <break time="1.0s"/>
 [FR-Vocab] belle.
 <break time="1.5s"/>
 
 [FR-Vocab] laid.
 <break time="1.0s"/>
-[KO] 못생긴, 남성형
+[KO] 못생긴.
 <break time="1.0s"/>
 [FR-Vocab] laid.
 <break time="1.5s"/>
 
 [FR-Vocab] laide.
 <break time="1.0s"/>
-[KO] 못생긴, 여성형
+[KO] 못생긴.
 <break time="1.0s"/>
 [FR-Vocab] laide.
 <break time="1.5s"/>
 
 [FR-Vocab] bon.
 <break time="1.0s"/>
-[KO] 좋은, 남성형
+[KO] 좋은.
 <break time="1.0s"/>
 [FR-Vocab] bon.
 <break time="1.5s"/>
 
 [FR-Vocab] bonne.
 <break time="1.0s"/>
-[KO] 좋은, 여성형
+[KO] 좋은.
 <break time="1.0s"/>
 [FR-Vocab] bonne.
 <break time="1.5s"/>
 
 [FR-Vocab] mauvais.
 <break time="1.0s"/>
-[KO] 나쁜, 남성형
+[KO] 나쁜.
 <break time="1.0s"/>
 [FR-Vocab] mauvais.
 <break time="1.5s"/>
 
 [FR-Vocab] mauvaise.
 <break time="1.0s"/>
-[KO] 나쁜, 여성형
+[KO] 나쁜.
 <break time="1.0s"/>
 [FR-Vocab] mauvaise.
 <break time="1.5s"/>
 
 [FR-Vocab] chaud.
 <break time="1.0s"/>
-[KO] 뜨거운, 남성형
+[KO] 뜨거운.
 <break time="1.0s"/>
 [FR-Vocab] chaud.
 <break time="1.5s"/>
 
 [FR-Vocab] chaude.
 <break time="1.0s"/>
-[KO] 뜨거운, 여성형
+[KO] 뜨거운.
 <break time="1.0s"/>
 [FR-Vocab] chaude.
 <break time="1.5s"/>

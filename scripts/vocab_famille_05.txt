@@ -1,45 +1,44 @@
-# Vocabulaire — La famille (가족) / 섹션 5: 기타 가족
-# 패턴: FR → KO → FR
-# voices: Vocab=lisons-narrator
+# Vocabulaire — vocab_famille_05
+# voices: Vocab=warm-mother
 
-[FR-Vocab] bébé.
+[FR-Vocab] le bébé.
 <break time="1.0s"/>
 [KO] 아기.
 <break time="1.0s"/>
-[FR-Vocab] bébé.
+[FR-Vocab] le bébé.
 <break time="1.5s"/>
 
-[FR-Vocab] enfant.
+[FR-Vocab] l'enfant.
 <break time="1.0s"/>
 [KO] 아이.
 <break time="1.0s"/>
-[FR-Vocab] enfant.
+[FR-Vocab] l'enfant.
 <break time="1.5s"/>
 
-[FR-Vocab] beau-père.
+[FR-Vocab] le beau-père.
 <break time="1.0s"/>
-[KO] 시아버지나 장인, 또는 새아버지.
+[KO] 시아버지·장인·새아버지.
 <break time="1.0s"/>
-[FR-Vocab] beau-père.
+[FR-Vocab] le beau-père.
 <break time="1.5s"/>
 
-[FR-Vocab] belle-mère.
+[FR-Vocab] la belle-mère.
 <break time="1.0s"/>
-[KO] 시어머니나 장모, 또는 새어머니.
+[KO] 시어머니·장모·새어머니.
 <break time="1.0s"/>
-[FR-Vocab] belle-mère.
+[FR-Vocab] la belle-mère.
 <break time="1.5s"/>
 
-[FR-Vocab] beau-frère.
+[FR-Vocab] le beau-frère.
 <break time="1.0s"/>
-[KO] 시동생이나 처남, 또는 매형.
+[KO] 시동생·처남·매형.
 <break time="1.0s"/>
-[FR-Vocab] beau-frère.
+[FR-Vocab] le beau-frère.
 <break time="1.5s"/>
 
-[FR-Vocab] belle-sœur.
+[FR-Vocab] la belle-sœur.
 <break time="1.0s"/>
-[KO] 시누이나 처제, 또는 형수.
+[KO] 시누이·처제·형수.
 <break time="1.0s"/>
-[FR-Vocab] belle-sœur.
+[FR-Vocab] la belle-sœur.
 <break time="1.5s"/>

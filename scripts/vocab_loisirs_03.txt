@@ -1,59 +1,58 @@
 # Vocabulaire — vocab_loisirs_03
-# 패턴: FR → KO → FR
-# voices: Vocab=lisons-narrator
+# voices: Vocab=warm-mother
 
-[FR-Vocab] piano.
+[FR-Vocab] le piano.
 <break time="1.0s"/>
-[KO] 피아노
+[KO] 피아노.
 <break time="1.0s"/>
-[FR-Vocab] piano.
+[FR-Vocab] le piano.
 <break time="1.5s"/>
 
-[FR-Vocab] guitare.
+[FR-Vocab] la guitare.
 <break time="1.0s"/>
-[KO] 기타
+[KO] 기타.
 <break time="1.0s"/>
-[FR-Vocab] guitare.
+[FR-Vocab] la guitare.
 <break time="1.5s"/>
 
-[FR-Vocab] violon.
+[FR-Vocab] le violon.
 <break time="1.0s"/>
-[KO] 바이올린
+[KO] 바이올린.
 <break time="1.0s"/>
-[FR-Vocab] violon.
+[FR-Vocab] le violon.
 <break time="1.5s"/>
 
-[FR-Vocab] violoncelle.
+[FR-Vocab] le violoncelle.
 <break time="1.0s"/>
-[KO] 첼로
+[KO] 첼로.
 <break time="1.0s"/>
-[FR-Vocab] violoncelle.
+[FR-Vocab] le violoncelle.
 <break time="1.5s"/>
 
-[FR-Vocab] saxophone.
+[FR-Vocab] le saxophone.
 <break time="1.0s"/>
-[KO] 색소폰
+[KO] 색소폰.
 <break time="1.0s"/>
-[FR-Vocab] saxophone.
+[FR-Vocab] le saxophone.
 <break time="1.5s"/>
 
-[FR-Vocab] trompette.
+[FR-Vocab] la trompette.
 <break time="1.0s"/>
-[KO] 트럼펫
+[KO] 트럼펫.
 <break time="1.0s"/>
-[FR-Vocab] trompette.
+[FR-Vocab] la trompette.
 <break time="1.5s"/>
 
-[FR-Vocab] flûte.
+[FR-Vocab] la flûte.
 <break time="1.0s"/>
-[KO] 플루트
+[KO] 플루트.
 <break time="1.0s"/>
-[FR-Vocab] flûte.
+[FR-Vocab] la flûte.
 <break time="1.5s"/>
 
-[FR-Vocab] batterie.
+[FR-Vocab] la batterie.
 <break time="1.0s"/>
-[KO] 드럼
+[KO] 드럼.
 <break time="1.0s"/>
-[FR-Vocab] batterie.
+[FR-Vocab] la batterie.
 <break time="1.5s"/>

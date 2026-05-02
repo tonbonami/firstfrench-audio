@@ -1,38 +1,37 @@
 # Vocabulaire — vocab_nourriture_08
-# 패턴: FR → KO → FR
-# voices: Vocab=lisons-narrator
+# voices: Vocab=warm-mother
 
-[FR-Vocab] gâteau.
+[FR-Vocab] le gâteau.
 <break time="1.0s"/>
 [KO] 케이크.
 <break time="1.0s"/>
-[FR-Vocab] gâteau.
+[FR-Vocab] le gâteau.
 <break time="1.5s"/>
 
-[FR-Vocab] glace.
+[FR-Vocab] la glace.
 <break time="1.0s"/>
 [KO] 아이스크림.
 <break time="1.0s"/>
-[FR-Vocab] glace.
+[FR-Vocab] la glace.
 <break time="1.5s"/>
 
-[FR-Vocab] chocolat.
+[FR-Vocab] le chocolat.
 <break time="1.0s"/>
 [KO] 초콜릿.
 <break time="1.0s"/>
-[FR-Vocab] chocolat.
+[FR-Vocab] le chocolat.
 <break time="1.5s"/>
 
-[FR-Vocab] bonbon.
+[FR-Vocab] le bonbon.
 <break time="1.0s"/>
 [KO] 사탕.
 <break time="1.0s"/>
-[FR-Vocab] bonbon.
+[FR-Vocab] le bonbon.
 <break time="1.5s"/>
 
-[FR-Vocab] biscuit.
+[FR-Vocab] le biscuit.
 <break time="1.0s"/>
-[KO] 비스킷이나 쿠키.
+[KO] 비스킷·쿠키.
 <break time="1.0s"/>
-[FR-Vocab] biscuit.
+[FR-Vocab] le biscuit.
 <break time="1.5s"/>

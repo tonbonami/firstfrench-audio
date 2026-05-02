@@ -1,45 +1,44 @@
 # Vocabulaire — vocab_animaux_03b / part b
-# 패턴: FR → KO → FR
-# voices: Vocab=lisons-narrator
+# voices: Vocab=warm-mother
 
-[FR-Vocab] renard.
+[FR-Vocab] le renard.
 <break time="1.0s"/>
-[KO] 여우
+[KO] 여우.
 <break time="1.0s"/>
-[FR-Vocab] renard.
+[FR-Vocab] le renard.
 <break time="1.5s"/>
 
-[FR-Vocab] singe.
+[FR-Vocab] le singe.
 <break time="1.0s"/>
-[KO] 원숭이
+[KO] 원숭이.
 <break time="1.0s"/>
-[FR-Vocab] singe.
+[FR-Vocab] le singe.
 <break time="1.5s"/>
 
-[FR-Vocab] serpent.
+[FR-Vocab] le serpent.
 <break time="1.0s"/>
-[KO] 뱀
+[KO] 뱀.
 <break time="1.0s"/>
-[FR-Vocab] serpent.
+[FR-Vocab] le serpent.
 <break time="1.5s"/>
 
-[FR-Vocab] grenouille.
+[FR-Vocab] la grenouille.
 <break time="1.0s"/>
-[KO] 개구리
+[KO] 개구리.
 <break time="1.0s"/>
-[FR-Vocab] grenouille.
+[FR-Vocab] la grenouille.
 <break time="1.5s"/>
 
-[FR-Vocab] dauphin.
+[FR-Vocab] le dauphin.
 <break time="1.0s"/>
-[KO] 돌고래
+[KO] 돌고래.
 <break time="1.0s"/>
-[FR-Vocab] dauphin.
+[FR-Vocab] le dauphin.
 <break time="1.5s"/>
 
-[FR-Vocab] pingouin.
+[FR-Vocab] le pingouin.
 <break time="1.0s"/>
-[KO] 펭귄
+[KO] 펭귄.
 <break time="1.0s"/>
-[FR-Vocab] pingouin.
+[FR-Vocab] le pingouin.
 <break time="1.5s"/>

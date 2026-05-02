@@ -1,52 +1,51 @@
 # Vocabulaire — vocab_voyage_02
-# 패턴: FR → KO → FR
-# voices: Vocab=lisons-narrator
+# voices: Vocab=warm-mother
 
-[FR-Vocab] chambre.
+[FR-Vocab] la chambre.
 <break time="1.0s"/>
-[KO] 객실
+[KO] 객실.
 <break time="1.0s"/>
-[FR-Vocab] chambre.
+[FR-Vocab] la chambre.
 <break time="1.5s"/>
 
-[FR-Vocab] réservation.
+[FR-Vocab] la réservation.
 <break time="1.0s"/>
-[KO] 예약
+[KO] 예약.
 <break time="1.0s"/>
-[FR-Vocab] réservation.
+[FR-Vocab] la réservation.
 <break time="1.5s"/>
 
-[FR-Vocab] réception.
+[FR-Vocab] la réception.
 <break time="1.0s"/>
-[KO] 프런트
+[KO] 프런트.
 <break time="1.0s"/>
-[FR-Vocab] réception.
+[FR-Vocab] la réception.
 <break time="1.5s"/>
 
-[FR-Vocab] petit déjeuner.
+[FR-Vocab] le petit déjeuner.
 <break time="1.0s"/>
-[KO] 조식
+[KO] 조식.
 <break time="1.0s"/>
-[FR-Vocab] petit déjeuner.
+[FR-Vocab] le petit déjeuner.
 <break time="1.5s"/>
 
-[FR-Vocab] clé.
+[FR-Vocab] la clé.
 <break time="1.0s"/>
-[KO] 열쇠
+[KO] 열쇠.
 <break time="1.0s"/>
-[FR-Vocab] clé.
+[FR-Vocab] la clé.
 <break time="1.5s"/>
 
-[FR-Vocab] carte.
+[FR-Vocab] la carte.
 <break time="1.0s"/>
-[KO] 카드키
+[KO] 카드키.
 <break time="1.0s"/>
-[FR-Vocab] carte.
+[FR-Vocab] la carte.
 <break time="1.5s"/>
 
-[FR-Vocab] ascenseur.
+[FR-Vocab] l'ascenseur.
 <break time="1.0s"/>
-[KO] 엘리베이터
+[KO] 엘리베이터.
 <break time="1.0s"/>
-[FR-Vocab] ascenseur.
+[FR-Vocab] l'ascenseur.
 <break time="1.5s"/>

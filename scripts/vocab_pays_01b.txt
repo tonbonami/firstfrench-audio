@@ -1,52 +1,51 @@
 # Vocabulaire — vocab_pays_01b / part b
-# 패턴: FR → KO → FR
-# voices: Vocab=lisons-narrator
+# voices: Vocab=warm-mother
 
-[FR-Vocab] Espagne.
+[FR-Vocab] l'Espagne.
 <break time="1.0s"/>
-[KO] 스페인
+[KO] 스페인.
 <break time="1.0s"/>
-[FR-Vocab] Espagne.
+[FR-Vocab] l'Espagne.
 <break time="1.5s"/>
 
-[FR-Vocab] Portugal.
+[FR-Vocab] le Portugal.
 <break time="1.0s"/>
-[KO] 포르투갈
+[KO] 포르투갈.
 <break time="1.0s"/>
-[FR-Vocab] Portugal.
+[FR-Vocab] le Portugal.
 <break time="1.5s"/>
 
-[FR-Vocab] Brésil.
+[FR-Vocab] le Brésil.
 <break time="1.0s"/>
-[KO] 브라질
+[KO] 브라질.
 <break time="1.0s"/>
-[FR-Vocab] Brésil.
+[FR-Vocab] le Brésil.
 <break time="1.5s"/>
 
-[FR-Vocab] Russie.
+[FR-Vocab] la Russie.
 <break time="1.0s"/>
-[KO] 러시아
+[KO] 러시아.
 <break time="1.0s"/>
-[FR-Vocab] Russie.
+[FR-Vocab] la Russie.
 <break time="1.5s"/>
 
 [FR-Vocab] Canada.
 <break time="1.0s"/>
-[KO] 캐나다
+[KO] 캐나다.
 <break time="1.0s"/>
 [FR-Vocab] Canada.
 <break time="1.5s"/>
 
-[FR-Vocab] Belgique.
+[FR-Vocab] la Belgique.
 <break time="1.0s"/>
-[KO] 벨기에
+[KO] 벨기에.
 <break time="1.0s"/>
-[FR-Vocab] Belgique.
+[FR-Vocab] la Belgique.
 <break time="1.5s"/>
 
-[FR-Vocab] Suisse.
+[FR-Vocab] la Suisse.
 <break time="1.0s"/>
-[KO] 스위스
+[KO] 스위스.
 <break time="1.0s"/>
-[FR-Vocab] Suisse.
+[FR-Vocab] la Suisse.
 <break time="1.5s"/>

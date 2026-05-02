@@ -1,45 +1,44 @@
 # Vocabulaire — vocab_maison_02a / part a
-# 패턴: FR → KO → FR
-# voices: Vocab=lisons-narrator
+# voices: Vocab=warm-mother
 
-[FR-Vocab] pièce.
+[FR-Vocab] la pièce.
 <break time="1.0s"/>
 [KO] 방.
 <break time="1.0s"/>
-[FR-Vocab] pièce.
+[FR-Vocab] la pièce.
 <break time="1.5s"/>
 
-[FR-Vocab] chambre.
+[FR-Vocab] la chambre.
 <break time="1.0s"/>
 [KO] 침실.
 <break time="1.0s"/>
-[FR-Vocab] chambre.
+[FR-Vocab] la chambre.
 <break time="1.5s"/>
 
-[FR-Vocab] cuisine.
+[FR-Vocab] la cuisine.
 <break time="1.0s"/>
 [KO] 부엌.
 <break time="1.0s"/>
-[FR-Vocab] cuisine.
+[FR-Vocab] la cuisine.
 <break time="1.5s"/>
 
-[FR-Vocab] salon.
+[FR-Vocab] le salon.
 <break time="1.0s"/>
 [KO] 거실.
 <break time="1.0s"/>
-[FR-Vocab] salon.
+[FR-Vocab] le salon.
 <break time="1.5s"/>
 
-[FR-Vocab] salle de bains.
+[FR-Vocab] la salle de bains.
 <break time="1.0s"/>
 [KO] 욕실.
 <break time="1.0s"/>
-[FR-Vocab] salle de bains.
+[FR-Vocab] la salle de bains.
 <break time="1.5s"/>
 
-[FR-Vocab] toilettes.
+[FR-Vocab] la toilettes.
 <break time="1.0s"/>
-[KO] 화장실, 복수형.
+[KO] 화장실.
 <break time="1.0s"/>
-[FR-Vocab] toilettes.
+[FR-Vocab] la toilettes.
 <break time="1.5s"/>

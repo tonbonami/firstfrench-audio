@@ -1,45 +1,44 @@
 # Vocabulaire — vocab_animaux_03a / part a
-# 패턴: FR → KO → FR
-# voices: Vocab=lisons-narrator
+# voices: Vocab=warm-mother
 
-[FR-Vocab] lion.
+[FR-Vocab] le lion.
 <break time="1.0s"/>
-[KO] 사자
+[KO] 사자.
 <break time="1.0s"/>
-[FR-Vocab] lion.
+[FR-Vocab] le lion.
 <break time="1.5s"/>
 
-[FR-Vocab] tigre.
+[FR-Vocab] le tigre.
 <break time="1.0s"/>
-[KO] 호랑이
+[KO] 호랑이.
 <break time="1.0s"/>
-[FR-Vocab] tigre.
+[FR-Vocab] le tigre.
 <break time="1.5s"/>
 
-[FR-Vocab] éléphant.
+[FR-Vocab] l'éléphant.
 <break time="1.0s"/>
-[KO] 코끼리
+[KO] 코끼리.
 <break time="1.0s"/>
-[FR-Vocab] éléphant.
+[FR-Vocab] l'éléphant.
 <break time="1.5s"/>
 
-[FR-Vocab] girafe.
+[FR-Vocab] la girafe.
 <break time="1.0s"/>
-[KO] 기린
+[KO] 기린.
 <break time="1.0s"/>
-[FR-Vocab] girafe.
+[FR-Vocab] la girafe.
 <break time="1.5s"/>
 
-[FR-Vocab] ours.
+[FR-Vocab] l'ours.
 <break time="1.0s"/>
-[KO] 곰
+[KO] 곰.
 <break time="1.0s"/>
-[FR-Vocab] ours.
+[FR-Vocab] l'ours.
 <break time="1.5s"/>
 
-[FR-Vocab] loup.
+[FR-Vocab] le loup.
 <break time="1.0s"/>
-[KO] 늑대
+[KO] 늑대.
 <break time="1.0s"/>
-[FR-Vocab] loup.
+[FR-Vocab] le loup.
 <break time="1.5s"/>

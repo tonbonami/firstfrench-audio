@@ -1,80 +1,79 @@
 # Vocabulaire — vocab_emotions_02b / part b
-# 패턴: FR → KO → FR
-# voices: Vocab=lisons-narrator
+# voices: Vocab=warm-mother
 
 [FR-Vocab] jalouse.
 <break time="1.0s"/>
-[KO] 질투하는, 여성형
+[KO] 질투하는.
 <break time="1.0s"/>
 [FR-Vocab] jalouse.
 <break time="1.5s"/>
 
-[FR-Vocab] embarrassé.
+[FR-Vocab] l'embarrassé.
 <break time="1.0s"/>
-[KO] 당황한·부끄러운, 남성형
+[KO] 당황한·부끄러운.
 <break time="1.0s"/>
-[FR-Vocab] embarrassé.
+[FR-Vocab] l'embarrassé.
 <break time="1.5s"/>
 
-[FR-Vocab] embarrassée.
+[FR-Vocab] l'embarrassée.
 <break time="1.0s"/>
-[KO] 당황한·부끄러운, 여성형
+[KO] 당황한·부끄러운.
 <break time="1.0s"/>
-[FR-Vocab] embarrassée.
+[FR-Vocab] l'embarrassée.
 <break time="1.5s"/>
 
 [FR-Vocab] ennuyé.
 <break time="1.0s"/>
-[KO] 지루한, 남성형
+[KO] 지루한.
 <break time="1.0s"/>
 [FR-Vocab] ennuyé.
 <break time="1.5s"/>
 
 [FR-Vocab] ennuyée.
 <break time="1.0s"/>
-[KO] 지루한, 여성형
+[KO] 지루한.
 <break time="1.0s"/>
 [FR-Vocab] ennuyée.
 <break time="1.5s"/>
 
-[FR-Vocab] effrayé.
+[FR-Vocab] l'effrayé.
 <break time="1.0s"/>
-[KO] 무서운, 남성형
+[KO] 무서운.
 <break time="1.0s"/>
-[FR-Vocab] effrayé.
+[FR-Vocab] l'effrayé.
 <break time="1.5s"/>
 
-[FR-Vocab] effrayée.
+[FR-Vocab] l'effrayée.
 <break time="1.0s"/>
-[KO] 무서운, 여성형
+[KO] 무서운.
 <break time="1.0s"/>
-[FR-Vocab] effrayée.
+[FR-Vocab] l'effrayée.
 <break time="1.5s"/>
 
 [FR-Vocab] déprimé.
 <break time="1.0s"/>
-[KO] 우울한, 남성형
+[KO] 우울한.
 <break time="1.0s"/>
 [FR-Vocab] déprimé.
 <break time="1.5s"/>
 
 [FR-Vocab] déprimée.
 <break time="1.0s"/>
-[KO] 우울한, 여성형
+[KO] 우울한.
 <break time="1.0s"/>
 [FR-Vocab] déprimée.
 <break time="1.5s"/>
 
-[FR-Vocab] énervé.
+[FR-Vocab] l'énervé.
 <break time="1.0s"/>
-[KO] 짜증난, 남성형
+[KO] 짜증난.
 <break time="1.0s"/>
-[FR-Vocab] énervé.
+[FR-Vocab] l'énervé.
 <break time="1.5s"/>
 
-[FR-Vocab] énervée.
+[FR-Vocab] l'énervée.
 <break time="1.0s"/>
-[KO] 짜증난, 여성형
+[KO] 짜증난.
 <break time="1.0s"/>
-[FR-Vocab] énervée.
+[FR-Vocab] l'énervée.
 <break time="1.5s"/>

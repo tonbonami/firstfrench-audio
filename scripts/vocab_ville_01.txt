@@ -1,59 +1,58 @@
 # Vocabulaire — vocab_ville_01
-# 패턴: FR → KO → FR
-# voices: Vocab=lisons-narrator
+# voices: Vocab=warm-mother
 
-[FR-Vocab] boulangerie.
+[FR-Vocab] la boulangerie.
 <break time="1.0s"/>
-[KO] 빵집
+[KO] 빵집.
 <break time="1.0s"/>
-[FR-Vocab] boulangerie.
+[FR-Vocab] la boulangerie.
 <break time="1.5s"/>
 
-[FR-Vocab] pharmacie.
+[FR-Vocab] la pharmacie.
 <break time="1.0s"/>
-[KO] 약국
+[KO] 약국.
 <break time="1.0s"/>
-[FR-Vocab] pharmacie.
+[FR-Vocab] la pharmacie.
 <break time="1.5s"/>
 
-[FR-Vocab] banque.
+[FR-Vocab] la banque.
 <break time="1.0s"/>
-[KO] 은행
+[KO] 은행.
 <break time="1.0s"/>
-[FR-Vocab] banque.
+[FR-Vocab] la banque.
 <break time="1.5s"/>
 
-[FR-Vocab] poste.
+[FR-Vocab] la poste.
 <break time="1.0s"/>
-[KO] 우체국
+[KO] 우체국.
 <break time="1.0s"/>
-[FR-Vocab] poste.
+[FR-Vocab] la poste.
 <break time="1.5s"/>
 
-[FR-Vocab] librairie.
+[FR-Vocab] la librairie.
 <break time="1.0s"/>
-[KO] 서점
+[KO] 서점.
 <break time="1.0s"/>
-[FR-Vocab] librairie.
+[FR-Vocab] la librairie.
 <break time="1.5s"/>
 
-[FR-Vocab] supermarché.
+[FR-Vocab] le supermarché.
 <break time="1.0s"/>
-[KO] 마트
+[KO] 마트.
 <break time="1.0s"/>
-[FR-Vocab] supermarché.
+[FR-Vocab] le supermarché.
 <break time="1.5s"/>
 
-[FR-Vocab] marché.
+[FR-Vocab] le marché.
 <break time="1.0s"/>
-[KO] 시장
+[KO] 시장.
 <break time="1.0s"/>
-[FR-Vocab] marché.
+[FR-Vocab] le marché.
 <break time="1.5s"/>
 
-[FR-Vocab] boucherie.
+[FR-Vocab] la boucherie.
 <break time="1.0s"/>
-[KO] 정육점
+[KO] 정육점.
 <break time="1.0s"/>
-[FR-Vocab] boucherie.
+[FR-Vocab] la boucherie.
 <break time="1.5s"/>

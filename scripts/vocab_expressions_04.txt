@@ -1,23 +1,72 @@
-# Vocabulaire — Les expressions idiomatiques (관용표현) / 섹션 4: 자주 쓰는 일상 관용어
+# Vocabulaire — vocab_expressions_04
 # voices: Vocab=warm-mother
 
-[FR-Vocab] En effet !
-<break time="0.5s"/>
-[FR-Vocab] En tout cas.
-<break time="0.5s"/>
-[FR-Vocab] À propos.
-<break time="0.5s"/>
+[FR-Vocab] l'En effet !.
+<break time="1.0s"/>
+[KO] 그렇네! 맞아!.
+<break time="1.0s"/>
+[FR-Vocab] l'En effet !.
+<break time="1.5s"/>
+
+[FR-Vocab] l'En tout cas.
+<break time="1.0s"/>
+[KO] 어쨌든.
+<break time="1.0s"/>
+[FR-Vocab] l'En tout cas.
+<break time="1.5s"/>
+
+[FR-Vocab] l'À propos.
+<break time="1.0s"/>
+[KO] 그러고 보니.
+<break time="1.0s"/>
+[FR-Vocab] l'À propos.
+<break time="1.5s"/>
+
 [FR-Vocab] Bref.
-<break time="0.5s"/>
+<break time="1.0s"/>
+[KO] 간단히 말하면.
+<break time="1.0s"/>
+[FR-Vocab] Bref.
+<break time="1.5s"/>
+
 [FR-Vocab] De rien.
-<break time="0.5s"/>
-[FR-Vocab] Avec plaisir.
-<break time="0.5s"/>
-[FR-Vocab] À vrai dire.
-<break time="0.5s"/>
-[FR-Vocab] En revanche.
-<break time="0.5s"/>
+<break time="1.0s"/>
+[KO] 천만에요.
+<break time="1.0s"/>
+[FR-Vocab] De rien.
+<break time="1.5s"/>
+
+[FR-Vocab] l'Avec plaisir.
+<break time="1.0s"/>
+[KO] 기꺼이.
+<break time="1.0s"/>
+[FR-Vocab] l'Avec plaisir.
+<break time="1.5s"/>
+
+[FR-Vocab] l'À vrai dire.
+<break time="1.0s"/>
+[KO] 사실대로 말하면.
+<break time="1.0s"/>
+[FR-Vocab] l'À vrai dire.
+<break time="1.5s"/>
+
+[FR-Vocab] l'En revanche.
+<break time="1.0s"/>
+[KO] 반면에.
+<break time="1.0s"/>
+[FR-Vocab] l'En revanche.
+<break time="1.5s"/>
+
 [FR-Vocab] Tant pis.
-<break time="0.5s"/>
+<break time="1.0s"/>
+[KO] 어쩔 수 없네.
+<break time="1.0s"/>
+[FR-Vocab] Tant pis.
+<break time="1.5s"/>
+
 [FR-Vocab] Tant mieux.
-<break time="0.5s"/>
+<break time="1.0s"/>
+[KO] 다행이다.
+<break time="1.0s"/>
+[FR-Vocab] Tant mieux.
+<break time="1.5s"/>

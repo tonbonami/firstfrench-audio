@@ -1,51 +1,51 @@
-# Vocabulaire — Travail / 1b: 직책·사람 cont.
-# voices: Vocab=lisons-narrator
+# Vocabulaire — vocab_travail_01b / part b
+# voices: Vocab=warm-mother
 
-[FR-Vocab] employée.
+[FR-Vocab] l'employée.
 <break time="1.0s"/>
-[KO] 직원, 여성형.
+[KO] 직원.
 <break time="1.0s"/>
-[FR-Vocab] employée.
+[FR-Vocab] l'employée.
 <break time="1.5s"/>
 
-[FR-Vocab] chef de projet.
+[FR-Vocab] le chef de projet.
 <break time="1.0s"/>
 [KO] 프로젝트 매니저.
 <break time="1.0s"/>
-[FR-Vocab] chef de projet.
+[FR-Vocab] le chef de projet.
 <break time="1.5s"/>
 
 [FR-Vocab] stagiaire.
 <break time="1.0s"/>
-[KO] 인턴. 남녀 동일.
+[KO] 인턴.
 <break time="1.0s"/>
 [FR-Vocab] stagiaire.
 <break time="1.5s"/>
 
-[FR-Vocab] freelance.
+[FR-Vocab] le freelance.
 <break time="1.0s"/>
 [KO] 프리랜서.
 <break time="1.0s"/>
-[FR-Vocab] freelance.
+[FR-Vocab] le freelance.
 <break time="1.5s"/>
 
-[FR-Vocab] client.
+[FR-Vocab] le client.
 <break time="1.0s"/>
-[KO] 고객, 남성형.
+[KO] 고객.
 <break time="1.0s"/>
-[FR-Vocab] client.
+[FR-Vocab] le client.
 <break time="1.5s"/>
 
-[FR-Vocab] cliente.
+[FR-Vocab] la cliente.
 <break time="1.0s"/>
-[KO] 고객, 여성형.
+[KO] 고객.
 <break time="1.0s"/>
-[FR-Vocab] cliente.
+[FR-Vocab] la cliente.
 <break time="1.5s"/>
 
-[FR-Vocab] fournisseur.
+[FR-Vocab] le fournisseur.
 <break time="1.0s"/>
 [KO] 공급업체.
 <break time="1.0s"/>
-[FR-Vocab] fournisseur.
+[FR-Vocab] le fournisseur.
 <break time="1.5s"/>

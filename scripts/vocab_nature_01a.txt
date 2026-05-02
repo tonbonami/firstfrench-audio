@@ -1,52 +1,51 @@
 # Vocabulaire — vocab_nature_01a / part a
-# 패턴: FR → KO → FR
-# voices: Vocab=lisons-narrator
+# voices: Vocab=warm-mother
 
-[FR-Vocab] montagne.
+[FR-Vocab] la montagne.
 <break time="1.0s"/>
-[KO] 산
+[KO] 산.
 <break time="1.0s"/>
-[FR-Vocab] montagne.
+[FR-Vocab] la montagne.
 <break time="1.5s"/>
 
-[FR-Vocab] colline.
+[FR-Vocab] la colline.
 <break time="1.0s"/>
-[KO] 언덕
+[KO] 언덕.
 <break time="1.0s"/>
-[FR-Vocab] colline.
+[FR-Vocab] la colline.
 <break time="1.5s"/>
 
-[FR-Vocab] forêt.
+[FR-Vocab] la forêt.
 <break time="1.0s"/>
-[KO] 숲
+[KO] 숲.
 <break time="1.0s"/>
-[FR-Vocab] forêt.
+[FR-Vocab] la forêt.
 <break time="1.5s"/>
 
-[FR-Vocab] bois.
+[FR-Vocab] le bois.
 <break time="1.0s"/>
-[KO] 작은 숲
+[KO] 작은 숲.
 <break time="1.0s"/>
-[FR-Vocab] bois.
+[FR-Vocab] le bois.
 <break time="1.5s"/>
 
-[FR-Vocab] plaine.
+[FR-Vocab] la plaine.
 <break time="1.0s"/>
-[KO] 평야
+[KO] 평야.
 <break time="1.0s"/>
-[FR-Vocab] plaine.
+[FR-Vocab] la plaine.
 <break time="1.5s"/>
 
-[FR-Vocab] désert.
+[FR-Vocab] le désert.
 <break time="1.0s"/>
-[KO] 사막
+[KO] 사막.
 <break time="1.0s"/>
-[FR-Vocab] désert.
+[FR-Vocab] le désert.
 <break time="1.5s"/>
 
-[FR-Vocab] plage.
+[FR-Vocab] la plage.
 <break time="1.0s"/>
-[KO] 해변
+[KO] 해변.
 <break time="1.0s"/>
-[FR-Vocab] plage.
+[FR-Vocab] la plage.
 <break time="1.5s"/>

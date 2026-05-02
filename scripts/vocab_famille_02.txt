@@ -1,45 +1,44 @@
-# Vocabulaire — La famille (가족) / 섹션 2: 조부모·손자녀
-# 패턴: FR → KO → FR
-# voices: Vocab=lisons-narrator
+# Vocabulaire — vocab_famille_02
+# voices: Vocab=warm-mother
 
-[FR-Vocab] grands-parents.
+[FR-Vocab] le grands-parents.
 <break time="1.0s"/>
 [KO] 조부모.
 <break time="1.0s"/>
-[FR-Vocab] grands-parents.
+[FR-Vocab] le grands-parents.
 <break time="1.5s"/>
 
-[FR-Vocab] grand-père.
+[FR-Vocab] le grand-père.
 <break time="1.0s"/>
 [KO] 할아버지.
 <break time="1.0s"/>
-[FR-Vocab] grand-père.
+[FR-Vocab] le grand-père.
 <break time="1.5s"/>
 
-[FR-Vocab] grand-mère.
+[FR-Vocab] la grand-mère.
 <break time="1.0s"/>
 [KO] 할머니.
 <break time="1.0s"/>
-[FR-Vocab] grand-mère.
+[FR-Vocab] la grand-mère.
 <break time="1.5s"/>
 
-[FR-Vocab] petit-fils.
+[FR-Vocab] le petit-fils.
 <break time="1.0s"/>
 [KO] 손자.
 <break time="1.0s"/>
-[FR-Vocab] petit-fils.
+[FR-Vocab] le petit-fils.
 <break time="1.5s"/>
 
-[FR-Vocab] petite-fille.
+[FR-Vocab] la petite-fille.
 <break time="1.0s"/>
 [KO] 손녀.
 <break time="1.0s"/>
-[FR-Vocab] petite-fille.
+[FR-Vocab] la petite-fille.
 <break time="1.5s"/>
 
-[FR-Vocab] petits-enfants.
+[FR-Vocab] le petits-enfants.
 <break time="1.0s"/>
 [KO] 손자녀들.
 <break time="1.0s"/>
-[FR-Vocab] petits-enfants.
+[FR-Vocab] le petits-enfants.
 <break time="1.5s"/>

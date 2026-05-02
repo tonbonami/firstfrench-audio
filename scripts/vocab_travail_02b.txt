@@ -1,58 +1,58 @@
-# Vocabulaire — Travail / 2b: 업무 환경 cont.
-# voices: Vocab=lisons-narrator
+# Vocabulaire — vocab_travail_02b / part b
+# voices: Vocab=warm-mother
 
-[FR-Vocab] budget.
+[FR-Vocab] le budget.
 <break time="1.0s"/>
 [KO] 예산.
 <break time="1.0s"/>
-[FR-Vocab] budget.
+[FR-Vocab] le budget.
 <break time="1.5s"/>
 
-[FR-Vocab] contrat.
+[FR-Vocab] le contrat.
 <break time="1.0s"/>
 [KO] 계약.
 <break time="1.0s"/>
-[FR-Vocab] contrat.
+[FR-Vocab] le contrat.
 <break time="1.5s"/>
 
-[FR-Vocab] pause.
+[FR-Vocab] la pause.
 <break time="1.0s"/>
 [KO] 휴식.
 <break time="1.0s"/>
-[FR-Vocab] pause.
+[FR-Vocab] la pause.
 <break time="1.5s"/>
 
-[FR-Vocab] télétravail.
+[FR-Vocab] le télétravail.
 <break time="1.0s"/>
 [KO] 재택근무.
 <break time="1.0s"/>
-[FR-Vocab] télétravail.
+[FR-Vocab] le télétravail.
 <break time="1.5s"/>
 
-[FR-Vocab] promotion.
+[FR-Vocab] la promotion.
 <break time="1.0s"/>
 [KO] 승진.
 <break time="1.0s"/>
-[FR-Vocab] promotion.
+[FR-Vocab] la promotion.
 <break time="1.5s"/>
 
-[FR-Vocab] salaire.
+[FR-Vocab] le salaire.
 <break time="1.0s"/>
 [KO] 급여.
 <break time="1.0s"/>
-[FR-Vocab] salaire.
+[FR-Vocab] le salaire.
 <break time="1.5s"/>
 
-[FR-Vocab] augmentation.
+[FR-Vocab] l'augmentation.
 <break time="1.0s"/>
 [KO] 인상.
 <break time="1.0s"/>
-[FR-Vocab] augmentation.
+[FR-Vocab] l'augmentation.
 <break time="1.5s"/>
 
-[FR-Vocab] heures supplémentaires.
+[FR-Vocab] l'heures supplémentaires.
 <break time="1.0s"/>
-[KO] 초과근무, 복수형.
+[KO] 초과근무.
 <break time="1.0s"/>
-[FR-Vocab] heures supplémentaires.
+[FR-Vocab] l'heures supplémentaires.
 <break time="1.5s"/>

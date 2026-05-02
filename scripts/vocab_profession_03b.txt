@@ -1,0 +1,37 @@
+# Vocabulaire — vocab_profession_03b / part b
+# voices: Vocab=warm-mother
+
+[FR-Vocab] la commerçante.
+<break time="1.0s"/>
+[KO] 상인.
+<break time="1.0s"/>
+[FR-Vocab] la commerçante.
+<break time="1.5s"/>
+
+[FR-Vocab] le vendeur.
+<break time="1.0s"/>
+[KO] 판매원.
+<break time="1.0s"/>
+[FR-Vocab] le vendeur.
+<break time="1.5s"/>
+
+[FR-Vocab] la vendeuse.
+<break time="1.0s"/>
+[KO] 판매원.
+<break time="1.0s"/>
+[FR-Vocab] la vendeuse.
+<break time="1.5s"/>
+
+[FR-Vocab] le serveur.
+<break time="1.0s"/>
+[KO] 종업원.
+<break time="1.0s"/>
+[FR-Vocab] le serveur.
+<break time="1.5s"/>
+
+[FR-Vocab] la serveuse.
+<break time="1.0s"/>
+[KO] 종업원.
+<break time="1.0s"/>
+[FR-Vocab] la serveuse.
+<break time="1.5s"/>

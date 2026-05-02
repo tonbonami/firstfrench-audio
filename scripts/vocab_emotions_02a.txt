@@ -1,80 +1,79 @@
 # Vocabulaire — vocab_emotions_02a / part a
-# 패턴: FR → KO → FR
-# voices: Vocab=lisons-narrator
+# voices: Vocab=warm-mother
 
 [FR-Vocab] triste.
 <break time="1.0s"/>
-[KO] 슬픈
+[KO] 슬픈.
 <break time="1.0s"/>
 [FR-Vocab] triste.
 <break time="1.5s"/>
 
 [FR-Vocab] fatigué.
 <break time="1.0s"/>
-[KO] 피곤한, 남성형
+[KO] 피곤한.
 <break time="1.0s"/>
 [FR-Vocab] fatigué.
 <break time="1.5s"/>
 
 [FR-Vocab] fatiguée.
 <break time="1.0s"/>
-[KO] 피곤한, 여성형
+[KO] 피곤한.
 <break time="1.0s"/>
 [FR-Vocab] fatiguée.
 <break time="1.5s"/>
 
 [FR-Vocab] stressé.
 <break time="1.0s"/>
-[KO] 스트레스받는, 남성형
+[KO] 스트레스받는.
 <break time="1.0s"/>
 [FR-Vocab] stressé.
 <break time="1.5s"/>
 
 [FR-Vocab] stressée.
 <break time="1.0s"/>
-[KO] 스트레스받는, 여성형
+[KO] 스트레스받는.
 <break time="1.0s"/>
 [FR-Vocab] stressée.
 <break time="1.5s"/>
 
-[FR-Vocab] inquiet.
+[FR-Vocab] l'inquiet.
 <break time="1.0s"/>
-[KO] 걱정스러운, 남성형
+[KO] 걱정스러운.
 <break time="1.0s"/>
-[FR-Vocab] inquiet.
+[FR-Vocab] l'inquiet.
 <break time="1.5s"/>
 
-[FR-Vocab] inquiète.
+[FR-Vocab] l'inquiète.
 <break time="1.0s"/>
-[KO] 걱정스러운, 여성형
+[KO] 걱정스러운.
 <break time="1.0s"/>
-[FR-Vocab] inquiète.
+[FR-Vocab] l'inquiète.
 <break time="1.5s"/>
 
-[FR-Vocab] en colère.
+[FR-Vocab] l'en colère.
 <break time="1.0s"/>
-[KO] 화난
+[KO] 화난.
 <break time="1.0s"/>
-[FR-Vocab] en colère.
+[FR-Vocab] l'en colère.
 <break time="1.5s"/>
 
 [FR-Vocab] déçu.
 <break time="1.0s"/>
-[KO] 실망한, 남성형
+[KO] 실망한.
 <break time="1.0s"/>
 [FR-Vocab] déçu.
 <break time="1.5s"/>
 
 [FR-Vocab] déçue.
 <break time="1.0s"/>
-[KO] 실망한, 여성형
+[KO] 실망한.
 <break time="1.0s"/>
 [FR-Vocab] déçue.
 <break time="1.5s"/>
 
 [FR-Vocab] jaloux.
 <break time="1.0s"/>
-[KO] 질투하는, 남성형
+[KO] 질투하는.
 <break time="1.0s"/>
 [FR-Vocab] jaloux.
 <break time="1.5s"/>

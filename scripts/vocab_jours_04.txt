@@ -1,45 +1,44 @@
 # Vocabulaire — vocab_jours_04
-# 패턴: FR → KO → FR
-# voices: Vocab=lisons-narrator
+# voices: Vocab=warm-mother
 
-[FR-Vocab] jour.
+[FR-Vocab] le jour.
 <break time="1.0s"/>
 [KO] 날.
 <break time="1.0s"/>
-[FR-Vocab] jour.
+[FR-Vocab] le jour.
 <break time="1.5s"/>
 
-[FR-Vocab] semaine.
+[FR-Vocab] la semaine.
 <break time="1.0s"/>
 [KO] 주.
 <break time="1.0s"/>
-[FR-Vocab] semaine.
+[FR-Vocab] la semaine.
 <break time="1.5s"/>
 
-[FR-Vocab] mois.
+[FR-Vocab] le mois.
 <break time="1.0s"/>
 [KO] 달.
 <break time="1.0s"/>
-[FR-Vocab] mois.
+[FR-Vocab] le mois.
 <break time="1.5s"/>
 
-[FR-Vocab] an.
+[FR-Vocab] l'an.
 <break time="1.0s"/>
-[KO] 해, 단위.
+[KO] 해 (단위).
 <break time="1.0s"/>
-[FR-Vocab] an.
+[FR-Vocab] l'an.
 <break time="1.5s"/>
 
-[FR-Vocab] année.
+[FR-Vocab] l'année.
 <break time="1.0s"/>
-[KO] 한 해, 지속.
+[KO] 한 해 (지속).
 <break time="1.0s"/>
-[FR-Vocab] année.
+[FR-Vocab] l'année.
 <break time="1.5s"/>
 
-[FR-Vocab] date.
+[FR-Vocab] la date.
 <break time="1.0s"/>
 [KO] 날짜.
 <break time="1.0s"/>
-[FR-Vocab] date.
+[FR-Vocab] la date.
 <break time="1.5s"/>

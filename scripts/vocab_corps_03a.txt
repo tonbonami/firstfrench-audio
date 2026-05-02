@@ -1,0 +1,44 @@
+# Vocabulaire — vocab_corps_03a / part a
+# voices: Vocab=warm-mother
+
+[FR-Vocab] la jambe.
+<break time="1.0s"/>
+[KO] 다리.
+<break time="1.0s"/>
+[FR-Vocab] la jambe.
+<break time="1.5s"/>
+
+[FR-Vocab] la cuisse.
+<break time="1.0s"/>
+[KO] 허벅지.
+<break time="1.0s"/>
+[FR-Vocab] la cuisse.
+<break time="1.5s"/>
+
+[FR-Vocab] le genou.
+<break time="1.0s"/>
+[KO] 무릎.
+<break time="1.0s"/>
+[FR-Vocab] le genou.
+<break time="1.5s"/>
+
+[FR-Vocab] le mollet.
+<break time="1.0s"/>
+[KO] 종아리.
+<break time="1.0s"/>
+[FR-Vocab] le mollet.
+<break time="1.5s"/>
+
+[FR-Vocab] la cheville.
+<break time="1.0s"/>
+[KO] 발목.
+<break time="1.0s"/>
+[FR-Vocab] la cheville.
+<break time="1.5s"/>
+
+[FR-Vocab] le pied.
+<break time="1.0s"/>
+[KO] 발.
+<break time="1.0s"/>
+[FR-Vocab] le pied.
+<break time="1.5s"/>

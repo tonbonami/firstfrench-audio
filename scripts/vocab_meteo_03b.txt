@@ -1,52 +1,51 @@
 # Vocabulaire — vocab_meteo_03b / part b
-# 패턴: FR → KO → FR
-# voices: Vocab=lisons-narrator
+# voices: Vocab=warm-mother
 
-[FR-Vocab] tempête.
+[FR-Vocab] la tempête.
 <break time="1.0s"/>
-[KO] 폭풍
+[KO] 폭풍.
 <break time="1.0s"/>
-[FR-Vocab] tempête.
+[FR-Vocab] la tempête.
 <break time="1.5s"/>
 
-[FR-Vocab] arc-en-ciel.
+[FR-Vocab] l'arc-en-ciel.
 <break time="1.0s"/>
-[KO] 무지개
+[KO] 무지개.
 <break time="1.0s"/>
-[FR-Vocab] arc-en-ciel.
+[FR-Vocab] l'arc-en-ciel.
 <break time="1.5s"/>
 
-[FR-Vocab] chaleur.
+[FR-Vocab] la chaleur.
 <break time="1.0s"/>
-[KO] 더위
+[KO] 더위.
 <break time="1.0s"/>
-[FR-Vocab] chaleur.
+[FR-Vocab] la chaleur.
 <break time="1.5s"/>
 
-[FR-Vocab] froid.
+[FR-Vocab] le froid.
 <break time="1.0s"/>
-[KO] 추위
+[KO] 추위.
 <break time="1.0s"/>
-[FR-Vocab] froid.
+[FR-Vocab] le froid.
 <break time="1.5s"/>
 
-[FR-Vocab] température.
+[FR-Vocab] la température.
 <break time="1.0s"/>
-[KO] 기온
+[KO] 기온.
 <break time="1.0s"/>
-[FR-Vocab] température.
+[FR-Vocab] la température.
 <break time="1.5s"/>
 
-[FR-Vocab] météo.
+[FR-Vocab] la météo.
 <break time="1.0s"/>
-[KO] 일기예보
+[KO] 일기예보.
 <break time="1.0s"/>
-[FR-Vocab] météo.
+[FR-Vocab] la météo.
 <break time="1.5s"/>
 
-[FR-Vocab] degré.
+[FR-Vocab] le degré.
 <break time="1.0s"/>
-[KO] 도
+[KO] 도.
 <break time="1.0s"/>
-[FR-Vocab] degré.
+[FR-Vocab] le degré.
 <break time="1.5s"/>

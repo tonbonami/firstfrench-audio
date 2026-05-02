@@ -1,45 +1,44 @@
 # Vocabulaire — vocab_animaux_04
-# 패턴: FR → KO → FR
-# voices: Vocab=lisons-narrator
+# voices: Vocab=warm-mother
 
-[FR-Vocab] abeille.
+[FR-Vocab] l'abeille.
 <break time="1.0s"/>
-[KO] 벌
+[KO] 벌.
 <break time="1.0s"/>
-[FR-Vocab] abeille.
+[FR-Vocab] l'abeille.
 <break time="1.5s"/>
 
-[FR-Vocab] moustique.
+[FR-Vocab] le moustique.
 <break time="1.0s"/>
-[KO] 모기
+[KO] 모기.
 <break time="1.0s"/>
-[FR-Vocab] moustique.
+[FR-Vocab] le moustique.
 <break time="1.5s"/>
 
-[FR-Vocab] fourmi.
+[FR-Vocab] la fourmi.
 <break time="1.0s"/>
-[KO] 개미
+[KO] 개미.
 <break time="1.0s"/>
-[FR-Vocab] fourmi.
+[FR-Vocab] la fourmi.
 <break time="1.5s"/>
 
-[FR-Vocab] araignée.
+[FR-Vocab] l'araignée.
 <break time="1.0s"/>
-[KO] 거미
+[KO] 거미.
 <break time="1.0s"/>
-[FR-Vocab] araignée.
+[FR-Vocab] l'araignée.
 <break time="1.5s"/>
 
-[FR-Vocab] escargot.
+[FR-Vocab] l'escargot.
 <break time="1.0s"/>
-[KO] 달팽이
+[KO] 달팽이.
 <break time="1.0s"/>
-[FR-Vocab] escargot.
+[FR-Vocab] l'escargot.
 <break time="1.5s"/>
 
-[FR-Vocab] papillon.
+[FR-Vocab] le papillon.
 <break time="1.0s"/>
-[KO] 나비
+[KO] 나비.
 <break time="1.0s"/>
-[FR-Vocab] papillon.
+[FR-Vocab] le papillon.
 <break time="1.5s"/>

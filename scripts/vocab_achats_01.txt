@@ -1,66 +1,65 @@
 # Vocabulaire — vocab_achats_01
-# 패턴: FR → KO → FR
-# voices: Vocab=lisons-narrator
+# voices: Vocab=warm-mother
 
-[FR-Vocab] boulangerie.
+[FR-Vocab] la boulangerie.
 <break time="1.0s"/>
-[KO] 빵집
+[KO] 빵집.
 <break time="1.0s"/>
-[FR-Vocab] boulangerie.
+[FR-Vocab] la boulangerie.
 <break time="1.5s"/>
 
-[FR-Vocab] boucherie.
+[FR-Vocab] la boucherie.
 <break time="1.0s"/>
-[KO] 정육점
+[KO] 정육점.
 <break time="1.0s"/>
-[FR-Vocab] boucherie.
+[FR-Vocab] la boucherie.
 <break time="1.5s"/>
 
-[FR-Vocab] poissonnerie.
+[FR-Vocab] la poissonnerie.
 <break time="1.0s"/>
-[KO] 생선가게
+[KO] 생선가게.
 <break time="1.0s"/>
-[FR-Vocab] poissonnerie.
+[FR-Vocab] la poissonnerie.
 <break time="1.5s"/>
 
-[FR-Vocab] fromagerie.
+[FR-Vocab] la fromagerie.
 <break time="1.0s"/>
-[KO] 치즈가게
+[KO] 치즈가게.
 <break time="1.0s"/>
-[FR-Vocab] fromagerie.
+[FR-Vocab] la fromagerie.
 <break time="1.5s"/>
 
-[FR-Vocab] pharmacie.
+[FR-Vocab] la pharmacie.
 <break time="1.0s"/>
-[KO] 약국
+[KO] 약국.
 <break time="1.0s"/>
-[FR-Vocab] pharmacie.
+[FR-Vocab] la pharmacie.
 <break time="1.5s"/>
 
-[FR-Vocab] fleuriste.
+[FR-Vocab] la fleuriste.
 <break time="1.0s"/>
-[KO] 꽃집
+[KO] 꽃집.
 <break time="1.0s"/>
-[FR-Vocab] fleuriste.
+[FR-Vocab] la fleuriste.
 <break time="1.5s"/>
 
-[FR-Vocab] librairie.
+[FR-Vocab] la librairie.
 <break time="1.0s"/>
-[KO] 서점
+[KO] 서점.
 <break time="1.0s"/>
-[FR-Vocab] librairie.
+[FR-Vocab] la librairie.
 <break time="1.5s"/>
 
-[FR-Vocab] grand magasin.
+[FR-Vocab] le grand magasin.
 <break time="1.0s"/>
-[KO] 백화점
+[KO] 백화점.
 <break time="1.0s"/>
-[FR-Vocab] grand magasin.
+[FR-Vocab] le grand magasin.
 <break time="1.5s"/>
 
-[FR-Vocab] supermarché.
+[FR-Vocab] le supermarché.
 <break time="1.0s"/>
-[KO] 마트
+[KO] 마트.
 <break time="1.0s"/>
-[FR-Vocab] supermarché.
+[FR-Vocab] le supermarché.
 <break time="1.5s"/>

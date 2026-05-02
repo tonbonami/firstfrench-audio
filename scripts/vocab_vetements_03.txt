@@ -1,31 +1,30 @@
 # Vocabulaire — vocab_vetements_03
-# 패턴: FR → KO → FR
-# voices: Vocab=lisons-narrator
+# voices: Vocab=warm-mother
 
-[FR-Vocab] robe.
+[FR-Vocab] la robe.
 <break time="1.0s"/>
-[KO] 원피스
+[KO] 원피스.
 <break time="1.0s"/>
-[FR-Vocab] robe.
+[FR-Vocab] la robe.
 <break time="1.5s"/>
 
-[FR-Vocab] costume.
+[FR-Vocab] le costume.
 <break time="1.0s"/>
-[KO] 정장
+[KO] 정장.
 <break time="1.0s"/>
-[FR-Vocab] costume.
+[FR-Vocab] le costume.
 <break time="1.5s"/>
 
-[FR-Vocab] maillot de bain.
+[FR-Vocab] le maillot de bain.
 <break time="1.0s"/>
-[KO] 수영복
+[KO] 수영복.
 <break time="1.0s"/>
-[FR-Vocab] maillot de bain.
+[FR-Vocab] le maillot de bain.
 <break time="1.5s"/>
 
-[FR-Vocab] pyjama.
+[FR-Vocab] le pyjama.
 <break time="1.0s"/>
-[KO] 잠옷
+[KO] 잠옷.
 <break time="1.0s"/>
-[FR-Vocab] pyjama.
+[FR-Vocab] le pyjama.
 <break time="1.5s"/>

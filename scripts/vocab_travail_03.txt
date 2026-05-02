@@ -1,32 +1,32 @@
-# Vocabulaire — Travail / 3: 입사·이직
-# voices: Vocab=lisons-narrator
+# Vocabulaire — vocab_travail_03
+# voices: Vocab=warm-mother
 
-[FR-Vocab] CV.
+[FR-Vocab] le CV.
 <break time="1.0s"/>
 [KO] 이력서.
 <break time="1.0s"/>
-[FR-Vocab] CV.
+[FR-Vocab] le CV.
 <break time="1.5s"/>
 
-[FR-Vocab] lettre de motivation.
+[FR-Vocab] la lettre de motivation.
 <break time="1.0s"/>
 [KO] 자기소개서.
 <break time="1.0s"/>
-[FR-Vocab] lettre de motivation.
+[FR-Vocab] la lettre de motivation.
 <break time="1.5s"/>
 
-[FR-Vocab] entretien d'embauche.
+[FR-Vocab] l'entretien d'embauche.
 <break time="1.0s"/>
 [KO] 입사 면접.
 <break time="1.0s"/>
-[FR-Vocab] entretien d'embauche.
+[FR-Vocab] l'entretien d'embauche.
 <break time="1.5s"/>
 
-[FR-Vocab] offre d'emploi.
+[FR-Vocab] l'offre d'emploi.
 <break time="1.0s"/>
 [KO] 구인공고.
 <break time="1.0s"/>
-[FR-Vocab] offre d'emploi.
+[FR-Vocab] l'offre d'emploi.
 <break time="1.5s"/>
 
 [FR-Vocab] poser sa candidature.
@@ -36,11 +36,11 @@
 [FR-Vocab] poser sa candidature.
 <break time="1.5s"/>
 
-[FR-Vocab] être embauché.
+[FR-Vocab] être embauché(e).
 <break time="1.0s"/>
 [KO] 채용되다.
 <break time="1.0s"/>
-[FR-Vocab] être embauché.
+[FR-Vocab] être embauché(e).
 <break time="1.5s"/>
 
 [FR-Vocab] démissionner.
@@ -50,11 +50,11 @@
 [FR-Vocab] démissionner.
 <break time="1.5s"/>
 
-[FR-Vocab] être licencié.
+[FR-Vocab] être licencié(e).
 <break time="1.0s"/>
 [KO] 해고되다.
 <break time="1.0s"/>
-[FR-Vocab] être licencié.
+[FR-Vocab] être licencié(e).
 <break time="1.5s"/>
 
 [FR-Vocab] prendre sa retraite.

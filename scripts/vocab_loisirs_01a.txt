@@ -1,52 +1,51 @@
 # Vocabulaire — vocab_loisirs_01a / part a
-# 패턴: FR → KO → FR
-# voices: Vocab=lisons-narrator
+# voices: Vocab=warm-mother
 
-[FR-Vocab] football.
+[FR-Vocab] le football.
 <break time="1.0s"/>
-[KO] 축구
+[KO] 축구.
 <break time="1.0s"/>
-[FR-Vocab] football.
+[FR-Vocab] le football.
 <break time="1.5s"/>
 
-[FR-Vocab] basket.
+[FR-Vocab] le basket.
 <break time="1.0s"/>
-[KO] 농구
+[KO] 농구.
 <break time="1.0s"/>
-[FR-Vocab] basket.
+[FR-Vocab] le basket.
 <break time="1.5s"/>
 
-[FR-Vocab] tennis.
+[FR-Vocab] le tennis.
 <break time="1.0s"/>
-[KO] 테니스
+[KO] 테니스.
 <break time="1.0s"/>
-[FR-Vocab] tennis.
+[FR-Vocab] le tennis.
 <break time="1.5s"/>
 
-[FR-Vocab] volley.
+[FR-Vocab] le volley.
 <break time="1.0s"/>
-[KO] 배구
+[KO] 배구.
 <break time="1.0s"/>
-[FR-Vocab] volley.
+[FR-Vocab] le volley.
 <break time="1.5s"/>
 
-[FR-Vocab] natation.
+[FR-Vocab] la natation.
 <break time="1.0s"/>
-[KO] 수영
+[KO] 수영.
 <break time="1.0s"/>
-[FR-Vocab] natation.
+[FR-Vocab] la natation.
 <break time="1.5s"/>
 
-[FR-Vocab] course à pied.
+[FR-Vocab] la course à pied.
 <break time="1.0s"/>
-[KO] 달리기
+[KO] 달리기.
 <break time="1.0s"/>
-[FR-Vocab] course à pied.
+[FR-Vocab] la course à pied.
 <break time="1.5s"/>
 
-[FR-Vocab] vélo.
+[FR-Vocab] le vélo.
 <break time="1.0s"/>
-[KO] 자전거
+[KO] 자전거.
 <break time="1.0s"/>
-[FR-Vocab] vélo.
+[FR-Vocab] le vélo.
 <break time="1.5s"/>

@@ -1,45 +1,44 @@
 # Vocabulaire — vocab_technologie_02b / part b
-# 패턴: FR → KO → FR
-# voices: Vocab=lisons-narrator
+# voices: Vocab=warm-mother
 
-[FR-Vocab] profil.
+[FR-Vocab] le profil.
 <break time="1.0s"/>
-[KO] 프로필
+[KO] 프로필.
 <break time="1.0s"/>
-[FR-Vocab] profil.
+[FR-Vocab] le profil.
 <break time="1.5s"/>
 
-[FR-Vocab] réseaux sociaux.
+[FR-Vocab] le réseaux sociaux.
 <break time="1.0s"/>
-[KO] SNS
+[KO] SNS.
 <break time="1.0s"/>
-[FR-Vocab] réseaux sociaux.
+[FR-Vocab] le réseaux sociaux.
 <break time="1.5s"/>
 
-[FR-Vocab] messagerie.
+[FR-Vocab] la messagerie.
 <break time="1.0s"/>
-[KO] 메신저
+[KO] 메신저.
 <break time="1.0s"/>
-[FR-Vocab] messagerie.
+[FR-Vocab] la messagerie.
 <break time="1.5s"/>
 
-[FR-Vocab] e-mail.
+[FR-Vocab] l'e-mail.
 <break time="1.0s"/>
-[KO] 이메일
+[KO] 이메일.
 <break time="1.0s"/>
-[FR-Vocab] e-mail.
+[FR-Vocab] l'e-mail.
 <break time="1.5s"/>
 
-[FR-Vocab] vidéoconférence.
+[FR-Vocab] la vidéoconférence.
 <break time="1.0s"/>
-[KO] 화상회의
+[KO] 화상회의.
 <break time="1.0s"/>
-[FR-Vocab] vidéoconférence.
+[FR-Vocab] la vidéoconférence.
 <break time="1.5s"/>
 
-[FR-Vocab] notification.
+[FR-Vocab] la notification.
 <break time="1.0s"/>
-[KO] 알림
+[KO] 알림.
 <break time="1.0s"/>
-[FR-Vocab] notification.
+[FR-Vocab] la notification.
 <break time="1.5s"/>

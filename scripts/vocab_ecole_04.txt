@@ -1,66 +1,65 @@
 # Vocabulaire — vocab_ecole_04
-# 패턴: FR → KO → FR
-# voices: Vocab=lisons-narrator
+# voices: Vocab=warm-mother
 
-[FR-Vocab] mathématiques.
+[FR-Vocab] la mathématiques.
 <break time="1.0s"/>
-[KO] 수학
+[KO] 수학.
 <break time="1.0s"/>
-[FR-Vocab] mathématiques.
+[FR-Vocab] la mathématiques.
 <break time="1.5s"/>
 
-[FR-Vocab] français.
+[FR-Vocab] le français.
 <break time="1.0s"/>
-[KO] 프랑스어
+[KO] 프랑스어.
 <break time="1.0s"/>
-[FR-Vocab] français.
+[FR-Vocab] le français.
 <break time="1.5s"/>
 
-[FR-Vocab] anglais.
+[FR-Vocab] l'anglais.
 <break time="1.0s"/>
-[KO] 영어
+[KO] 영어.
 <break time="1.0s"/>
-[FR-Vocab] anglais.
+[FR-Vocab] l'anglais.
 <break time="1.5s"/>
 
-[FR-Vocab] histoire.
+[FR-Vocab] l'histoire.
 <break time="1.0s"/>
-[KO] 역사
+[KO] 역사.
 <break time="1.0s"/>
-[FR-Vocab] histoire.
+[FR-Vocab] l'histoire.
 <break time="1.5s"/>
 
-[FR-Vocab] géographie.
+[FR-Vocab] la géographie.
 <break time="1.0s"/>
-[KO] 지리
+[KO] 지리.
 <break time="1.0s"/>
-[FR-Vocab] géographie.
+[FR-Vocab] la géographie.
 <break time="1.5s"/>
 
-[FR-Vocab] sciences.
+[FR-Vocab] la sciences.
 <break time="1.0s"/>
-[KO] 과학
+[KO] 과학.
 <break time="1.0s"/>
-[FR-Vocab] sciences.
+[FR-Vocab] la sciences.
 <break time="1.5s"/>
 
-[FR-Vocab] éducation physique.
+[FR-Vocab] l'éducation physique.
 <break time="1.0s"/>
-[KO] 체육
+[KO] 체육.
 <break time="1.0s"/>
-[FR-Vocab] éducation physique.
+[FR-Vocab] l'éducation physique.
 <break time="1.5s"/>
 
-[FR-Vocab] musique.
+[FR-Vocab] la musique.
 <break time="1.0s"/>
-[KO] 음악
+[KO] 음악.
 <break time="1.0s"/>
-[FR-Vocab] musique.
+[FR-Vocab] la musique.
 <break time="1.5s"/>
 
-[FR-Vocab] philosophie.
+[FR-Vocab] la philosophie.
 <break time="1.0s"/>
-[KO] 철학
+[KO] 철학.
 <break time="1.0s"/>
-[FR-Vocab] philosophie.
+[FR-Vocab] la philosophie.
 <break time="1.5s"/>

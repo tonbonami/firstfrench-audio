@@ -1,45 +1,44 @@
 # Vocabulaire — vocab_ecole_02
-# 패턴: FR → KO → FR
-# voices: Vocab=lisons-narrator
+# voices: Vocab=warm-mother
 
-[FR-Vocab] professeur.
+[FR-Vocab] le professeur.
 <break time="1.0s"/>
-[KO] 선생님
+[KO] 선생님.
 <break time="1.0s"/>
-[FR-Vocab] professeur.
+[FR-Vocab] le professeur.
 <break time="1.5s"/>
 
-[FR-Vocab] élève.
+[FR-Vocab] l'élève.
 <break time="1.0s"/>
-[KO] 학생
+[KO] 학생.
 <break time="1.0s"/>
-[FR-Vocab] élève.
+[FR-Vocab] l'élève.
 <break time="1.5s"/>
 
-[FR-Vocab] étudiant.
+[FR-Vocab] l'étudiant.
 <break time="1.0s"/>
-[KO] 학생, 남성형
+[KO] 학생 (대학).
 <break time="1.0s"/>
-[FR-Vocab] étudiant.
+[FR-Vocab] l'étudiant.
 <break time="1.5s"/>
 
-[FR-Vocab] étudiante.
+[FR-Vocab] l'étudiante.
 <break time="1.0s"/>
-[KO] 학생, 여성형
+[KO] 학생 (대학).
 <break time="1.0s"/>
-[FR-Vocab] étudiante.
+[FR-Vocab] l'étudiante.
 <break time="1.5s"/>
 
-[FR-Vocab] directeur.
+[FR-Vocab] le directeur.
 <break time="1.0s"/>
-[KO] 교장, 남성형
+[KO] 교장.
 <break time="1.0s"/>
-[FR-Vocab] directeur.
+[FR-Vocab] le directeur.
 <break time="1.5s"/>
 
-[FR-Vocab] directrice.
+[FR-Vocab] la directrice.
 <break time="1.0s"/>
-[KO] 교장, 여성형
+[KO] 교장.
 <break time="1.0s"/>
-[FR-Vocab] directrice.
+[FR-Vocab] la directrice.
 <break time="1.5s"/>

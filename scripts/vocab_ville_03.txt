@@ -1,59 +1,58 @@
 # Vocabulaire — vocab_ville_03
-# 패턴: FR → KO → FR
-# voices: Vocab=lisons-narrator
+# voices: Vocab=warm-mother
 
-[FR-Vocab] église.
+[FR-Vocab] l'église.
 <break time="1.0s"/>
-[KO] 교회
+[KO] 교회.
 <break time="1.0s"/>
-[FR-Vocab] église.
+[FR-Vocab] l'église.
 <break time="1.5s"/>
 
-[FR-Vocab] place.
+[FR-Vocab] la place.
 <break time="1.0s"/>
-[KO] 광장
+[KO] 광장.
 <break time="1.0s"/>
-[FR-Vocab] place.
+[FR-Vocab] la place.
 <break time="1.5s"/>
 
-[FR-Vocab] aéroport.
+[FR-Vocab] l'aéroport.
 <break time="1.0s"/>
-[KO] 공항
+[KO] 공항.
 <break time="1.0s"/>
-[FR-Vocab] aéroport.
+[FR-Vocab] l'aéroport.
 <break time="1.5s"/>
 
-[FR-Vocab] hôtel.
+[FR-Vocab] l'hôtel.
 <break time="1.0s"/>
-[KO] 호텔
+[KO] 호텔.
 <break time="1.0s"/>
-[FR-Vocab] hôtel.
+[FR-Vocab] l'hôtel.
 <break time="1.5s"/>
 
-[FR-Vocab] gare.
+[FR-Vocab] la gare.
 <break time="1.0s"/>
-[KO] 기차역
+[KO] 기차역.
 <break time="1.0s"/>
-[FR-Vocab] gare.
+[FR-Vocab] la gare.
 <break time="1.5s"/>
 
-[FR-Vocab] hôpital.
+[FR-Vocab] l'hôpital.
 <break time="1.0s"/>
-[KO] 병원
+[KO] 병원.
 <break time="1.0s"/>
-[FR-Vocab] hôpital.
+[FR-Vocab] l'hôpital.
 <break time="1.5s"/>
 
-[FR-Vocab] école.
+[FR-Vocab] l'école.
 <break time="1.0s"/>
-[KO] 학교
+[KO] 학교.
 <break time="1.0s"/>
-[FR-Vocab] école.
+[FR-Vocab] l'école.
 <break time="1.5s"/>
 
-[FR-Vocab] mairie.
+[FR-Vocab] la mairie.
 <break time="1.0s"/>
-[KO] 시청·구청
+[KO] 시청·구청.
 <break time="1.0s"/>
-[FR-Vocab] mairie.
+[FR-Vocab] la mairie.
 <break time="1.5s"/>

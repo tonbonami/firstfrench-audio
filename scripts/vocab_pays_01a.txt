@@ -1,59 +1,58 @@
 # Vocabulaire — vocab_pays_01a / part a
-# 패턴: FR → KO → FR
-# voices: Vocab=lisons-narrator
+# voices: Vocab=warm-mother
 
-[FR-Vocab] Corée du Sud.
+[FR-Vocab] la Corée du Sud.
 <break time="1.0s"/>
-[KO] 한국
+[KO] 한국.
 <break time="1.0s"/>
-[FR-Vocab] Corée du Sud.
+[FR-Vocab] la Corée du Sud.
 <break time="1.5s"/>
 
-[FR-Vocab] France.
+[FR-Vocab] la France.
 <break time="1.0s"/>
-[KO] 프랑스
+[KO] 프랑스.
 <break time="1.0s"/>
-[FR-Vocab] France.
+[FR-Vocab] la France.
 <break time="1.5s"/>
 
-[FR-Vocab] Japon.
+[FR-Vocab] le Japon.
 <break time="1.0s"/>
-[KO] 일본
+[KO] 일본.
 <break time="1.0s"/>
-[FR-Vocab] Japon.
+[FR-Vocab] le Japon.
 <break time="1.5s"/>
 
-[FR-Vocab] Chine.
+[FR-Vocab] la Chine.
 <break time="1.0s"/>
-[KO] 중국
+[KO] 중국.
 <break time="1.0s"/>
-[FR-Vocab] Chine.
+[FR-Vocab] la Chine.
 <break time="1.5s"/>
 
-[FR-Vocab] États-Unis.
+[FR-Vocab] l'États-Unis.
 <break time="1.0s"/>
-[KO] 미국
+[KO] 미국.
 <break time="1.0s"/>
-[FR-Vocab] États-Unis.
+[FR-Vocab] l'États-Unis.
 <break time="1.5s"/>
 
-[FR-Vocab] Royaume-Uni.
+[FR-Vocab] le Royaume-Uni.
 <break time="1.0s"/>
-[KO] 영국
+[KO] 영국.
 <break time="1.0s"/>
-[FR-Vocab] Royaume-Uni.
+[FR-Vocab] le Royaume-Uni.
 <break time="1.5s"/>
 
-[FR-Vocab] Allemagne.
+[FR-Vocab] l'Allemagne.
 <break time="1.0s"/>
-[KO] 독일
+[KO] 독일.
 <break time="1.0s"/>
-[FR-Vocab] Allemagne.
+[FR-Vocab] l'Allemagne.
 <break time="1.5s"/>
 
-[FR-Vocab] Italie.
+[FR-Vocab] l'Italie.
 <break time="1.0s"/>
-[KO] 이탈리아
+[KO] 이탈리아.
 <break time="1.0s"/>
-[FR-Vocab] Italie.
+[FR-Vocab] l'Italie.
 <break time="1.5s"/>

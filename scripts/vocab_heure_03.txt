@@ -1,66 +1,65 @@
 # Vocabulaire — vocab_heure_03
-# 패턴: FR → KO → FR
-# voices: Vocab=lisons-narrator
+# voices: Vocab=warm-mother
 
-[FR-Vocab] aube.
+[FR-Vocab] l'aube.
 <break time="1.0s"/>
-[KO] 새벽
+[KO] 새벽.
 <break time="1.0s"/>
-[FR-Vocab] aube.
+[FR-Vocab] l'aube.
 <break time="1.5s"/>
 
-[FR-Vocab] matin.
+[FR-Vocab] le matin.
 <break time="1.0s"/>
-[KO] 아침·오전
+[KO] 아침·오전.
 <break time="1.0s"/>
-[FR-Vocab] matin.
+[FR-Vocab] le matin.
 <break time="1.5s"/>
 
-[FR-Vocab] matinée.
+[FR-Vocab] la matinée.
 <break time="1.0s"/>
-[KO] 오전
+[KO] 오전 (시간대 전체).
 <break time="1.0s"/>
-[FR-Vocab] matinée.
+[FR-Vocab] la matinée.
 <break time="1.5s"/>
 
-[FR-Vocab] midi.
+[FR-Vocab] le midi.
 <break time="1.0s"/>
-[KO] 정오
+[KO] 정오.
 <break time="1.0s"/>
-[FR-Vocab] midi.
+[FR-Vocab] le midi.
 <break time="1.5s"/>
 
-[FR-Vocab] après-midi.
+[FR-Vocab] l'après-midi.
 <break time="1.0s"/>
-[KO] 오후
+[KO] 오후.
 <break time="1.0s"/>
-[FR-Vocab] après-midi.
+[FR-Vocab] l'après-midi.
 <break time="1.5s"/>
 
-[FR-Vocab] soir.
+[FR-Vocab] le soir.
 <break time="1.0s"/>
-[KO] 저녁
+[KO] 저녁.
 <break time="1.0s"/>
-[FR-Vocab] soir.
+[FR-Vocab] le soir.
 <break time="1.5s"/>
 
-[FR-Vocab] soirée.
+[FR-Vocab] la soirée.
 <break time="1.0s"/>
-[KO] 저녁
+[KO] 저녁 (시간대 전체).
 <break time="1.0s"/>
-[FR-Vocab] soirée.
+[FR-Vocab] la soirée.
 <break time="1.5s"/>
 
-[FR-Vocab] nuit.
+[FR-Vocab] la nuit.
 <break time="1.0s"/>
-[KO] 밤
+[KO] 밤.
 <break time="1.0s"/>
-[FR-Vocab] nuit.
+[FR-Vocab] la nuit.
 <break time="1.5s"/>
 
-[FR-Vocab] minuit.
+[FR-Vocab] le minuit.
 <break time="1.0s"/>
-[KO] 자정
+[KO] 자정.
 <break time="1.0s"/>
-[FR-Vocab] minuit.
+[FR-Vocab] le minuit.
 <break time="1.5s"/>

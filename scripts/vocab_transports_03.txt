@@ -1,52 +1,51 @@
 # Vocabulaire — vocab_transports_03
-# 패턴: FR → KO → FR
-# voices: Vocab=lisons-narrator
+# voices: Vocab=warm-mother
 
-[FR-Vocab] billet.
+[FR-Vocab] le billet.
 <break time="1.0s"/>
-[KO] 표·티켓
+[KO] 표·티켓.
 <break time="1.0s"/>
-[FR-Vocab] billet.
+[FR-Vocab] le billet.
 <break time="1.5s"/>
 
-[FR-Vocab] ticket.
+[FR-Vocab] le ticket.
 <break time="1.0s"/>
-[KO] 승차권
+[KO] 승차권.
 <break time="1.0s"/>
-[FR-Vocab] ticket.
+[FR-Vocab] le ticket.
 <break time="1.5s"/>
 
-[FR-Vocab] abonnement.
+[FR-Vocab] l'abonnement.
 <break time="1.0s"/>
-[KO] 정기권
+[KO] 정기권.
 <break time="1.0s"/>
-[FR-Vocab] abonnement.
+[FR-Vocab] l'abonnement.
 <break time="1.5s"/>
 
-[FR-Vocab] pass.
+[FR-Vocab] le pass.
 <break time="1.0s"/>
-[KO] 패스·교통카드
+[KO] 패스·교통카드.
 <break time="1.0s"/>
-[FR-Vocab] pass.
+[FR-Vocab] le pass.
 <break time="1.5s"/>
 
-[FR-Vocab] correspondance.
+[FR-Vocab] la correspondance.
 <break time="1.0s"/>
-[KO] 환승
+[KO] 환승.
 <break time="1.0s"/>
-[FR-Vocab] correspondance.
+[FR-Vocab] la correspondance.
 <break time="1.5s"/>
 
-[FR-Vocab] ligne.
+[FR-Vocab] la ligne.
 <break time="1.0s"/>
-[KO] 노선
+[KO] 노선.
 <break time="1.0s"/>
-[FR-Vocab] ligne.
+[FR-Vocab] la ligne.
 <break time="1.5s"/>
 
-[FR-Vocab] trajet.
+[FR-Vocab] le trajet.
 <break time="1.0s"/>
-[KO] 경로·구간
+[KO] 경로·구간.
 <break time="1.0s"/>
-[FR-Vocab] trajet.
+[FR-Vocab] le trajet.
 <break time="1.5s"/>

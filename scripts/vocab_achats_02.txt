@@ -1,73 +1,72 @@
 # Vocabulaire — vocab_achats_02
-# 패턴: FR → KO → FR
-# voices: Vocab=lisons-narrator
+# voices: Vocab=warm-mother
 
-[FR-Vocab] réduction.
+[FR-Vocab] la réduction.
 <break time="1.0s"/>
-[KO] 할인
+[KO] 할인.
 <break time="1.0s"/>
-[FR-Vocab] réduction.
+[FR-Vocab] la réduction.
 <break time="1.5s"/>
 
-[FR-Vocab] caisse.
+[FR-Vocab] la caisse.
 <break time="1.0s"/>
-[KO] 계산대
+[KO] 계산대.
 <break time="1.0s"/>
-[FR-Vocab] caisse.
+[FR-Vocab] la caisse.
 <break time="1.5s"/>
 
-[FR-Vocab] remboursement.
+[FR-Vocab] le remboursement.
 <break time="1.0s"/>
-[KO] 환불
+[KO] 환불.
 <break time="1.0s"/>
-[FR-Vocab] remboursement.
+[FR-Vocab] le remboursement.
 <break time="1.5s"/>
 
-[FR-Vocab] taille.
+[FR-Vocab] la taille.
 <break time="1.0s"/>
-[KO] 옷 사이즈
+[KO] 옷 사이즈.
 <break time="1.0s"/>
-[FR-Vocab] taille.
+[FR-Vocab] la taille.
 <break time="1.5s"/>
 
-[FR-Vocab] panier.
+[FR-Vocab] le panier.
 <break time="1.0s"/>
-[KO] 장바구니
+[KO] 장바구니.
 <break time="1.0s"/>
-[FR-Vocab] panier.
+[FR-Vocab] le panier.
 <break time="1.5s"/>
 
-[FR-Vocab] chariot.
+[FR-Vocab] le chariot.
 <break time="1.0s"/>
-[KO] 카트
+[KO] 카트.
 <break time="1.0s"/>
-[FR-Vocab] chariot.
+[FR-Vocab] le chariot.
 <break time="1.5s"/>
 
-[FR-Vocab] espèces.
+[FR-Vocab] l'espèces.
 <break time="1.0s"/>
-[KO] 현금
+[KO] 현금.
 <break time="1.0s"/>
-[FR-Vocab] espèces.
+[FR-Vocab] l'espèces.
 <break time="1.5s"/>
 
-[FR-Vocab] ticket de caisse.
+[FR-Vocab] le ticket de caisse.
 <break time="1.0s"/>
-[KO] 영수증
+[KO] 영수증.
 <break time="1.0s"/>
-[FR-Vocab] ticket de caisse.
+[FR-Vocab] le ticket de caisse.
 <break time="1.5s"/>
 
-[FR-Vocab] monnaie.
+[FR-Vocab] la monnaie.
 <break time="1.0s"/>
-[KO] 잔돈·거스름돈
+[KO] 잔돈·거스름돈.
 <break time="1.0s"/>
-[FR-Vocab] monnaie.
+[FR-Vocab] la monnaie.
 <break time="1.5s"/>
 
-[FR-Vocab] carte (bancaire).
+[FR-Vocab] la carte (bancaire).
 <break time="1.0s"/>
-[KO] 카드
+[KO] 카드.
 <break time="1.0s"/>
-[FR-Vocab] carte (bancaire).
+[FR-Vocab] la carte (bancaire).
 <break time="1.5s"/>

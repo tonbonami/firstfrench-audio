@@ -1,52 +1,51 @@
-# Vocabulaire — La famille (가족) / 섹션 6: 결혼·가족 상태 형용사
-# 패턴: FR → KO → FR
-# voices: Vocab=lisons-narrator
+# Vocabulaire — vocab_famille_06
+# voices: Vocab=warm-mother
 
 [FR-Vocab] célibataire.
 <break time="1.0s"/>
-[KO] 미혼의. 남녀 동일.
+[KO] 미혼의.
 <break time="1.0s"/>
 [FR-Vocab] célibataire.
 <break time="1.5s"/>
 
-[FR-Vocab] marié.
+[FR-Vocab] le marié.
 <break time="1.0s"/>
-[KO] 기혼의, 남성형.
+[KO] 기혼의.
 <break time="1.0s"/>
-[FR-Vocab] marié.
+[FR-Vocab] le marié.
 <break time="1.5s"/>
 
-[FR-Vocab] mariée.
+[FR-Vocab] la mariée.
 <break time="1.0s"/>
-[KO] 기혼의, 여성형.
+[KO] 기혼의.
 <break time="1.0s"/>
-[FR-Vocab] mariée.
+[FR-Vocab] la mariée.
 <break time="1.5s"/>
 
 [FR-Vocab] divorcé.
 <break time="1.0s"/>
-[KO] 이혼한, 남성형.
+[KO] 이혼한.
 <break time="1.0s"/>
 [FR-Vocab] divorcé.
 <break time="1.5s"/>
 
 [FR-Vocab] divorcée.
 <break time="1.0s"/>
-[KO] 이혼한, 여성형.
+[KO] 이혼한.
 <break time="1.0s"/>
 [FR-Vocab] divorcée.
 <break time="1.5s"/>
 
 [FR-Vocab] veuf.
 <break time="1.0s"/>
-[KO] 사별한, 남성형.
+[KO] 사별한.
 <break time="1.0s"/>
 [FR-Vocab] veuf.
 <break time="1.5s"/>
 
 [FR-Vocab] veuve.
 <break time="1.0s"/>
-[KO] 사별한, 여성형.
+[KO] 사별한.
 <break time="1.0s"/>
 [FR-Vocab] veuve.
 <break time="1.5s"/>

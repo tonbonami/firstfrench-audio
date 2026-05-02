@@ -1,73 +1,72 @@
 # Vocabulaire — vocab_heure_04
-# 패턴: FR → KO → FR
-# voices: Vocab=lisons-narrator
+# voices: Vocab=warm-mother
 
 [FR-Vocab] pendant + 기간.
 <break time="1.0s"/>
-[KO] ~동안
+[KO] ~동안.
 <break time="1.0s"/>
 [FR-Vocab] pendant + 기간.
 <break time="1.5s"/>
 
 [FR-Vocab] depuis + 시점.
 <break time="1.0s"/>
-[KO] ~부터
+[KO] ~부터.
 <break time="1.0s"/>
 [FR-Vocab] depuis + 시점.
 <break time="1.5s"/>
 
 [FR-Vocab] dans + 기간.
 <break time="1.0s"/>
-[KO] ~후에
+[KO] ~후에.
 <break time="1.0s"/>
 [FR-Vocab] dans + 기간.
 <break time="1.5s"/>
 
 [FR-Vocab] il y a + 기간.
 <break time="1.0s"/>
-[KO] ~전에
+[KO] ~전에.
 <break time="1.0s"/>
 [FR-Vocab] il y a + 기간.
 <break time="1.5s"/>
 
 [FR-Vocab] tous les jours.
 <break time="1.0s"/>
-[KO] 매일
+[KO] 매일.
 <break time="1.0s"/>
 [FR-Vocab] tous les jours.
 <break time="1.5s"/>
 
 [FR-Vocab] toutes les semaines.
 <break time="1.0s"/>
-[KO] 매주
+[KO] 매주.
 <break time="1.0s"/>
 [FR-Vocab] toutes les semaines.
 <break time="1.5s"/>
 
-[FR-Vocab] une fois par jour.
+[FR-Vocab] l'une fois par jour.
 <break time="1.0s"/>
-[KO] 하루 1회
+[KO] 하루 1회.
 <break time="1.0s"/>
-[FR-Vocab] une fois par jour.
+[FR-Vocab] l'une fois par jour.
 <break time="1.5s"/>
 
 [FR-Vocab] deux fois par semaine.
 <break time="1.0s"/>
-[KO] 주 2회
+[KO] 주 2회.
 <break time="1.0s"/>
 [FR-Vocab] deux fois par semaine.
 <break time="1.5s"/>
 
 [FR-Vocab] toujours.
 <break time="1.0s"/>
-[KO] 항상
+[KO] 항상.
 <break time="1.0s"/>
 [FR-Vocab] toujours.
 <break time="1.5s"/>
 
 [FR-Vocab] maintenant.
 <break time="1.0s"/>
-[KO] 지금
+[KO] 지금.
 <break time="1.0s"/>
 [FR-Vocab] maintenant.
 <break time="1.5s"/>

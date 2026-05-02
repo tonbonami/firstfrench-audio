@@ -1,0 +1,51 @@
+# Vocabulaire — vocab_corps_01b / part b
+# voices: Vocab=warm-mother
+
+[FR-Vocab] la bouche.
+<break time="1.0s"/>
+[KO] 입.
+<break time="1.0s"/>
+[FR-Vocab] la bouche.
+<break time="1.5s"/>
+
+[FR-Vocab] la lèvre.
+<break time="1.0s"/>
+[KO] 입술.
+<break time="1.0s"/>
+[FR-Vocab] la lèvre.
+<break time="1.5s"/>
+
+[FR-Vocab] la joue.
+<break time="1.0s"/>
+[KO] 볼.
+<break time="1.0s"/>
+[FR-Vocab] la joue.
+<break time="1.5s"/>
+
+[FR-Vocab] la langue.
+<break time="1.0s"/>
+[KO] 혀.
+<break time="1.0s"/>
+[FR-Vocab] la langue.
+<break time="1.5s"/>
+
+[FR-Vocab] la dent.
+<break time="1.0s"/>
+[KO] 치아.
+<break time="1.0s"/>
+[FR-Vocab] la dent.
+<break time="1.5s"/>
+
+[FR-Vocab] le menton.
+<break time="1.0s"/>
+[KO] 턱.
+<break time="1.0s"/>
+[FR-Vocab] le menton.
+<break time="1.5s"/>
+
+[FR-Vocab] la gorge.
+<break time="1.0s"/>
+[KO] 목구멍.
+<break time="1.0s"/>
+[FR-Vocab] la gorge.
+<break time="1.5s"/>

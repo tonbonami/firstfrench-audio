@@ -1,66 +1,65 @@
 # Vocabulaire — vocab_ville_02
-# 패턴: FR → KO → FR
-# voices: Vocab=lisons-narrator
+# voices: Vocab=warm-mother
 
-[FR-Vocab] bibliothèque.
+[FR-Vocab] la bibliothèque.
 <break time="1.0s"/>
-[KO] 도서관
+[KO] 도서관.
 <break time="1.0s"/>
-[FR-Vocab] bibliothèque.
+[FR-Vocab] la bibliothèque.
 <break time="1.5s"/>
 
-[FR-Vocab] cinéma.
+[FR-Vocab] le cinéma.
 <break time="1.0s"/>
-[KO] 영화관
+[KO] 영화관.
 <break time="1.0s"/>
-[FR-Vocab] cinéma.
+[FR-Vocab] le cinéma.
 <break time="1.5s"/>
 
-[FR-Vocab] musée.
+[FR-Vocab] le musée.
 <break time="1.0s"/>
-[KO] 박물관
+[KO] 박물관.
 <break time="1.0s"/>
-[FR-Vocab] musée.
+[FR-Vocab] le musée.
 <break time="1.5s"/>
 
-[FR-Vocab] théâtre.
+[FR-Vocab] le théâtre.
 <break time="1.0s"/>
-[KO] 극장
+[KO] 극장.
 <break time="1.0s"/>
-[FR-Vocab] théâtre.
+[FR-Vocab] le théâtre.
 <break time="1.5s"/>
 
-[FR-Vocab] parc.
+[FR-Vocab] le parc.
 <break time="1.0s"/>
-[KO] 공원
+[KO] 공원.
 <break time="1.0s"/>
-[FR-Vocab] parc.
+[FR-Vocab] le parc.
 <break time="1.5s"/>
 
-[FR-Vocab] stade.
+[FR-Vocab] le stade.
 <break time="1.0s"/>
-[KO] 경기장
+[KO] 경기장.
 <break time="1.0s"/>
-[FR-Vocab] stade.
+[FR-Vocab] le stade.
 <break time="1.5s"/>
 
-[FR-Vocab] piscine.
+[FR-Vocab] la piscine.
 <break time="1.0s"/>
-[KO] 수영장
+[KO] 수영장.
 <break time="1.0s"/>
-[FR-Vocab] piscine.
+[FR-Vocab] la piscine.
 <break time="1.5s"/>
 
-[FR-Vocab] restaurant.
+[FR-Vocab] le restaurant.
 <break time="1.0s"/>
-[KO] 레스토랑
+[KO] 레스토랑.
 <break time="1.0s"/>
-[FR-Vocab] restaurant.
+[FR-Vocab] le restaurant.
 <break time="1.5s"/>
 
-[FR-Vocab] café.
+[FR-Vocab] le café.
 <break time="1.0s"/>
-[KO] 카페
+[KO] 카페.
 <break time="1.0s"/>
-[FR-Vocab] café.
+[FR-Vocab] le café.
 <break time="1.5s"/>

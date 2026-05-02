@@ -1,52 +1,51 @@
 # Vocabulaire — vocab_verbes_02
-# 패턴: FR → KO → FR
-# voices: Vocab=lisons-narrator
+# voices: Vocab=warm-mother
 
 [FR-Vocab] aller.
 <break time="1.0s"/>
-[KO] 가다
+[KO] 가다.
 <break time="1.0s"/>
 [FR-Vocab] aller.
 <break time="1.5s"/>
 
 [FR-Vocab] venir.
 <break time="1.0s"/>
-[KO] 오다
+[KO] 오다.
 <break time="1.0s"/>
 [FR-Vocab] venir.
 <break time="1.5s"/>
 
 [FR-Vocab] partir.
 <break time="1.0s"/>
-[KO] 떠나다
+[KO] 떠나다.
 <break time="1.0s"/>
 [FR-Vocab] partir.
 <break time="1.5s"/>
 
 [FR-Vocab] arriver.
 <break time="1.0s"/>
-[KO] 도착하다
+[KO] 도착하다.
 <break time="1.0s"/>
 [FR-Vocab] arriver.
 <break time="1.5s"/>
 
 [FR-Vocab] rentrer.
 <break time="1.0s"/>
-[KO] 돌아오다
+[KO] 돌아오다.
 <break time="1.0s"/>
 [FR-Vocab] rentrer.
 <break time="1.5s"/>
 
 [FR-Vocab] monter.
 <break time="1.0s"/>
-[KO] 오르다
+[KO] 오르다.
 <break time="1.0s"/>
 [FR-Vocab] monter.
 <break time="1.5s"/>
 
 [FR-Vocab] descendre.
 <break time="1.0s"/>
-[KO] 내려가다
+[KO] 내려가다.
 <break time="1.0s"/>
 [FR-Vocab] descendre.
 <break time="1.5s"/>

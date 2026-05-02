@@ -1,45 +1,44 @@
 # Vocabulaire — vocab_cuisine_03a / part a
-# 패턴: FR → KO → FR
-# voices: Vocab=lisons-narrator
+# voices: Vocab=warm-mother
 
-[FR-Vocab] farine.
+[FR-Vocab] la farine.
 <break time="1.0s"/>
 [KO] 밀가루.
 <break time="1.0s"/>
-[FR-Vocab] farine.
+[FR-Vocab] la farine.
 <break time="1.5s"/>
 
-[FR-Vocab] sucre.
+[FR-Vocab] le sucre.
 <break time="1.0s"/>
 [KO] 설탕.
 <break time="1.0s"/>
-[FR-Vocab] sucre.
+[FR-Vocab] le sucre.
 <break time="1.5s"/>
 
-[FR-Vocab] sel.
+[FR-Vocab] le sel.
 <break time="1.0s"/>
 [KO] 소금.
 <break time="1.0s"/>
-[FR-Vocab] sel.
+[FR-Vocab] le sel.
 <break time="1.5s"/>
 
-[FR-Vocab] poivre.
+[FR-Vocab] le poivre.
 <break time="1.0s"/>
 [KO] 후추.
 <break time="1.0s"/>
-[FR-Vocab] poivre.
+[FR-Vocab] le poivre.
 <break time="1.5s"/>
 
-[FR-Vocab] huile d'olive.
+[FR-Vocab] l'huile d'olive.
 <break time="1.0s"/>
 [KO] 올리브유.
 <break time="1.0s"/>
-[FR-Vocab] huile d'olive.
+[FR-Vocab] l'huile d'olive.
 <break time="1.5s"/>
 
-[FR-Vocab] beurre.
+[FR-Vocab] le beurre.
 <break time="1.0s"/>
 [KO] 버터.
 <break time="1.0s"/>
-[FR-Vocab] beurre.
+[FR-Vocab] le beurre.
 <break time="1.5s"/>

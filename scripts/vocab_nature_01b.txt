@@ -1,45 +1,44 @@
 # Vocabulaire — vocab_nature_01b / part b
-# 패턴: FR → KO → FR
-# voices: Vocab=lisons-narrator
+# voices: Vocab=warm-mother
 
-[FR-Vocab] côte.
+[FR-Vocab] la côte.
 <break time="1.0s"/>
-[KO] 해안
+[KO] 해안.
 <break time="1.0s"/>
-[FR-Vocab] côte.
+[FR-Vocab] la côte.
 <break time="1.5s"/>
 
-[FR-Vocab] falaise.
+[FR-Vocab] la falaise.
 <break time="1.0s"/>
-[KO] 절벽
+[KO] 절벽.
 <break time="1.0s"/>
-[FR-Vocab] falaise.
+[FR-Vocab] la falaise.
 <break time="1.5s"/>
 
-[FR-Vocab] île.
+[FR-Vocab] l'île.
 <break time="1.0s"/>
-[KO] 섬
+[KO] 섬.
 <break time="1.0s"/>
-[FR-Vocab] île.
+[FR-Vocab] l'île.
 <break time="1.5s"/>
 
-[FR-Vocab] vallée.
+[FR-Vocab] la vallée.
 <break time="1.0s"/>
-[KO] 계곡
+[KO] 계곡.
 <break time="1.0s"/>
-[FR-Vocab] vallée.
+[FR-Vocab] la vallée.
 <break time="1.5s"/>
 
-[FR-Vocab] prairie.
+[FR-Vocab] la prairie.
 <break time="1.0s"/>
-[KO] 초원
+[KO] 초원.
 <break time="1.0s"/>
-[FR-Vocab] prairie.
+[FR-Vocab] la prairie.
 <break time="1.5s"/>
 
-[FR-Vocab] volcan.
+[FR-Vocab] le volcan.
 <break time="1.0s"/>
-[KO] 화산
+[KO] 화산.
 <break time="1.0s"/>
-[FR-Vocab] volcan.
+[FR-Vocab] le volcan.
 <break time="1.5s"/>

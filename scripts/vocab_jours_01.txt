@@ -1,52 +1,51 @@
 # Vocabulaire — vocab_jours_01
-# 패턴: FR → KO → FR
-# voices: Vocab=lisons-narrator
+# voices: Vocab=warm-mother
 
-[FR-Vocab] lundi.
+[FR-Vocab] le lundi.
 <break time="1.0s"/>
 [KO] 월요일.
 <break time="1.0s"/>
-[FR-Vocab] lundi.
+[FR-Vocab] le lundi.
 <break time="1.5s"/>
 
-[FR-Vocab] mardi.
+[FR-Vocab] le mardi.
 <break time="1.0s"/>
 [KO] 화요일.
 <break time="1.0s"/>
-[FR-Vocab] mardi.
+[FR-Vocab] le mardi.
 <break time="1.5s"/>
 
-[FR-Vocab] mercredi.
+[FR-Vocab] le mercredi.
 <break time="1.0s"/>
 [KO] 수요일.
 <break time="1.0s"/>
-[FR-Vocab] mercredi.
+[FR-Vocab] le mercredi.
 <break time="1.5s"/>
 
-[FR-Vocab] jeudi.
+[FR-Vocab] le jeudi.
 <break time="1.0s"/>
 [KO] 목요일.
 <break time="1.0s"/>
-[FR-Vocab] jeudi.
+[FR-Vocab] le jeudi.
 <break time="1.5s"/>
 
-[FR-Vocab] vendredi.
+[FR-Vocab] le vendredi.
 <break time="1.0s"/>
 [KO] 금요일.
 <break time="1.0s"/>
-[FR-Vocab] vendredi.
+[FR-Vocab] le vendredi.
 <break time="1.5s"/>
 
-[FR-Vocab] samedi.
+[FR-Vocab] le samedi.
 <break time="1.0s"/>
 [KO] 토요일.
 <break time="1.0s"/>
-[FR-Vocab] samedi.
+[FR-Vocab] le samedi.
 <break time="1.5s"/>
 
-[FR-Vocab] dimanche.
+[FR-Vocab] le dimanche.
 <break time="1.0s"/>
 [KO] 일요일.
 <break time="1.0s"/>
-[FR-Vocab] dimanche.
+[FR-Vocab] le dimanche.
 <break time="1.5s"/>

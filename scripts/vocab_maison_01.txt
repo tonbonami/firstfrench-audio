@@ -1,45 +1,44 @@
 # Vocabulaire — vocab_maison_01
-# 패턴: FR → KO → FR
-# voices: Vocab=lisons-narrator
+# voices: Vocab=warm-mother
 
-[FR-Vocab] maison.
+[FR-Vocab] la maison.
 <break time="1.0s"/>
 [KO] 집.
 <break time="1.0s"/>
-[FR-Vocab] maison.
+[FR-Vocab] la maison.
 <break time="1.5s"/>
 
-[FR-Vocab] appartement.
+[FR-Vocab] l'appartement.
 <break time="1.0s"/>
 [KO] 아파트.
 <break time="1.0s"/>
-[FR-Vocab] appartement.
+[FR-Vocab] l'appartement.
 <break time="1.5s"/>
 
-[FR-Vocab] studio.
+[FR-Vocab] le studio.
 <break time="1.0s"/>
 [KO] 원룸.
 <break time="1.0s"/>
-[FR-Vocab] studio.
+[FR-Vocab] le studio.
 <break time="1.5s"/>
 
-[FR-Vocab] immeuble.
+[FR-Vocab] l'immeuble.
 <break time="1.0s"/>
 [KO] 건물.
 <break time="1.0s"/>
-[FR-Vocab] immeuble.
+[FR-Vocab] l'immeuble.
 <break time="1.5s"/>
 
-[FR-Vocab] logement.
+[FR-Vocab] le logement.
 <break time="1.0s"/>
-[KO] 주거나 숙소.
+[KO] 주거·숙소.
 <break time="1.0s"/>
-[FR-Vocab] logement.
+[FR-Vocab] le logement.
 <break time="1.5s"/>
 
-[FR-Vocab] étage.
+[FR-Vocab] l'étage.
 <break time="1.0s"/>
 [KO] 층.
 <break time="1.0s"/>
-[FR-Vocab] étage.
+[FR-Vocab] l'étage.
 <break time="1.5s"/>

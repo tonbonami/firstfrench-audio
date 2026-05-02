@@ -1,73 +1,72 @@
 # Vocabulaire — vocab_transports_01
-# 패턴: FR → KO → FR
-# voices: Vocab=lisons-narrator
+# voices: Vocab=warm-mother
 
-[FR-Vocab] voiture.
+[FR-Vocab] la voiture.
 <break time="1.0s"/>
-[KO] 자동차
+[KO] 자동차.
 <break time="1.0s"/>
-[FR-Vocab] voiture.
+[FR-Vocab] la voiture.
 <break time="1.5s"/>
 
-[FR-Vocab] bus.
+[FR-Vocab] le bus.
 <break time="1.0s"/>
-[KO] 버스
+[KO] 버스.
 <break time="1.0s"/>
-[FR-Vocab] bus.
+[FR-Vocab] le bus.
 <break time="1.5s"/>
 
-[FR-Vocab] métro.
+[FR-Vocab] le métro.
 <break time="1.0s"/>
-[KO] 지하철
+[KO] 지하철.
 <break time="1.0s"/>
-[FR-Vocab] métro.
+[FR-Vocab] le métro.
 <break time="1.5s"/>
 
-[FR-Vocab] train.
+[FR-Vocab] le train.
 <break time="1.0s"/>
-[KO] 기차
+[KO] 기차.
 <break time="1.0s"/>
-[FR-Vocab] train.
+[FR-Vocab] le train.
 <break time="1.5s"/>
 
-[FR-Vocab] tramway.
+[FR-Vocab] le tramway.
 <break time="1.0s"/>
-[KO] 트램
+[KO] 트램.
 <break time="1.0s"/>
-[FR-Vocab] tramway.
+[FR-Vocab] le tramway.
 <break time="1.5s"/>
 
-[FR-Vocab] taxi.
+[FR-Vocab] le taxi.
 <break time="1.0s"/>
-[KO] 택시
+[KO] 택시.
 <break time="1.0s"/>
-[FR-Vocab] taxi.
+[FR-Vocab] le taxi.
 <break time="1.5s"/>
 
-[FR-Vocab] vélo.
+[FR-Vocab] le vélo.
 <break time="1.0s"/>
-[KO] 자전거
+[KO] 자전거.
 <break time="1.0s"/>
-[FR-Vocab] vélo.
+[FR-Vocab] le vélo.
 <break time="1.5s"/>
 
-[FR-Vocab] moto.
+[FR-Vocab] la moto.
 <break time="1.0s"/>
-[KO] 오토바이
+[KO] 오토바이.
 <break time="1.0s"/>
-[FR-Vocab] moto.
+[FR-Vocab] la moto.
 <break time="1.5s"/>
 
-[FR-Vocab] avion.
+[FR-Vocab] l'avion.
 <break time="1.0s"/>
-[KO] 비행기
+[KO] 비행기.
 <break time="1.0s"/>
-[FR-Vocab] avion.
+[FR-Vocab] l'avion.
 <break time="1.5s"/>
 
-[FR-Vocab] bateau.
+[FR-Vocab] le bateau.
 <break time="1.0s"/>
-[KO] 배
+[KO] 배.
 <break time="1.0s"/>
-[FR-Vocab] bateau.
+[FR-Vocab] le bateau.
 <break time="1.5s"/>

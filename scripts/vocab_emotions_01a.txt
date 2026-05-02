@@ -1,59 +1,58 @@
 # Vocabulaire — vocab_emotions_01a / part a
-# 패턴: FR → KO → FR
-# voices: Vocab=lisons-narrator
+# voices: Vocab=warm-mother
 
 [FR-Vocab] heureux.
 <break time="1.0s"/>
-[KO] 행복한, 남성형
+[KO] 행복한.
 <break time="1.0s"/>
 [FR-Vocab] heureux.
 <break time="1.5s"/>
 
 [FR-Vocab] heureuse.
 <break time="1.0s"/>
-[KO] 행복한, 여성형
+[KO] 행복한.
 <break time="1.0s"/>
 [FR-Vocab] heureuse.
 <break time="1.5s"/>
 
-[FR-Vocab] content.
+[FR-Vocab] le content.
 <break time="1.0s"/>
-[KO] 만족한·기쁜, 남성형
+[KO] 만족한·기쁜.
 <break time="1.0s"/>
-[FR-Vocab] content.
+[FR-Vocab] le content.
 <break time="1.5s"/>
 
-[FR-Vocab] contente.
+[FR-Vocab] la contente.
 <break time="1.0s"/>
-[KO] 만족한·기쁜, 여성형
+[KO] 만족한·기쁜.
 <break time="1.0s"/>
-[FR-Vocab] contente.
+[FR-Vocab] la contente.
 <break time="1.5s"/>
 
-[FR-Vocab] joyeux.
+[FR-Vocab] le joyeux.
 <break time="1.0s"/>
-[KO] 즐거운, 남성형
+[KO] 즐거운.
 <break time="1.0s"/>
-[FR-Vocab] joyeux.
+[FR-Vocab] le joyeux.
 <break time="1.5s"/>
 
-[FR-Vocab] joyeuse.
+[FR-Vocab] la joyeuse.
 <break time="1.0s"/>
-[KO] 즐거운, 여성형
+[KO] 즐거운.
 <break time="1.0s"/>
-[FR-Vocab] joyeuse.
+[FR-Vocab] la joyeuse.
 <break time="1.5s"/>
 
-[FR-Vocab] enthousiaste.
+[FR-Vocab] l'enthousiaste.
 <break time="1.0s"/>
-[KO] 열정적인
+[KO] 열정적인.
 <break time="1.0s"/>
-[FR-Vocab] enthousiaste.
+[FR-Vocab] l'enthousiaste.
 <break time="1.5s"/>
 
 [FR-Vocab] calme.
 <break time="1.0s"/>
-[KO] 차분한
+[KO] 차분한.
 <break time="1.0s"/>
 [FR-Vocab] calme.
 <break time="1.5s"/>

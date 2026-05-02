@@ -1,73 +1,72 @@
 # Vocabulaire — vocab_ecole_05
-# 패턴: FR → KO → FR
-# voices: Vocab=lisons-narrator
+# voices: Vocab=warm-mother
 
 [FR-Vocab] étudier.
 <break time="1.0s"/>
-[KO] 공부하다
+[KO] 공부하다.
 <break time="1.0s"/>
 [FR-Vocab] étudier.
 <break time="1.5s"/>
 
 [FR-Vocab] apprendre.
 <break time="1.0s"/>
-[KO] 배우다
+[KO] 배우다.
 <break time="1.0s"/>
 [FR-Vocab] apprendre.
 <break time="1.5s"/>
 
 [FR-Vocab] réviser.
 <break time="1.0s"/>
-[KO] 복습하다
+[KO] 복습하다.
 <break time="1.0s"/>
 [FR-Vocab] réviser.
 <break time="1.5s"/>
 
 [FR-Vocab] passer un examen.
 <break time="1.0s"/>
-[KO] 시험을 보다
+[KO] 시험을 보다.
 <break time="1.0s"/>
 [FR-Vocab] passer un examen.
 <break time="1.5s"/>
 
 [FR-Vocab] réussir.
 <break time="1.0s"/>
-[KO] 합격하다
+[KO] 합격하다.
 <break time="1.0s"/>
 [FR-Vocab] réussir.
 <break time="1.5s"/>
 
 [FR-Vocab] échouer.
 <break time="1.0s"/>
-[KO] 떨어지다
+[KO] 떨어지다.
 <break time="1.0s"/>
 [FR-Vocab] échouer.
 <break time="1.5s"/>
 
 [FR-Vocab] rendre un devoir.
 <break time="1.0s"/>
-[KO] 과제 제출하다
+[KO] 과제 제출하다.
 <break time="1.0s"/>
 [FR-Vocab] rendre un devoir.
 <break time="1.5s"/>
 
 [FR-Vocab] prendre des notes.
 <break time="1.0s"/>
-[KO] 필기하다
+[KO] 필기하다.
 <break time="1.0s"/>
 [FR-Vocab] prendre des notes.
 <break time="1.5s"/>
 
 [FR-Vocab] lever la main.
 <break time="1.0s"/>
-[KO] 손 들다
+[KO] 손 들다.
 <break time="1.0s"/>
 [FR-Vocab] lever la main.
 <break time="1.5s"/>
 
 [FR-Vocab] sécher un cours.
 <break time="1.0s"/>
-[KO] 수업 빠지다
+[KO] 수업 빠지다.
 <break time="1.0s"/>
 [FR-Vocab] sécher un cours.
 <break time="1.5s"/>

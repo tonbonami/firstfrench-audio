@@ -1,45 +1,44 @@
 # Vocabulaire — vocab_jours_03a / part a
-# 패턴: FR → KO → FR
-# voices: Vocab=lisons-narrator
+# voices: Vocab=warm-mother
 
-[FR-Vocab] janvier.
+[FR-Vocab] le janvier.
 <break time="1.0s"/>
 [KO] 1월.
 <break time="1.0s"/>
-[FR-Vocab] janvier.
+[FR-Vocab] le janvier.
 <break time="1.5s"/>
 
-[FR-Vocab] février.
+[FR-Vocab] le février.
 <break time="1.0s"/>
 [KO] 2월.
 <break time="1.0s"/>
-[FR-Vocab] février.
+[FR-Vocab] le février.
 <break time="1.5s"/>
 
-[FR-Vocab] mars.
+[FR-Vocab] le mars.
 <break time="1.0s"/>
 [KO] 3월.
 <break time="1.0s"/>
-[FR-Vocab] mars.
+[FR-Vocab] le mars.
 <break time="1.5s"/>
 
-[FR-Vocab] avril.
+[FR-Vocab] l'avril.
 <break time="1.0s"/>
 [KO] 4월.
 <break time="1.0s"/>
-[FR-Vocab] avril.
+[FR-Vocab] l'avril.
 <break time="1.5s"/>
 
-[FR-Vocab] mai.
+[FR-Vocab] le mai.
 <break time="1.0s"/>
 [KO] 5월.
 <break time="1.0s"/>
-[FR-Vocab] mai.
+[FR-Vocab] le mai.
 <break time="1.5s"/>
 
-[FR-Vocab] juin.
+[FR-Vocab] le juin.
 <break time="1.0s"/>
 [KO] 6월.
 <break time="1.0s"/>
-[FR-Vocab] juin.
+[FR-Vocab] le juin.
 <break time="1.5s"/>

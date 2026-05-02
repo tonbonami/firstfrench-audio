@@ -1,58 +1,58 @@
-# Vocabulaire — Travail / 2a: 업무 환경
-# voices: Vocab=lisons-narrator
+# Vocabulaire — vocab_travail_02a / part a
+# voices: Vocab=warm-mother
 
-[FR-Vocab] bureau.
+[FR-Vocab] le bureau.
 <break time="1.0s"/>
 [KO] 사무실.
 <break time="1.0s"/>
-[FR-Vocab] bureau.
+[FR-Vocab] le bureau.
 <break time="1.5s"/>
 
-[FR-Vocab] réunion.
+[FR-Vocab] la réunion.
 <break time="1.0s"/>
 [KO] 회의.
 <break time="1.0s"/>
-[FR-Vocab] réunion.
+[FR-Vocab] la réunion.
 <break time="1.5s"/>
 
-[FR-Vocab] projet.
+[FR-Vocab] le projet.
 <break time="1.0s"/>
 [KO] 프로젝트.
 <break time="1.0s"/>
-[FR-Vocab] projet.
+[FR-Vocab] le projet.
 <break time="1.5s"/>
 
-[FR-Vocab] tâche.
+[FR-Vocab] la tâche.
 <break time="1.0s"/>
-[KO] 업무나 태스크.
+[KO] 업무·태스크.
 <break time="1.0s"/>
-[FR-Vocab] tâche.
+[FR-Vocab] la tâche.
 <break time="1.5s"/>
 
-[FR-Vocab] délai.
+[FR-Vocab] le délai.
 <break time="1.0s"/>
 [KO] 마감일.
 <break time="1.0s"/>
-[FR-Vocab] délai.
+[FR-Vocab] le délai.
 <break time="1.5s"/>
 
-[FR-Vocab] rapport.
+[FR-Vocab] le rapport.
 <break time="1.0s"/>
 [KO] 보고서.
 <break time="1.0s"/>
-[FR-Vocab] rapport.
+[FR-Vocab] le rapport.
 <break time="1.5s"/>
 
-[FR-Vocab] présentation.
+[FR-Vocab] la présentation.
 <break time="1.0s"/>
 [KO] 프레젠테이션.
 <break time="1.0s"/>
-[FR-Vocab] présentation.
+[FR-Vocab] la présentation.
 <break time="1.5s"/>
 
-[FR-Vocab] objectif.
+[FR-Vocab] l'objectif.
 <break time="1.0s"/>
 [KO] 목표.
 <break time="1.0s"/>
-[FR-Vocab] objectif.
+[FR-Vocab] l'objectif.
 <break time="1.5s"/>

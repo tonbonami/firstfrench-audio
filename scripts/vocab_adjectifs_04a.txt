@@ -1,52 +1,51 @@
 # Vocabulaire — vocab_adjectifs_04a / part a
-# 패턴: FR → KO → FR
-# voices: Vocab=lisons-narrator
+# voices: Vocab=warm-mother
 
 [FR-Vocab] magnifique.
 <break time="1.0s"/>
-[KO] 멋진·화려한
+[KO] 멋진·화려한.
 <break time="1.0s"/>
 [FR-Vocab] magnifique.
 <break time="1.5s"/>
 
 [FR-Vocab] formidable.
 <break time="1.0s"/>
-[KO] 대단한
+[KO] 대단한.
 <break time="1.0s"/>
 [FR-Vocab] formidable.
 <break time="1.5s"/>
 
 [FR-Vocab] délicieux.
 <break time="1.0s"/>
-[KO] 맛있는, 남성형
+[KO] 맛있는.
 <break time="1.0s"/>
 [FR-Vocab] délicieux.
 <break time="1.5s"/>
 
 [FR-Vocab] délicieuse.
 <break time="1.0s"/>
-[KO] 맛있는, 여성형
+[KO] 맛있는.
 <break time="1.0s"/>
 [FR-Vocab] délicieuse.
 <break time="1.5s"/>
 
 [FR-Vocab] terrible.
 <break time="1.0s"/>
-[KO] 끔찍한·대단한
+[KO] 끔찍한·대단한.
 <break time="1.0s"/>
 [FR-Vocab] terrible.
 <break time="1.5s"/>
 
 [FR-Vocab] bizarre.
 <break time="1.0s"/>
-[KO] 이상한
+[KO] 이상한.
 <break time="1.0s"/>
 [FR-Vocab] bizarre.
 <break time="1.5s"/>
 
 [FR-Vocab] intéressant.
 <break time="1.0s"/>
-[KO] 흥미로운, 남성형
+[KO] 흥미로운.
 <break time="1.0s"/>
 [FR-Vocab] intéressant.
 <break time="1.5s"/>

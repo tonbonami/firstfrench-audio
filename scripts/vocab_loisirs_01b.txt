@@ -1,52 +1,51 @@
 # Vocabulaire — vocab_loisirs_01b / part b
-# 패턴: FR → KO → FR
-# voices: Vocab=lisons-narrator
+# voices: Vocab=warm-mother
 
-[FR-Vocab] randonnée.
+[FR-Vocab] la randonnée.
 <break time="1.0s"/>
-[KO] 하이킹
+[KO] 하이킹.
 <break time="1.0s"/>
-[FR-Vocab] randonnée.
+[FR-Vocab] la randonnée.
 <break time="1.5s"/>
 
-[FR-Vocab] ski.
+[FR-Vocab] le ski.
 <break time="1.0s"/>
-[KO] 스키
+[KO] 스키.
 <break time="1.0s"/>
-[FR-Vocab] ski.
+[FR-Vocab] le ski.
 <break time="1.5s"/>
 
-[FR-Vocab] yoga.
+[FR-Vocab] le yoga.
 <break time="1.0s"/>
-[KO] 요가
+[KO] 요가.
 <break time="1.0s"/>
-[FR-Vocab] yoga.
+[FR-Vocab] le yoga.
 <break time="1.5s"/>
 
-[FR-Vocab] boxe.
+[FR-Vocab] la boxe.
 <break time="1.0s"/>
-[KO] 권투
+[KO] 권투.
 <break time="1.0s"/>
-[FR-Vocab] boxe.
+[FR-Vocab] la boxe.
 <break time="1.5s"/>
 
-[FR-Vocab] gymnastique.
+[FR-Vocab] la gymnastique.
 <break time="1.0s"/>
-[KO] 체조
+[KO] 체조.
 <break time="1.0s"/>
-[FR-Vocab] gymnastique.
+[FR-Vocab] la gymnastique.
 <break time="1.5s"/>
 
-[FR-Vocab] golf.
+[FR-Vocab] le golf.
 <break time="1.0s"/>
-[KO] 골프
+[KO] 골프.
 <break time="1.0s"/>
-[FR-Vocab] golf.
+[FR-Vocab] le golf.
 <break time="1.5s"/>
 
-[FR-Vocab] rugby.
+[FR-Vocab] le rugby.
 <break time="1.0s"/>
-[KO] 럭비
+[KO] 럭비.
 <break time="1.0s"/>
-[FR-Vocab] rugby.
+[FR-Vocab] le rugby.
 <break time="1.5s"/>

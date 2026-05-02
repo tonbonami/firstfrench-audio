@@ -1,45 +1,44 @@
 # Vocabulaire — vocab_maison_07
-# 패턴: FR → KO → FR
-# voices: Vocab=lisons-narrator
+# voices: Vocab=warm-mother
 
-[FR-Vocab] machine à laver.
+[FR-Vocab] la machine à laver.
 <break time="1.0s"/>
 [KO] 세탁기.
 <break time="1.0s"/>
-[FR-Vocab] machine à laver.
+[FR-Vocab] la machine à laver.
 <break time="1.5s"/>
 
-[FR-Vocab] aspirateur.
+[FR-Vocab] l'aspirateur.
 <break time="1.0s"/>
 [KO] 청소기.
 <break time="1.0s"/>
-[FR-Vocab] aspirateur.
+[FR-Vocab] l'aspirateur.
 <break time="1.5s"/>
 
-[FR-Vocab] fer à repasser.
+[FR-Vocab] le fer à repasser.
 <break time="1.0s"/>
 [KO] 다리미.
 <break time="1.0s"/>
-[FR-Vocab] fer à repasser.
+[FR-Vocab] le fer à repasser.
 <break time="1.5s"/>
 
-[FR-Vocab] climatiseur.
+[FR-Vocab] le climatiseur.
 <break time="1.0s"/>
 [KO] 에어컨.
 <break time="1.0s"/>
-[FR-Vocab] climatiseur.
+[FR-Vocab] le climatiseur.
 <break time="1.5s"/>
 
-[FR-Vocab] chauffage.
+[FR-Vocab] le chauffage.
 <break time="1.0s"/>
 [KO] 난방.
 <break time="1.0s"/>
-[FR-Vocab] chauffage.
+[FR-Vocab] le chauffage.
 <break time="1.5s"/>
 
-[FR-Vocab] lampe.
+[FR-Vocab] la lampe.
 <break time="1.0s"/>
-[KO] 램프 또는 조명.
+[KO] 램프·조명.
 <break time="1.0s"/>
-[FR-Vocab] lampe.
+[FR-Vocab] la lampe.
 <break time="1.5s"/>

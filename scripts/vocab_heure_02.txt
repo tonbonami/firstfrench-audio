@@ -1,45 +1,44 @@
 # Vocabulaire — vocab_heure_02
-# 패턴: FR → KO → FR
-# voices: Vocab=lisons-narrator
+# voices: Vocab=warm-mother
 
-[FR-Vocab] et quart.
+[FR-Vocab] l'et quart.
 <break time="1.0s"/>
-[KO] 15분
+[KO] 15분 (정시 + 15).
 <break time="1.0s"/>
-[FR-Vocab] et quart.
+[FR-Vocab] l'et quart.
 <break time="1.5s"/>
 
-[FR-Vocab] et demie.
+[FR-Vocab] l'et demie.
 <break time="1.0s"/>
-[KO] 30분
+[KO] 30분.
 <break time="1.0s"/>
-[FR-Vocab] et demie.
+[FR-Vocab] l'et demie.
 <break time="1.5s"/>
 
 [FR-Vocab] moins le quart.
 <break time="1.0s"/>
-[KO] 다음 시 15분 전
+[KO] 다음 시 15분 전.
 <break time="1.0s"/>
 [FR-Vocab] moins le quart.
 <break time="1.5s"/>
 
 [FR-Vocab] du matin.
 <break time="1.0s"/>
-[KO] 오전
+[KO] 오전.
 <break time="1.0s"/>
 [FR-Vocab] du matin.
 <break time="1.5s"/>
 
 [FR-Vocab] de l'après-midi.
 <break time="1.0s"/>
-[KO] 오후
+[KO] 오후.
 <break time="1.0s"/>
 [FR-Vocab] de l'après-midi.
 <break time="1.5s"/>
 
 [FR-Vocab] du soir.
 <break time="1.0s"/>
-[KO] 저녁
+[KO] 저녁.
 <break time="1.0s"/>
 [FR-Vocab] du soir.
 <break time="1.5s"/>

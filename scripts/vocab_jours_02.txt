@@ -1,12 +1,11 @@
 # Vocabulaire — vocab_jours_02
-# 패턴: FR → KO → FR
-# voices: Vocab=lisons-narrator
+# voices: Vocab=warm-mother
 
-[FR-Vocab] aujourd'hui.
+[FR-Vocab] l'aujourd'hui.
 <break time="1.0s"/>
 [KO] 오늘.
 <break time="1.0s"/>
-[FR-Vocab] aujourd'hui.
+[FR-Vocab] l'aujourd'hui.
 <break time="1.5s"/>
 
 [FR-Vocab] demain.
@@ -16,9 +15,9 @@
 [FR-Vocab] demain.
 <break time="1.5s"/>
 
-[FR-Vocab] hier.
+[FR-Vocab] l'hier.
 <break time="1.0s"/>
 [KO] 어제.
 <break time="1.0s"/>
-[FR-Vocab] hier.
+[FR-Vocab] l'hier.
 <break time="1.5s"/>

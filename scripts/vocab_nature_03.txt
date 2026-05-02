@@ -1,73 +1,72 @@
 # Vocabulaire — vocab_nature_03
-# 패턴: FR → KO → FR
-# voices: Vocab=lisons-narrator
+# voices: Vocab=warm-mother
 
-[FR-Vocab] arbre.
+[FR-Vocab] l'arbre.
 <break time="1.0s"/>
-[KO] 나무
+[KO] 나무.
 <break time="1.0s"/>
-[FR-Vocab] arbre.
+[FR-Vocab] l'arbre.
 <break time="1.5s"/>
 
-[FR-Vocab] fleur.
+[FR-Vocab] la fleur.
 <break time="1.0s"/>
-[KO] 꽃
+[KO] 꽃.
 <break time="1.0s"/>
-[FR-Vocab] fleur.
+[FR-Vocab] la fleur.
 <break time="1.5s"/>
 
-[FR-Vocab] herbe.
+[FR-Vocab] l'herbe.
 <break time="1.0s"/>
-[KO] 풀
+[KO] 풀.
 <break time="1.0s"/>
-[FR-Vocab] herbe.
+[FR-Vocab] l'herbe.
 <break time="1.5s"/>
 
-[FR-Vocab] feuille.
+[FR-Vocab] la feuille.
 <break time="1.0s"/>
-[KO] 잎
+[KO] 잎.
 <break time="1.0s"/>
-[FR-Vocab] feuille.
+[FR-Vocab] la feuille.
 <break time="1.5s"/>
 
-[FR-Vocab] branche.
+[FR-Vocab] la branche.
 <break time="1.0s"/>
-[KO] 가지
+[KO] 가지.
 <break time="1.0s"/>
-[FR-Vocab] branche.
+[FR-Vocab] la branche.
 <break time="1.5s"/>
 
-[FR-Vocab] racine.
+[FR-Vocab] la racine.
 <break time="1.0s"/>
-[KO] 뿌리
+[KO] 뿌리.
 <break time="1.0s"/>
-[FR-Vocab] racine.
+[FR-Vocab] la racine.
 <break time="1.5s"/>
 
-[FR-Vocab] champignon.
+[FR-Vocab] le champignon.
 <break time="1.0s"/>
-[KO] 버섯
+[KO] 버섯.
 <break time="1.0s"/>
-[FR-Vocab] champignon.
+[FR-Vocab] le champignon.
 <break time="1.5s"/>
 
-[FR-Vocab] rose.
+[FR-Vocab] la rose.
 <break time="1.0s"/>
-[KO] 장미
+[KO] 장미.
 <break time="1.0s"/>
-[FR-Vocab] rose.
+[FR-Vocab] la rose.
 <break time="1.5s"/>
 
-[FR-Vocab] chêne.
+[FR-Vocab] le chêne.
 <break time="1.0s"/>
-[KO] 참나무
+[KO] 참나무.
 <break time="1.0s"/>
-[FR-Vocab] chêne.
+[FR-Vocab] le chêne.
 <break time="1.5s"/>
 
-[FR-Vocab] sapin.
+[FR-Vocab] le sapin.
 <break time="1.0s"/>
-[KO] 전나무
+[KO] 전나무.
 <break time="1.0s"/>
-[FR-Vocab] sapin.
+[FR-Vocab] le sapin.
 <break time="1.5s"/>

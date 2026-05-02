@@ -1,44 +1,44 @@
-# Vocabulaire — Caractère / 2a
-# voices: Vocab=lisons-narrator
+# Vocabulaire — vocab_caractere_02a / part a
+# voices: Vocab=warm-mother
 
 [FR-Vocab] paresseux.
 <break time="1.0s"/>
-[KO] 게으른, 남성형.
+[KO] 게으른.
 <break time="1.0s"/>
 [FR-Vocab] paresseux.
 <break time="1.5s"/>
 
 [FR-Vocab] paresseuse.
 <break time="1.0s"/>
-[KO] 게으른, 여성형.
+[KO] 게으른.
 <break time="1.0s"/>
 [FR-Vocab] paresseuse.
 <break time="1.5s"/>
 
 [FR-Vocab] bavard.
 <break time="1.0s"/>
-[KO] 수다스러운, 남성형.
+[KO] 수다스러운.
 <break time="1.0s"/>
 [FR-Vocab] bavard.
 <break time="1.5s"/>
 
 [FR-Vocab] bavarde.
 <break time="1.0s"/>
-[KO] 수다스러운, 여성형.
+[KO] 수다스러운.
 <break time="1.0s"/>
 [FR-Vocab] bavarde.
 <break time="1.5s"/>
 
 [FR-Vocab] têtu.
 <break time="1.0s"/>
-[KO] 고집스러운, 남성형.
+[KO] 고집스러운.
 <break time="1.0s"/>
 [FR-Vocab] têtu.
 <break time="1.5s"/>
 
 [FR-Vocab] têtue.
 <break time="1.0s"/>
-[KO] 고집스러운, 여성형.
+[KO] 고집스러운.
 <break time="1.0s"/>
 [FR-Vocab] têtue.
 <break time="1.5s"/>

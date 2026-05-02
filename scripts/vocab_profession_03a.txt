@@ -1,0 +1,44 @@
+# Vocabulaire — vocab_profession_03a / part a
+# voices: Vocab=warm-mother
+
+[FR-Vocab] le plombier.
+<break time="1.0s"/>
+[KO] 배관공.
+<break time="1.0s"/>
+[FR-Vocab] le plombier.
+<break time="1.5s"/>
+
+[FR-Vocab] l'électricien.
+<break time="1.0s"/>
+[KO] 전기기사.
+<break time="1.0s"/>
+[FR-Vocab] l'électricien.
+<break time="1.5s"/>
+
+[FR-Vocab] l'électricienne.
+<break time="1.0s"/>
+[KO] 전기기사.
+<break time="1.0s"/>
+[FR-Vocab] l'électricienne.
+<break time="1.5s"/>
+
+[FR-Vocab] le cuisinier.
+<break time="1.0s"/>
+[KO] 요리사.
+<break time="1.0s"/>
+[FR-Vocab] le cuisinier.
+<break time="1.5s"/>
+
+[FR-Vocab] la cuisinière.
+<break time="1.0s"/>
+[KO] 요리사.
+<break time="1.0s"/>
+[FR-Vocab] la cuisinière.
+<break time="1.5s"/>
+
+[FR-Vocab] le commerçant.
+<break time="1.0s"/>
+[KO] 상인.
+<break time="1.0s"/>
+[FR-Vocab] le commerçant.
+<break time="1.5s"/>

@@ -1,66 +1,65 @@
 # Vocabulaire — vocab_technologie_04
-# 패턴: FR → KO → FR
-# voices: Vocab=lisons-narrator
+# voices: Vocab=warm-mother
 
-[FR-Vocab] télévision.
+[FR-Vocab] la télévision.
 <break time="1.0s"/>
-[KO] 텔레비전
+[KO] 텔레비전.
 <break time="1.0s"/>
-[FR-Vocab] télévision.
+[FR-Vocab] la télévision.
 <break time="1.5s"/>
 
-[FR-Vocab] radio.
+[FR-Vocab] la radio.
 <break time="1.0s"/>
-[KO] 라디오
+[KO] 라디오.
 <break time="1.0s"/>
-[FR-Vocab] radio.
+[FR-Vocab] la radio.
 <break time="1.5s"/>
 
-[FR-Vocab] journal.
+[FR-Vocab] le journal.
 <break time="1.0s"/>
-[KO] 신문
+[KO] 신문.
 <break time="1.0s"/>
-[FR-Vocab] journal.
+[FR-Vocab] le journal.
 <break time="1.5s"/>
 
-[FR-Vocab] magazine.
+[FR-Vocab] le magazine.
 <break time="1.0s"/>
-[KO] 잡지
+[KO] 잡지.
 <break time="1.0s"/>
-[FR-Vocab] magazine.
+[FR-Vocab] le magazine.
 <break time="1.5s"/>
 
-[FR-Vocab] podcast.
+[FR-Vocab] le podcast.
 <break time="1.0s"/>
-[KO] 팟캐스트
+[KO] 팟캐스트.
 <break time="1.0s"/>
-[FR-Vocab] podcast.
+[FR-Vocab] le podcast.
 <break time="1.5s"/>
 
-[FR-Vocab] série.
+[FR-Vocab] la série.
 <break time="1.0s"/>
-[KO] 드라마
+[KO] 드라마.
 <break time="1.0s"/>
-[FR-Vocab] série.
+[FR-Vocab] la série.
 <break time="1.5s"/>
 
-[FR-Vocab] documentaire.
+[FR-Vocab] le documentaire.
 <break time="1.0s"/>
-[KO] 다큐멘터리
+[KO] 다큐멘터리.
 <break time="1.0s"/>
-[FR-Vocab] documentaire.
+[FR-Vocab] le documentaire.
 <break time="1.5s"/>
 
-[FR-Vocab] publicité.
+[FR-Vocab] la publicité.
 <break time="1.0s"/>
-[KO] 광고
+[KO] 광고.
 <break time="1.0s"/>
-[FR-Vocab] publicité.
+[FR-Vocab] la publicité.
 <break time="1.5s"/>
 
-[FR-Vocab] chaîne.
+[FR-Vocab] la chaîne.
 <break time="1.0s"/>
-[KO] 채널
+[KO] 채널.
 <break time="1.0s"/>
-[FR-Vocab] chaîne.
+[FR-Vocab] la chaîne.
 <break time="1.5s"/>

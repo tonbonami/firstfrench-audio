@@ -1,52 +1,51 @@
 # Vocabulaire — vocab_pays_03
-# 패턴: FR → KO → FR
-# voices: Vocab=lisons-narrator
+# voices: Vocab=warm-mother
 
-[FR-Vocab] Europe.
+[FR-Vocab] l'Europe.
 <break time="1.0s"/>
-[KO] 유럽
+[KO] 유럽.
 <break time="1.0s"/>
-[FR-Vocab] Europe.
+[FR-Vocab] l'Europe.
 <break time="1.5s"/>
 
-[FR-Vocab] Asie.
+[FR-Vocab] l'Asie.
 <break time="1.0s"/>
-[KO] 아시아
+[KO] 아시아.
 <break time="1.0s"/>
-[FR-Vocab] Asie.
+[FR-Vocab] l'Asie.
 <break time="1.5s"/>
 
-[FR-Vocab] Afrique.
+[FR-Vocab] l'Afrique.
 <break time="1.0s"/>
-[KO] 아프리카
+[KO] 아프리카.
 <break time="1.0s"/>
-[FR-Vocab] Afrique.
+[FR-Vocab] l'Afrique.
 <break time="1.5s"/>
 
-[FR-Vocab] Amérique du Nord.
+[FR-Vocab] l'Amérique du Nord.
 <break time="1.0s"/>
-[KO] 북아메리카
+[KO] 북아메리카.
 <break time="1.0s"/>
-[FR-Vocab] Amérique du Nord.
+[FR-Vocab] l'Amérique du Nord.
 <break time="1.5s"/>
 
-[FR-Vocab] Amérique du Sud.
+[FR-Vocab] l'Amérique du Sud.
 <break time="1.0s"/>
-[KO] 남아메리카
+[KO] 남아메리카.
 <break time="1.0s"/>
-[FR-Vocab] Amérique du Sud.
+[FR-Vocab] l'Amérique du Sud.
 <break time="1.5s"/>
 
-[FR-Vocab] Océanie.
+[FR-Vocab] l'Océanie.
 <break time="1.0s"/>
-[KO] 오세아니아
+[KO] 오세아니아.
 <break time="1.0s"/>
-[FR-Vocab] Océanie.
+[FR-Vocab] l'Océanie.
 <break time="1.5s"/>
 
-[FR-Vocab] Moyen-Orient.
+[FR-Vocab] le Moyen-Orient.
 <break time="1.0s"/>
-[KO] 중동
+[KO] 중동.
 <break time="1.0s"/>
-[FR-Vocab] Moyen-Orient.
+[FR-Vocab] le Moyen-Orient.
 <break time="1.5s"/>

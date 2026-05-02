@@ -1,24 +1,23 @@
 # Vocabulaire — vocab_verbes_01
-# 패턴: FR → KO → FR
-# voices: Vocab=lisons-narrator
+# voices: Vocab=warm-mother
 
 [FR-Vocab] être.
 <break time="1.0s"/>
-[KO] 이다·있다
+[KO] 이다·있다.
 <break time="1.0s"/>
 [FR-Vocab] être.
 <break time="1.5s"/>
 
 [FR-Vocab] avoir.
 <break time="1.0s"/>
-[KO] 가지다
+[KO] 가지다.
 <break time="1.0s"/>
 [FR-Vocab] avoir.
 <break time="1.5s"/>
 
 [FR-Vocab] faire.
 <break time="1.0s"/>
-[KO] 하다
+[KO] 하다.
 <break time="1.0s"/>
 [FR-Vocab] faire.
 <break time="1.5s"/>

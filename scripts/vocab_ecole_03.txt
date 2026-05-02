@@ -1,73 +1,72 @@
 # Vocabulaire — vocab_ecole_03
-# 패턴: FR → KO → FR
-# voices: Vocab=lisons-narrator
+# voices: Vocab=warm-mother
 
-[FR-Vocab] cahier.
+[FR-Vocab] le cahier.
 <break time="1.0s"/>
-[KO] 공책
+[KO] 공책.
 <break time="1.0s"/>
-[FR-Vocab] cahier.
+[FR-Vocab] le cahier.
 <break time="1.5s"/>
 
-[FR-Vocab] livre.
+[FR-Vocab] le livre.
 <break time="1.0s"/>
-[KO] 책·교과서
+[KO] 책·교과서.
 <break time="1.0s"/>
-[FR-Vocab] livre.
+[FR-Vocab] le livre.
 <break time="1.5s"/>
 
-[FR-Vocab] stylo.
+[FR-Vocab] le stylo.
 <break time="1.0s"/>
-[KO] 볼펜
+[KO] 볼펜.
 <break time="1.0s"/>
-[FR-Vocab] stylo.
+[FR-Vocab] le stylo.
 <break time="1.5s"/>
 
-[FR-Vocab] crayon.
+[FR-Vocab] le crayon.
 <break time="1.0s"/>
-[KO] 연필
+[KO] 연필.
 <break time="1.0s"/>
-[FR-Vocab] crayon.
+[FR-Vocab] le crayon.
 <break time="1.5s"/>
 
-[FR-Vocab] règle.
+[FR-Vocab] la règle.
 <break time="1.0s"/>
-[KO] 자
+[KO] 자.
 <break time="1.0s"/>
-[FR-Vocab] règle.
+[FR-Vocab] la règle.
 <break time="1.5s"/>
 
-[FR-Vocab] gomme.
+[FR-Vocab] la gomme.
 <break time="1.0s"/>
-[KO] 지우개
+[KO] 지우개.
 <break time="1.0s"/>
-[FR-Vocab] gomme.
+[FR-Vocab] la gomme.
 <break time="1.5s"/>
 
-[FR-Vocab] sac à dos.
+[FR-Vocab] le sac à dos.
 <break time="1.0s"/>
-[KO] 백팩
+[KO] 백팩.
 <break time="1.0s"/>
-[FR-Vocab] sac à dos.
+[FR-Vocab] le sac à dos.
 <break time="1.5s"/>
 
-[FR-Vocab] cartable.
+[FR-Vocab] le cartable.
 <break time="1.0s"/>
-[KO] 책가방
+[KO] 책가방.
 <break time="1.0s"/>
-[FR-Vocab] cartable.
+[FR-Vocab] le cartable.
 <break time="1.5s"/>
 
-[FR-Vocab] tableau.
+[FR-Vocab] le tableau.
 <break time="1.0s"/>
-[KO] 칠판
+[KO] 칠판.
 <break time="1.0s"/>
-[FR-Vocab] tableau.
+[FR-Vocab] le tableau.
 <break time="1.5s"/>
 
-[FR-Vocab] bureau.
+[FR-Vocab] le bureau.
 <break time="1.0s"/>
-[KO] 책상
+[KO] 책상.
 <break time="1.0s"/>
-[FR-Vocab] bureau.
+[FR-Vocab] le bureau.
 <break time="1.5s"/>

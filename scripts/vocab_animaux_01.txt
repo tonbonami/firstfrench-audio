@@ -1,59 +1,58 @@
 # Vocabulaire — vocab_animaux_01
-# 패턴: FR → KO → FR
-# voices: Vocab=lisons-narrator
+# voices: Vocab=warm-mother
 
-[FR-Vocab] chien.
+[FR-Vocab] le chien.
 <break time="1.0s"/>
-[KO] 개, 남성형
+[KO] 개.
 <break time="1.0s"/>
-[FR-Vocab] chien.
+[FR-Vocab] le chien.
 <break time="1.5s"/>
 
-[FR-Vocab] chienne.
+[FR-Vocab] la chienne.
 <break time="1.0s"/>
-[KO] 개, 여성형
+[KO] 개.
 <break time="1.0s"/>
-[FR-Vocab] chienne.
+[FR-Vocab] la chienne.
 <break time="1.5s"/>
 
-[FR-Vocab] chat.
+[FR-Vocab] le chat.
 <break time="1.0s"/>
-[KO] 고양이, 남성형
+[KO] 고양이.
 <break time="1.0s"/>
-[FR-Vocab] chat.
+[FR-Vocab] le chat.
 <break time="1.5s"/>
 
-[FR-Vocab] chatte.
+[FR-Vocab] la chatte.
 <break time="1.0s"/>
-[KO] 고양이, 여성형
+[KO] 고양이.
 <break time="1.0s"/>
-[FR-Vocab] chatte.
+[FR-Vocab] la chatte.
 <break time="1.5s"/>
 
-[FR-Vocab] lapin.
+[FR-Vocab] le lapin.
 <break time="1.0s"/>
-[KO] 토끼
+[KO] 토끼.
 <break time="1.0s"/>
-[FR-Vocab] lapin.
+[FR-Vocab] le lapin.
 <break time="1.5s"/>
 
-[FR-Vocab] hamster.
+[FR-Vocab] l'hamster.
 <break time="1.0s"/>
-[KO] 햄스터
+[KO] 햄스터.
 <break time="1.0s"/>
-[FR-Vocab] hamster.
+[FR-Vocab] l'hamster.
 <break time="1.5s"/>
 
-[FR-Vocab] poisson rouge.
+[FR-Vocab] le poisson rouge.
 <break time="1.0s"/>
-[KO] 금붕어
+[KO] 금붕어.
 <break time="1.0s"/>
-[FR-Vocab] poisson rouge.
+[FR-Vocab] le poisson rouge.
 <break time="1.5s"/>
 
-[FR-Vocab] oiseau.
+[FR-Vocab] l'oiseau.
 <break time="1.0s"/>
-[KO] 새
+[KO] 새.
 <break time="1.0s"/>
-[FR-Vocab] oiseau.
+[FR-Vocab] l'oiseau.
 <break time="1.5s"/>

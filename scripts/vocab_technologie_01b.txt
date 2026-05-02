@@ -1,52 +1,51 @@
 # Vocabulaire — vocab_technologie_01b / part b
-# 패턴: FR → KO → FR
-# voices: Vocab=lisons-narrator
+# voices: Vocab=warm-mother
 
-[FR-Vocab] souris.
+[FR-Vocab] la souris.
 <break time="1.0s"/>
-[KO] 마우스
+[KO] 마우스.
 <break time="1.0s"/>
-[FR-Vocab] souris.
+[FR-Vocab] la souris.
 <break time="1.5s"/>
 
-[FR-Vocab] imprimante.
+[FR-Vocab] l'imprimante.
 <break time="1.0s"/>
-[KO] 프린터
+[KO] 프린터.
 <break time="1.0s"/>
-[FR-Vocab] imprimante.
+[FR-Vocab] l'imprimante.
 <break time="1.5s"/>
 
-[FR-Vocab] écouteurs.
+[FR-Vocab] l'écouteurs.
 <break time="1.0s"/>
-[KO] 이어폰
+[KO] 이어폰.
 <break time="1.0s"/>
-[FR-Vocab] écouteurs.
+[FR-Vocab] l'écouteurs.
 <break time="1.5s"/>
 
-[FR-Vocab] enceintes.
+[FR-Vocab] l'enceintes.
 <break time="1.0s"/>
-[KO] 스피커
+[KO] 스피커.
 <break time="1.0s"/>
-[FR-Vocab] enceintes.
+[FR-Vocab] l'enceintes.
 <break time="1.5s"/>
 
-[FR-Vocab] caméra.
+[FR-Vocab] la caméra.
 <break time="1.0s"/>
-[KO] 카메라
+[KO] 카메라.
 <break time="1.0s"/>
-[FR-Vocab] caméra.
+[FR-Vocab] la caméra.
 <break time="1.5s"/>
 
-[FR-Vocab] batterie.
+[FR-Vocab] la batterie.
 <break time="1.0s"/>
-[KO] 배터리
+[KO] 배터리.
 <break time="1.0s"/>
-[FR-Vocab] batterie.
+[FR-Vocab] la batterie.
 <break time="1.5s"/>
 
-[FR-Vocab] chargeur.
+[FR-Vocab] le chargeur.
 <break time="1.0s"/>
-[KO] 충전기
+[KO] 충전기.
 <break time="1.0s"/>
-[FR-Vocab] chargeur.
+[FR-Vocab] le chargeur.
 <break time="1.5s"/>

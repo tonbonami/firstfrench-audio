@@ -1,59 +1,58 @@
 # Vocabulaire — vocab_maison_06
-# 패턴: FR → KO → FR
-# voices: Vocab=lisons-narrator
+# voices: Vocab=warm-mother
 
-[FR-Vocab] douche.
+[FR-Vocab] la douche.
 <break time="1.0s"/>
 [KO] 샤워기.
 <break time="1.0s"/>
-[FR-Vocab] douche.
+[FR-Vocab] la douche.
 <break time="1.5s"/>
 
-[FR-Vocab] baignoire.
+[FR-Vocab] la baignoire.
 <break time="1.0s"/>
 [KO] 욕조.
 <break time="1.0s"/>
-[FR-Vocab] baignoire.
+[FR-Vocab] la baignoire.
 <break time="1.5s"/>
 
-[FR-Vocab] lavabo.
+[FR-Vocab] le lavabo.
 <break time="1.0s"/>
 [KO] 세면대.
 <break time="1.0s"/>
-[FR-Vocab] lavabo.
+[FR-Vocab] le lavabo.
 <break time="1.5s"/>
 
-[FR-Vocab] miroir.
+[FR-Vocab] le miroir.
 <break time="1.0s"/>
 [KO] 거울.
 <break time="1.0s"/>
-[FR-Vocab] miroir.
+[FR-Vocab] le miroir.
 <break time="1.5s"/>
 
-[FR-Vocab] serviette.
+[FR-Vocab] la serviette.
 <break time="1.0s"/>
 [KO] 수건.
 <break time="1.0s"/>
-[FR-Vocab] serviette.
+[FR-Vocab] la serviette.
 <break time="1.5s"/>
 
-[FR-Vocab] savon.
+[FR-Vocab] le savon.
 <break time="1.0s"/>
 [KO] 비누.
 <break time="1.0s"/>
-[FR-Vocab] savon.
+[FR-Vocab] le savon.
 <break time="1.5s"/>
 
-[FR-Vocab] brosse à dents.
+[FR-Vocab] la brosse à dents.
 <break time="1.0s"/>
 [KO] 칫솔.
 <break time="1.0s"/>
-[FR-Vocab] brosse à dents.
+[FR-Vocab] la brosse à dents.
 <break time="1.5s"/>
 
-[FR-Vocab] dentifrice.
+[FR-Vocab] le dentifrice.
 <break time="1.0s"/>
 [KO] 치약.
 <break time="1.0s"/>
-[FR-Vocab] dentifrice.
+[FR-Vocab] le dentifrice.
 <break time="1.5s"/>

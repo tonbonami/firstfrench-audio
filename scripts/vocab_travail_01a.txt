@@ -1,51 +1,51 @@
-# Vocabulaire — Travail / 1a: 직책·사람
-# voices: Vocab=lisons-narrator
+# Vocabulaire — vocab_travail_01a / part a
+# voices: Vocab=warm-mother
 
-[FR-Vocab] patron.
+[FR-Vocab] le patron.
 <break time="1.0s"/>
-[KO] 사장, 남성형.
+[KO] 사장.
 <break time="1.0s"/>
-[FR-Vocab] patron.
+[FR-Vocab] le patron.
 <break time="1.5s"/>
 
-[FR-Vocab] patronne.
+[FR-Vocab] la patronne.
 <break time="1.0s"/>
-[KO] 사장, 여성형.
+[KO] 사장.
 <break time="1.0s"/>
-[FR-Vocab] patronne.
+[FR-Vocab] la patronne.
 <break time="1.5s"/>
 
-[FR-Vocab] directeur.
+[FR-Vocab] le directeur.
 <break time="1.0s"/>
-[KO] 임원이나 이사, 남성형.
+[KO] 임원·이사.
 <break time="1.0s"/>
-[FR-Vocab] directeur.
+[FR-Vocab] le directeur.
 <break time="1.5s"/>
 
-[FR-Vocab] directrice.
+[FR-Vocab] la directrice.
 <break time="1.0s"/>
-[KO] 임원이나 이사, 여성형.
+[KO] 임원·이사.
 <break time="1.0s"/>
-[FR-Vocab] directrice.
+[FR-Vocab] la directrice.
 <break time="1.5s"/>
 
-[FR-Vocab] manager.
+[FR-Vocab] le manager.
 <break time="1.0s"/>
 [KO] 매니저.
 <break time="1.0s"/>
-[FR-Vocab] manager.
+[FR-Vocab] le manager.
 <break time="1.5s"/>
 
 [FR-Vocab] collègue.
 <break time="1.0s"/>
-[KO] 동료. 남녀 동일.
+[KO] 동료.
 <break time="1.0s"/>
 [FR-Vocab] collègue.
 <break time="1.5s"/>
 
-[FR-Vocab] employé.
+[FR-Vocab] l'employé.
 <break time="1.0s"/>
-[KO] 직원, 남성형.
+[KO] 직원.
 <break time="1.0s"/>
-[FR-Vocab] employé.
+[FR-Vocab] l'employé.
 <break time="1.5s"/>

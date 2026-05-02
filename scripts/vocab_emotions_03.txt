@@ -1,38 +1,37 @@
 # Vocabulaire — vocab_emotions_03
-# 패턴: FR → KO → FR
-# voices: Vocab=lisons-narrator
+# voices: Vocab=warm-mother
 
 [FR-Vocab] avoir peur (de).
 <break time="1.0s"/>
-[KO] 두렵다
+[KO] 두렵다.
 <break time="1.0s"/>
 [FR-Vocab] avoir peur (de).
 <break time="1.5s"/>
 
 [FR-Vocab] avoir honte (de).
 <break time="1.0s"/>
-[KO] 부끄럽다
+[KO] 부끄럽다.
 <break time="1.0s"/>
 [FR-Vocab] avoir honte (de).
 <break time="1.5s"/>
 
 [FR-Vocab] avoir envie (de).
 <break time="1.0s"/>
-[KO] ~하고 싶다
+[KO] ~하고 싶다.
 <break time="1.0s"/>
 [FR-Vocab] avoir envie (de).
 <break time="1.5s"/>
 
 [FR-Vocab] avoir l'air + adj.
 <break time="1.0s"/>
-[KO] ~처럼 보이다
+[KO] ~처럼 보이다.
 <break time="1.0s"/>
 [FR-Vocab] avoir l'air + adj.
 <break time="1.5s"/>
 
 [FR-Vocab] avoir du mal à.
 <break time="1.0s"/>
-[KO] ~하기 힘들다
+[KO] ~하기 힘들다.
 <break time="1.0s"/>
 [FR-Vocab] avoir du mal à.
 <break time="1.5s"/>

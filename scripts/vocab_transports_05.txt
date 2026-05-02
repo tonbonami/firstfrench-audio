@@ -1,59 +1,58 @@
 # Vocabulaire — vocab_transports_05
-# 패턴: FR → KO → FR
-# voices: Vocab=lisons-narrator
+# voices: Vocab=warm-mother
 
-[FR-Vocab] à gauche.
+[FR-Vocab] l'à gauche.
 <break time="1.0s"/>
-[KO] 왼쪽으로
+[KO] 왼쪽으로.
 <break time="1.0s"/>
-[FR-Vocab] à gauche.
+[FR-Vocab] l'à gauche.
 <break time="1.5s"/>
 
-[FR-Vocab] à droite.
+[FR-Vocab] l'à droite.
 <break time="1.0s"/>
-[KO] 오른쪽으로
+[KO] 오른쪽으로.
 <break time="1.0s"/>
-[FR-Vocab] à droite.
+[FR-Vocab] l'à droite.
 <break time="1.5s"/>
 
 [FR-Vocab] tout droit.
 <break time="1.0s"/>
-[KO] 직진
+[KO] 직진.
 <break time="1.0s"/>
 [FR-Vocab] tout droit.
 <break time="1.5s"/>
 
-[FR-Vocab] en face de.
+[FR-Vocab] l'en face de.
 <break time="1.0s"/>
-[KO] ~의 맞은편에
+[KO] ~의 맞은편에.
 <break time="1.0s"/>
-[FR-Vocab] en face de.
+[FR-Vocab] l'en face de.
 <break time="1.5s"/>
 
-[FR-Vocab] à côté de.
+[FR-Vocab] l'à côté de.
 <break time="1.0s"/>
-[KO] ~의 옆에
+[KO] ~의 옆에.
 <break time="1.0s"/>
-[FR-Vocab] à côté de.
+[FR-Vocab] l'à côté de.
 <break time="1.5s"/>
 
-[FR-Vocab] au coin de.
+[FR-Vocab] l'au coin de.
 <break time="1.0s"/>
-[KO] ~의 모퉁이에
+[KO] ~의 모퉁이에.
 <break time="1.0s"/>
-[FR-Vocab] au coin de.
+[FR-Vocab] l'au coin de.
 <break time="1.5s"/>
 
 [FR-Vocab] loin.
 <break time="1.0s"/>
-[KO] 멀리
+[KO] 멀리.
 <break time="1.0s"/>
 [FR-Vocab] loin.
 <break time="1.5s"/>
 
 [FR-Vocab] près.
 <break time="1.0s"/>
-[KO] 가까이
+[KO] 가까이.
 <break time="1.0s"/>
 [FR-Vocab] près.
 <break time="1.5s"/>

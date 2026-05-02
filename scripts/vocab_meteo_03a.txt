@@ -1,52 +1,51 @@
 # Vocabulaire — vocab_meteo_03a / part a
-# 패턴: FR → KO → FR
-# voices: Vocab=lisons-narrator
+# voices: Vocab=warm-mother
 
-[FR-Vocab] soleil.
+[FR-Vocab] le soleil.
 <break time="1.0s"/>
-[KO] 태양·햇빛
+[KO] 태양·햇빛.
 <break time="1.0s"/>
-[FR-Vocab] soleil.
+[FR-Vocab] le soleil.
 <break time="1.5s"/>
 
-[FR-Vocab] pluie.
+[FR-Vocab] la pluie.
 <break time="1.0s"/>
-[KO] 비
+[KO] 비.
 <break time="1.0s"/>
-[FR-Vocab] pluie.
+[FR-Vocab] la pluie.
 <break time="1.5s"/>
 
-[FR-Vocab] neige.
+[FR-Vocab] la neige.
 <break time="1.0s"/>
-[KO] 눈
+[KO] 눈.
 <break time="1.0s"/>
-[FR-Vocab] neige.
+[FR-Vocab] la neige.
 <break time="1.5s"/>
 
-[FR-Vocab] vent.
+[FR-Vocab] le vent.
 <break time="1.0s"/>
-[KO] 바람
+[KO] 바람.
 <break time="1.0s"/>
-[FR-Vocab] vent.
+[FR-Vocab] le vent.
 <break time="1.5s"/>
 
-[FR-Vocab] nuage.
+[FR-Vocab] le nuage.
 <break time="1.0s"/>
-[KO] 구름
+[KO] 구름.
 <break time="1.0s"/>
-[FR-Vocab] nuage.
+[FR-Vocab] le nuage.
 <break time="1.5s"/>
 
-[FR-Vocab] brouillard.
+[FR-Vocab] le brouillard.
 <break time="1.0s"/>
-[KO] 안개
+[KO] 안개.
 <break time="1.0s"/>
-[FR-Vocab] brouillard.
+[FR-Vocab] le brouillard.
 <break time="1.5s"/>
 
-[FR-Vocab] orage.
+[FR-Vocab] l'orage.
 <break time="1.0s"/>
-[KO] 천둥번개
+[KO] 천둥번개.
 <break time="1.0s"/>
-[FR-Vocab] orage.
+[FR-Vocab] l'orage.
 <break time="1.5s"/>

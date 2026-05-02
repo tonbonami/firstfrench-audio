@@ -1,38 +1,37 @@
 # Vocabulaire — vocab_verbes_03
-# 패턴: FR → KO → FR
-# voices: Vocab=lisons-narrator
+# voices: Vocab=warm-mother
 
 [FR-Vocab] pouvoir.
 <break time="1.0s"/>
-[KO] ~할 수 있다
+[KO] ~할 수 있다.
 <break time="1.0s"/>
 [FR-Vocab] pouvoir.
 <break time="1.5s"/>
 
 [FR-Vocab] vouloir.
 <break time="1.0s"/>
-[KO] ~하고 싶다
+[KO] ~하고 싶다.
 <break time="1.0s"/>
 [FR-Vocab] vouloir.
 <break time="1.5s"/>
 
 [FR-Vocab] devoir.
 <break time="1.0s"/>
-[KO] ~해야 한다
+[KO] ~해야 한다.
 <break time="1.0s"/>
 [FR-Vocab] devoir.
 <break time="1.5s"/>
 
 [FR-Vocab] savoir.
 <break time="1.0s"/>
-[KO] 알다
+[KO] 알다 (지식·방법).
 <break time="1.0s"/>
 [FR-Vocab] savoir.
 <break time="1.5s"/>
 
 [FR-Vocab] connaître.
 <break time="1.0s"/>
-[KO] 알다
+[KO] 알다 (사람·장소).
 <break time="1.0s"/>
 [FR-Vocab] connaître.
 <break time="1.5s"/>

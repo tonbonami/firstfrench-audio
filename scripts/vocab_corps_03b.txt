@@ -1,0 +1,37 @@
+# Vocabulaire — vocab_corps_03b / part b
+# voices: Vocab=warm-mother
+
+[FR-Vocab] l'orteil.
+<break time="1.0s"/>
+[KO] 발가락.
+<break time="1.0s"/>
+[FR-Vocab] l'orteil.
+<break time="1.5s"/>
+
+[FR-Vocab] le doigt.
+<break time="1.0s"/>
+[KO] 손가락.
+<break time="1.0s"/>
+[FR-Vocab] le doigt.
+<break time="1.5s"/>
+
+[FR-Vocab] la paume.
+<break time="1.0s"/>
+[KO] 손바닥.
+<break time="1.0s"/>
+[FR-Vocab] la paume.
+<break time="1.5s"/>
+
+[FR-Vocab] l'ongle.
+<break time="1.0s"/>
+[KO] 손톱·발톱.
+<break time="1.0s"/>
+[FR-Vocab] l'ongle.
+<break time="1.5s"/>
+
+[FR-Vocab] le poignet.
+<break time="1.0s"/>
+[KO] 손목.
+<break time="1.0s"/>
+[FR-Vocab] le poignet.
+<break time="1.5s"/>

@@ -1,38 +1,37 @@
 # Vocabulaire — vocab_nourriture_03
-# 패턴: FR → KO → FR
-# voices: Vocab=lisons-narrator
+# voices: Vocab=warm-mother
 
-[FR-Vocab] poisson.
+[FR-Vocab] le poisson.
 <break time="1.0s"/>
 [KO] 생선.
 <break time="1.0s"/>
-[FR-Vocab] poisson.
+[FR-Vocab] le poisson.
 <break time="1.5s"/>
 
-[FR-Vocab] saumon.
+[FR-Vocab] le saumon.
 <break time="1.0s"/>
 [KO] 연어.
 <break time="1.0s"/>
-[FR-Vocab] saumon.
+[FR-Vocab] le saumon.
 <break time="1.5s"/>
 
-[FR-Vocab] thon.
+[FR-Vocab] le thon.
 <break time="1.0s"/>
 [KO] 참치.
 <break time="1.0s"/>
-[FR-Vocab] thon.
+[FR-Vocab] le thon.
 <break time="1.5s"/>
 
-[FR-Vocab] crevettes.
+[FR-Vocab] la crevettes.
 <break time="1.0s"/>
-[KO] 새우, 복수형.
+[KO] 새우.
 <break time="1.0s"/>
-[FR-Vocab] crevettes.
+[FR-Vocab] la crevettes.
 <break time="1.5s"/>
 
-[FR-Vocab] fruits de mer.
+[FR-Vocab] le fruits de mer.
 <break time="1.0s"/>
 [KO] 해산물.
 <break time="1.0s"/>
-[FR-Vocab] fruits de mer.
+[FR-Vocab] le fruits de mer.
 <break time="1.5s"/>

@@ -1,24 +1,23 @@
 # Vocabulaire — vocab_maison_08
-# 패턴: FR → KO → FR
-# voices: Vocab=lisons-narrator
+# voices: Vocab=warm-mother
 
-[FR-Vocab] loyer.
+[FR-Vocab] le loyer.
 <break time="1.0s"/>
 [KO] 월세.
 <break time="1.0s"/>
-[FR-Vocab] loyer.
+[FR-Vocab] le loyer.
 <break time="1.5s"/>
 
 [FR-Vocab] propriétaire.
 <break time="1.0s"/>
-[KO] 집주인. 남녀 동일.
+[KO] 집주인.
 <break time="1.0s"/>
 [FR-Vocab] propriétaire.
 <break time="1.5s"/>
 
 [FR-Vocab] locataire.
 <break time="1.0s"/>
-[KO] 세입자. 남녀 동일.
+[KO] 세입자.
 <break time="1.0s"/>
 [FR-Vocab] locataire.
 <break time="1.5s"/>

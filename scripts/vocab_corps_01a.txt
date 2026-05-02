@@ -1,0 +1,58 @@
+# Vocabulaire — vocab_corps_01a / part a
+# voices: Vocab=warm-mother
+
+[FR-Vocab] le visage.
+<break time="1.0s"/>
+[KO] 얼굴.
+<break time="1.0s"/>
+[FR-Vocab] le visage.
+<break time="1.5s"/>
+
+[FR-Vocab] le cheveux.
+<break time="1.0s"/>
+[KO] 머리카락.
+<break time="1.0s"/>
+[FR-Vocab] le cheveux.
+<break time="1.5s"/>
+
+[FR-Vocab] le front.
+<break time="1.0s"/>
+[KO] 이마.
+<break time="1.0s"/>
+[FR-Vocab] le front.
+<break time="1.5s"/>
+
+[FR-Vocab] le sourcil.
+<break time="1.0s"/>
+[KO] 눈썹.
+<break time="1.0s"/>
+[FR-Vocab] le sourcil.
+<break time="1.5s"/>
+
+[FR-Vocab] l'œil.
+<break time="1.0s"/>
+[KO] 눈.
+<break time="1.0s"/>
+[FR-Vocab] l'œil.
+<break time="1.5s"/>
+
+[FR-Vocab] les yeux.
+<break time="1.0s"/>
+[KO] 눈.
+<break time="1.0s"/>
+[FR-Vocab] les yeux.
+<break time="1.5s"/>
+
+[FR-Vocab] le nez.
+<break time="1.0s"/>
+[KO] 코.
+<break time="1.0s"/>
+[FR-Vocab] le nez.
+<break time="1.5s"/>
+
+[FR-Vocab] l'oreille.
+<break time="1.0s"/>
+[KO] 귀.
+<break time="1.0s"/>
+[FR-Vocab] l'oreille.
+<break time="1.5s"/>

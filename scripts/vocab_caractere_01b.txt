@@ -1,58 +1,51 @@
-# Vocabulaire — Caractère / 1b
-# voices: Vocab=lisons-narrator
-
-[FR-Vocab] créatif.
-<break time="1.0s"/>
-[KO] 창의적인, 남성형.
-<break time="1.0s"/>
-[FR-Vocab] créatif.
-<break time="1.5s"/>
+# Vocabulaire — vocab_caractere_01b / part b
+# voices: Vocab=warm-mother
 
 [FR-Vocab] créative.
 <break time="1.0s"/>
-[KO] 창의적인, 여성형.
+[KO] 창의적인.
 <break time="1.0s"/>
 [FR-Vocab] créative.
 <break time="1.5s"/>
 
 [FR-Vocab] sociable.
 <break time="1.0s"/>
-[KO] 사교적인. 남녀 동일.
+[KO] 사교적인.
 <break time="1.0s"/>
 [FR-Vocab] sociable.
 <break time="1.5s"/>
 
 [FR-Vocab] travailleur.
 <break time="1.0s"/>
-[KO] 부지런한, 남성형.
+[KO] 부지런한.
 <break time="1.0s"/>
 [FR-Vocab] travailleur.
 <break time="1.5s"/>
 
 [FR-Vocab] travailleuse.
 <break time="1.0s"/>
-[KO] 부지런한, 여성형.
+[KO] 부지런한.
 <break time="1.0s"/>
 [FR-Vocab] travailleuse.
 <break time="1.5s"/>
 
 [FR-Vocab] généreux.
 <break time="1.0s"/>
-[KO] 관대한, 남성형.
+[KO] 관대한.
 <break time="1.0s"/>
 [FR-Vocab] généreux.
 <break time="1.5s"/>
 
 [FR-Vocab] généreuse.
 <break time="1.0s"/>
-[KO] 관대한, 여성형.
+[KO] 관대한.
 <break time="1.0s"/>
 [FR-Vocab] généreuse.
 <break time="1.5s"/>
 
 [FR-Vocab] drôle.
 <break time="1.0s"/>
-[KO] 재밌는. 남녀 동일.
+[KO] 재밌는.
 <break time="1.0s"/>
 [FR-Vocab] drôle.
 <break time="1.5s"/>

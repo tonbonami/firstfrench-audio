@@ -1,45 +1,44 @@
 # Vocabulaire — vocab_bureau_01
-# 패턴: FR → KO → FR
-# voices: Vocab=lisons-narrator
+# voices: Vocab=warm-mother
 
-[FR-Vocab] ordinateur.
+[FR-Vocab] l'ordinateur.
 <break time="1.0s"/>
-[KO] 컴퓨터
+[KO] 컴퓨터.
 <break time="1.0s"/>
-[FR-Vocab] ordinateur.
+[FR-Vocab] l'ordinateur.
 <break time="1.5s"/>
 
-[FR-Vocab] ordinateur portable.
+[FR-Vocab] l'ordinateur portable.
 <break time="1.0s"/>
-[KO] 노트북
+[KO] 노트북.
 <break time="1.0s"/>
-[FR-Vocab] ordinateur portable.
+[FR-Vocab] l'ordinateur portable.
 <break time="1.5s"/>
 
-[FR-Vocab] moniteur.
+[FR-Vocab] le moniteur.
 <break time="1.0s"/>
-[KO] 모니터
+[KO] 모니터.
 <break time="1.0s"/>
-[FR-Vocab] moniteur.
+[FR-Vocab] le moniteur.
 <break time="1.5s"/>
 
-[FR-Vocab] souris.
+[FR-Vocab] la souris.
 <break time="1.0s"/>
-[KO] 마우스
+[KO] 마우스.
 <break time="1.0s"/>
-[FR-Vocab] souris.
+[FR-Vocab] la souris.
 <break time="1.5s"/>
 
-[FR-Vocab] clavier.
+[FR-Vocab] le clavier.
 <break time="1.0s"/>
-[KO] 키보드
+[KO] 키보드.
 <break time="1.0s"/>
-[FR-Vocab] clavier.
+[FR-Vocab] le clavier.
 <break time="1.5s"/>
 
-[FR-Vocab] imprimante.
+[FR-Vocab] l'imprimante.
 <break time="1.0s"/>
-[KO] 프린터
+[KO] 프린터.
 <break time="1.0s"/>
-[FR-Vocab] imprimante.
+[FR-Vocab] l'imprimante.
 <break time="1.5s"/>

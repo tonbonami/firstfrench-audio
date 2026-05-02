@@ -1,45 +1,44 @@
 # Vocabulaire — vocab_bureau_03
-# 패턴: FR → KO → FR
-# voices: Vocab=lisons-narrator
+# voices: Vocab=warm-mother
 
-[FR-Vocab] bureau.
+[FR-Vocab] le bureau.
 <break time="1.0s"/>
-[KO] 책상·사무실
+[KO] 책상·사무실.
 <break time="1.0s"/>
-[FR-Vocab] bureau.
+[FR-Vocab] le bureau.
 <break time="1.5s"/>
 
-[FR-Vocab] chaise tournante.
+[FR-Vocab] la chaise tournante.
 <break time="1.0s"/>
-[KO] 회전의자
+[KO] 회전의자.
 <break time="1.0s"/>
-[FR-Vocab] chaise tournante.
+[FR-Vocab] la chaise tournante.
 <break time="1.5s"/>
 
-[FR-Vocab] tiroir.
+[FR-Vocab] le tiroir.
 <break time="1.0s"/>
-[KO] 서랍
+[KO] 서랍.
 <break time="1.0s"/>
-[FR-Vocab] tiroir.
+[FR-Vocab] le tiroir.
 <break time="1.5s"/>
 
-[FR-Vocab] carte de visite.
+[FR-Vocab] la carte de visite.
 <break time="1.0s"/>
-[KO] 명함
+[KO] 명함.
 <break time="1.0s"/>
-[FR-Vocab] carte de visite.
+[FR-Vocab] la carte de visite.
 <break time="1.5s"/>
 
-[FR-Vocab] document.
+[FR-Vocab] le document.
 <break time="1.0s"/>
-[KO] 문서
+[KO] 문서.
 <break time="1.0s"/>
-[FR-Vocab] document.
+[FR-Vocab] le document.
 <break time="1.5s"/>
 
-[FR-Vocab] dossier.
+[FR-Vocab] le dossier.
 <break time="1.0s"/>
-[KO] 서류·폴더
+[KO] 서류·폴더.
 <break time="1.0s"/>
-[FR-Vocab] dossier.
+[FR-Vocab] le dossier.
 <break time="1.5s"/>

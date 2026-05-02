@@ -1,45 +1,44 @@
 # Vocabulaire — vocab_nature_02
-# 패턴: FR → KO → FR
-# voices: Vocab=lisons-narrator
+# voices: Vocab=warm-mother
 
-[FR-Vocab] rivière.
+[FR-Vocab] la rivière.
 <break time="1.0s"/>
-[KO] 강
+[KO] 강 (내륙).
 <break time="1.0s"/>
-[FR-Vocab] rivière.
+[FR-Vocab] la rivière.
 <break time="1.5s"/>
 
-[FR-Vocab] fleuve.
+[FR-Vocab] le fleuve.
 <break time="1.0s"/>
-[KO] 강
+[KO] 강 (바다로).
 <break time="1.0s"/>
-[FR-Vocab] fleuve.
+[FR-Vocab] le fleuve.
 <break time="1.5s"/>
 
-[FR-Vocab] lac.
+[FR-Vocab] le lac.
 <break time="1.0s"/>
-[KO] 호수
+[KO] 호수.
 <break time="1.0s"/>
-[FR-Vocab] lac.
+[FR-Vocab] le lac.
 <break time="1.5s"/>
 
-[FR-Vocab] océan.
+[FR-Vocab] l'océan.
 <break time="1.0s"/>
-[KO] 대양
+[KO] 대양.
 <break time="1.0s"/>
-[FR-Vocab] océan.
+[FR-Vocab] l'océan.
 <break time="1.5s"/>
 
 [FR-Vocab] mer.
 <break time="1.0s"/>
-[KO] 바다
+[KO] 바다.
 <break time="1.0s"/>
 [FR-Vocab] mer.
 <break time="1.5s"/>
 
-[FR-Vocab] cascade.
+[FR-Vocab] la cascade.
 <break time="1.0s"/>
-[KO] 폭포
+[KO] 폭포.
 <break time="1.0s"/>
-[FR-Vocab] cascade.
+[FR-Vocab] la cascade.
 <break time="1.5s"/>

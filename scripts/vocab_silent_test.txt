@@ -1,0 +1,33 @@
+# 묵음 자음 처리 테스트 — 4가지 옵션 비교
+# voices: Vocab=lisons-narrator
+
+# 옵션 A: 현재 방식 (단어 + 마침표)
+[FR-Vocab] pied.
+<break time="1.0s"/>
+[FR-Vocab] doigt.
+<break time="1.0s"/>
+[FR-Vocab] orteil.
+<break time="2.0s"/>
+
+# 옵션 B: 관사 + 단어 (le pied, le doigt, un orteil)
+[FR-Vocab] le pied.
+<break time="1.0s"/>
+[FR-Vocab] le doigt.
+<break time="1.0s"/>
+[FR-Vocab] un orteil.
+<break time="2.0s"/>
+
+# 옵션 C: phonetic spelling (TTS에 알려주는 식 — 학생 화면엔 안 보임)
+[FR-Vocab] pyé.
+<break time="1.0s"/>
+[FR-Vocab] dwa.
+<break time="1.0s"/>
+[FR-Vocab] orteille.
+<break time="2.0s"/>
+
+# 옵션 D: 짧은 문장으로 감싸기
+[FR-Vocab] C'est un pied.
+<break time="1.0s"/>
+[FR-Vocab] C'est un doigt.
+<break time="1.0s"/>
+[FR-Vocab] C'est un orteil.

@@ -1,45 +1,44 @@
 # Vocabulaire — vocab_sante_03b / part b
-# 패턴: FR → KO → FR
-# voices: Vocab=lisons-narrator
+# voices: Vocab=warm-mother
 
-[FR-Vocab] sirop.
+[FR-Vocab] le sirop.
 <break time="1.0s"/>
-[KO] 시럽
+[KO] 시럽.
 <break time="1.0s"/>
-[FR-Vocab] sirop.
+[FR-Vocab] le sirop.
 <break time="1.5s"/>
 
-[FR-Vocab] pommade.
+[FR-Vocab] la pommade.
 <break time="1.0s"/>
-[KO] 연고
+[KO] 연고.
 <break time="1.0s"/>
-[FR-Vocab] pommade.
+[FR-Vocab] la pommade.
 <break time="1.5s"/>
 
-[FR-Vocab] consultation.
+[FR-Vocab] la consultation.
 <break time="1.0s"/>
-[KO] 진료
+[KO] 진료.
 <break time="1.0s"/>
-[FR-Vocab] consultation.
+[FR-Vocab] la consultation.
 <break time="1.5s"/>
 
-[FR-Vocab] rendez-vous.
+[FR-Vocab] le rendez-vous.
 <break time="1.0s"/>
-[KO] 예약
+[KO] 예약.
 <break time="1.0s"/>
-[FR-Vocab] rendez-vous.
+[FR-Vocab] le rendez-vous.
 <break time="1.5s"/>
 
-[FR-Vocab] salle d'attente.
+[FR-Vocab] la salle d'attente.
 <break time="1.0s"/>
-[KO] 대기실
+[KO] 대기실.
 <break time="1.0s"/>
-[FR-Vocab] salle d'attente.
+[FR-Vocab] la salle d'attente.
 <break time="1.5s"/>
 
-[FR-Vocab] assurance maladie.
+[FR-Vocab] l'assurance maladie.
 <break time="1.0s"/>
-[KO] 건강보험
+[KO] 건강보험.
 <break time="1.0s"/>
-[FR-Vocab] assurance maladie.
+[FR-Vocab] l'assurance maladie.
 <break time="1.5s"/>

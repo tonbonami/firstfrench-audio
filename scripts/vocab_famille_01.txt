@@ -1,59 +1,58 @@
-# Vocabulaire — La famille (가족) / 섹션 1: 직계 가족
-# 패턴: FR → KO → FR
-# voices: Vocab=lisons-narrator
+# Vocabulaire — vocab_famille_01
+# voices: Vocab=warm-mother
 
-[FR-Vocab] famille.
+[FR-Vocab] la famille.
 <break time="1.0s"/>
 [KO] 가족.
 <break time="1.0s"/>
-[FR-Vocab] famille.
+[FR-Vocab] la famille.
 <break time="1.5s"/>
 
-[FR-Vocab] parents.
+[FR-Vocab] le parents.
 <break time="1.0s"/>
-[KO] 부모님, 복수형.
+[KO] 부모님.
 <break time="1.0s"/>
-[FR-Vocab] parents.
+[FR-Vocab] le parents.
 <break time="1.5s"/>
 
-[FR-Vocab] père.
+[FR-Vocab] le père.
 <break time="1.0s"/>
 [KO] 아버지.
 <break time="1.0s"/>
-[FR-Vocab] père.
+[FR-Vocab] le père.
 <break time="1.5s"/>
 
-[FR-Vocab] mère.
+[FR-Vocab] la mère.
 <break time="1.0s"/>
 [KO] 어머니.
 <break time="1.0s"/>
-[FR-Vocab] mère.
+[FR-Vocab] la mère.
 <break time="1.5s"/>
 
-[FR-Vocab] fils.
+[FR-Vocab] le fils.
 <break time="1.0s"/>
 [KO] 아들.
 <break time="1.0s"/>
-[FR-Vocab] fils.
+[FR-Vocab] le fils.
 <break time="1.5s"/>
 
-[FR-Vocab] fille.
+[FR-Vocab] la fille.
 <break time="1.0s"/>
 [KO] 딸.
 <break time="1.0s"/>
-[FR-Vocab] fille.
+[FR-Vocab] la fille.
 <break time="1.5s"/>
 
-[FR-Vocab] frère.
+[FR-Vocab] le frère.
 <break time="1.0s"/>
-[KO] 형제, 오빠나 남동생.
+[KO] 형제·오빠·남동생.
 <break time="1.0s"/>
-[FR-Vocab] frère.
+[FR-Vocab] le frère.
 <break time="1.5s"/>
 
-[FR-Vocab] sœur.
+[FR-Vocab] la sœur.
 <break time="1.0s"/>
-[KO] 자매, 언니나 여동생.
+[KO] 자매·언니·여동생.
 <break time="1.0s"/>
-[FR-Vocab] sœur.
+[FR-Vocab] la sœur.
 <break time="1.5s"/>

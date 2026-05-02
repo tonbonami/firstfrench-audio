@@ -1,45 +1,44 @@
 # Vocabulaire — vocab_cuisine_03b / part b
-# 패턴: FR → KO → FR
-# voices: Vocab=lisons-narrator
+# voices: Vocab=warm-mother
 
-[FR-Vocab] œufs.
+[FR-Vocab] l'œufs.
 <break time="1.0s"/>
-[KO] 달걀, 복수형.
+[KO] 달걀.
 <break time="1.0s"/>
-[FR-Vocab] œufs.
+[FR-Vocab] l'œufs.
 <break time="1.5s"/>
 
-[FR-Vocab] lait.
+[FR-Vocab] le lait.
 <break time="1.0s"/>
 [KO] 우유.
 <break time="1.0s"/>
-[FR-Vocab] lait.
+[FR-Vocab] le lait.
 <break time="1.5s"/>
 
-[FR-Vocab] crème.
+[FR-Vocab] la crème.
 <break time="1.0s"/>
 [KO] 크림.
 <break time="1.0s"/>
-[FR-Vocab] crème.
+[FR-Vocab] la crème.
 <break time="1.5s"/>
 
-[FR-Vocab] ail.
+[FR-Vocab] l'ail.
 <break time="1.0s"/>
 [KO] 마늘.
 <break time="1.0s"/>
-[FR-Vocab] ail.
+[FR-Vocab] l'ail.
 <break time="1.5s"/>
 
-[FR-Vocab] oignon.
+[FR-Vocab] l'oignon.
 <break time="1.0s"/>
 [KO] 양파.
 <break time="1.0s"/>
-[FR-Vocab] oignon.
+[FR-Vocab] l'oignon.
 <break time="1.5s"/>
 
-[FR-Vocab] herbes.
+[FR-Vocab] l'herbes.
 <break time="1.0s"/>
-[KO] 허브, 복수형.
+[KO] 허브.
 <break time="1.0s"/>
-[FR-Vocab] herbes.
+[FR-Vocab] l'herbes.
 <break time="1.5s"/>

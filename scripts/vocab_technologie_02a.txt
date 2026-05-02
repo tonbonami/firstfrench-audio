@@ -1,52 +1,51 @@
 # Vocabulaire — vocab_technologie_02a / part a
-# 패턴: FR → KO → FR
-# voices: Vocab=lisons-narrator
+# voices: Vocab=warm-mother
 
-[FR-Vocab] Internet.
+[FR-Vocab] l'Internet.
 <break time="1.0s"/>
-[KO] 인터넷
+[KO] 인터넷.
 <break time="1.0s"/>
-[FR-Vocab] Internet.
+[FR-Vocab] l'Internet.
 <break time="1.5s"/>
 
-[FR-Vocab] réseau.
+[FR-Vocab] le réseau.
 <break time="1.0s"/>
-[KO] 네트워크
+[KO] 네트워크.
 <break time="1.0s"/>
-[FR-Vocab] réseau.
+[FR-Vocab] le réseau.
 <break time="1.5s"/>
 
-[FR-Vocab] Wi-Fi.
+[FR-Vocab] le Wi-Fi.
 <break time="1.0s"/>
-[KO] 와이파이
+[KO] 와이파이.
 <break time="1.0s"/>
-[FR-Vocab] Wi-Fi.
+[FR-Vocab] le Wi-Fi.
 <break time="1.5s"/>
 
-[FR-Vocab] site web.
+[FR-Vocab] le site web.
 <break time="1.0s"/>
-[KO] 웹사이트
+[KO] 웹사이트.
 <break time="1.0s"/>
-[FR-Vocab] site web.
+[FR-Vocab] le site web.
 <break time="1.5s"/>
 
-[FR-Vocab] application.
+[FR-Vocab] l'application.
 <break time="1.0s"/>
-[KO] 앱
+[KO] 앱.
 <break time="1.0s"/>
-[FR-Vocab] application.
+[FR-Vocab] l'application.
 <break time="1.5s"/>
 
-[FR-Vocab] mot de passe.
+[FR-Vocab] le mot de passe.
 <break time="1.0s"/>
-[KO] 비밀번호
+[KO] 비밀번호.
 <break time="1.0s"/>
-[FR-Vocab] mot de passe.
+[FR-Vocab] le mot de passe.
 <break time="1.5s"/>
 
-[FR-Vocab] compte.
+[FR-Vocab] le compte.
 <break time="1.0s"/>
-[KO] 계정
+[KO] 계정.
 <break time="1.0s"/>
-[FR-Vocab] compte.
+[FR-Vocab] le compte.
 <break time="1.5s"/>

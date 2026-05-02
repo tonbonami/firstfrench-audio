@@ -1,45 +1,44 @@
-# Vocabulaire — Profession (직업) / 섹션 1: 의료·법률
-# 패턴: FR → KO → FR
-# voices: Vocab=lisons-narrator
+# Vocabulaire — vocab_profession_01
+# voices: Vocab=warm-mother
 
-[FR-Vocab] médecin.
+[FR-Vocab] le médecin.
 <break time="1.0s"/>
-[KO] 의사. 남녀 동일.
+[KO] 의사.
 <break time="1.0s"/>
-[FR-Vocab] médecin.
+[FR-Vocab] le médecin.
 <break time="1.5s"/>
 
 [FR-Vocab] dentiste.
 <break time="1.0s"/>
-[KO] 치과의사. 남녀 동일.
+[KO] 치과의사.
 <break time="1.0s"/>
 [FR-Vocab] dentiste.
 <break time="1.5s"/>
 
-[FR-Vocab] infirmier.
+[FR-Vocab] l'infirmier.
 <break time="1.0s"/>
-[KO] 간호사, 남성형.
+[KO] 간호사.
 <break time="1.0s"/>
-[FR-Vocab] infirmier.
+[FR-Vocab] l'infirmier.
 <break time="1.5s"/>
 
-[FR-Vocab] infirmière.
+[FR-Vocab] l'infirmière.
 <break time="1.0s"/>
-[KO] 간호사, 여성형.
+[KO] 간호사.
 <break time="1.0s"/>
-[FR-Vocab] infirmière.
+[FR-Vocab] l'infirmière.
 <break time="1.5s"/>
 
-[FR-Vocab] avocat.
+[FR-Vocab] l'avocat.
 <break time="1.0s"/>
-[KO] 변호사, 남성형.
+[KO] 변호사.
 <break time="1.0s"/>
-[FR-Vocab] avocat.
+[FR-Vocab] l'avocat.
 <break time="1.5s"/>
 
-[FR-Vocab] avocate.
+[FR-Vocab] l'avocate.
 <break time="1.0s"/>
-[KO] 변호사, 여성형.
+[KO] 변호사.
 <break time="1.0s"/>
-[FR-Vocab] avocate.
+[FR-Vocab] l'avocate.
 <break time="1.5s"/>
