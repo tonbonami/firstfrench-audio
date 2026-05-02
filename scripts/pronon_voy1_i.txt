@@ -1,8 +1,4 @@
-# 프랑스어 모음 정리 ① — i [이]
-
-# i [이]
-[KO] i [이].
-<break time="1.0s"/>
+# 모음 i — FR-KO-FR (인트로 없음)
 
 [FR] ici.
 <break time="0.7s"/>
