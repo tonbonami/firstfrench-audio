@@ -1,10 +1,10 @@
-# 모음 ① — u (warm-mother + multilingual_v2 + 관사 포함)
+# 모음 ① — u (문제 단어 교체)
 
-[FR] utile.
+[FR] la lune.
 <break time="0.7s"/>
-[KO] 유익한.
+[KO] 달.
 <break time="0.5s"/>
-[FR] utile.
+[FR] la lune.
 <break time="1.5s"/>
 
 [FR] le futur.

@@ -1,4 +1,11 @@
-# 모음 ① — i (모음 시작 명사는 관사 제거)
+# 모음 ① — i (문제 단어 교체)
+
+[FR] il.
+<break time="0.7s"/>
+[KO] 그.
+<break time="0.5s"/>
+[FR] il.
+<break time="1.5s"/>
 
 [FR] ici.
 <break time="0.7s"/>
@@ -7,17 +14,10 @@
 [FR] ici.
 <break time="1.5s"/>
 
-[FR] île.
+[FR] le lit.
 <break time="0.7s"/>
-[KO] 섬.
+[KO] 침대.
 <break time="0.5s"/>
-[FR] île.
-<break time="1.5s"/>
-
-[FR] il.
-<break time="0.7s"/>
-[KO] 그.
-<break time="0.5s"/>
-[FR] il.
+[FR] le lit.
 <break time="1.5s"/>
 

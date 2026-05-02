@@ -1,4 +1,4 @@
-# 모음 ① — il, ill (모음 시작 명사는 관사 제거)
+# 모음 ① — il, ill (문제 단어 교체)
 
 [FR] le travail.
 <break time="0.7s"/>
@@ -56,10 +56,10 @@
 [FR] tranquille.
 <break time="1.5s"/>
 
-[FR] mille.
+[FR] ville.
 <break time="0.7s"/>
-[KO] 숫자 천.
+[KO] 도시.
 <break time="0.5s"/>
-[FR] mille.
+[FR] ville.
 <break time="1.5s"/>
 
