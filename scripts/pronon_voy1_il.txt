@@ -1,4 +1,4 @@
-# 모음 ① — il/ill (fille은 phoneme + 관사로 fij 발음 보정)
+# 모음 ① — il/ill (fille은 관사만, feuille KO=잎사귀)
 
 [FR] travail.
 <break time="0.7s"/>
@@ -21,16 +21,16 @@
 [FR] soleil.
 <break time="1.5s"/>
 
-[FR] la <phoneme alphabet="ipa" ph="fij">fille</phoneme>.
+[FR] la fille.
 <break time="0.7s"/>
 [KO] 딸.
 <break time="0.5s"/>
-[FR] la <phoneme alphabet="ipa" ph="fij">fille</phoneme>.
+[FR] la fille.
 <break time="1.5s"/>
 
 [FR] feuille.
 <break time="0.7s"/>
-[KO] 잎.
+[KO] 잎사귀.
 <break time="0.5s"/>
 [FR] feuille.
 <break time="1.5s"/>
