@@ -1,0 +1,26 @@
+# Grammaire 2 — 1군 동사 / parler 활용 paradigm
+# voices: Vocab=warm-mother
+
+[FR-Vocab] parler.
+<break time="1.0s"/>
+[KO] 말하다.
+<break time="1.0s"/>
+[FR-Vocab] parler.
+<break time="1.5s"/>
+
+[FR-Vocab] je parle.
+<break time="0.8s"/>
+[FR-Vocab] tu parles.
+<break time="0.8s"/>
+[FR-Vocab] il parle.
+<break time="0.8s"/>
+[FR-Vocab] nous parlons.
+<break time="0.8s"/>
+[FR-Vocab] vous parlez.
+<break time="0.8s"/>
+[FR-Vocab] ils parlent.
+<break time="1.5s"/>
+
+[KO] parler 현재형 활용.
+<break time="1.0s"/>
+[FR-Vocab] je parle, tu parles, il parle, nous parlons, vous parlez, ils parlent.

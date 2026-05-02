@@ -1,0 +1,86 @@
+# Grammaire 2 — 1군 동사 / 자주 쓰는 -er 동사 12개
+# voices: Vocab=warm-mother
+
+[FR-Vocab] parler.
+<break time="1.0s"/>
+[KO] 말하다.
+<break time="1.0s"/>
+[FR-Vocab] parler.
+<break time="1.5s"/>
+
+[FR-Vocab] aimer.
+<break time="1.0s"/>
+[KO] 좋아하다, 사랑하다.
+<break time="1.0s"/>
+[FR-Vocab] aimer.
+<break time="1.5s"/>
+
+[FR-Vocab] habiter.
+<break time="1.0s"/>
+[KO] 살다, 거주하다.
+<break time="1.0s"/>
+[FR-Vocab] habiter.
+<break time="1.5s"/>
+
+[FR-Vocab] écouter.
+<break time="1.0s"/>
+[KO] 듣다.
+<break time="1.0s"/>
+[FR-Vocab] écouter.
+<break time="1.5s"/>
+
+[FR-Vocab] travailler.
+<break time="1.0s"/>
+[KO] 일하다.
+<break time="1.0s"/>
+[FR-Vocab] travailler.
+<break time="1.5s"/>
+
+[FR-Vocab] regarder.
+<break time="1.0s"/>
+[KO] 보다.
+<break time="1.0s"/>
+[FR-Vocab] regarder.
+<break time="1.5s"/>
+
+[FR-Vocab] chanter.
+<break time="1.0s"/>
+[KO] 노래하다.
+<break time="1.0s"/>
+[FR-Vocab] chanter.
+<break time="1.5s"/>
+
+[FR-Vocab] manger.
+<break time="1.0s"/>
+[KO] 먹다.
+<break time="1.0s"/>
+[FR-Vocab] manger.
+<break time="1.5s"/>
+
+[FR-Vocab] arriver.
+<break time="1.0s"/>
+[KO] 도착하다.
+<break time="1.0s"/>
+[FR-Vocab] arriver.
+<break time="1.5s"/>
+
+[FR-Vocab] chercher.
+<break time="1.0s"/>
+[KO] 찾다.
+<break time="1.0s"/>
+[FR-Vocab] chercher.
+<break time="1.5s"/>
+
+[FR-Vocab] étudier.
+<break time="1.0s"/>
+[KO] 공부하다.
+<break time="1.0s"/>
+[FR-Vocab] étudier.
+<break time="1.5s"/>
+
+[FR-Vocab] trouver.
+<break time="1.0s"/>
+[KO] 발견하다.
+<break time="1.0s"/>
+[FR-Vocab] trouver.
+<break time="1.5s"/>
