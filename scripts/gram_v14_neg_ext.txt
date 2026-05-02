@@ -1,0 +1,44 @@
+# Grammaire 2 — 부정문 확장 표현
+# voices: Vocab=warm-mother
+
+[FR-Vocab] Il n'attend personne.
+<break time="1.0s"/>
+[KO] 그는 아무도 기다리지 않는다.
+<break time="1.0s"/>
+[FR-Vocab] Il n'attend personne.
+<break time="1.5s"/>
+
+[FR-Vocab] Elle ne répond rien.
+<break time="1.0s"/>
+[KO] 그녀는 아무것도 대답하지 않는다.
+<break time="1.0s"/>
+[FR-Vocab] Elle ne répond rien.
+<break time="1.5s"/>
+
+[FR-Vocab] Je ne voyage jamais en hiver.
+<break time="1.0s"/>
+[KO] 나는 겨울에 절대 여행하지 않는다.
+<break time="1.0s"/>
+[FR-Vocab] Je ne voyage jamais en hiver.
+<break time="1.5s"/>
+
+[FR-Vocab] Il n'a plus de patience.
+<break time="1.0s"/>
+[KO] 그는 더 이상 인내가 없다.
+<break time="1.0s"/>
+[FR-Vocab] Il n'a plus de patience.
+<break time="1.5s"/>
+
+[FR-Vocab] Je ne parle que français.
+<break time="1.0s"/>
+[KO] 나는 프랑스어만 한다.
+<break time="1.0s"/>
+[FR-Vocab] Je ne parle que français.
+<break time="1.5s"/>
+
+[FR-Vocab] Je ne parle ni espagnol ni italien.
+<break time="1.0s"/>
+[KO] 나는 스페인어도 이탈리아어도 못한다.
+<break time="1.0s"/>
+[FR-Vocab] Je ne parle ni espagnol ni italien.
+<break time="1.5s"/>

@@ -1,0 +1,58 @@
+# Grammaire 4 — 시제 / 복합과거 (passé composé)
+# voices: Vocab=warm-mother
+
+[FR-Vocab] J'ai mangé.
+<break time="1.0s"/>
+[KO] 나는 먹었다.
+<break time="1.0s"/>
+[FR-Vocab] J'ai mangé.
+<break time="1.5s"/>
+
+[FR-Vocab] Tu as fini.
+<break time="1.0s"/>
+[KO] 너는 끝냈다.
+<break time="1.0s"/>
+[FR-Vocab] Tu as fini.
+<break time="1.5s"/>
+
+[FR-Vocab] Il a pris le bus.
+<break time="1.0s"/>
+[KO] 그는 버스를 탔다.
+<break time="1.0s"/>
+[FR-Vocab] Il a pris le bus.
+<break time="1.5s"/>
+
+[FR-Vocab] Nous avons fait.
+<break time="1.0s"/>
+[KO] 우리는 했다.
+<break time="1.0s"/>
+[FR-Vocab] Nous avons fait.
+<break time="1.5s"/>
+
+[FR-Vocab] Elle est allée à Paris.
+<break time="1.0s"/>
+[KO] 그녀는 파리에 갔다.
+<break time="1.0s"/>
+[FR-Vocab] Elle est allée à Paris.
+<break time="1.5s"/>
+
+[FR-Vocab] Nous sommes arrivés.
+<break time="1.0s"/>
+[KO] 우리는 도착했다.
+<break time="1.0s"/>
+[FR-Vocab] Nous sommes arrivés.
+<break time="1.5s"/>
+
+[FR-Vocab] Je n'ai pas mangé.
+<break time="1.0s"/>
+[KO] 나는 먹지 않았다.
+<break time="1.0s"/>
+[FR-Vocab] Je n'ai pas mangé.
+<break time="1.5s"/>
+
+[FR-Vocab] Elle n'est pas allée.
+<break time="1.0s"/>
+[KO] 그녀는 가지 않았다.
+<break time="1.0s"/>
+[FR-Vocab] Elle n'est pas allée.
+<break time="1.5s"/>

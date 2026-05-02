@@ -1,0 +1,44 @@
+# Grammaire 2 — 부정문 + 의문문 변환
+# voices: Vocab=warm-mother
+
+[FR-Vocab] Il ne vient pas ici.
+<break time="1.0s"/>
+[KO] 그는 여기로 오지 않는다.
+<break time="1.0s"/>
+[FR-Vocab] Il ne vient pas ici.
+<break time="1.5s"/>
+
+[FR-Vocab] Vous ne dormez pas ici ?
+<break time="1.0s"/>
+[KO] 여기서 안 자요?
+<break time="1.0s"/>
+[FR-Vocab] Vous ne dormez pas ici ?
+<break time="1.5s"/>
+
+[FR-Vocab] Est-ce qu'il ne vient pas ici ?
+<break time="1.0s"/>
+[KO] 그는 여기로 안 와요?
+<break time="1.0s"/>
+[FR-Vocab] Est-ce qu'il ne vient pas ici ?
+<break time="1.5s"/>
+
+[FR-Vocab] Ne vient-il pas ?
+<break time="1.0s"/>
+[KO] 그는 안 와?
+<break time="1.0s"/>
+[FR-Vocab] Ne vient-il pas ?
+<break time="1.5s"/>
+
+[FR-Vocab] N'arrive-t-il pas ?
+<break time="1.0s"/>
+[KO] 그가 도착 안 해?
+<break time="1.0s"/>
+[FR-Vocab] N'arrive-t-il pas ?
+<break time="1.5s"/>
+
+[FR-Vocab] Si, je viens.
+<break time="1.0s"/>
+[KO] 응, 가요. 부정 질문 긍정 대답.
+<break time="1.0s"/>
+[FR-Vocab] Si, je viens.
+<break time="1.5s"/>

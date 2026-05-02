@@ -1,0 +1,44 @@
+# Grammaire 2 — 부분관사
+# voices: Vocab=warm-mother
+
+[FR-Vocab] Je mange du pain.
+<break time="1.0s"/>
+[KO] 나는 빵을 먹는다.
+<break time="1.0s"/>
+[FR-Vocab] Je mange du pain.
+<break time="1.5s"/>
+
+[FR-Vocab] Je bois du café.
+<break time="1.0s"/>
+[KO] 나는 커피를 마신다.
+<break time="1.0s"/>
+[FR-Vocab] Je bois du café.
+<break time="1.5s"/>
+
+[FR-Vocab] Elle a de la patience.
+<break time="1.0s"/>
+[KO] 그녀는 인내심이 있다.
+<break time="1.0s"/>
+[FR-Vocab] Elle a de la patience.
+<break time="1.5s"/>
+
+[FR-Vocab] Je mange de la viande.
+<break time="1.0s"/>
+[KO] 나는 고기를 먹는다.
+<break time="1.0s"/>
+[FR-Vocab] Je mange de la viande.
+<break time="1.5s"/>
+
+[FR-Vocab] Je bois de l'eau.
+<break time="1.0s"/>
+[KO] 나는 물을 마신다.
+<break time="1.0s"/>
+[FR-Vocab] Je bois de l'eau.
+<break time="1.5s"/>
+
+[FR-Vocab] Elle achète des légumes.
+<break time="1.0s"/>
+[KO] 그녀는 채소를 산다.
+<break time="1.0s"/>
+[FR-Vocab] Elle achète des légumes.
+<break time="1.5s"/>

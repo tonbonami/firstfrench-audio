@@ -1,0 +1,51 @@
+# Grammaire 2 — 부정문에서 부분관사
+# voices: Vocab=warm-mother
+
+[FR-Vocab] J'ai un chat.
+<break time="1.0s"/>
+[KO] 나는 고양이가 있다.
+<break time="1.0s"/>
+[FR-Vocab] J'ai un chat.
+<break time="1.5s"/>
+
+[FR-Vocab] Je n'ai pas de chat.
+<break time="1.0s"/>
+[KO] 나는 고양이가 없다.
+<break time="1.0s"/>
+[FR-Vocab] Je n'ai pas de chat.
+<break time="1.5s"/>
+
+[FR-Vocab] Je bois du café.
+<break time="1.0s"/>
+[KO] 나는 커피를 마신다.
+<break time="1.0s"/>
+[FR-Vocab] Je bois du café.
+<break time="1.5s"/>
+
+[FR-Vocab] Je ne bois pas de café.
+<break time="1.0s"/>
+[KO] 나는 커피를 마시지 않는다.
+<break time="1.0s"/>
+[FR-Vocab] Je ne bois pas de café.
+<break time="1.5s"/>
+
+[FR-Vocab] Je n'ai pas d'argent.
+<break time="1.0s"/>
+[KO] 나는 돈이 없다.
+<break time="1.0s"/>
+[FR-Vocab] Je n'ai pas d'argent.
+<break time="1.5s"/>
+
+[FR-Vocab] Je ne mange jamais de viande.
+<break time="1.0s"/>
+[KO] 나는 절대 고기를 먹지 않는다.
+<break time="1.0s"/>
+[FR-Vocab] Je ne mange jamais de viande.
+<break time="1.5s"/>
+
+[FR-Vocab] Ce n'est pas un médecin.
+<break time="1.0s"/>
+[KO] 그는 의사가 아니다, être는 예외.
+<break time="1.0s"/>
+[FR-Vocab] Ce n'est pas un médecin.
+<break time="1.5s"/>

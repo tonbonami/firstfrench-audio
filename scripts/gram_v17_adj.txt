@@ -1,0 +1,72 @@
+# Grammaire 2 — 형용사
+# voices: Vocab=warm-mother
+
+[FR-Vocab] du café noir.
+<break time="1.0s"/>
+[KO] 블랙커피.
+<break time="1.0s"/>
+[FR-Vocab] du café noir.
+<break time="1.5s"/>
+
+[FR-Vocab] une belle maison.
+<break time="1.0s"/>
+[KO] 아름다운 집.
+<break time="1.0s"/>
+[FR-Vocab] une belle maison.
+<break time="1.5s"/>
+
+[FR-Vocab] un petit café.
+<break time="1.0s"/>
+[KO] 작은 카페.
+<break time="1.0s"/>
+[FR-Vocab] un petit café.
+<break time="1.5s"/>
+
+[FR-Vocab] un grand homme.
+<break time="1.0s"/>
+[KO] 큰 사람.
+<break time="1.0s"/>
+[FR-Vocab] un grand homme.
+<break time="1.5s"/>
+
+[FR-Vocab] une grande maison.
+<break time="1.0s"/>
+[KO] 큰 집.
+<break time="1.0s"/>
+[FR-Vocab] une grande maison.
+<break time="1.5s"/>
+
+[FR-Vocab] un bon café.
+<break time="1.0s"/>
+[KO] 좋은 커피.
+<break time="1.0s"/>
+[FR-Vocab] un bon café.
+<break time="1.5s"/>
+
+[FR-Vocab] une bonne idée.
+<break time="1.0s"/>
+[KO] 좋은 생각.
+<break time="1.0s"/>
+[FR-Vocab] une bonne idée.
+<break time="1.5s"/>
+
+[FR-Vocab] un bel homme.
+<break time="1.0s"/>
+[KO] 잘생긴 남자, 모음 앞 bel.
+<break time="1.0s"/>
+[FR-Vocab] un bel homme.
+<break time="1.5s"/>
+
+[FR-Vocab] un nouvel ami.
+<break time="1.0s"/>
+[KO] 새 친구.
+<break time="1.0s"/>
+[FR-Vocab] un nouvel ami.
+<break time="1.5s"/>
+
+[FR-Vocab] un vieil ami.
+<break time="1.0s"/>
+[KO] 오랜 친구.
+<break time="1.0s"/>
+[FR-Vocab] un vieil ami.
+<break time="1.5s"/>

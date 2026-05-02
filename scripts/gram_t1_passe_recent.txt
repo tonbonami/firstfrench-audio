@@ -1,0 +1,44 @@
+# Grammaire 4 — 시제 / 근접과거 (venir de + inf.)
+# voices: Vocab=warm-mother
+
+[FR-Vocab] Je viens de manger.
+<break time="1.0s"/>
+[KO] 나는 방금 먹었다.
+<break time="1.0s"/>
+[FR-Vocab] Je viens de manger.
+<break time="1.5s"/>
+
+[FR-Vocab] Il vient d'arriver.
+<break time="1.0s"/>
+[KO] 그는 막 도착했다.
+<break time="1.0s"/>
+[FR-Vocab] Il vient d'arriver.
+<break time="1.5s"/>
+
+[FR-Vocab] Nous venons de finir.
+<break time="1.0s"/>
+[KO] 우리는 막 끝냈다.
+<break time="1.0s"/>
+[FR-Vocab] Nous venons de finir.
+<break time="1.5s"/>
+
+[FR-Vocab] Vous venez d'appeler.
+<break time="1.0s"/>
+[KO] 당신은 방금 전화했다.
+<break time="1.0s"/>
+[FR-Vocab] Vous venez d'appeler.
+<break time="1.5s"/>
+
+[FR-Vocab] Le match vient de commencer.
+<break time="1.0s"/>
+[KO] 경기가 막 시작됐다.
+<break time="1.0s"/>
+[FR-Vocab] Le match vient de commencer.
+<break time="1.5s"/>
+
+[FR-Vocab] Je ne viens pas de manger.
+<break time="1.0s"/>
+[KO] 나는 방금 먹은 것이 아니다.
+<break time="1.0s"/>
+[FR-Vocab] Je ne viens pas de manger.
+<break time="1.5s"/>

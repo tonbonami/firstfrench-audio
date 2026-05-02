@@ -1,0 +1,51 @@
+# Grammaire 4 — 시제 / 근접미래 (futur proche)
+# voices: Vocab=warm-mother
+
+[FR-Vocab] Je vais manger.
+<break time="1.0s"/>
+[KO] 나는 먹을 거야.
+<break time="1.0s"/>
+[FR-Vocab] Je vais manger.
+<break time="1.5s"/>
+
+[FR-Vocab] Tu vas partir.
+<break time="1.0s"/>
+[KO] 너는 떠날 거야.
+<break time="1.0s"/>
+[FR-Vocab] Tu vas partir.
+<break time="1.5s"/>
+
+[FR-Vocab] Il va pleuvoir.
+<break time="1.0s"/>
+[KO] 비가 올 거야.
+<break time="1.0s"/>
+[FR-Vocab] Il va pleuvoir.
+<break time="1.5s"/>
+
+[FR-Vocab] Nous allons acheter une voiture.
+<break time="1.0s"/>
+[KO] 우리는 차를 살 거야.
+<break time="1.0s"/>
+[FR-Vocab] Nous allons acheter une voiture.
+<break time="1.5s"/>
+
+[FR-Vocab] Vous allez comprendre.
+<break time="1.0s"/>
+[KO] 당신은 이해할 거야.
+<break time="1.0s"/>
+[FR-Vocab] Vous allez comprendre.
+<break time="1.5s"/>
+
+[FR-Vocab] Ils vont arriver.
+<break time="1.0s"/>
+[KO] 그들은 도착할 거야.
+<break time="1.0s"/>
+[FR-Vocab] Ils vont arriver.
+<break time="1.5s"/>
+
+[FR-Vocab] Je ne vais pas aller au cinéma.
+<break time="1.0s"/>
+[KO] 나는 영화관에 가지 않을 거야.
+<break time="1.0s"/>
+[FR-Vocab] Je ne vais pas aller au cinéma.
+<break time="1.5s"/>

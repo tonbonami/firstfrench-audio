@@ -1,0 +1,58 @@
+# Grammaire 2 — 전치사 à, de
+# voices: Vocab=warm-mother
+
+[FR-Vocab] Je suis à Paris.
+<break time="1.0s"/>
+[KO] 나는 파리에 있다.
+<break time="1.0s"/>
+[FR-Vocab] Je suis à Paris.
+<break time="1.5s"/>
+
+[FR-Vocab] Je vais à Lyon.
+<break time="1.0s"/>
+[KO] 나는 리옹에 간다.
+<break time="1.0s"/>
+[FR-Vocab] Je vais à Lyon.
+<break time="1.5s"/>
+
+[FR-Vocab] Je vais au cinéma.
+<break time="1.0s"/>
+[KO] 나는 영화관에 간다.
+<break time="1.0s"/>
+[FR-Vocab] Je vais au cinéma.
+<break time="1.5s"/>
+
+[FR-Vocab] Je parle aux enfants.
+<break time="1.0s"/>
+[KO] 나는 아이들에게 말한다.
+<break time="1.0s"/>
+[FR-Vocab] Je parle aux enfants.
+<break time="1.5s"/>
+
+[FR-Vocab] Il vient de Lyon.
+<break time="1.0s"/>
+[KO] 그는 리옹 출신이다.
+<break time="1.0s"/>
+[FR-Vocab] Il vient de Lyon.
+<break time="1.5s"/>
+
+[FR-Vocab] Il vient d'Australie.
+<break time="1.0s"/>
+[KO] 그는 호주 출신이다.
+<break time="1.0s"/>
+[FR-Vocab] Il vient d'Australie.
+<break time="1.5s"/>
+
+[FR-Vocab] La voiture de Nicolas.
+<break time="1.0s"/>
+[KO] 니콜라의 자동차.
+<break time="1.0s"/>
+[FR-Vocab] La voiture de Nicolas.
+<break time="1.5s"/>
+
+[FR-Vocab] De 9 heures à midi.
+<break time="1.0s"/>
+[KO] 9시부터 12시까지.
+<break time="1.0s"/>
+[FR-Vocab] De 9 heures à midi.
+<break time="1.5s"/>

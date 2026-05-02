@@ -1,0 +1,58 @@
+# Grammaire 4 — 시제 / 단순미래 (futur simple)
+# voices: Vocab=warm-mother
+
+[FR-Vocab] Je donnerai.
+<break time="1.0s"/>
+[KO] 나는 줄 것이다.
+<break time="1.0s"/>
+[FR-Vocab] Je donnerai.
+<break time="1.5s"/>
+
+[FR-Vocab] Tu finiras.
+<break time="1.0s"/>
+[KO] 너는 끝낼 것이다.
+<break time="1.0s"/>
+[FR-Vocab] Tu finiras.
+<break time="1.5s"/>
+
+[FR-Vocab] Il attendra.
+<break time="1.0s"/>
+[KO] 그는 기다릴 것이다.
+<break time="1.0s"/>
+[FR-Vocab] Il attendra.
+<break time="1.5s"/>
+
+[FR-Vocab] J'irai à Paris.
+<break time="1.0s"/>
+[KO] 나는 파리에 갈 것이다.
+<break time="1.0s"/>
+[FR-Vocab] J'irai à Paris.
+<break time="1.5s"/>
+
+[FR-Vocab] Nous serons heureux.
+<break time="1.0s"/>
+[KO] 우리는 행복할 것이다.
+<break time="1.0s"/>
+[FR-Vocab] Nous serons heureux.
+<break time="1.5s"/>
+
+[FR-Vocab] Vous aurez le temps.
+<break time="1.0s"/>
+[KO] 당신은 시간이 있을 것이다.
+<break time="1.0s"/>
+[FR-Vocab] Vous aurez le temps.
+<break time="1.5s"/>
+
+[FR-Vocab] Ils feront un voyage.
+<break time="1.0s"/>
+[KO] 그들은 여행을 할 것이다.
+<break time="1.0s"/>
+[FR-Vocab] Ils feront un voyage.
+<break time="1.5s"/>
+
+[FR-Vocab] Il pleuvra demain.
+<break time="1.0s"/>
+[KO] 내일 비가 올 것이다.
+<break time="1.0s"/>
+[FR-Vocab] Il pleuvra demain.
+<break time="1.5s"/>

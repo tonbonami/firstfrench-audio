@@ -1,0 +1,51 @@
+# Grammaire 2 — 의문사
+# voices: Vocab=warm-mother
+
+[FR-Vocab] Combien est-ce que ça coûte ?
+<break time="1.0s"/>
+[KO] 그거 얼마예요?
+<break time="1.0s"/>
+[FR-Vocab] Combien est-ce que ça coûte ?
+<break time="1.5s"/>
+
+[FR-Vocab] Où est-ce que tu vas ?
+<break time="1.0s"/>
+[KO] 너 어디 가니?
+<break time="1.0s"/>
+[FR-Vocab] Où est-ce que tu vas ?
+<break time="1.5s"/>
+
+[FR-Vocab] Pourquoi vous aimez ce travail ?
+<break time="1.0s"/>
+[KO] 왜 이 일이 좋으세요?
+<break time="1.0s"/>
+[FR-Vocab] Pourquoi vous aimez ce travail ?
+<break time="1.5s"/>
+
+[FR-Vocab] Quand est-ce que vous partez ?
+<break time="1.0s"/>
+[KO] 언제 떠나시나요?
+<break time="1.0s"/>
+[FR-Vocab] Quand est-ce que vous partez ?
+<break time="1.5s"/>
+
+[FR-Vocab] Qui est-ce que tu appelles ?
+<break time="1.0s"/>
+[KO] 너 누구에게 전화해?
+<break time="1.0s"/>
+[FR-Vocab] Qui est-ce que tu appelles ?
+<break time="1.5s"/>
+
+[FR-Vocab] Que faites-vous ?
+<break time="1.0s"/>
+[KO] 무엇을 하세요?
+<break time="1.0s"/>
+[FR-Vocab] Que faites-vous ?
+<break time="1.5s"/>
+
+[FR-Vocab] Comment allez-vous ?
+<break time="1.0s"/>
+[KO] 어떻게 지내세요?
+<break time="1.0s"/>
+[FR-Vocab] Comment allez-vous ?
+<break time="1.5s"/>

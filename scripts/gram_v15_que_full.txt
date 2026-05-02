@@ -1,0 +1,44 @@
+# Grammaire 2 — 의문문 (3가지 방법 종합)
+# voices: Vocab=warm-mother
+
+[FR-Vocab] Vous parlez français ?
+<break time="1.0s"/>
+[KO] 프랑스어 하시나요? 억양.
+<break time="1.0s"/>
+[FR-Vocab] Vous parlez français ?
+<break time="1.5s"/>
+
+[FR-Vocab] Est-ce que vous parlez français ?
+<break time="1.0s"/>
+[KO] 프랑스어를 하시나요?
+<break time="1.0s"/>
+[FR-Vocab] Est-ce que vous parlez français ?
+<break time="1.5s"/>
+
+[FR-Vocab] Est-ce qu'ils arrivent ?
+<break time="1.0s"/>
+[KO] 그들이 도착하나요?
+<break time="1.0s"/>
+[FR-Vocab] Est-ce qu'ils arrivent ?
+<break time="1.5s"/>
+
+[FR-Vocab] Aimez-vous Séoul ?
+<break time="1.0s"/>
+[KO] 서울이 마음에 드시나요?
+<break time="1.0s"/>
+[FR-Vocab] Aimez-vous Séoul ?
+<break time="1.5s"/>
+
+[FR-Vocab] Parle-t-il anglais ?
+<break time="1.0s"/>
+[KO] 그는 영어를 하나요?
+<break time="1.0s"/>
+[FR-Vocab] Parle-t-il anglais ?
+<break time="1.5s"/>
+
+[FR-Vocab] Aime-t-elle Paris ?
+<break time="1.0s"/>
+[KO] 그녀는 파리를 좋아하나요?
+<break time="1.0s"/>
+[FR-Vocab] Aime-t-elle Paris ?
+<break time="1.5s"/>

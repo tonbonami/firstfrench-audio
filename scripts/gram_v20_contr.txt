@@ -1,0 +1,58 @@
+# Grammaire 2 — 축약관사
+# voices: Vocab=warm-mother
+
+[FR-Vocab] Je vais au cinéma.
+<break time="1.0s"/>
+[KO] 나는 영화관에 간다.
+<break time="1.0s"/>
+[FR-Vocab] Je vais au cinéma.
+<break time="1.5s"/>
+
+[FR-Vocab] Je parle aux enfants.
+<break time="1.0s"/>
+[KO] 나는 아이들에게 말한다.
+<break time="1.0s"/>
+[FR-Vocab] Je parle aux enfants.
+<break time="1.5s"/>
+
+[FR-Vocab] Je vais à la gare.
+<break time="1.0s"/>
+[KO] 나는 기차역에 간다.
+<break time="1.0s"/>
+[FR-Vocab] Je vais à la gare.
+<break time="1.5s"/>
+
+[FR-Vocab] Je vais à l'école.
+<break time="1.0s"/>
+[KO] 나는 학교에 간다.
+<break time="1.0s"/>
+[FR-Vocab] Je vais à l'école.
+<break time="1.5s"/>
+
+[FR-Vocab] Il vient du bureau.
+<break time="1.0s"/>
+[KO] 그는 사무실에서 온다.
+<break time="1.0s"/>
+[FR-Vocab] Il vient du bureau.
+<break time="1.5s"/>
+
+[FR-Vocab] Il parle des professeurs.
+<break time="1.0s"/>
+[KO] 그는 선생님들에 대해 말한다.
+<break time="1.0s"/>
+[FR-Vocab] Il parle des professeurs.
+<break time="1.5s"/>
+
+[FR-Vocab] Il vient de la banque.
+<break time="1.0s"/>
+[KO] 그는 은행에서 온다.
+<break time="1.0s"/>
+[FR-Vocab] Il vient de la banque.
+<break time="1.5s"/>
+
+[FR-Vocab] Il vient de l'hôpital.
+<break time="1.0s"/>
+[KO] 그는 병원에서 온다.
+<break time="1.0s"/>
+[FR-Vocab] Il vient de l'hôpital.
+<break time="1.5s"/>
