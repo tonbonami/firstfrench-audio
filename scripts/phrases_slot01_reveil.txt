@@ -1,0 +1,68 @@
+# SLOT 1 — Le réveil (06:00-06:15)
+# Phrases de tous les jours — 일상 표현
+# voices: Phrases=warm-mother
+
+[FR-Phrases] Le réveil sonne.
+<break time="0.7s"/>
+[FR-Phrases] Le réveil sonne à six heures et demie.
+<break time="1.5s"/>
+
+[FR-Phrases] Éteindre le réveil.
+<break time="0.7s"/>
+[FR-Phrases] Éteins le réveil ! Il est trop fort !
+<break time="1.5s"/>
+
+[FR-Phrases] Se rendormir.
+<break time="0.7s"/>
+[FR-Phrases] Encore cinq minutes…
+<break time="1.5s"/>
+
+[FR-Phrases] Avoir du mal à se réveiller.
+<break time="0.7s"/>
+[FR-Phrases] J'ai du mal à me réveiller le matin.
+<break time="1.5s"/>
+
+[FR-Phrases] Se réveiller.
+<break time="0.7s"/>
+[FR-Phrases] Je me réveille à six heures.
+<break time="1.5s"/>
+
+[FR-Phrases] Se frotter les yeux.
+<break time="0.7s"/>
+[FR-Phrases] Je me frotte les yeux doucement.
+<break time="1.5s"/>
+
+[FR-Phrases] Bâiller.
+<break time="0.7s"/>
+[FR-Phrases] Je bâille encore.
+<break time="1.5s"/>
+
+[FR-Phrases] Être encore dans les vapes.
+<break time="0.7s"/>
+[FR-Phrases] Je suis encore dans les vapes ce matin.
+<break time="1.5s"/>
+
+[FR-Phrases] Ouvrir les yeux.
+<break time="0.7s"/>
+[FR-Phrases] J'ouvre les yeux lentement.
+<break time="1.5s"/>
+
+[FR-Phrases] S'étirer.
+<break time="0.7s"/>
+[FR-Phrases] Je m'étire en me levant.
+<break time="1.5s"/>
+
+[FR-Phrases] Repousser la couverture.
+<break time="0.7s"/>
+[FR-Phrases] Je repousse la couverture lentement.
+<break time="1.5s"/>
+
+[FR-Phrases] Poser les pieds au sol.
+<break time="0.7s"/>
+[FR-Phrases] Je mets mes chaussons et je me lève.
+<break time="1.5s"/>
+
+[FR-Phrases] Se lever.
+<break time="0.7s"/>
+[FR-Phrases] Ça y est, je suis levé !
+<break time="1.5s"/>
