@@ -1,14 +1,10 @@
-# 프랑스어 철자 기호 — 악상그라브 (accent grave)
+# 프랑스어 철자 기호 — 악상그라브 (accent grave) (인트로 제거, hybrid)
 
-# 악상그라브 (accent grave)
-[KO] 악상그라브 (accent grave).
-<break time="1.0s"/>
-
-[FR] à.
+[FR-V25] à.
 <break time="0.7s"/>
 [KO] 에서.
 <break time="0.5s"/>
-[FR] à.
+[FR-V25] à.
 <break time="1.5s"/>
 
 [FR] célèbre.
@@ -18,17 +14,17 @@
 [FR] célèbre.
 <break time="1.5s"/>
 
-[FR] là.
+[FR-V25] là.
 <break time="0.7s"/>
 [KO] 거기.
 <break time="0.5s"/>
-[FR] là.
+[FR-V25] là.
 <break time="1.5s"/>
 
-[FR] où.
+[FR-V25] où.
 <break time="0.7s"/>
 [KO] 어디.
 <break time="0.5s"/>
-[FR] où.
+[FR-V25] où.
 <break time="1.5s"/>
 

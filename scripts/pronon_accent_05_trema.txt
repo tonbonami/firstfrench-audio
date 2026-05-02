@@ -1,21 +1,17 @@
-# 프랑스어 철자 기호 — 트레마 (tréma)
+# 프랑스어 철자 기호 — 트레마 (tréma) (인트로 제거, hybrid)
 
-# 트레마 (tréma)
-[KO] 트레마 (tréma).
-<break time="1.0s"/>
-
-[FR] mais.
+[FR-V25] mais.
 <break time="0.7s"/>
 [KO] 그러나.
 <break time="0.5s"/>
-[FR] mais.
+[FR-V25] mais.
 <break time="1.5s"/>
 
-[FR] maïs.
+[FR] le maïs.
 <break time="0.7s"/>
 [KO] 옥수수.
 <break time="0.5s"/>
-[FR] maïs.
+[FR] le maïs.
 <break time="1.5s"/>
 
 [FR] Noël.
