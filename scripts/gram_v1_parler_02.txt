@@ -10,14 +10,14 @@
 
 [FR-Vocab] aimer.
 <break time="1.0s"/>
-[KO] 좋아하다, 사랑하다.
+[KO] 사랑하다.
 <break time="1.0s"/>
 [FR-Vocab] aimer.
 <break time="1.5s"/>
 
 [FR-Vocab] habiter.
 <break time="1.0s"/>
-[KO] 살다, 거주하다.
+[KO] 거주하다.
 <break time="1.0s"/>
 [FR-Vocab] habiter.
 <break time="1.5s"/>

@@ -19,8 +19,3 @@
 [FR-Vocab] vous parlez.
 <break time="0.8s"/>
 [FR-Vocab] ils parlent.
-<break time="1.5s"/>
-
-[KO] parler 현재형 활용.
-<break time="1.0s"/>
-[FR-Vocab] je parle, tu parles, il parle, nous parlons, vous parlez, ils parlent.
