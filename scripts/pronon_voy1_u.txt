@@ -1,4 +1,4 @@
-# 모음 ① — u (문제 단어 교체)
+# 모음 ① — u (hybrid: 문제 단어만 turbo v2.5)
 
 [FR] la lune.
 <break time="0.7s"/>
@@ -7,11 +7,11 @@
 [FR] la lune.
 <break time="1.5s"/>
 
-[FR] le futur.
+[FR-V25] le futur.
 <break time="0.7s"/>
 [KO] 미래.
 <break time="0.5s"/>
-[FR] le futur.
+[FR-V25] le futur.
 <break time="1.5s"/>
 
 [FR] la flûte.
