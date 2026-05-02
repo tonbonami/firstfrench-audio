@@ -1,0 +1,34 @@
+# il, ill (2)
+
+# il, ill (2)
+[KO] il, ill (2).
+<break time="1.0s"/>
+
+[FR] œil.
+<break time="0.7s"/>
+[KO] 눈.
+<break time="0.5s"/>
+[FR] œil.
+<break time="1.5s"/>
+
+[FR] village.
+<break time="0.7s"/>
+[KO] 마을.
+<break time="0.5s"/>
+[FR] village.
+<break time="1.5s"/>
+
+[FR] tranquille.
+<break time="0.7s"/>
+[KO] 조용한.
+<break time="0.5s"/>
+[FR] tranquille.
+<break time="1.5s"/>
+
+[FR] mille.
+<break time="0.7s"/>
+[KO] 숫자 천.
+<break time="0.5s"/>
+[FR] mille.
+<break time="1.5s"/>
+

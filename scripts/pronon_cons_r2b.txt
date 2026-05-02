@@ -1,0 +1,34 @@
+# R 단어 중간 (2)
+
+# R 단어 중간 (2)
+[KO] R 단어 중간 (2).
+<break time="1.0s"/>
+
+[FR] Pardon.
+<break time="0.7s"/>
+[KO] 미안해요.
+<break time="0.5s"/>
+[FR] Pardon.
+<break time="1.5s"/>
+
+[FR] pareil.
+<break time="0.7s"/>
+[KO] 비슷한.
+<break time="0.5s"/>
+[FR] pareil.
+<break time="1.5s"/>
+
+[FR] France.
+<break time="0.7s"/>
+[KO] 프랑스.
+<break time="0.5s"/>
+[FR] France.
+<break time="1.5s"/>
+
+[FR] perdre.
+<break time="0.7s"/>
+[KO] 잃다.
+<break time="0.5s"/>
+[FR] perdre.
+<break time="1.5s"/>
+

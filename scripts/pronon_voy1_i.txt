@@ -1,0 +1,27 @@
+# 프랑스어 모음 정리 ① — i [이]
+
+# i [이]
+[KO] i [이].
+<break time="1.0s"/>
+
+[FR] ici.
+<break time="0.7s"/>
+[KO] 여기.
+<break time="0.5s"/>
+[FR] ici.
+<break time="1.5s"/>
+
+[FR] île.
+<break time="0.7s"/>
+[KO] 섬.
+<break time="0.5s"/>
+[FR] île.
+<break time="1.5s"/>
+
+[FR] il.
+<break time="0.7s"/>
+[KO] 그.
+<break time="0.5s"/>
+[FR] il.
+<break time="1.5s"/>
+

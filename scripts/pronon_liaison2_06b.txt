@@ -1,0 +1,34 @@
+# 리에종 2강 실전 (2)
+
+# 실전 문장 (2)
+[KO] 실전 문장 (2).
+<break time="1.0s"/>
+
+[FR] Je vous en prie.
+<break time="0.7s"/>
+[KO] 천만에요.
+<break time="0.5s"/>
+[FR] Je vous en prie.
+<break time="1.5s"/>
+
+[FR] Comment allez-vous.
+<break time="0.7s"/>
+[KO] 어떻게 지내세요.
+<break time="0.5s"/>
+[FR] Comment allez-vous.
+<break time="1.5s"/>
+
+[FR] C'est un bon ami.
+<break time="0.7s"/>
+[KO] 그는 좋은 친구예요.
+<break time="0.5s"/>
+[FR] C'est un bon ami.
+<break time="1.5s"/>
+
+[FR] Ils ont un petit enfant.
+<break time="0.7s"/>
+[KO] 그들은 어린 아이가 있어요.
+<break time="0.5s"/>
+[FR] Ils ont un petit enfant.
+<break time="1.5s"/>
+

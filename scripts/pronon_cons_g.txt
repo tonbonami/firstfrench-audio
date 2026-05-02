@@ -1,0 +1,62 @@
+# 프랑스어의 자음 — g — e/i/y 부드러운 / a/o/u [g]
+
+# g — e/i/y 부드러운 / a/o/u [g]
+[KO] g — e/i/y 부드러운 / a/o/u [g].
+<break time="1.0s"/>
+
+[FR] genou.
+<break time="0.7s"/>
+[KO] 무릎.
+<break time="0.5s"/>
+[FR] genou.
+<break time="1.5s"/>
+
+[FR] gilet.
+<break time="0.7s"/>
+[KO] 조끼.
+<break time="0.5s"/>
+[FR] gilet.
+<break time="1.5s"/>
+
+[FR] gymnastique.
+<break time="0.7s"/>
+[KO] 체조.
+<break time="0.5s"/>
+[FR] gymnastique.
+<break time="1.5s"/>
+
+[FR] garage.
+<break time="0.7s"/>
+[KO] 차고.
+<break time="0.5s"/>
+[FR] garage.
+<break time="1.5s"/>
+
+[FR] gare.
+<break time="0.7s"/>
+[KO] 역.
+<break time="0.5s"/>
+[FR] gare.
+<break time="1.5s"/>
+
+[FR] gomme.
+<break time="0.7s"/>
+[KO] 지우개.
+<break time="0.5s"/>
+[FR] gomme.
+<break time="1.5s"/>
+
+[FR] figure.
+<break time="0.7s"/>
+[KO] 얼굴.
+<break time="0.5s"/>
+[FR] figure.
+<break time="1.5s"/>
+
+[FR] gâteau.
+<break time="0.7s"/>
+[KO] 과자.
+<break time="0.5s"/>
+[FR] gâteau.
+<break time="1.5s"/>
+

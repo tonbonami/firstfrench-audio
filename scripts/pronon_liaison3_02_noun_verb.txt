@@ -1,0 +1,34 @@
+# 리에종 3강 — 금지 — 명사 + 동사
+
+# 금지 — 명사 + 동사
+[KO] 금지 — 명사 + 동사.
+<break time="1.0s"/>
+
+[FR] Le bus arrive.
+<break time="0.7s"/>
+[KO] 버스가 도착해요.
+<break time="0.5s"/>
+[FR] Le bus arrive.
+<break time="1.5s"/>
+
+[FR] Le nid est ouvert.
+<break time="0.7s"/>
+[KO] 둥지가 열려있어요.
+<break time="0.5s"/>
+[FR] Le nid est ouvert.
+<break time="1.5s"/>
+
+[FR] Paris est grand.
+<break time="0.7s"/>
+[KO] 파리는 크다.
+<break time="0.5s"/>
+[FR] Paris est grand.
+<break time="1.5s"/>
+
+[FR] Lyon est joli.
+<break time="0.7s"/>
+[KO] 리옹은 예쁘다.
+<break time="0.5s"/>
+[FR] Lyon est joli.
+<break time="1.5s"/>
+

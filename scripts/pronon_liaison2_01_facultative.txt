@@ -1,0 +1,27 @@
+# 리에종 2강 — 선택 리에종
+
+# 선택 리에종
+[KO] 선택 리에종.
+<break time="1.0s"/>
+
+[FR] grand ami.
+<break time="0.7s"/>
+[KO] 좋은 친구.
+<break time="0.5s"/>
+[FR] grand ami.
+<break time="1.5s"/>
+
+[FR] choses intéressantes.
+<break time="0.7s"/>
+[KO] 흥미로운 것들.
+<break time="0.5s"/>
+[FR] choses intéressantes.
+<break time="1.5s"/>
+
+[FR] regard attentif.
+<break time="0.7s"/>
+[KO] 주의 깊은 시선.
+<break time="0.5s"/>
+[FR] regard attentif.
+<break time="1.5s"/>
+

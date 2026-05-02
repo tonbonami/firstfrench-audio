@@ -1,0 +1,34 @@
+# 프랑스어의 자음 — 모음 + s + 모음 — [z]
+
+# 모음 + s + 모음 — [z]
+[KO] 모음 + s + 모음 — [z].
+<break time="1.0s"/>
+
+[FR] rose.
+<break time="0.7s"/>
+[KO] 장미.
+<break time="0.5s"/>
+[FR] rose.
+<break time="1.5s"/>
+
+[FR] saison.
+<break time="0.7s"/>
+[KO] 계절.
+<break time="0.5s"/>
+[FR] saison.
+<break time="1.5s"/>
+
+[FR] maison.
+<break time="0.7s"/>
+[KO] 집.
+<break time="0.5s"/>
+[FR] maison.
+<break time="1.5s"/>
+
+[FR] pause.
+<break time="0.7s"/>
+[KO] 정지.
+<break time="0.5s"/>
+[FR] pause.
+<break time="1.5s"/>
+

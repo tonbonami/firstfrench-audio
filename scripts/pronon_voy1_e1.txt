@@ -1,0 +1,41 @@
+# 모음 e — 으 / 에
+
+# e (1) — 으 / 에
+[KO] e (1) — 으 / 에.
+<break time="1.0s"/>
+
+[FR] classe.
+<break time="0.7s"/>
+[KO] 반.
+<break time="0.5s"/>
+[FR] classe.
+<break time="1.5s"/>
+
+[FR] petit.
+<break time="0.7s"/>
+[KO] 작은.
+<break time="0.5s"/>
+[FR] petit.
+<break time="1.5s"/>
+
+[FR] merci.
+<break time="0.7s"/>
+[KO] 고마워요.
+<break time="0.5s"/>
+[FR] merci.
+<break time="1.5s"/>
+
+[FR] reste.
+<break time="0.7s"/>
+[KO] 나머지.
+<break time="0.5s"/>
+[FR] reste.
+<break time="1.5s"/>
+
+[FR] perdre.
+<break time="0.7s"/>
+[KO] 잃다.
+<break time="0.5s"/>
+[FR] perdre.
+<break time="1.5s"/>
+

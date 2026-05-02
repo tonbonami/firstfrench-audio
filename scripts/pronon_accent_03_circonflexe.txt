@@ -1,0 +1,27 @@
+# 프랑스어 철자 기호 — 악상시르콩플렉스 (circonflexe)
+
+# 악상시르콩플렉스 (circonflexe)
+[KO] 악상시르콩플렉스 (circonflexe).
+<break time="1.0s"/>
+
+[FR] fête.
+<break time="0.7s"/>
+[KO] 축제.
+<break time="0.5s"/>
+[FR] fête.
+<break time="1.5s"/>
+
+[FR] hôpital.
+<break time="0.7s"/>
+[KO] 병원.
+<break time="0.5s"/>
+[FR] hôpital.
+<break time="1.5s"/>
+
+[FR] forêt.
+<break time="0.7s"/>
+[KO] 숲.
+<break time="0.5s"/>
+[FR] forêt.
+<break time="1.5s"/>
+

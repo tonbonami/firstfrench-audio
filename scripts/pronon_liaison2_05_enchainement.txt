@@ -1,0 +1,27 @@
+# 리에종 2강 — 앙셰느망
+
+# 앙셰느망
+[KO] 앙셰느망.
+<break time="1.0s"/>
+
+[FR] il arrive.
+<break time="0.7s"/>
+[KO] 그가 도착하다.
+<break time="0.5s"/>
+[FR] il arrive.
+<break time="1.5s"/>
+
+[FR] elle est.
+<break time="0.7s"/>
+[KO] 그녀는.
+<break time="0.5s"/>
+[FR] elle est.
+<break time="1.5s"/>
+
+[FR] petite amie.
+<break time="0.7s"/>
+[KO] 여자친구.
+<break time="0.5s"/>
+[FR] petite amie.
+<break time="1.5s"/>
+

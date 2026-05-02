@@ -1,0 +1,208 @@
+# 리에종 3강 — 금지 심화 + 앙셰느망 + Dictée
+
+# 금지 — et 뒤
+[KO] et 뒤에서는 금지.
+<break time="1.0s"/>
+[FR] et elle.
+<break time="0.7s"/>
+[KO] 그리고 그녀.
+<break time="0.5s"/>
+[FR] et elle.
+<break time="1.5s"/>
+
+[FR] et André.
+<break time="0.7s"/>
+[KO] 그리고 André.
+<break time="0.5s"/>
+[FR] et André.
+<break time="1.5s"/>
+
+# 금지 — 단수 명사 + 동사
+[KO] 명사와 동사 사이는 금지.
+<break time="1.0s"/>
+[FR] Le bus arrive.
+<break time="0.7s"/>
+[KO] 버스가 도착해요.
+<break time="0.5s"/>
+[FR] Le bus arrive.
+<break time="1.5s"/>
+
+[FR] Le nid est ouvert.
+<break time="0.7s"/>
+[KO] 둥지가 열려있어요.
+<break time="0.5s"/>
+[FR] Le nid est ouvert.
+<break time="1.5s"/>
+
+# 금지 — 고유명사 + 동사
+[KO] 고유명사 뒤도 금지.
+<break time="1.0s"/>
+[FR] Paris est grand.
+<break time="0.7s"/>
+[KO] 파리는 크다.
+<break time="0.5s"/>
+[FR] Paris est grand.
+<break time="1.5s"/>
+
+[FR] Lyon est joli.
+<break time="0.7s"/>
+[KO] 리옹은 예쁘다.
+<break time="0.5s"/>
+[FR] Lyon est joli.
+<break time="1.5s"/>
+
+# 금지 — 유음 h 단어 앞
+[KO] 유음 h 앞은 금지.
+<break time="1.0s"/>
+[FR] les héros.
+<break time="0.7s"/>
+[KO] 영웅들.
+<break time="0.5s"/>
+[FR] les héros.
+<break time="1.5s"/>
+
+[FR] mes haricots.
+<break time="0.7s"/>
+[KO] 내 콩들.
+<break time="0.5s"/>
+[FR] mes haricots.
+<break time="1.5s"/>
+
+# 앙셰느망
+[KO] 앙셰느망 — 살아있는 자음.
+<break time="1.0s"/>
+[FR] il arrive.
+<break time="0.7s"/>
+[KO] 그가 도착하다.
+<break time="0.5s"/>
+[FR] il arrive.
+<break time="1.5s"/>
+
+[FR] elle est.
+<break time="0.7s"/>
+[KO] 그녀는.
+<break time="0.5s"/>
+[FR] elle est.
+<break time="1.5s"/>
+
+[FR] petit ami.
+<break time="0.7s"/>
+[KO] 남자친구.
+<break time="0.5s"/>
+[FR] petit ami.
+<break time="1.5s"/>
+
+[FR] petit enfant.
+<break time="0.7s"/>
+[KO] 어린 아이.
+<break time="0.5s"/>
+[FR] petit enfant.
+<break time="1.5s"/>
+
+# 리에종 소리 비교
+[KO] 살아나는 자음 소리.
+<break time="1.0s"/>
+[FR] les amis.
+<break time="0.7s"/>
+[KO] 친구들.
+<break time="0.5s"/>
+[FR] les amis.
+<break time="1.5s"/>
+
+[FR] grand ami.
+<break time="0.7s"/>
+[KO] 좋은 친구.
+<break time="0.5s"/>
+[FR] grand ami.
+<break time="1.5s"/>
+
+[FR] un enfant.
+<break time="0.7s"/>
+[KO] 한 명의 아이.
+<break time="0.5s"/>
+[FR] un enfant.
+<break time="1.5s"/>
+
+[FR] neuf heures.
+<break time="0.7s"/>
+[KO] 9시.
+<break time="0.5s"/>
+[FR] neuf heures.
+<break time="1.5s"/>
+
+# Dictée — 받아쓰기
+[KO] 받아쓰기 연습.
+<break time="1.0s"/>
+[FR] Vous avez un chat.
+<break time="0.7s"/>
+[KO] 당신은 고양이를 가지고 있어요.
+<break time="0.5s"/>
+[FR] Vous avez un chat.
+<break time="1.5s"/>
+
+[FR] Ils ont une idée.
+<break time="0.7s"/>
+[KO] 그들은 아이디어가 있어요.
+<break time="0.5s"/>
+[FR] Ils ont une idée.
+<break time="1.5s"/>
+
+[FR] Un ami arrive.
+<break time="0.7s"/>
+[KO] 한 친구가 도착해요.
+<break time="0.5s"/>
+[FR] Un ami arrive.
+<break time="1.5s"/>
+
+[FR] Trois amis arrivent.
+<break time="0.7s"/>
+[KO] 세 친구가 도착해요.
+<break time="0.5s"/>
+[FR] Trois amis arrivent.
+<break time="1.5s"/>
+
+[FR] Cinq euros ici.
+<break time="0.7s"/>
+[KO] 여기 5유로.
+<break time="0.5s"/>
+[FR] Cinq euros ici.
+<break time="1.5s"/>
+
+# 실전 문장
+[KO] 실전 문장.
+<break time="1.0s"/>
+[FR] Les enfants arrivent ce soir.
+<break time="0.7s"/>
+[KO] 아이들이 오늘 저녁 도착해요.
+<break time="0.5s"/>
+[FR] Les enfants arrivent ce soir.
+<break time="1.5s"/>
+
+[FR] Il est en avance.
+<break time="0.7s"/>
+[KO] 그는 일찍 도착했어요.
+<break time="0.5s"/>
+[FR] Il est en avance.
+<break time="1.5s"/>
+
+[FR] Nous avons un exercice.
+<break time="0.7s"/>
+[KO] 우리에게는 연습 문제가 있어요.
+<break time="0.5s"/>
+[FR] Nous avons un exercice.
+<break time="1.5s"/>
+
+[FR] Vous êtes en retard.
+<break time="0.7s"/>
+[KO] 당신은 늦었어요.
+<break time="0.5s"/>
+[FR] Vous êtes en retard.
+<break time="1.5s"/>
+
+[FR] Ils ont un objectif.
+<break time="0.7s"/>
+[KO] 그들은 목표를 갖고 있어요.
+<break time="0.5s"/>
+[FR] Ils ont un objectif.
+<break time="1.5s"/>
+

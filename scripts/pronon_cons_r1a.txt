@@ -1,0 +1,40 @@
+# R 모음 조합
+
+[KO] R 발음 — 모음 조합.
+<break time="1.0s"/>
+
+[FR] Ra.
+<break time="0.7s"/>
+[FR] Ra.
+<break time="1.5s"/>
+
+[FR] Ri.
+<break time="0.7s"/>
+[FR] Ri.
+<break time="1.5s"/>
+
+[FR] Rou.
+<break time="0.7s"/>
+[FR] Rou.
+<break time="1.5s"/>
+
+[FR] Ré.
+<break time="0.7s"/>
+[FR] Ré.
+<break time="1.5s"/>
+
+[FR] Ro.
+<break time="0.7s"/>
+[FR] Ro.
+<break time="1.5s"/>
+
+[FR] Ru.
+<break time="0.7s"/>
+[FR] Ru.
+<break time="1.5s"/>
+
+[FR] Re.
+<break time="0.7s"/>
+[FR] Re.
+<break time="1.5s"/>
+

@@ -1,0 +1,41 @@
+# 프랑스어 모음 정리 ① — u — 입은 우, 혀는 이
+
+# u — 입은 우, 혀는 이
+[KO] u — 입은 우, 혀는 이.
+<break time="1.0s"/>
+
+[FR] utile.
+<break time="0.7s"/>
+[KO] 유익한.
+<break time="0.5s"/>
+[FR] utile.
+<break time="1.5s"/>
+
+[FR] futur.
+<break time="0.7s"/>
+[KO] 미래.
+<break time="0.5s"/>
+[FR] futur.
+<break time="1.5s"/>
+
+[FR] flûte.
+<break time="0.7s"/>
+[KO] 플루트.
+<break time="0.5s"/>
+[FR] flûte.
+<break time="1.5s"/>
+
+[FR] rue.
+<break time="0.7s"/>
+[KO] 길.
+<break time="0.5s"/>
+[FR] rue.
+<break time="1.5s"/>
+
+[FR] musée.
+<break time="0.7s"/>
+[KO] 박물관.
+<break time="0.5s"/>
+[FR] musée.
+<break time="1.5s"/>
+

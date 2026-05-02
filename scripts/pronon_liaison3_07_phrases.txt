@@ -1,0 +1,41 @@
+# 리에종 3강 — 실전 문장
+
+# 실전 문장
+[KO] 실전 문장.
+<break time="1.0s"/>
+
+[FR] Les enfants arrivent ce soir.
+<break time="0.7s"/>
+[KO] 아이들이 오늘 저녁 도착해요.
+<break time="0.5s"/>
+[FR] Les enfants arrivent ce soir.
+<break time="1.5s"/>
+
+[FR] Il est en avance.
+<break time="0.7s"/>
+[KO] 그는 일찍 도착했어요.
+<break time="0.5s"/>
+[FR] Il est en avance.
+<break time="1.5s"/>
+
+[FR] Nous avons un exercice.
+<break time="0.7s"/>
+[KO] 연습 문제가 있어요.
+<break time="0.5s"/>
+[FR] Nous avons un exercice.
+<break time="1.5s"/>
+
+[FR] Vous êtes en retard.
+<break time="0.7s"/>
+[KO] 당신은 늦었어요.
+<break time="0.5s"/>
+[FR] Vous êtes en retard.
+<break time="1.5s"/>
+
+[FR] Ils ont un objectif.
+<break time="0.7s"/>
+[KO] 그들은 목표를 갖고 있어요.
+<break time="0.5s"/>
+[FR] Ils ont un objectif.
+<break time="1.5s"/>
+

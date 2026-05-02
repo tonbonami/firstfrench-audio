@@ -1,0 +1,34 @@
+# 리에종 3강 — 앙셰느망 고급
+
+# 앙셰느망 고급
+[KO] 앙셰느망 고급.
+<break time="1.0s"/>
+
+[FR] il arrive.
+<break time="0.7s"/>
+[KO] 그가 도착하다.
+<break time="0.5s"/>
+[FR] il arrive.
+<break time="1.5s"/>
+
+[FR] elle est.
+<break time="0.7s"/>
+[KO] 그녀는.
+<break time="0.5s"/>
+[FR] elle est.
+<break time="1.5s"/>
+
+[FR] petit ami.
+<break time="0.7s"/>
+[KO] 남자친구.
+<break time="0.5s"/>
+[FR] petit ami.
+<break time="1.5s"/>
+
+[FR] petit enfant.
+<break time="0.7s"/>
+[KO] 어린 아이.
+<break time="0.5s"/>
+[FR] petit enfant.
+<break time="1.5s"/>
+

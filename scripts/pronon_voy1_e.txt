@@ -1,0 +1,69 @@
+# 프랑스어 모음 정리 ① — e — 다섯 가지
+
+# e — 다섯 가지
+[KO] e — 다섯 가지.
+<break time="1.0s"/>
+
+[FR] classe.
+<break time="0.7s"/>
+[KO] 반.
+<break time="0.5s"/>
+[FR] classe.
+<break time="1.5s"/>
+
+[FR] petit.
+<break time="0.7s"/>
+[KO] 작은.
+<break time="0.5s"/>
+[FR] petit.
+<break time="1.5s"/>
+
+[FR] merci.
+<break time="0.7s"/>
+[KO] 고마워요.
+<break time="0.5s"/>
+[FR] merci.
+<break time="1.5s"/>
+
+[FR] reste.
+<break time="0.7s"/>
+[KO] 나머지.
+<break time="0.5s"/>
+[FR] reste.
+<break time="1.5s"/>
+
+[FR] perdre.
+<break time="0.7s"/>
+[KO] 잃다.
+<break time="0.5s"/>
+[FR] perdre.
+<break time="1.5s"/>
+
+[FR] semelle.
+<break time="0.7s"/>
+[KO] 구두창.
+<break time="0.5s"/>
+[FR] semelle.
+<break time="1.5s"/>
+
+[FR] bébé.
+<break time="0.7s"/>
+[KO] 아기.
+<break time="0.5s"/>
+[FR] bébé.
+<break time="1.5s"/>
+
+[FR] père.
+<break time="0.7s"/>
+[KO] 아버지.
+<break time="0.5s"/>
+[FR] père.
+<break time="1.5s"/>
+
+[FR] tête.
+<break time="0.7s"/>
+[KO] 머리.
+<break time="0.5s"/>
+[FR] tête.
+<break time="1.5s"/>
+

@@ -1,0 +1,34 @@
+# 모음 e — 악상기호
+
+# e (2) — 악상기호
+[KO] e (2) — 악상기호.
+<break time="1.0s"/>
+
+[FR] semelle.
+<break time="0.7s"/>
+[KO] 구두창.
+<break time="0.5s"/>
+[FR] semelle.
+<break time="1.5s"/>
+
+[FR] bébé.
+<break time="0.7s"/>
+[KO] 아기.
+<break time="0.5s"/>
+[FR] bébé.
+<break time="1.5s"/>
+
+[FR] père.
+<break time="0.7s"/>
+[KO] 아버지.
+<break time="0.5s"/>
+[FR] père.
+<break time="1.5s"/>
+
+[FR] tête.
+<break time="0.7s"/>
+[KO] 머리.
+<break time="0.5s"/>
+[FR] tête.
+<break time="1.5s"/>
+

@@ -1,0 +1,509 @@
+# 프랑스어의 자음
+
+# c — e/i/y 앞 [s]
+[KO] c.
+<break time="1.0s"/>
+[FR] ceci.
+<break time="0.7s"/>
+[KO] 이것.
+<break time="0.5s"/>
+[FR] ceci.
+<break time="1.5s"/>
+
+[FR] bicyclette.
+<break time="0.7s"/>
+[KO] 자전거.
+<break time="0.5s"/>
+[FR] bicyclette.
+<break time="1.5s"/>
+
+[FR] police.
+<break time="0.7s"/>
+[KO] 경찰.
+<break time="0.5s"/>
+[FR] police.
+<break time="1.5s"/>
+
+[FR] mince.
+<break time="0.7s"/>
+[KO] 얇은.
+<break time="0.5s"/>
+[FR] mince.
+<break time="1.5s"/>
+
+[FR] ici.
+<break time="0.7s"/>
+[KO] 여기.
+<break time="0.5s"/>
+[FR] ici.
+<break time="1.5s"/>
+
+
+# c — a/o/u 앞 [k]
+[KO] c.
+<break time="1.0s"/>
+[FR] concours.
+<break time="0.7s"/>
+[KO] 콩쿠르.
+<break time="0.5s"/>
+[FR] concours.
+<break time="1.5s"/>
+
+[FR] café.
+<break time="0.7s"/>
+[KO] 커피.
+<break time="0.5s"/>
+[FR] café.
+<break time="1.5s"/>
+
+[FR] culture.
+<break time="0.7s"/>
+[KO] 문화.
+<break time="0.5s"/>
+[FR] culture.
+<break time="1.5s"/>
+
+[FR] école.
+<break time="0.7s"/>
+[KO] 학교.
+<break time="0.5s"/>
+[FR] école.
+<break time="1.5s"/>
+
+
+# ç — 항상 [s]
+[KO] ç.
+<break time="1.0s"/>
+[FR] garçon.
+<break time="0.7s"/>
+[KO] 소년.
+<break time="0.5s"/>
+[FR] garçon.
+<break time="1.5s"/>
+
+[FR] ça.
+<break time="0.7s"/>
+[KO] 그것.
+<break time="0.5s"/>
+[FR] ça.
+<break time="1.5s"/>
+
+[FR] reçu.
+<break time="0.7s"/>
+[KO] 영수증.
+<break time="0.5s"/>
+[FR] reçu.
+<break time="1.5s"/>
+
+
+# g — e/i/y 앞 부드러운 소리
+[KO] g.
+<break time="1.0s"/>
+[FR] genou.
+<break time="0.7s"/>
+[KO] 무릎.
+<break time="0.5s"/>
+[FR] genou.
+<break time="1.5s"/>
+
+[FR] gilet.
+<break time="0.7s"/>
+[KO] 조끼.
+<break time="0.5s"/>
+[FR] gilet.
+<break time="1.5s"/>
+
+[FR] gymnastique.
+<break time="0.7s"/>
+[KO] 체조.
+<break time="0.5s"/>
+[FR] gymnastique.
+<break time="1.5s"/>
+
+[FR] garage.
+<break time="0.7s"/>
+[KO] 차고.
+<break time="0.5s"/>
+[FR] garage.
+<break time="1.5s"/>
+
+
+# g — a/o/u 앞 [g]
+[KO] g.
+<break time="1.0s"/>
+[FR] gare.
+<break time="0.7s"/>
+[KO] 역.
+<break time="0.5s"/>
+[FR] gare.
+<break time="1.5s"/>
+
+[FR] gomme.
+<break time="0.7s"/>
+[KO] 지우개.
+<break time="0.5s"/>
+[FR] gomme.
+<break time="1.5s"/>
+
+[FR] figure.
+<break time="0.7s"/>
+[KO] 얼굴.
+<break time="0.5s"/>
+[FR] figure.
+<break time="1.5s"/>
+
+[FR] gâteau.
+<break time="0.7s"/>
+[KO] 과자.
+<break time="0.5s"/>
+[FR] gâteau.
+<break time="1.5s"/>
+
+
+# gn — 니으 소리
+[KO] gn.
+<break time="1.0s"/>
+[FR] montagne.
+<break time="0.7s"/>
+[KO] 산.
+<break time="0.5s"/>
+[FR] montagne.
+<break time="1.5s"/>
+
+[FR] bagnole.
+<break time="0.7s"/>
+[KO] 자동차.
+<break time="0.5s"/>
+[FR] bagnole.
+<break time="1.5s"/>
+
+[FR] signe.
+<break time="0.7s"/>
+[KO] 기호.
+<break time="0.5s"/>
+[FR] signe.
+<break time="1.5s"/>
+
+
+# ch — sh 소리
+[KO] ch.
+<break time="1.0s"/>
+[FR] chapeau.
+<break time="0.7s"/>
+[KO] 모자.
+<break time="0.5s"/>
+[FR] chapeau.
+<break time="1.5s"/>
+
+[FR] acheter.
+<break time="0.7s"/>
+[KO] 사다.
+<break time="0.5s"/>
+[FR] acheter.
+<break time="1.5s"/>
+
+[FR] dimanche.
+<break time="0.7s"/>
+[KO] 일요일.
+<break time="0.5s"/>
+[FR] dimanche.
+<break time="1.5s"/>
+
+[FR] chanson.
+<break time="0.7s"/>
+[KO] 노래.
+<break time="0.5s"/>
+[FR] chanson.
+<break time="1.5s"/>
+
+
+# qu — 항상 [k]
+[KO] qu.
+<break time="1.0s"/>
+[FR] quatre.
+<break time="0.7s"/>
+[KO] 숫자 4.
+<break time="0.5s"/>
+[FR] quatre.
+<break time="1.5s"/>
+
+[FR] qui.
+<break time="0.7s"/>
+[KO] 누구.
+<break time="0.5s"/>
+[FR] qui.
+<break time="1.5s"/>
+
+[FR] quoi.
+<break time="0.7s"/>
+[KO] 무엇.
+<break time="0.5s"/>
+[FR] quoi.
+<break time="1.5s"/>
+
+
+# 모음 + s + 모음 — [z] 소리
+[KO] 모음 + s + 모음.
+<break time="1.0s"/>
+[FR] rose.
+<break time="0.7s"/>
+[KO] 장미.
+<break time="0.5s"/>
+[FR] rose.
+<break time="1.5s"/>
+
+[FR] saison.
+<break time="0.7s"/>
+[KO] 계절.
+<break time="0.5s"/>
+[FR] saison.
+<break time="1.5s"/>
+
+[FR] maison.
+<break time="0.7s"/>
+[KO] 집.
+<break time="0.5s"/>
+[FR] maison.
+<break time="1.5s"/>
+
+[FR] pause.
+<break time="0.7s"/>
+[KO] 정지.
+<break time="0.5s"/>
+[FR] pause.
+<break time="1.5s"/>
+
+
+# h — 항상 묵음
+[KO] h.
+<break time="1.0s"/>
+[FR] hôtel.
+<break time="0.7s"/>
+[KO] 호텔.
+<break time="0.5s"/>
+[FR] hôtel.
+<break time="1.5s"/>
+
+[FR] humain.
+<break time="0.7s"/>
+[KO] 인간적인.
+<break time="0.5s"/>
+[FR] humain.
+<break time="1.5s"/>
+
+[FR] huit.
+<break time="0.7s"/>
+[KO] 숫자 8.
+<break time="0.5s"/>
+[FR] huit.
+<break time="1.5s"/>
+
+[FR] haricot.
+<break time="0.7s"/>
+[KO] 강낭콩.
+<break time="0.5s"/>
+[FR] haricot.
+<break time="1.5s"/>
+
+
+# th — 항상 [t]
+[KO] th.
+<break time="1.0s"/>
+[FR] théâtre.
+<break time="0.7s"/>
+[KO] 극장.
+<break time="0.5s"/>
+[FR] théâtre.
+<break time="1.5s"/>
+
+[FR] méthode.
+<break time="0.7s"/>
+[KO] 방법.
+<break time="0.5s"/>
+[FR] méthode.
+<break time="1.5s"/>
+
+[FR] thé.
+<break time="0.7s"/>
+[KO] 마시는 차.
+<break time="0.5s"/>
+[FR] thé.
+<break time="1.5s"/>
+
+
+# R 발음 — 모음 조합 연습
+[KO] R 발음 연습.
+<break time="1.0s"/>
+[FR] Ra.
+<break time="0.7s"/>
+[FR] Ra.
+<break time="1.5s"/>
+
+[FR] Ri.
+<break time="0.7s"/>
+[FR] Ri.
+<break time="1.5s"/>
+
+[FR] Rou.
+<break time="0.7s"/>
+[FR] Rou.
+<break time="1.5s"/>
+
+[FR] Ré.
+<break time="0.7s"/>
+[FR] Ré.
+<break time="1.5s"/>
+
+[FR] Ro.
+<break time="0.7s"/>
+[FR] Ro.
+<break time="1.5s"/>
+
+[FR] Ru.
+<break time="0.7s"/>
+[FR] Ru.
+<break time="1.5s"/>
+
+[FR] Re.
+<break time="0.7s"/>
+[FR] Re.
+<break time="1.5s"/>
+
+# R 발음 — 단어 첫머리 R
+[FR] Rose.
+<break time="0.7s"/>
+[KO] 장미.
+<break time="0.5s"/>
+[FR] Rose.
+<break time="1.5s"/>
+
+[FR] Rue.
+<break time="0.7s"/>
+[KO] 길.
+<break time="0.5s"/>
+[FR] Rue.
+<break time="1.5s"/>
+
+[FR] Riz.
+<break time="0.7s"/>
+[KO] 쌀.
+<break time="0.5s"/>
+[FR] Riz.
+<break time="1.5s"/>
+
+[FR] Reportage.
+<break time="0.7s"/>
+[KO] 보도.
+<break time="0.5s"/>
+[FR] Reportage.
+<break time="1.5s"/>
+
+[FR] Réussir.
+<break time="0.7s"/>
+[KO] 성공하다.
+<break time="0.5s"/>
+[FR] Réussir.
+<break time="1.5s"/>
+
+[FR] Ramasser.
+<break time="0.7s"/>
+[KO] 줍다.
+<break time="0.5s"/>
+[FR] Ramasser.
+<break time="1.5s"/>
+
+
+# R 발음 — 단어 중간 R
+[FR] merci.
+<break time="0.7s"/>
+[KO] 고마워요.
+<break time="0.5s"/>
+[FR] merci.
+<break time="1.5s"/>
+
+[FR] Marseille.
+<break time="0.7s"/>
+[KO] 마르세이유.
+<break time="0.5s"/>
+[FR] Marseille.
+<break time="1.5s"/>
+
+[FR] Versailles.
+<break time="0.7s"/>
+[KO] 베르사유.
+<break time="0.5s"/>
+[FR] Versailles.
+<break time="1.5s"/>
+
+[FR] certain.
+<break time="0.7s"/>
+[KO] 확실한.
+<break time="0.5s"/>
+[FR] certain.
+<break time="1.5s"/>
+
+[FR] fruit.
+<break time="0.7s"/>
+[KO] 과일.
+<break time="0.5s"/>
+[FR] fruit.
+<break time="1.5s"/>
+
+[FR] Pardon.
+<break time="0.7s"/>
+[KO] 미안해요.
+<break time="0.5s"/>
+[FR] Pardon.
+<break time="1.5s"/>
+
+[FR] pareil.
+<break time="0.7s"/>
+[KO] 비슷한.
+<break time="0.5s"/>
+[FR] pareil.
+<break time="1.5s"/>
+
+[FR] France.
+<break time="0.7s"/>
+[KO] 프랑스.
+<break time="0.5s"/>
+[FR] France.
+<break time="1.5s"/>
+
+[FR] perdre.
+<break time="0.7s"/>
+[KO] 잃다.
+<break time="0.5s"/>
+[FR] perdre.
+<break time="1.5s"/>
+
+
+# R 발음 — 단어 끝 R
+[FR] Bonjour.
+<break time="0.7s"/>
+[KO] 안녕.
+<break time="0.5s"/>
+[FR] Bonjour.
+<break time="1.5s"/>
+
+[FR] Tous les jours.
+<break time="0.7s"/>
+[KO] 매일.
+<break time="0.5s"/>
+[FR] Tous les jours.
+<break time="1.5s"/>
+
+[FR] amour.
+<break time="0.7s"/>
+[KO] 사랑.
+<break time="0.5s"/>
+[FR] amour.
+<break time="1.5s"/>
+
+[FR] Paris.
+<break time="0.7s"/>
+[KO] 파리.
+<break time="0.5s"/>
+[FR] Paris.
+<break time="1.5s"/>
+

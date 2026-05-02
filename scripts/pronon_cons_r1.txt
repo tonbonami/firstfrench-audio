@@ -1,0 +1,85 @@
+# 프랑스어의 자음 — R 발음 모음 조합 + 첫머리
+
+[KO] R 발음 모음 조합.
+<break time="1.0s"/>
+
+[FR] Ra.
+<break time="0.7s"/>
+[FR] Ra.
+<break time="1.5s"/>
+
+[FR] Ri.
+<break time="0.7s"/>
+[FR] Ri.
+<break time="1.5s"/>
+
+[FR] Rou.
+<break time="0.7s"/>
+[FR] Rou.
+<break time="1.5s"/>
+
+[FR] Ré.
+<break time="0.7s"/>
+[FR] Ré.
+<break time="1.5s"/>
+
+[FR] Ro.
+<break time="0.7s"/>
+[FR] Ro.
+<break time="1.5s"/>
+
+[FR] Ru.
+<break time="0.7s"/>
+[FR] Ru.
+<break time="1.5s"/>
+
+[FR] Re.
+<break time="0.7s"/>
+[FR] Re.
+<break time="1.5s"/>
+
+[KO] R 단어 첫머리.
+<break time="1.0s"/>
+
+[FR] Rose.
+<break time="0.7s"/>
+[KO] 장미.
+<break time="0.5s"/>
+[FR] Rose.
+<break time="1.5s"/>
+
+[FR] Rue.
+<break time="0.7s"/>
+[KO] 길.
+<break time="0.5s"/>
+[FR] Rue.
+<break time="1.5s"/>
+
+[FR] Riz.
+<break time="0.7s"/>
+[KO] 쌀.
+<break time="0.5s"/>
+[FR] Riz.
+<break time="1.5s"/>
+
+[FR] Reportage.
+<break time="0.7s"/>
+[KO] 보도.
+<break time="0.5s"/>
+[FR] Reportage.
+<break time="1.5s"/>
+
+[FR] Réussir.
+<break time="0.7s"/>
+[KO] 성공하다.
+<break time="0.5s"/>
+[FR] Réussir.
+<break time="1.5s"/>
+
+[FR] Ramasser.
+<break time="0.7s"/>
+[KO] 줍다.
+<break time="0.5s"/>
+[FR] Ramasser.
+<break time="1.5s"/>
+

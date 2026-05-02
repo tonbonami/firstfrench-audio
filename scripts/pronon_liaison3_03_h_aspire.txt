@@ -1,0 +1,20 @@
+# 리에종 3강 — 금지 — 유음 h
+
+# 금지 — 유음 h
+[KO] 금지 — 유음 h.
+<break time="1.0s"/>
+
+[FR] les héros.
+<break time="0.7s"/>
+[KO] 영웅들.
+<break time="0.5s"/>
+[FR] les héros.
+<break time="1.5s"/>
+
+[FR] mes haricots.
+<break time="0.7s"/>
+[KO] 내 콩들.
+<break time="0.5s"/>
+[FR] mes haricots.
+<break time="1.5s"/>
+

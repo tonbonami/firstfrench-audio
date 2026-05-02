@@ -1,0 +1,99 @@
+# 프랑스어의 자음 — R 단어 중간/끝
+
+[KO] R 단어 중간.
+<break time="1.0s"/>
+
+[FR] merci.
+<break time="0.7s"/>
+[KO] 고마워요.
+<break time="0.5s"/>
+[FR] merci.
+<break time="1.5s"/>
+
+[FR] Marseille.
+<break time="0.7s"/>
+[KO] 마르세이유.
+<break time="0.5s"/>
+[FR] Marseille.
+<break time="1.5s"/>
+
+[FR] Versailles.
+<break time="0.7s"/>
+[KO] 베르사유.
+<break time="0.5s"/>
+[FR] Versailles.
+<break time="1.5s"/>
+
+[FR] certain.
+<break time="0.7s"/>
+[KO] 확실한.
+<break time="0.5s"/>
+[FR] certain.
+<break time="1.5s"/>
+
+[FR] fruit.
+<break time="0.7s"/>
+[KO] 과일.
+<break time="0.5s"/>
+[FR] fruit.
+<break time="1.5s"/>
+
+[FR] Pardon.
+<break time="0.7s"/>
+[KO] 미안해요.
+<break time="0.5s"/>
+[FR] Pardon.
+<break time="1.5s"/>
+
+[FR] pareil.
+<break time="0.7s"/>
+[KO] 비슷한.
+<break time="0.5s"/>
+[FR] pareil.
+<break time="1.5s"/>
+
+[FR] France.
+<break time="0.7s"/>
+[KO] 프랑스.
+<break time="0.5s"/>
+[FR] France.
+<break time="1.5s"/>
+
+[FR] perdre.
+<break time="0.7s"/>
+[KO] 잃다.
+<break time="0.5s"/>
+[FR] perdre.
+<break time="1.5s"/>
+
+[KO] R 단어 끝.
+<break time="1.0s"/>
+
+[FR] Bonjour.
+<break time="0.7s"/>
+[KO] 안녕.
+<break time="0.5s"/>
+[FR] Bonjour.
+<break time="1.5s"/>
+
+[FR] Tous les jours.
+<break time="0.7s"/>
+[KO] 매일.
+<break time="0.5s"/>
+[FR] Tous les jours.
+<break time="1.5s"/>
+
+[FR] amour.
+<break time="0.7s"/>
+[KO] 사랑.
+<break time="0.5s"/>
+[FR] amour.
+<break time="1.5s"/>
+
+[FR] Paris.
+<break time="0.7s"/>
+[KO] 파리.
+<break time="0.5s"/>
+[FR] Paris.
+<break time="1.5s"/>
+

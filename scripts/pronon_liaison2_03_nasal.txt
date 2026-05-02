@@ -1,0 +1,34 @@
+# 리에종 2강 — 비음 변화 — 유지/해제
+
+# 비음 변화 — 유지/해제
+[KO] 비음 변화 — 유지/해제.
+<break time="1.0s"/>
+
+[FR] un ami.
+<break time="0.7s"/>
+[KO] 한 명의 친구.
+<break time="0.5s"/>
+[FR] un ami.
+<break time="1.5s"/>
+
+[FR] mon ami.
+<break time="0.7s"/>
+[KO] 내 친구.
+<break time="0.5s"/>
+[FR] mon ami.
+<break time="1.5s"/>
+
+[FR] bon ami.
+<break time="0.7s"/>
+[KO] 좋은 친구.
+<break time="0.5s"/>
+[FR] bon ami.
+<break time="1.5s"/>
+
+[FR] ancien ami.
+<break time="0.7s"/>
+[KO] 옛 친구.
+<break time="0.5s"/>
+[FR] ancien ami.
+<break time="1.5s"/>
+

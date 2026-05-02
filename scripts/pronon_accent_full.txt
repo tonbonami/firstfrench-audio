@@ -1,0 +1,163 @@
+# 프랑스어 철자 기호 정리
+# Page: 34ab1658e7ec81369600d6d17bbefded
+
+# 1. 악상떼귀 (accent aigu, ´)
+[KO] 악상떼귀.
+<break time="1.0s"/>
+[FR] Corée.
+<break time="0.7s"/>
+[KO] 한국.
+<break time="0.5s"/>
+[FR] Corée.
+<break time="1.5s"/>
+
+[FR] né.
+<break time="0.7s"/>
+[KO] 태어난.
+<break time="0.5s"/>
+[FR] né.
+<break time="1.5s"/>
+
+[FR] été.
+<break time="0.7s"/>
+[KO] 여름.
+<break time="0.5s"/>
+[FR] été.
+<break time="1.5s"/>
+
+[FR] éponge.
+<break time="0.7s"/>
+[KO] 스펀지.
+<break time="0.5s"/>
+[FR] éponge.
+<break time="1.5s"/>
+
+[FR] épice.
+<break time="0.7s"/>
+[KO] 양념.
+<break time="0.5s"/>
+[FR] épice.
+<break time="1.5s"/>
+
+[FR] étrange.
+<break time="0.7s"/>
+[KO] 이상한.
+<break time="0.5s"/>
+[FR] étrange.
+<break time="2.0s"/>
+
+# 2. 악상그라브 (accent grave, `)
+[KO] 악상그라브.
+<break time="1.0s"/>
+[FR] à.
+<break time="0.7s"/>
+[KO] 에서.
+<break time="0.5s"/>
+[FR] à.
+<break time="1.5s"/>
+
+[FR] célèbre.
+<break time="0.7s"/>
+[KO] 유명한.
+<break time="0.5s"/>
+[FR] célèbre.
+<break time="1.5s"/>
+
+[FR] là.
+<break time="0.7s"/>
+[KO] 거기.
+<break time="0.5s"/>
+[FR] là.
+<break time="1.5s"/>
+
+[FR] où.
+<break time="0.7s"/>
+[KO] 어디.
+<break time="0.5s"/>
+[FR] où.
+<break time="2.0s"/>
+
+# 3. 악상시르콩플렉스 (accent circonflexe, ˆ)
+[KO] 악상시르콩플렉스.
+<break time="1.0s"/>
+[FR] fête.
+<break time="0.7s"/>
+[KO] 축제.
+<break time="0.5s"/>
+[FR] fête.
+<break time="1.5s"/>
+
+[FR] hôpital.
+<break time="0.7s"/>
+[KO] 병원.
+<break time="0.5s"/>
+[FR] hôpital.
+<break time="1.5s"/>
+
+[FR] forêt.
+<break time="0.7s"/>
+[KO] 숲.
+<break time="0.5s"/>
+[FR] forêt.
+<break time="2.0s"/>
+
+# 4. 쎄디유 (cédille, ¸)
+[KO] 쎄디유.
+<break time="1.0s"/>
+[FR] ça.
+<break time="0.7s"/>
+[KO] 그것.
+<break time="0.5s"/>
+[FR] ça.
+<break time="1.5s"/>
+
+[FR] leçon.
+<break time="0.7s"/>
+[KO] 레슨.
+<break time="0.5s"/>
+[FR] leçon.
+<break time="1.5s"/>
+
+[FR] reçu.
+<break time="0.7s"/>
+[KO] 받은.
+<break time="0.5s"/>
+[FR] reçu.
+<break time="1.5s"/>
+
+[FR] Français.
+<break time="0.7s"/>
+[KO] 프랑스어.
+<break time="0.5s"/>
+[FR] Français.
+<break time="2.0s"/>
+
+# 5. 트레마 (tréma, ¨)
+[KO] 트레마.
+<break time="1.0s"/>
+[FR] mais.
+<break time="0.7s"/>
+[KO] 그러나.
+<break time="0.5s"/>
+[FR] mais.
+<break time="1.5s"/>
+
+[FR] maïs.
+<break time="0.7s"/>
+[KO] 옥수수.
+<break time="0.5s"/>
+[FR] maïs.
+<break time="1.5s"/>
+
+[FR] Noël.
+<break time="0.7s"/>
+[KO] 크리스마스.
+<break time="0.5s"/>
+[FR] Noël.
+<break time="1.5s"/>
+
+[FR] Haïti.
+<break time="0.7s"/>
+[KO] 아이티.
+<break time="0.5s"/>
+[FR] Haïti.

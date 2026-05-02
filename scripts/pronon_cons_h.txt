@@ -1,0 +1,34 @@
+# 프랑스어의 자음 — h — 묵음
+
+# h — 묵음
+[KO] h — 묵음.
+<break time="1.0s"/>
+
+[FR] hôtel.
+<break time="0.7s"/>
+[KO] 호텔.
+<break time="0.5s"/>
+[FR] hôtel.
+<break time="1.5s"/>
+
+[FR] humain.
+<break time="0.7s"/>
+[KO] 인간적인.
+<break time="0.5s"/>
+[FR] humain.
+<break time="1.5s"/>
+
+[FR] huit.
+<break time="0.7s"/>
+[KO] 숫자 8.
+<break time="0.5s"/>
+[FR] huit.
+<break time="1.5s"/>
+
+[FR] haricot.
+<break time="0.7s"/>
+[KO] 강낭콩.
+<break time="0.5s"/>
+[FR] haricot.
+<break time="1.5s"/>
+

@@ -1,0 +1,48 @@
+# 프랑스어 철자 기호 — 악상떼귀 (accent aigu)
+
+# 악상떼귀 (accent aigu)
+[KO] 악상떼귀 (accent aigu).
+<break time="1.0s"/>
+
+[FR] Corée.
+<break time="0.7s"/>
+[KO] 한국.
+<break time="0.5s"/>
+[FR] Corée.
+<break time="1.5s"/>
+
+[FR] né.
+<break time="0.7s"/>
+[KO] 태어난.
+<break time="0.5s"/>
+[FR] né.
+<break time="1.5s"/>
+
+[FR] été.
+<break time="0.7s"/>
+[KO] 여름.
+<break time="0.5s"/>
+[FR] été.
+<break time="1.5s"/>
+
+[FR] éponge.
+<break time="0.7s"/>
+[KO] 스펀지.
+<break time="0.5s"/>
+[FR] éponge.
+<break time="1.5s"/>
+
+[FR] épice.
+<break time="0.7s"/>
+[KO] 양념.
+<break time="0.5s"/>
+[FR] épice.
+<break time="1.5s"/>
+
+[FR] étrange.
+<break time="0.7s"/>
+[KO] 이상한.
+<break time="0.5s"/>
+[FR] étrange.
+<break time="1.5s"/>
+

@@ -1,0 +1,34 @@
+# R 단어 끝
+
+# R 단어 끝
+[KO] R 단어 끝.
+<break time="1.0s"/>
+
+[FR] Bonjour.
+<break time="0.7s"/>
+[KO] 안녕.
+<break time="0.5s"/>
+[FR] Bonjour.
+<break time="1.5s"/>
+
+[FR] Tous les jours.
+<break time="0.7s"/>
+[KO] 매일.
+<break time="0.5s"/>
+[FR] Tous les jours.
+<break time="1.5s"/>
+
+[FR] amour.
+<break time="0.7s"/>
+[KO] 사랑.
+<break time="0.5s"/>
+[FR] amour.
+<break time="1.5s"/>
+
+[FR] Paris.
+<break time="0.7s"/>
+[KO] 파리.
+<break time="0.5s"/>
+[FR] Paris.
+<break time="1.5s"/>
+

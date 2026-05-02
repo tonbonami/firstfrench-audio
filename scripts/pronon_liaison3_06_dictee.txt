@@ -1,0 +1,41 @@
+# 리에종 3강 — Dictée
+
+# Dictée
+[KO] Dictée.
+<break time="1.0s"/>
+
+[FR] Vous avez un chat.
+<break time="0.7s"/>
+[KO] 고양이가 있어요.
+<break time="0.5s"/>
+[FR] Vous avez un chat.
+<break time="1.5s"/>
+
+[FR] Ils ont une idée.
+<break time="0.7s"/>
+[KO] 아이디어가 있어요.
+<break time="0.5s"/>
+[FR] Ils ont une idée.
+<break time="1.5s"/>
+
+[FR] Un ami arrive.
+<break time="0.7s"/>
+[KO] 한 친구가 도착해요.
+<break time="0.5s"/>
+[FR] Un ami arrive.
+<break time="1.5s"/>
+
+[FR] Trois amis arrivent.
+<break time="0.7s"/>
+[KO] 세 친구가 도착해요.
+<break time="0.5s"/>
+[FR] Trois amis arrivent.
+<break time="1.5s"/>
+
+[FR] Cinq euros ici.
+<break time="0.7s"/>
+[KO] 여기 5유로.
+<break time="0.5s"/>
+[FR] Cinq euros ici.
+<break time="1.5s"/>
+

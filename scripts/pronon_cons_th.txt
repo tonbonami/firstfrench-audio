@@ -1,0 +1,27 @@
+# 프랑스어의 자음 — th — [t]
+
+# th — [t]
+[KO] th — [t].
+<break time="1.0s"/>
+
+[FR] théâtre.
+<break time="0.7s"/>
+[KO] 극장.
+<break time="0.5s"/>
+[FR] théâtre.
+<break time="1.5s"/>
+
+[FR] méthode.
+<break time="0.7s"/>
+[KO] 방법.
+<break time="0.5s"/>
+[FR] méthode.
+<break time="1.5s"/>
+
+[FR] thé.
+<break time="0.7s"/>
+[KO] 차.
+<break time="0.5s"/>
+[FR] thé.
+<break time="1.5s"/>
+

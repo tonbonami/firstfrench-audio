@@ -1,0 +1,41 @@
+# il, ill (1)
+
+# il, ill (1)
+[KO] il, ill (1).
+<break time="1.0s"/>
+
+[FR] travail.
+<break time="0.7s"/>
+[KO] 일.
+<break time="0.5s"/>
+[FR] travail.
+<break time="1.5s"/>
+
+[FR] bataille.
+<break time="0.7s"/>
+[KO] 전투.
+<break time="0.5s"/>
+[FR] bataille.
+<break time="1.5s"/>
+
+[FR] soleil.
+<break time="0.7s"/>
+[KO] 태양.
+<break time="0.5s"/>
+[FR] soleil.
+<break time="1.5s"/>
+
+[FR] fille.
+<break time="0.7s"/>
+[KO] 딸.
+<break time="0.5s"/>
+[FR] fille.
+<break time="1.5s"/>
+
+[FR] feuille.
+<break time="0.7s"/>
+[KO] 잎.
+<break time="0.5s"/>
+[FR] feuille.
+<break time="1.5s"/>
+

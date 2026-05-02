@@ -1,0 +1,41 @@
+# 프랑스어 모음 정리 ① — o [오]
+
+# o [오]
+[KO] o [오].
+<break time="1.0s"/>
+
+[FR] poste.
+<break time="0.7s"/>
+[KO] 우체국.
+<break time="0.5s"/>
+[FR] poste.
+<break time="1.5s"/>
+
+[FR] rose.
+<break time="0.7s"/>
+[KO] 장미.
+<break time="0.5s"/>
+[FR] rose.
+<break time="1.5s"/>
+
+[FR] dôme.
+<break time="0.7s"/>
+[KO] 돔.
+<break time="0.5s"/>
+[FR] dôme.
+<break time="1.5s"/>
+
+[FR] hôtel.
+<break time="0.7s"/>
+[KO] 호텔.
+<break time="0.5s"/>
+[FR] hôtel.
+<break time="1.5s"/>
+
+[FR] homme.
+<break time="0.7s"/>
+[KO] 남자.
+<break time="0.5s"/>
+[FR] homme.
+<break time="1.5s"/>
+

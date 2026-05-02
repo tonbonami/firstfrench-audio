@@ -1,0 +1,34 @@
+# 프랑스어 철자 기호 — 쎄디유 (cédille)
+
+# 쎄디유 (cédille)
+[KO] 쎄디유 (cédille).
+<break time="1.0s"/>
+
+[FR] ça.
+<break time="0.7s"/>
+[KO] 그것.
+<break time="0.5s"/>
+[FR] ça.
+<break time="1.5s"/>
+
+[FR] leçon.
+<break time="0.7s"/>
+[KO] 레슨.
+<break time="0.5s"/>
+[FR] leçon.
+<break time="1.5s"/>
+
+[FR] reçu.
+<break time="0.7s"/>
+[KO] 받은.
+<break time="0.5s"/>
+[FR] reçu.
+<break time="1.5s"/>
+
+[FR] Français.
+<break time="0.7s"/>
+[KO] 프랑스어.
+<break time="0.5s"/>
+[FR] Français.
+<break time="1.5s"/>
+

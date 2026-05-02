@@ -1,0 +1,34 @@
+# g — a/o/u [g]
+
+# g — a/o/u 강한 소리
+[KO] g — a/o/u 강한 소리.
+<break time="1.0s"/>
+
+[FR] gare.
+<break time="0.7s"/>
+[KO] 역.
+<break time="0.5s"/>
+[FR] gare.
+<break time="1.5s"/>
+
+[FR] gomme.
+<break time="0.7s"/>
+[KO] 지우개.
+<break time="0.5s"/>
+[FR] gomme.
+<break time="1.5s"/>
+
+[FR] figure.
+<break time="0.7s"/>
+[KO] 얼굴.
+<break time="0.5s"/>
+[FR] figure.
+<break time="1.5s"/>
+
+[FR] gâteau.
+<break time="0.7s"/>
+[KO] 과자.
+<break time="0.5s"/>
+[FR] gâteau.
+<break time="1.5s"/>
+

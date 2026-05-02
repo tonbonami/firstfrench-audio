@@ -1,0 +1,41 @@
+# R 단어 중간 (1)
+
+# R 단어 중간 (1)
+[KO] R 단어 중간 (1).
+<break time="1.0s"/>
+
+[FR] merci.
+<break time="0.7s"/>
+[KO] 고마워요.
+<break time="0.5s"/>
+[FR] merci.
+<break time="1.5s"/>
+
+[FR] Marseille.
+<break time="0.7s"/>
+[KO] 마르세이유.
+<break time="0.5s"/>
+[FR] Marseille.
+<break time="1.5s"/>
+
+[FR] Versailles.
+<break time="0.7s"/>
+[KO] 베르사유.
+<break time="0.5s"/>
+[FR] Versailles.
+<break time="1.5s"/>
+
+[FR] certain.
+<break time="0.7s"/>
+[KO] 확실한.
+<break time="0.5s"/>
+[FR] certain.
+<break time="1.5s"/>
+
+[FR] fruit.
+<break time="0.7s"/>
+[KO] 과일.
+<break time="0.5s"/>
+[FR] fruit.
+<break time="1.5s"/>
+

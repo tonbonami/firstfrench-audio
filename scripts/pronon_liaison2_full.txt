@@ -1,0 +1,208 @@
+# 리에종 2강 — 선택·금지 + 비음 변화 + très·plus + 앙셰느망
+
+# 선택 리에종
+[KO] 선택 리에종.
+<break time="1.0s"/>
+[FR] grand ami.
+<break time="0.7s"/>
+[KO] 좋은 친구.
+<break time="0.5s"/>
+[FR] grand ami.
+<break time="1.5s"/>
+
+[FR] choses intéressantes.
+<break time="0.7s"/>
+[KO] 흥미로운 것들.
+<break time="0.5s"/>
+[FR] choses intéressantes.
+<break time="1.5s"/>
+
+[FR] regard attentif.
+<break time="0.7s"/>
+[KO] 주의 깊은 시선.
+<break time="0.5s"/>
+[FR] regard attentif.
+<break time="1.5s"/>
+
+# 금지 리에종
+[KO] 금지 리에종.
+<break time="1.0s"/>
+[FR] Paul arrive.
+<break time="0.7s"/>
+[KO] Paul이 도착하다.
+<break time="0.5s"/>
+[FR] Paul arrive.
+<break time="1.5s"/>
+
+[FR] il aime.
+<break time="0.7s"/>
+[KO] 그는 좋아한다.
+<break time="0.5s"/>
+[FR] il aime.
+<break time="1.5s"/>
+
+[FR] et elle.
+<break time="0.7s"/>
+[KO] 그리고 그녀.
+<break time="0.5s"/>
+[FR] et elle.
+<break time="1.5s"/>
+
+[FR] Paris est beau.
+<break time="0.7s"/>
+[KO] 파리는 아름답다.
+<break time="0.5s"/>
+[FR] Paris est beau.
+<break time="1.5s"/>
+
+# 비음 유지
+[KO] 비음 유지.
+<break time="1.0s"/>
+[FR] un ami.
+<break time="0.7s"/>
+[KO] 한 명의 친구.
+<break time="0.5s"/>
+[FR] un ami.
+<break time="1.5s"/>
+
+[FR] mon ami.
+<break time="0.7s"/>
+[KO] 내 친구.
+<break time="0.5s"/>
+[FR] mon ami.
+<break time="1.5s"/>
+
+# 비음 해제
+[KO] 비음 해제.
+<break time="1.0s"/>
+[FR] bon ami.
+<break time="0.7s"/>
+[KO] 좋은 친구.
+<break time="0.5s"/>
+[FR] bon ami.
+<break time="1.5s"/>
+
+[FR] ancien ami.
+<break time="0.7s"/>
+[KO] 옛 친구.
+<break time="0.5s"/>
+[FR] ancien ami.
+<break time="1.5s"/>
+
+# très
+[KO] 트레.
+<break time="1.0s"/>
+[FR] très agréable.
+<break time="0.7s"/>
+[KO] 매우 즐거운.
+<break time="0.5s"/>
+[FR] très agréable.
+<break time="1.5s"/>
+
+# plus — 부정 (리에종 없음)
+[FR] Je n'en veux plus.
+<break time="0.7s"/>
+[KO] 더 이상 원하지 않는다.
+<break time="0.5s"/>
+[FR] Je n'en veux plus.
+<break time="1.5s"/>
+
+# plus — 비교 (리에종 있음)
+[FR] plus agréable.
+<break time="0.7s"/>
+[KO] 더 즐거운.
+<break time="0.5s"/>
+[FR] plus agréable.
+<break time="1.5s"/>
+
+# plus — 강조 (리에종 있음)
+[FR] plus important.
+<break time="0.7s"/>
+[KO] 더 중요한.
+<break time="0.5s"/>
+[FR] plus important.
+<break time="1.5s"/>
+
+# 앙셰느망
+[KO] 앙셰느망.
+<break time="1.0s"/>
+[FR] il arrive.
+<break time="0.7s"/>
+[KO] 그가 도착하다.
+<break time="0.5s"/>
+[FR] il arrive.
+<break time="1.5s"/>
+
+[FR] elle est.
+<break time="0.7s"/>
+[KO] 그녀는.
+<break time="0.5s"/>
+[FR] elle est.
+<break time="1.5s"/>
+
+[FR] petite amie.
+<break time="0.7s"/>
+[KO] 여자친구.
+<break time="0.5s"/>
+[FR] petite amie.
+<break time="1.5s"/>
+
+# 실전 문장
+[KO] 실전 문장.
+<break time="1.0s"/>
+[FR] Les enfants arrivent ce soir.
+<break time="0.7s"/>
+[KO] 아이들이 오늘 저녁에 도착해요.
+<break time="0.5s"/>
+[FR] Les enfants arrivent ce soir.
+<break time="1.5s"/>
+
+[FR] Nous avons acheté une voiture.
+<break time="0.7s"/>
+[KO] 우리는 차를 샀어요.
+<break time="0.5s"/>
+[FR] Nous avons acheté une voiture.
+<break time="1.5s"/>
+
+[FR] Vous êtes en avance.
+<break time="0.7s"/>
+[KO] 당신은 일찍 오셨어요.
+<break time="0.5s"/>
+[FR] Vous êtes en avance.
+<break time="1.5s"/>
+
+[FR] Cinq euros, s'il vous plaît.
+<break time="0.7s"/>
+[KO] 5유로 부탁드려요.
+<break time="0.5s"/>
+[FR] Cinq euros, s'il vous plaît.
+<break time="1.5s"/>
+
+[FR] Je vous en prie.
+<break time="0.7s"/>
+[KO] 천만에요.
+<break time="0.5s"/>
+[FR] Je vous en prie.
+<break time="1.5s"/>
+
+[FR] Comment allez-vous.
+<break time="0.7s"/>
+[KO] 어떻게 지내세요.
+<break time="0.5s"/>
+[FR] Comment allez-vous.
+<break time="1.5s"/>
+
+[FR] C'est un bon ami.
+<break time="0.7s"/>
+[KO] 그는 좋은 친구예요.
+<break time="0.5s"/>
+[FR] C'est un bon ami.
+<break time="1.5s"/>
+
+[FR] Ils ont un petit enfant.
+<break time="0.7s"/>
+[KO] 그들은 어린 아이가 있어요.
+<break time="0.5s"/>
+[FR] Ils ont un petit enfant.
+<break time="1.5s"/>
+

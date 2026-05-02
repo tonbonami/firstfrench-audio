@@ -1,0 +1,69 @@
+# 프랑스어 모음 정리 ① — il, ill — 이으
+
+# il, ill — 이으
+[KO] il, ill — 이으.
+<break time="1.0s"/>
+
+[FR] travail.
+<break time="0.7s"/>
+[KO] 일.
+<break time="0.5s"/>
+[FR] travail.
+<break time="1.5s"/>
+
+[FR] bataille.
+<break time="0.7s"/>
+[KO] 전투.
+<break time="0.5s"/>
+[FR] bataille.
+<break time="1.5s"/>
+
+[FR] soleil.
+<break time="0.7s"/>
+[KO] 태양.
+<break time="0.5s"/>
+[FR] soleil.
+<break time="1.5s"/>
+
+[FR] fille.
+<break time="0.7s"/>
+[KO] 딸.
+<break time="0.5s"/>
+[FR] fille.
+<break time="1.5s"/>
+
+[FR] feuille.
+<break time="0.7s"/>
+[KO] 잎.
+<break time="0.5s"/>
+[FR] feuille.
+<break time="1.5s"/>
+
+[FR] œil.
+<break time="0.7s"/>
+[KO] 눈.
+<break time="0.5s"/>
+[FR] œil.
+<break time="1.5s"/>
+
+[FR] village.
+<break time="0.7s"/>
+[KO] 마을.
+<break time="0.5s"/>
+[FR] village.
+<break time="1.5s"/>
+
+[FR] tranquille.
+<break time="0.7s"/>
+[KO] 조용한.
+<break time="0.5s"/>
+[FR] tranquille.
+<break time="1.5s"/>
+
+[FR] mille.
+<break time="0.7s"/>
+[KO] 숫자 천.
+<break time="0.5s"/>
+[FR] mille.
+<break time="1.5s"/>
+

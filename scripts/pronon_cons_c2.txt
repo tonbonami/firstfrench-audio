@@ -1,0 +1,34 @@
+# c — a/o/u 앞 [k]
+
+# c — a/o/u 앞 k 소리
+[KO] c — a/o/u 앞 k 소리.
+<break time="1.0s"/>
+
+[FR] concours.
+<break time="0.7s"/>
+[KO] 콩쿠르.
+<break time="0.5s"/>
+[FR] concours.
+<break time="1.5s"/>
+
+[FR] café.
+<break time="0.7s"/>
+[KO] 커피.
+<break time="0.5s"/>
+[FR] café.
+<break time="1.5s"/>
+
+[FR] culture.
+<break time="0.7s"/>
+[KO] 문화.
+<break time="0.5s"/>
+[FR] culture.
+<break time="1.5s"/>
+
+[FR] école.
+<break time="0.7s"/>
+[KO] 학교.
+<break time="0.5s"/>
+[FR] école.
+<break time="1.5s"/>
+
