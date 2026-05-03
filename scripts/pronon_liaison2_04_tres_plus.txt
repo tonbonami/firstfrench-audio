@@ -1,4 +1,4 @@
-# 리에종 2강 — très · plus (Je n'en veux plus 되돌림)
+# 리에종 2강 — très · plus (plus 부정 + 모음 단어 예시)
 
 [FR] très agréable.
 <break time="0.7s"/>
@@ -7,11 +7,11 @@
 [FR] très agréable.
 <break time="1.5s"/>
 
-[FR] Je n'en veux plus.
+[FR] Il n'en mange plus, à midi.
 <break time="0.7s"/>
-[KO] 더 이상 원하지 않는다.
+[KO] 그는 더 이상 정오에 먹지 않는다.
 <break time="0.5s"/>
-[FR] Je n'en veux plus.
+[FR] Il n'en mange plus, à midi.
 <break time="1.5s"/>
 
 [FR] plus agréable.
