@@ -1,10 +1,10 @@
-# 모음 ② 비음 — un, um (un→brun)
+# 모음 ② 비음 — un, um (chacun)
 
-[FR] brun.
+[FR] chacun.
 <break time="0.7s"/>
-[KO] 갈색.
+[KO] 각자.
 <break time="0.5s"/>
-[FR] brun.
+[FR] chacun.
 <break time="1.5s"/>
 
 [FR] le lundi.
