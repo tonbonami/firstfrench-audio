@@ -1,10 +1,10 @@
-# 모음 ③ 복모음 — au, eau → [o]
+# 모음 ③ 복모음 — au, eau (사용자 명시)
 
-[FR] auto.
+[FR] une auto.
 <break time="0.7s"/>
 [KO] 자동차.
 <break time="0.5s"/>
-[FR] auto.
+[FR] une auto.
 <break time="1.5s"/>
 
 [FR-V25] jaune.
@@ -21,10 +21,10 @@
 [FR-V25] beau.
 <break time="1.5s"/>
 
-[FR] morceau.
+[FR] un morceau.
 <break time="0.7s"/>
 [KO] 조각.
 <break time="0.5s"/>
-[FR] morceau.
+[FR] un morceau.
 <break time="1.5s"/>
 

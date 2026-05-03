@@ -1,37 +1,37 @@
-# 알파벳 — FR 두 번만
+# 알파벳 (multilingual + 문제 letter 단축)
 
-[FR-V25] ache.
-<break time="1.0s"/>
-[FR-V25] ache.
-<break time="2.0s"/>
+[FR] ache.
+<break time="0.8s"/>
+[FR] ache.
+<break time="1.5s"/>
 
 [FR-V25] i.
-<break time="1.0s"/>
+<break time="0.8s"/>
 [FR-V25] i.
-<break time="2.0s"/>
+<break time="1.5s"/>
 
-[FR-V25] ji.
-<break time="1.0s"/>
-[FR-V25] ji.
-<break time="2.0s"/>
+[FR] ji.
+<break time="0.8s"/>
+[FR] ji.
+<break time="1.5s"/>
 
-[FR-V25] ka.
-<break time="1.0s"/>
-[FR-V25] ka.
-<break time="2.0s"/>
+[FR] ka.
+<break time="0.8s"/>
+[FR] ka.
+<break time="1.5s"/>
 
-[FR-V25] elle.
-<break time="1.0s"/>
-[FR-V25] elle.
-<break time="2.0s"/>
+[FR] elle.
+<break time="0.8s"/>
+[FR] elle.
+<break time="1.5s"/>
 
-[FR-V25] emme.
-<break time="1.0s"/>
-[FR-V25] emme.
-<break time="2.0s"/>
+[FR] em.
+<break time="0.8s"/>
+[FR] em.
+<break time="1.5s"/>
 
-[FR-V25] enne.
-<break time="1.0s"/>
-[FR-V25] enne.
-<break time="2.0s"/>
+[FR] enne.
+<break time="0.8s"/>
+[FR] enne.
+<break time="1.5s"/>
 

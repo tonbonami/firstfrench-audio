@@ -1,32 +1,32 @@
-# 알파벳 — FR 두 번만
+# 알파벳 (multilingual + 문제 letter 단축)
 
-[FR-V25] u.
-<break time="1.0s"/>
-[FR-V25] u.
-<break time="2.0s"/>
+[FR] u.
+<break time="0.8s"/>
+[FR] u.
+<break time="1.5s"/>
 
-[FR-V25] vé.
-<break time="1.0s"/>
-[FR-V25] vé.
-<break time="2.0s"/>
+[FR] vé.
+<break time="0.8s"/>
+[FR] vé.
+<break time="1.5s"/>
 
-[FR-V25] double vé.
-<break time="1.0s"/>
-[FR-V25] double vé.
-<break time="2.0s"/>
+[FR] double vé.
+<break time="0.8s"/>
+[FR] double vé.
+<break time="1.5s"/>
 
-[FR-V25] ix.
-<break time="1.0s"/>
-[FR-V25] ix.
-<break time="2.0s"/>
+[FR] ix.
+<break time="0.8s"/>
+[FR] ix.
+<break time="1.5s"/>
 
-[FR-V25] i grec.
-<break time="1.0s"/>
-[FR-V25] i grec.
-<break time="2.0s"/>
+[FR] i grec.
+<break time="0.8s"/>
+[FR] i grec.
+<break time="1.5s"/>
 
-[FR-V25] zède.
-<break time="1.0s"/>
-[FR-V25] zède.
-<break time="2.0s"/>
+[FR] zède.
+<break time="0.8s"/>
+[FR] zède.
+<break time="1.5s"/>
 

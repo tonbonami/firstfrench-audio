@@ -1,32 +1,32 @@
-# 알파벳 — FR 두 번만
+# 알파벳 (multilingual + 문제 letter 단축)
 
 [FR-V25] o.
-<break time="1.0s"/>
+<break time="0.8s"/>
 [FR-V25] o.
-<break time="2.0s"/>
+<break time="1.5s"/>
 
-[FR-V25] pé.
-<break time="1.0s"/>
-[FR-V25] pé.
-<break time="2.0s"/>
+[FR] pé.
+<break time="0.8s"/>
+[FR] pé.
+<break time="1.5s"/>
 
-[FR-V25] cu.
-<break time="1.0s"/>
-[FR-V25] cu.
-<break time="2.0s"/>
+[FR] cu.
+<break time="0.8s"/>
+[FR] cu.
+<break time="1.5s"/>
 
-[FR-V25] erre.
-<break time="1.0s"/>
-[FR-V25] erre.
-<break time="2.0s"/>
+[FR] er.
+<break time="0.8s"/>
+[FR] er.
+<break time="1.5s"/>
 
-[FR-V25] esse.
-<break time="1.0s"/>
-[FR-V25] esse.
-<break time="2.0s"/>
+[FR] es.
+<break time="0.8s"/>
+[FR] es.
+<break time="1.5s"/>
 
-[FR-V25] té.
-<break time="1.0s"/>
-[FR-V25] té.
-<break time="2.0s"/>
+[FR] té.
+<break time="0.8s"/>
+[FR] té.
+<break time="1.5s"/>
 

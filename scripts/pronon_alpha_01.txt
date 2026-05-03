@@ -1,37 +1,37 @@
-# 알파벳 — FR 두 번만
+# 알파벳 (multilingual + 문제 letter 단축)
 
 [FR-V25] a.
-<break time="1.0s"/>
+<break time="0.8s"/>
 [FR-V25] a.
-<break time="2.0s"/>
+<break time="1.5s"/>
 
-[FR-V25] bé.
-<break time="1.0s"/>
-[FR-V25] bé.
-<break time="2.0s"/>
+[FR] bé.
+<break time="0.8s"/>
+[FR] bé.
+<break time="1.5s"/>
 
-[FR-V25] cé.
-<break time="1.0s"/>
-[FR-V25] cé.
-<break time="2.0s"/>
+[FR] cé.
+<break time="0.8s"/>
+[FR] cé.
+<break time="1.5s"/>
 
-[FR-V25] dé.
-<break time="1.0s"/>
-[FR-V25] dé.
-<break time="2.0s"/>
+[FR] dé.
+<break time="0.8s"/>
+[FR] dé.
+<break time="1.5s"/>
 
-[FR-V25] e.
-<break time="1.0s"/>
-[FR-V25] e.
-<break time="2.0s"/>
+[FR] e.
+<break time="0.8s"/>
+[FR] e.
+<break time="1.5s"/>
 
-[FR-V25] effe.
-<break time="1.0s"/>
-[FR-V25] effe.
-<break time="2.0s"/>
+[FR] ef.
+<break time="0.8s"/>
+[FR] ef.
+<break time="1.5s"/>
 
-[FR-V25] gé.
-<break time="1.0s"/>
-[FR-V25] gé.
-<break time="2.0s"/>
+[FR] gé.
+<break time="0.8s"/>
+[FR] gé.
+<break time="1.5s"/>
 

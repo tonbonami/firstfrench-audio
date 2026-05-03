@@ -1,4 +1,4 @@
-# 모음 ② 비음 — 비음이 아닌 조합
+# 모음 ② 비음 — 비음이 아닌 조합 (mine 제거)
 
 [FR] bonne.
 <break time="0.7s"/>
@@ -12,13 +12,6 @@
 [KO] 남자.
 <break time="0.5s"/>
 [FR] homme.
-<break time="1.5s"/>
-
-[FR] mine.
-<break time="0.7s"/>
-[KO] 안색.
-<break time="0.5s"/>
-[FR] mine.
 <break time="1.5s"/>
 
 [FR] âme.

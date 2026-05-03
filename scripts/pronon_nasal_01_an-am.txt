@@ -1,17 +1,10 @@
-# 모음 ② 비음 — an, am, en, em → [ɑ̃]
+# 모음 ② 비음 — an, am, en, em (temple 제거)
 
 [FR] la lampe.
 <break time="0.7s"/>
 [KO] 램프.
 <break time="0.5s"/>
 [FR] la lampe.
-<break time="1.5s"/>
-
-[FR] temple.
-<break time="0.7s"/>
-[KO] 사원.
-<break time="0.5s"/>
-[FR] temple.
 <break time="1.5s"/>
 
 [FR] enfant.

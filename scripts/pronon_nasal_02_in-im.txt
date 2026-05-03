@@ -1,4 +1,4 @@
-# 모음 ② 비음 — in, im, ain, aim, ein → [ɛ̃]
+# 모음 ② 비음 — in, im, ain, aim, ein
 
 [FR] le jardin.
 <break time="0.7s"/>
@@ -35,10 +35,10 @@
 [FR] le peintre.
 <break time="1.5s"/>
 
-[FR] matin.
+[FR] le matin.
 <break time="0.7s"/>
 [KO] 아침.
 <break time="0.5s"/>
-[FR] matin.
+[FR] le matin.
 <break time="1.5s"/>
 
