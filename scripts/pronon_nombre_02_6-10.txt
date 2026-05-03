@@ -1,38 +1,37 @@
-# 숫자 읽기 1~10 — Section: 6~10 자음 탈락 규칙
-# Page: 프랑스어 숫자 읽기 (1~10) (34ab1658e7ec8105bbe4d333183bc8a1)
-# Anchor H1: "6~10 — 자음 탈락 규칙"
+# 숫자 6~10
 
-[FR] six
-<break time="1.0s"/>
-[KO] 여섯
-<break time="1.0s"/>
-[FR] six
+[FR-V25] six.
+<break time="0.7s"/>
+[KO] 여섯.
+<break time="0.5s"/>
+[FR-V25] six.
 <break time="1.5s"/>
 
-[FR] sept
-<break time="1.0s"/>
-[KO] 일곱
-<break time="1.0s"/>
-[FR] sept
+[FR-V25] sept.
+<break time="0.7s"/>
+[KO] 일곱.
+<break time="0.5s"/>
+[FR-V25] sept.
 <break time="1.5s"/>
 
-[FR] huit
-<break time="1.0s"/>
-[KO] 여덟
-<break time="1.0s"/>
-[FR] huit
+[FR-V25] huit.
+<break time="0.7s"/>
+[KO] 여덟.
+<break time="0.5s"/>
+[FR-V25] huit.
 <break time="1.5s"/>
 
-[FR] neuf
-<break time="1.0s"/>
-[KO] 아홉
-<break time="1.0s"/>
-[FR] neuf
+[FR-V25] neuf.
+<break time="0.7s"/>
+[KO] 아홉.
+<break time="0.5s"/>
+[FR-V25] neuf.
 <break time="1.5s"/>
 
-[FR] dix
-<break time="1.0s"/>
-[KO] 열
-<break time="1.0s"/>
-[FR] dix
-<break time="2.0s"/>
+[FR-V25] dix.
+<break time="0.7s"/>
+[KO] 열.
+<break time="0.5s"/>
+[FR-V25] dix.
+<break time="1.5s"/>
+

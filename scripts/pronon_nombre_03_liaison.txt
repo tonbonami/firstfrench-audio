@@ -1,59 +1,86 @@
-# 숫자 읽기 1~10 — Section: 단독 / 모음 앞 / 자음 앞 변형
-# Page: 프랑스어 숫자 읽기 (1~10) (34ab1658e7ec8105bbe4d333183bc8a1)
-# Anchor H1: "단독 / 모음 앞 / 자음 앞 변형"
+# 숫자 단독/모음앞/자음앞 변형 (설명 제거)
 
-# 1
-[FR] un
-<break time="1.0s"/>
-[KO] 단독
-<break time="1.0s"/>
-[FR] un ami
-<break time="1.0s"/>
-[KO] 한 친구, 모음 앞
-<break time="1.0s"/>
-[FR] un livre
-<break time="1.0s"/>
-[KO] 한 권의 책, 자음 앞
+[FR-V25] un.
+<break time="0.7s"/>
+[KO] 하나.
+<break time="0.5s"/>
+[FR-V25] un.
 <break time="1.5s"/>
 
-# 6
-[FR] six
-<break time="1.0s"/>
-[KO] 단독
-<break time="1.0s"/>
-[FR] six amis
-<break time="1.0s"/>
-[KO] 친구 여섯, 모음 앞
-<break time="1.0s"/>
-[FR] six livres
-<break time="1.0s"/>
-[KO] 책 여섯 권, 자음 앞
+[FR] un ami.
+<break time="0.7s"/>
+[KO] 한 친구.
+<break time="0.5s"/>
+[FR] un ami.
 <break time="1.5s"/>
 
-# 8
-[FR] huit
-<break time="1.0s"/>
-[KO] 단독
-<break time="1.0s"/>
-[FR] huit ans
-<break time="1.0s"/>
-[KO] 8년, 모음 앞
-<break time="1.0s"/>
-[FR] huit jours
-<break time="1.0s"/>
-[KO] 8일, 자음 앞
+[FR] un livre.
+<break time="0.7s"/>
+[KO] 한 권의 책.
+<break time="0.5s"/>
+[FR] un livre.
 <break time="1.5s"/>
 
-# 10
-[FR] dix
-<break time="1.0s"/>
-[KO] 단독
-<break time="1.0s"/>
-[FR] dix ans
-<break time="1.0s"/>
-[KO] 10년, 모음 앞
-<break time="1.0s"/>
-[FR] dix livres
-<break time="1.0s"/>
-[KO] 책 10권, 자음 앞
-<break time="2.0s"/>
+[FR-V25] six.
+<break time="0.7s"/>
+[KO] 여섯.
+<break time="0.5s"/>
+[FR-V25] six.
+<break time="1.5s"/>
+
+[FR] six amis.
+<break time="0.7s"/>
+[KO] 여섯 친구.
+<break time="0.5s"/>
+[FR] six amis.
+<break time="1.5s"/>
+
+[FR] six livres.
+<break time="0.7s"/>
+[KO] 책 여섯 권.
+<break time="0.5s"/>
+[FR] six livres.
+<break time="1.5s"/>
+
+[FR-V25] huit.
+<break time="0.7s"/>
+[KO] 여덟.
+<break time="0.5s"/>
+[FR-V25] huit.
+<break time="1.5s"/>
+
+[FR] huit amis.
+<break time="0.7s"/>
+[KO] 여덟 친구.
+<break time="0.5s"/>
+[FR] huit amis.
+<break time="1.5s"/>
+
+[FR] huit livres.
+<break time="0.7s"/>
+[KO] 책 여덟 권.
+<break time="0.5s"/>
+[FR] huit livres.
+<break time="1.5s"/>
+
+[FR-V25] dix.
+<break time="0.7s"/>
+[KO] 열.
+<break time="0.5s"/>
+[FR-V25] dix.
+<break time="1.5s"/>
+
+[FR] dix amis.
+<break time="0.7s"/>
+[KO] 열 친구.
+<break time="0.5s"/>
+[FR] dix amis.
+<break time="1.5s"/>
+
+[FR] dix livres.
+<break time="0.7s"/>
+[KO] 책 열 권.
+<break time="0.5s"/>
+[FR] dix livres.
+<break time="1.5s"/>
+

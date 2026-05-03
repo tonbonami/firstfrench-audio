@@ -1,45 +1,37 @@
-# 숫자 읽기 1~10 — Section: 1~5 가장 기본
-# Page: 프랑스어 숫자 읽기 (1~10) (34ab1658e7ec8105bbe4d333183bc8a1)
-# Anchor H1: "1~5 — 가장 기본"
+# 숫자 1~5
 
-[FR] un
-<break time="1.0s"/>
-[KO] 하나, 남성형
-<break time="1.0s"/>
-[FR] un
+[FR-V25] un.
+<break time="0.7s"/>
+[KO] 하나.
+<break time="0.5s"/>
+[FR-V25] un.
 <break time="1.5s"/>
 
-[FR] une
-<break time="1.0s"/>
-[KO] 하나, 여성형
-<break time="1.0s"/>
-[FR] une
+[FR-V25] deux.
+<break time="0.7s"/>
+[KO] 둘.
+<break time="0.5s"/>
+[FR-V25] deux.
 <break time="1.5s"/>
 
-[FR] deux
-<break time="1.0s"/>
-[KO] 둘
-<break time="1.0s"/>
-[FR] deux
+[FR-V25] trois.
+<break time="0.7s"/>
+[KO] 셋.
+<break time="0.5s"/>
+[FR-V25] trois.
 <break time="1.5s"/>
 
-[FR] trois
-<break time="1.0s"/>
-[KO] 셋
-<break time="1.0s"/>
-[FR] trois
+[FR] quatre.
+<break time="0.7s"/>
+[KO] 넷.
+<break time="0.5s"/>
+[FR] quatre.
 <break time="1.5s"/>
 
-[FR] quatre
-<break time="1.0s"/>
-[KO] 넷
-<break time="1.0s"/>
-[FR] quatre
+[FR-V25] cinq.
+<break time="0.7s"/>
+[KO] 다섯.
+<break time="0.5s"/>
+[FR-V25] cinq.
 <break time="1.5s"/>
 
-[FR] cinq
-<break time="1.0s"/>
-[KO] 다섯
-<break time="1.0s"/>
-[FR] cinq
-<break time="2.0s"/>

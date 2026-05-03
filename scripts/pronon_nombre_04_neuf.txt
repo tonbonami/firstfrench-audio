@@ -1,33 +1,23 @@
-# 숫자 읽기 1~10 — Section: 9의 특별한 리에종
-# Page: 프랑스어 숫자 읽기 (1~10) (34ab1658e7ec8105bbe4d333183bc8a1)
-# Anchor H1: "⭐ 9의 특별한 리에종"
+# 숫자 9의 특별 리에종
 
-# f → v 변신 (3개 단어 앞에서만)
-[FR] neuf ans
-<break time="1.0s"/>
-[KO] 9년
-<break time="1.0s"/>
-[FR] neuf ans
+[FR] neuf ans.
+<break time="0.7s"/>
+[KO] 9년.
+<break time="0.5s"/>
+[FR] neuf ans.
 <break time="1.5s"/>
 
-[FR] neuf heures
-<break time="1.0s"/>
-[KO] 9시
-<break time="1.0s"/>
-[FR] neuf heures
+[FR] neuf heures.
+<break time="0.7s"/>
+[KO] 9시.
+<break time="0.5s"/>
+[FR] neuf heures.
 <break time="1.5s"/>
 
-[FR] neuf euros
-<break time="1.0s"/>
-[KO] 9유로
-<break time="1.0s"/>
-[FR] neuf euros
+[FR] neuf euros.
+<break time="0.7s"/>
+[KO] 9유로.
+<break time="0.5s"/>
+[FR] neuf euros.
 <break time="1.5s"/>
 
-# 다른 단어 앞에서는 f 그대로
-[FR] neuf personnes
-<break time="1.0s"/>
-[KO] 9명, f 그대로
-<break time="1.0s"/>
-[FR] neuf personnes
-<break time="2.0s"/>
