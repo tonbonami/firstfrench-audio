@@ -1,10 +1,10 @@
-# 모음 ② 비음 — un, um (관사 추가)
+# 모음 ② 비음 — un, um (un→brun)
 
-[FR-V25] un.
+[FR] brun.
 <break time="0.7s"/>
-[KO] 하나.
+[KO] 갈색.
 <break time="0.5s"/>
-[FR-V25] un.
+[FR] brun.
 <break time="1.5s"/>
 
 [FR] le lundi.

@@ -1,4 +1,4 @@
-# 리에종 2강 — très · plus (plus 부정 예시 변경)
+# 리에종 2강 — très · plus (Je n'en veux plus 되돌림)
 
 [FR] très agréable.
 <break time="0.7s"/>
@@ -7,11 +7,11 @@
 [FR] très agréable.
 <break time="1.5s"/>
 
-[FR] Je ne le veux plus aujourd'hui.
+[FR] Je n'en veux plus.
 <break time="0.7s"/>
-[KO] 오늘은 더 이상 원하지 않는다.
+[KO] 더 이상 원하지 않는다.
 <break time="0.5s"/>
-[FR] Je ne le veux plus aujourd'hui.
+[FR] Je n'en veux plus.
 <break time="1.5s"/>
 
 [FR] plus agréable.
