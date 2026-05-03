@@ -1,0 +1,37 @@
+# 학생 phrases — 05_dejeuner_cantine
+
+[FR] Faire la queue à la cantine.
+<break time="0.7s"/>
+[KO] 학식 줄을 서다.
+<break time="0.5s"/>
+[FR] Faire la queue à la cantine.
+<break time="1.5s"/>
+
+[FR] Choisir son plat.
+<break time="0.7s"/>
+[KO] 메뉴를 고르다.
+<break time="0.5s"/>
+[FR] Choisir son plat.
+<break time="1.5s"/>
+
+[FR] Payer avec sa carte étudiante.
+<break time="0.7s"/>
+[KO] 학생증으로 결제하다.
+<break time="0.5s"/>
+[FR] Payer avec sa carte étudiante.
+<break time="1.5s"/>
+
+[FR] Manger avec les copains.
+<break time="0.7s"/>
+[KO] 친구들과 먹다.
+<break time="0.5s"/>
+[FR] Manger avec les copains.
+<break time="1.5s"/>
+
+[FR] Débarrasser son plateau.
+<break time="0.7s"/>
+[KO] 식판 정리하다.
+<break time="0.5s"/>
+[FR] Débarrasser son plateau.
+<break time="1.5s"/>
+

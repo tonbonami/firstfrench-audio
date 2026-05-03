@@ -1,0 +1,37 @@
+# 학생 phrases — 08_activites_apres_ecole
+
+[FR] Aller au cours particulier.
+<break time="0.7s"/>
+[KO] 학원에 가다.
+<break time="0.5s"/>
+[FR] Aller au cours particulier.
+<break time="1.5s"/>
+
+[FR] Faire du sport au club.
+<break time="0.7s"/>
+[KO] 스포츠 클럽 활동하다.
+<break time="0.5s"/>
+[FR] Faire du sport au club.
+<break time="1.5s"/>
+
+[FR] Prendre un cours de musique.
+<break time="0.7s"/>
+[KO] 음악 레슨 받다.
+<break time="0.5s"/>
+[FR] Prendre un cours de musique.
+<break time="1.5s"/>
+
+[FR] Jouer dehors avec les amis.
+<break time="0.7s"/>
+[KO] 밖에서 친구들과 놀다.
+<break time="0.5s"/>
+[FR] Jouer dehors avec les amis.
+<break time="1.5s"/>
+
+[FR] Se reposer un peu.
+<break time="0.7s"/>
+[KO] 잠깐 쉬다.
+<break time="0.5s"/>
+[FR] Se reposer un peu.
+<break time="1.5s"/>
+

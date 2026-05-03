@@ -1,44 +1,44 @@
-# R 단어 첫머리
+# 알파벳 (분할)
 
-[FR-V25] Rose.
+[FR-V25] u.
 <break time="0.7s"/>
-[KO] 장미.
+[KO] 위.
 <break time="0.5s"/>
-[FR-V25] Rose.
+[FR-V25] u.
 <break time="1.5s"/>
 
-[FR-V25] Rue.
+[FR-V25] vé.
 <break time="0.7s"/>
-[KO] 길.
+[KO] 베.
 <break time="0.5s"/>
-[FR-V25] Rue.
+[FR-V25] vé.
 <break time="1.5s"/>
 
-[FR] le riz.
+[FR-V25] double vé.
 <break time="0.7s"/>
-[KO] 쌀.
+[KO] 두블르 베.
 <break time="0.5s"/>
-[FR] le riz.
+[FR-V25] double vé.
 <break time="1.5s"/>
 
-[FR-V25] Reportage.
+[FR-V25] ix.
 <break time="0.7s"/>
-[KO] 보도.
+[KO] 익스.
 <break time="0.5s"/>
-[FR-V25] Reportage.
+[FR-V25] ix.
 <break time="1.5s"/>
 
-[FR] Réussir.
+[FR-V25] i grec.
 <break time="0.7s"/>
-[KO] 성공하다.
+[KO] 이 그렉.
 <break time="0.5s"/>
-[FR] Réussir.
+[FR-V25] i grec.
 <break time="1.5s"/>
 
-[FR] Ramasser.
+[FR-V25] zède.
 <break time="0.7s"/>
-[KO] 줍다.
+[KO] 제드.
 <break time="0.5s"/>
-[FR] Ramasser.
+[FR-V25] zède.
 <break time="1.5s"/>
 

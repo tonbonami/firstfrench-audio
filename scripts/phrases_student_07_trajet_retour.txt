@@ -1,0 +1,37 @@
+# 학생 phrases — 07_trajet_retour
+
+[FR] Sortir de l'école.
+<break time="0.7s"/>
+[KO] 학교에서 나오다.
+<break time="0.5s"/>
+[FR] Sortir de l'école.
+<break time="1.5s"/>
+
+[FR] Acheter un goûter.
+<break time="0.7s"/>
+[KO] 간식을 사다.
+<break time="0.5s"/>
+[FR] Acheter un goûter.
+<break time="1.5s"/>
+
+[FR] Rentrer à pied.
+<break time="0.7s"/>
+[KO] 걸어서 집에 가다.
+<break time="0.5s"/>
+[FR] Rentrer à pied.
+<break time="1.5s"/>
+
+[FR] Discuter du devoir avec un ami.
+<break time="0.7s"/>
+[KO] 숙제 얘기하다.
+<break time="0.5s"/>
+[FR] Discuter du devoir avec un ami.
+<break time="1.5s"/>
+
+[FR] Arriver enfin à la maison.
+<break time="0.7s"/>
+[KO] 드디어 집 도착.
+<break time="0.5s"/>
+[FR] Arriver enfin à la maison.
+<break time="1.5s"/>
+

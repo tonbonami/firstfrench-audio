@@ -1,44 +1,51 @@
-# R 단어 첫머리
+# 알파벳 (분할)
 
-[FR-V25] Rose.
+[FR-V25] ache.
 <break time="0.7s"/>
-[KO] 장미.
+[KO] 아쉬.
 <break time="0.5s"/>
-[FR-V25] Rose.
+[FR-V25] ache.
 <break time="1.5s"/>
 
-[FR-V25] Rue.
+[FR-V25] i.
 <break time="0.7s"/>
-[KO] 길.
+[KO] 이.
 <break time="0.5s"/>
-[FR-V25] Rue.
+[FR-V25] i.
 <break time="1.5s"/>
 
-[FR] le riz.
+[FR-V25] ji.
 <break time="0.7s"/>
-[KO] 쌀.
+[KO] 쥐.
 <break time="0.5s"/>
-[FR] le riz.
+[FR-V25] ji.
 <break time="1.5s"/>
 
-[FR-V25] Reportage.
+[FR-V25] ka.
 <break time="0.7s"/>
-[KO] 보도.
+[KO] 카.
 <break time="0.5s"/>
-[FR-V25] Reportage.
+[FR-V25] ka.
 <break time="1.5s"/>
 
-[FR] Réussir.
+[FR-V25] elle.
 <break time="0.7s"/>
-[KO] 성공하다.
+[KO] 엘.
 <break time="0.5s"/>
-[FR] Réussir.
+[FR-V25] elle.
 <break time="1.5s"/>
 
-[FR] Ramasser.
+[FR-V25] emme.
 <break time="0.7s"/>
-[KO] 줍다.
+[KO] 엠.
 <break time="0.5s"/>
-[FR] Ramasser.
+[FR-V25] emme.
+<break time="1.5s"/>
+
+[FR-V25] enne.
+<break time="0.7s"/>
+[KO] 엔.
+<break time="0.5s"/>
+[FR-V25] enne.
 <break time="1.5s"/>
 

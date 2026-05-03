@@ -1,0 +1,37 @@
+# 학생 phrases — 04_travail_classe
+
+[FR] Faire un exercice.
+<break time="0.7s"/>
+[KO] 문제를 풀다.
+<break time="0.5s"/>
+[FR] Faire un exercice.
+<break time="1.5s"/>
+
+[FR] Travailler en groupe.
+<break time="0.7s"/>
+[KO] 조별로 활동하다.
+<break time="0.5s"/>
+[FR] Travailler en groupe.
+<break time="1.5s"/>
+
+[FR] Présenter son travail.
+<break time="0.7s"/>
+[KO] 발표하다.
+<break time="0.5s"/>
+[FR] Présenter son travail.
+<break time="1.5s"/>
+
+[FR] Corriger ses erreurs.
+<break time="0.7s"/>
+[KO] 틀린 것 고치다.
+<break time="0.5s"/>
+[FR] Corriger ses erreurs.
+<break time="1.5s"/>
+
+[FR] Finir avant la fin du cours.
+<break time="0.7s"/>
+[KO] 수업 끝나기 전에 마치다.
+<break time="0.5s"/>
+[FR] Finir avant la fin du cours.
+<break time="1.5s"/>
+

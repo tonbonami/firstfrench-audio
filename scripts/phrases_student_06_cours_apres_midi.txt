@@ -1,0 +1,37 @@
+# 학생 phrases — 06_cours_apres_midi
+
+[FR] Avoir cours de maths.
+<break time="0.7s"/>
+[KO] 수학 수업이 있다.
+<break time="0.5s"/>
+[FR] Avoir cours de maths.
+<break time="1.5s"/>
+
+[FR] Faire un exposé.
+<break time="0.7s"/>
+[KO] 긴 발표를 하다.
+<break time="0.5s"/>
+[FR] Faire un exposé.
+<break time="1.5s"/>
+
+[FR] Lire à voix haute.
+<break time="0.7s"/>
+[KO] 큰 소리로 읽다.
+<break time="0.5s"/>
+[FR] Lire à voix haute.
+<break time="1.5s"/>
+
+[FR] Écouter attentivement.
+<break time="0.7s"/>
+[KO] 집중해서 듣다.
+<break time="0.5s"/>
+[FR] Écouter attentivement.
+<break time="1.5s"/>
+
+[FR] Lutter contre l'envie de dormir.
+<break time="0.7s"/>
+[KO] 졸음과 싸우다.
+<break time="0.5s"/>
+[FR] Lutter contre l'envie de dormir.
+<break time="1.5s"/>
+

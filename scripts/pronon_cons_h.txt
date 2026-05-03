@@ -21,10 +21,10 @@
 [FR] huit.
 <break time="1.5s"/>
 
-[FR-V25] haricot.
+[FR] le haricot.
 <break time="0.7s"/>
 [KO] 강낭콩.
 <break time="0.5s"/>
-[FR-V25] haricot.
+[FR] le haricot.
 <break time="1.5s"/>
 

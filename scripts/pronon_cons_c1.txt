@@ -1,4 +1,4 @@
-# 자음 (인트로 제거, hybrid)
+# 자음 — c (e/i/y 앞 [s])
 
 [FR] ceci.
 <break time="0.7s"/>
@@ -21,11 +21,11 @@
 [FR] la police.
 <break time="1.5s"/>
 
-[FR] mince.
+[FR-V25] mince.
 <break time="0.7s"/>
 [KO] 얇은.
 <break time="0.5s"/>
-[FR] mince.
+[FR-V25] mince.
 <break time="1.5s"/>
 
 [FR] ici.

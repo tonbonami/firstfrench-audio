@@ -1,0 +1,37 @@
+# 학생 phrases — 03_recreation
+
+[FR] Sortir dans la cour.
+<break time="0.7s"/>
+[KO] 운동장에 나가다.
+<break time="0.5s"/>
+[FR] Sortir dans la cour.
+<break time="1.5s"/>
+
+[FR] Manger un goûter rapide.
+<break time="0.7s"/>
+[KO] 간식 빨리 먹다.
+<break time="0.5s"/>
+[FR] Manger un goûter rapide.
+<break time="1.5s"/>
+
+[FR] Bavarder avec les copains.
+<break time="0.7s"/>
+[KO] 친구들과 수다 떨다.
+<break time="0.5s"/>
+[FR] Bavarder avec les copains.
+<break time="1.5s"/>
+
+[FR] Aller aux toilettes.
+<break time="0.7s"/>
+[KO] 화장실 가다.
+<break time="0.5s"/>
+[FR] Aller aux toilettes.
+<break time="1.5s"/>
+
+[FR] Retourner en classe.
+<break time="0.7s"/>
+[KO] 교실로 돌아가다.
+<break time="0.5s"/>
+[FR] Retourner en classe.
+<break time="1.5s"/>
+

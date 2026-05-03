@@ -1,0 +1,37 @@
+# 학생 phrases — 09_devoirs_etude
+
+[FR] Ouvrir son cahier.
+<break time="0.7s"/>
+[KO] 공책을 펴다.
+<break time="0.5s"/>
+[FR] Ouvrir son cahier.
+<break time="1.5s"/>
+
+[FR] Faire ses devoirs.
+<break time="0.7s"/>
+[KO] 숙제하다.
+<break time="0.5s"/>
+[FR] Faire ses devoirs.
+<break time="1.5s"/>
+
+[FR] Réviser pour le contrôle.
+<break time="0.7s"/>
+[KO] 시험 공부하다.
+<break time="0.5s"/>
+[FR] Réviser pour le contrôle.
+<break time="1.5s"/>
+
+[FR] Demander de l'aide à ses parents.
+<break time="0.7s"/>
+[KO] 부모님께 도움 요청하다.
+<break time="0.5s"/>
+[FR] Demander de l'aide à ses parents.
+<break time="1.5s"/>
+
+[FR] Finir tout avant 22h.
+<break time="0.7s"/>
+[KO] 22시 전에 다 끝내다.
+<break time="0.5s"/>
+[FR] Finir tout avant 22h.
+<break time="1.5s"/>
+
