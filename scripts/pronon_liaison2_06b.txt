@@ -1,8 +1,4 @@
-# 리에종 2강 실전 (2)
-
-# 실전 문장 (2)
-[KO] 실전 문장 (2).
-<break time="1.0s"/>
+# 리에종 2강 (인트로 제거 + hybrid)
 
 [FR] Je vous en prie.
 <break time="0.7s"/>

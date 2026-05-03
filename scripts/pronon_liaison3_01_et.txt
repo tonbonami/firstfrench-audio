@@ -1,14 +1,10 @@
-# 리에종 3강 — 금지 — et 뒤
+# 리에종 3강 (인트로 제거 + hybrid)
 
-# 금지 — et 뒤
-[KO] 금지 — et 뒤.
-<break time="1.0s"/>
-
-[FR] et elle.
+[FR-V25] et elle.
 <break time="0.7s"/>
 [KO] 그리고 그녀.
 <break time="0.5s"/>
-[FR] et elle.
+[FR-V25] et elle.
 <break time="1.5s"/>
 
 [FR] et André.

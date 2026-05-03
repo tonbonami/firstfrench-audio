@@ -1,8 +1,4 @@
-# 리에종 2강 — 선택 리에종
-
-# 선택 리에종
-[KO] 선택 리에종.
-<break time="1.0s"/>
+# 리에종 2강 (인트로 제거 + hybrid)
 
 [FR] grand ami.
 <break time="0.7s"/>

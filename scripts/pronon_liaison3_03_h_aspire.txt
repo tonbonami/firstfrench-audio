@@ -1,8 +1,4 @@
-# 리에종 3강 — 금지 — 유음 h
-
-# 금지 — 유음 h
-[KO] 금지 — 유음 h.
-<break time="1.0s"/>
+# 리에종 3강 (인트로 제거 + hybrid)
 
 [FR] les héros.
 <break time="0.7s"/>

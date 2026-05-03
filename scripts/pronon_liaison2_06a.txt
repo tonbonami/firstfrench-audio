@@ -1,8 +1,4 @@
-# 리에종 2강 실전 (1)
-
-# 실전 문장 (1)
-[KO] 실전 문장 (1).
-<break time="1.0s"/>
+# 리에종 2강 (인트로 제거 + hybrid)
 
 [FR] Les enfants arrivent ce soir.
 <break time="0.7s"/>

@@ -1,8 +1,4 @@
-# 리에종 3강 — Dictée
-
-# Dictée
-[KO] Dictée.
-<break time="1.0s"/>
+# 리에종 3강 (인트로 제거 + hybrid)
 
 [FR] Vous avez un chat.
 <break time="0.7s"/>

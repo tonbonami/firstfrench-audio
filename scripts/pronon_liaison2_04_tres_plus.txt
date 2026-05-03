@@ -1,8 +1,4 @@
-# 리에종 2강 — très · plus
-
-# très · plus
-[KO] très · plus.
-<break time="1.0s"/>
+# 리에종 2강 (인트로 제거 + hybrid)
 
 [FR] très agréable.
 <break time="0.7s"/>

@@ -1,8 +1,4 @@
-# 리에종 3강 — 실전 문장
-
-# 실전 문장
-[KO] 실전 문장.
-<break time="1.0s"/>
+# 리에종 3강 (인트로 제거 + hybrid)
 
 [FR] Les enfants arrivent ce soir.
 <break time="0.7s"/>
