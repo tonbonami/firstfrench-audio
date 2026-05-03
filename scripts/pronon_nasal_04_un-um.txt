@@ -1,23 +1,23 @@
-# 모음 ② 비음 — un, um (모델 토글)
+# 모음 ② 비음 — un, um (관사 추가)
 
-[FR] un.
+[FR-V25] un.
 <break time="0.7s"/>
 [KO] 하나.
 <break time="0.5s"/>
-[FR] un.
+[FR-V25] un.
 <break time="1.5s"/>
 
-[FR-V25] lundi.
+[FR] le lundi.
 <break time="0.7s"/>
 [KO] 월요일.
 <break time="0.5s"/>
-[FR-V25] lundi.
+[FR] le lundi.
 <break time="1.5s"/>
 
-[FR] parfum.
+[FR] le parfum.
 <break time="0.7s"/>
 [KO] 향수.
 <break time="0.5s"/>
-[FR] parfum.
+[FR] le parfum.
 <break time="1.5s"/>
 

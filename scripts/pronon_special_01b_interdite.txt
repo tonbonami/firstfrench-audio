@@ -1,0 +1,23 @@
+# 특별한 발음 규칙 — 금지 리에종 4가지 사례
+
+[FR] un enfant intelligent.
+<break time="0.7s"/>
+[KO] 영리한 아이.
+<break time="0.5s"/>
+[FR] un enfant intelligent.
+<break time="1.5s"/>
+
+[FR] C'est un héros.
+<break time="0.7s"/>
+[KO] 그는 영웅이다.
+<break time="0.5s"/>
+[FR] C'est un héros.
+<break time="1.5s"/>
+
+[FR] un café et un sandwich.
+<break time="0.7s"/>
+[KO] 커피 한 잔과 샌드위치.
+<break time="0.5s"/>
+[FR] un café et un sandwich.
+<break time="1.5s"/>
+

@@ -1,0 +1,16 @@
+# 리에종 3강 — 단수 명사 + 동사 금지
+
+[FR-V25] Le bus arrive.
+<break time="0.7s"/>
+[KO] 버스가 도착해요.
+<break time="0.5s"/>
+[FR-V25] Le bus arrive.
+<break time="1.5s"/>
+
+[FR] Le nid est ouvert.
+<break time="0.7s"/>
+[KO] 둥지가 열려있어요.
+<break time="0.5s"/>
+[FR] Le nid est ouvert.
+<break time="1.5s"/>
+

@@ -1,47 +1,44 @@
-# 특별한 발음 규칙 — Section: liaison (리에종) 개요
-# Page: 프랑스어의 특별한 발음 규칙 (34ab1658e7ec81c8bbe3efc842ba06f3)
-# Anchor H1: "liaison (리에종)"
+# 특별한 발음 규칙 — liaison (살리고 싶은 부분)
 
-# 기본 예시 (필수 리에종)
-[FR] un arbre
-<break time="1.0s"/>
-[KO] 한 그루의 나무
-<break time="1.0s"/>
-[FR] un arbre
+[FR] un arbre.
+<break time="0.7s"/>
+[KO] 한 그루의 나무.
+<break time="0.5s"/>
+[FR] un arbre.
 <break time="1.5s"/>
 
-[FR] des amis
-<break time="1.0s"/>
-[KO] 몇 명의 친구
-<break time="1.0s"/>
-[FR] des amis
+[FR] des amis.
+<break time="0.7s"/>
+[KO] 몇 명의 친구.
+<break time="0.5s"/>
+[FR] des amis.
 <break time="1.5s"/>
 
-[FR] deux écoles
-<break time="1.0s"/>
-[KO] 두 개의 학교
-<break time="1.0s"/>
-[FR] deux écoles
+[FR] deux écoles.
+<break time="0.7s"/>
+[KO] 두 개의 학교.
+<break time="0.5s"/>
+[FR] deux écoles.
 <break time="1.5s"/>
 
-[FR] grand hôtel
-<break time="1.0s"/>
-[KO] 큰 호텔
-<break time="1.0s"/>
-[FR] grand hôtel
+[FR] grand hôtel.
+<break time="0.7s"/>
+[KO] 큰 호텔.
+<break time="0.5s"/>
+[FR] grand hôtel.
 <break time="1.5s"/>
 
-# 금지 리에종 예시
 [FR] Simon est parti.
-<break time="1.0s"/>
-[KO] 시몽은 떠났다.
-<break time="1.0s"/>
+<break time="0.7s"/>
+[KO] Simon은 떠났다.
+<break time="0.5s"/>
 [FR] Simon est parti.
 <break time="1.5s"/>
 
 [FR] Vous avez de la chance.
-<break time="1.0s"/>
+<break time="0.7s"/>
 [KO] 당신은 운이 좋아요.
-<break time="1.0s"/>
+<break time="0.5s"/>
 [FR] Vous avez de la chance.
-<break time="2.0s"/>
+<break time="1.5s"/>
+

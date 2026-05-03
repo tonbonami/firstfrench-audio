@@ -1,17 +1,16 @@
-# 특별한 발음 규칙 — Section: élision (엘리지옹)
-# Page: 프랑스어의 특별한 발음 규칙 (34ab1658e7ec81c8bbe3efc842ba06f3)
-# Anchor H1: "élision (엘리지옹)"
+# 특별한 발음 규칙 — élision
 
-[FR] l'homme
-<break time="1.0s"/>
-[KO] 그 남자
-<break time="1.0s"/>
-[FR] l'homme
+[FR] l'homme.
+<break time="0.7s"/>
+[KO] 그 남자.
+<break time="0.5s"/>
+[FR] l'homme.
 <break time="1.5s"/>
 
 [FR] J'aime la France.
-<break time="1.0s"/>
+<break time="0.7s"/>
 [KO] 난 프랑스를 사랑해.
-<break time="1.0s"/>
+<break time="0.5s"/>
 [FR] J'aime la France.
-<break time="2.0s"/>
+<break time="1.5s"/>
+

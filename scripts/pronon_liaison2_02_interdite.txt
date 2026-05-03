@@ -1,10 +1,10 @@
-# 리에종 2강 (인트로 제거 + hybrid)
+# 리에종 2강 — 금지 리에종 (V25)
 
-[FR] Paul arrive.
+[FR-V25] Paul arrive.
 <break time="0.7s"/>
 [KO] Paul이 도착하다.
 <break time="0.5s"/>
-[FR] Paul arrive.
+[FR-V25] Paul arrive.
 <break time="1.5s"/>
 
 [FR-V25] il aime.
@@ -21,10 +21,10 @@
 [FR-V25] et elle.
 <break time="1.5s"/>
 
-[FR] Paris est beau.
+[FR-V25] Paris est beau.
 <break time="0.7s"/>
 [KO] 파리는 아름답다.
 <break time="0.5s"/>
-[FR] Paris est beau.
+[FR-V25] Paris est beau.
 <break time="1.5s"/>
 
