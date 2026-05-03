@@ -1,44 +1,32 @@
-# 알파벳 (분할)
+# 알파벳 — FR 두 번만
 
 [FR-V25] o.
-<break time="0.7s"/>
-[KO] 오.
-<break time="0.5s"/>
+<break time="1.0s"/>
 [FR-V25] o.
-<break time="1.5s"/>
+<break time="2.0s"/>
 
 [FR-V25] pé.
-<break time="0.7s"/>
-[KO] 페.
-<break time="0.5s"/>
+<break time="1.0s"/>
 [FR-V25] pé.
-<break time="1.5s"/>
+<break time="2.0s"/>
 
 [FR-V25] cu.
-<break time="0.7s"/>
-[KO] 뀌.
-<break time="0.5s"/>
+<break time="1.0s"/>
 [FR-V25] cu.
-<break time="1.5s"/>
+<break time="2.0s"/>
 
 [FR-V25] erre.
-<break time="0.7s"/>
-[KO] 에흐.
-<break time="0.5s"/>
+<break time="1.0s"/>
 [FR-V25] erre.
-<break time="1.5s"/>
+<break time="2.0s"/>
 
 [FR-V25] esse.
-<break time="0.7s"/>
-[KO] 에스.
-<break time="0.5s"/>
+<break time="1.0s"/>
 [FR-V25] esse.
-<break time="1.5s"/>
+<break time="2.0s"/>
 
 [FR-V25] té.
-<break time="0.7s"/>
-[KO] 떼.
-<break time="0.5s"/>
+<break time="1.0s"/>
 [FR-V25] té.
-<break time="1.5s"/>
+<break time="2.0s"/>
 

@@ -1,51 +1,37 @@
-# 알파벳 (분할)
+# 알파벳 — FR 두 번만
 
 [FR-V25] a.
-<break time="0.7s"/>
-[KO] 아.
-<break time="0.5s"/>
+<break time="1.0s"/>
 [FR-V25] a.
-<break time="1.5s"/>
+<break time="2.0s"/>
 
 [FR-V25] bé.
-<break time="0.7s"/>
-[KO] 베.
-<break time="0.5s"/>
+<break time="1.0s"/>
 [FR-V25] bé.
-<break time="1.5s"/>
+<break time="2.0s"/>
 
 [FR-V25] cé.
-<break time="0.7s"/>
-[KO] 쎄.
-<break time="0.5s"/>
+<break time="1.0s"/>
 [FR-V25] cé.
-<break time="1.5s"/>
+<break time="2.0s"/>
 
 [FR-V25] dé.
-<break time="0.7s"/>
-[KO] 데.
-<break time="0.5s"/>
+<break time="1.0s"/>
 [FR-V25] dé.
-<break time="1.5s"/>
+<break time="2.0s"/>
 
 [FR-V25] e.
-<break time="0.7s"/>
-[KO] 으.
-<break time="0.5s"/>
+<break time="1.0s"/>
 [FR-V25] e.
-<break time="1.5s"/>
+<break time="2.0s"/>
 
 [FR-V25] effe.
-<break time="0.7s"/>
-[KO] 에프.
-<break time="0.5s"/>
+<break time="1.0s"/>
 [FR-V25] effe.
-<break time="1.5s"/>
+<break time="2.0s"/>
 
 [FR-V25] gé.
-<break time="0.7s"/>
-[KO] 졔.
-<break time="0.5s"/>
+<break time="1.0s"/>
 [FR-V25] gé.
-<break time="1.5s"/>
+<break time="2.0s"/>
 

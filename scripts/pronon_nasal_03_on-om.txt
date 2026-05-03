@@ -1,24 +1,23 @@
-# 프랑스어 모음 ② 비음 — Section 3: on, om → [ɔ̃]
-# Page: 프랑스어의 모음 ② - 비음 (34ab1658e7ec8120abf9d5463a50f551)
-# Anchor H1: "on, om"
+# 모음 ② 비음 — on, om → [ɔ̃]
 
-[FR] un concombre
-<break time="1.0s"/>
-[KO] 오이
-<break time="1.0s"/>
-[FR] un concombre
+[FR] le concombre.
+<break time="0.7s"/>
+[KO] 오이.
+<break time="0.5s"/>
+[FR] le concombre.
 <break time="1.5s"/>
 
-[FR] un nombre
-<break time="1.0s"/>
-[KO] 숫자
-<break time="1.0s"/>
-[FR] un nombre
+[FR-V25] un nombre.
+<break time="0.7s"/>
+[KO] 숫자.
+<break time="0.5s"/>
+[FR-V25] un nombre.
 <break time="1.5s"/>
 
-[FR] long
-<break time="1.0s"/>
-[KO] 길다
-<break time="1.0s"/>
-[FR] long
-<break time="2.0s"/>
+[FR-V25] long.
+<break time="0.7s"/>
+[KO] 길다.
+<break time="0.5s"/>
+[FR-V25] long.
+<break time="1.5s"/>
+

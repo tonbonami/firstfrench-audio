@@ -1,51 +1,37 @@
-# 알파벳 (분할)
+# 알파벳 — FR 두 번만
 
 [FR-V25] ache.
-<break time="0.7s"/>
-[KO] 아쉬.
-<break time="0.5s"/>
+<break time="1.0s"/>
 [FR-V25] ache.
-<break time="1.5s"/>
+<break time="2.0s"/>
 
 [FR-V25] i.
-<break time="0.7s"/>
-[KO] 이.
-<break time="0.5s"/>
+<break time="1.0s"/>
 [FR-V25] i.
-<break time="1.5s"/>
+<break time="2.0s"/>
 
 [FR-V25] ji.
-<break time="0.7s"/>
-[KO] 쥐.
-<break time="0.5s"/>
+<break time="1.0s"/>
 [FR-V25] ji.
-<break time="1.5s"/>
+<break time="2.0s"/>
 
 [FR-V25] ka.
-<break time="0.7s"/>
-[KO] 카.
-<break time="0.5s"/>
+<break time="1.0s"/>
 [FR-V25] ka.
-<break time="1.5s"/>
+<break time="2.0s"/>
 
 [FR-V25] elle.
-<break time="0.7s"/>
-[KO] 엘.
-<break time="0.5s"/>
+<break time="1.0s"/>
 [FR-V25] elle.
-<break time="1.5s"/>
+<break time="2.0s"/>
 
 [FR-V25] emme.
-<break time="0.7s"/>
-[KO] 엠.
-<break time="0.5s"/>
+<break time="1.0s"/>
 [FR-V25] emme.
-<break time="1.5s"/>
+<break time="2.0s"/>
 
 [FR-V25] enne.
-<break time="0.7s"/>
-[KO] 엔.
-<break time="0.5s"/>
+<break time="1.0s"/>
 [FR-V25] enne.
-<break time="1.5s"/>
+<break time="2.0s"/>
 

@@ -1,38 +1,37 @@
-# 프랑스어 모음 ② 비음 — Section 1: an, am, en, em → [ɑ̃]
-# Page: 프랑스어의 모음 ② - 비음 (34ab1658e7ec8120abf9d5463a50f551)
-# Anchor H1: "an, am, en, em"
+# 모음 ② 비음 — an, am, en, em → [ɑ̃]
 
-[FR] une lampe
-<break time="1.0s"/>
-[KO] 램프
-<break time="1.0s"/>
-[FR] une lampe
+[FR] la lampe.
+<break time="0.7s"/>
+[KO] 램프.
+<break time="0.5s"/>
+[FR] la lampe.
 <break time="1.5s"/>
 
-[FR] un temple
-<break time="1.0s"/>
-[KO] 사원
-<break time="1.0s"/>
-[FR] un temple
+[FR] temple.
+<break time="0.7s"/>
+[KO] 사원.
+<break time="0.5s"/>
+[FR] temple.
 <break time="1.5s"/>
 
-[FR] un enfant
-<break time="1.0s"/>
-[KO] 어린이
-<break time="1.0s"/>
-[FR] un enfant
+[FR] enfant.
+<break time="0.7s"/>
+[KO] 어린이.
+<break time="0.5s"/>
+[FR] enfant.
 <break time="1.5s"/>
 
-[FR] ensemble
-<break time="1.0s"/>
-[KO] 함께
-<break time="1.0s"/>
-[FR] ensemble
+[FR] ensemble.
+<break time="0.7s"/>
+[KO] 함께.
+<break time="0.5s"/>
+[FR] ensemble.
 <break time="1.5s"/>
 
-[FR] dans
-<break time="1.0s"/>
-[KO] 안에
-<break time="1.0s"/>
-[FR] dans
-<break time="2.0s"/>
+[FR-V25] dans.
+<break time="0.7s"/>
+[KO] 안에.
+<break time="0.5s"/>
+[FR-V25] dans.
+<break time="1.5s"/>
+

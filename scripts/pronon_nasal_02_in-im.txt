@@ -1,45 +1,44 @@
-# 프랑스어 모음 ② 비음 — Section 2: in, im, ain, aim, ein → [ɛ̃]
-# Page: 프랑스어의 모음 ② - 비음 (34ab1658e7ec8120abf9d5463a50f551)
-# Anchor H1: "in, im, ain, aim, ein"
+# 모음 ② 비음 — in, im, ain, aim, ein → [ɛ̃]
 
-[FR] un jardin
-<break time="1.0s"/>
-[KO] 정원
-<break time="1.0s"/>
-[FR] un jardin
+[FR] le jardin.
+<break time="0.7s"/>
+[KO] 정원.
+<break time="0.5s"/>
+[FR] le jardin.
 <break time="1.5s"/>
 
-[FR] simple
-<break time="1.0s"/>
-[KO] 단순한
-<break time="1.0s"/>
-[FR] simple
+[FR-V25] simple.
+<break time="0.7s"/>
+[KO] 단순한.
+<break time="0.5s"/>
+[FR-V25] simple.
 <break time="1.5s"/>
 
-[FR] une main
-<break time="1.0s"/>
-[KO] 손
-<break time="1.0s"/>
-[FR] une main
+[FR] la main.
+<break time="0.7s"/>
+[KO] 손.
+<break time="0.5s"/>
+[FR] la main.
 <break time="1.5s"/>
 
-[FR] faim
-<break time="1.0s"/>
-[KO] 배고픔
-<break time="1.0s"/>
-[FR] faim
+[FR-V25] faim.
+<break time="0.7s"/>
+[KO] 배고픔.
+<break time="0.5s"/>
+[FR-V25] faim.
 <break time="1.5s"/>
 
-[FR] un peintre
-<break time="1.0s"/>
-[KO] 화가
-<break time="1.0s"/>
-[FR] un peintre
+[FR] le peintre.
+<break time="0.7s"/>
+[KO] 화가.
+<break time="0.5s"/>
+[FR] le peintre.
 <break time="1.5s"/>
 
-[FR] un matin
-<break time="1.0s"/>
-[KO] 아침
-<break time="1.0s"/>
-[FR] un matin
-<break time="2.0s"/>
+[FR] matin.
+<break time="0.7s"/>
+[KO] 아침.
+<break time="0.5s"/>
+[FR] matin.
+<break time="1.5s"/>
+

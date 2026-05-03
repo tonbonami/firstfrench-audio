@@ -1,31 +1,30 @@
-# 프랑스어 모음 ③ 복모음 — Section 2: au, eau → [o]
-# Page: 프랑스어의 모음 ③ - 복모음 (34ab1658e7ec811f8304e68f63fd3c90)
-# Anchor H1: "au, eau"
+# 모음 ③ 복모음 — au, eau → [o]
 
-[FR] une auto
-<break time="1.0s"/>
-[KO] 자동차
-<break time="1.0s"/>
-[FR] une auto
+[FR] auto.
+<break time="0.7s"/>
+[KO] 자동차.
+<break time="0.5s"/>
+[FR] auto.
 <break time="1.5s"/>
 
-[FR] jaune
-<break time="1.0s"/>
-[KO] 노란
-<break time="1.0s"/>
-[FR] jaune
+[FR-V25] jaune.
+<break time="0.7s"/>
+[KO] 노란.
+<break time="0.5s"/>
+[FR-V25] jaune.
 <break time="1.5s"/>
 
-[FR] beau
-<break time="1.0s"/>
-[KO] 아름다운
-<break time="1.0s"/>
-[FR] beau
+[FR-V25] beau.
+<break time="0.7s"/>
+[KO] 아름다운.
+<break time="0.5s"/>
+[FR-V25] beau.
 <break time="1.5s"/>
 
-[FR] un morceau
-<break time="1.0s"/>
-[KO] 조각
-<break time="1.0s"/>
-[FR] un morceau
-<break time="2.0s"/>
+[FR] morceau.
+<break time="0.7s"/>
+[KO] 조각.
+<break time="0.5s"/>
+[FR] morceau.
+<break time="1.5s"/>
+
