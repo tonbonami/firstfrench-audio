@@ -1,24 +1,24 @@
-# 숫자 11~16
+# 숫자 11~16 (FR multilingual)
 
-[FR-V25] onze.
+[FR] onze.
 <break time="0.7s"/>
 [KO] 열하나.
 <break time="0.5s"/>
-[FR-V25] onze.
+[FR] onze.
 <break time="1.5s"/>
 
-[FR-V25] douze.
+[FR] douze.
 <break time="0.7s"/>
 [KO] 열둘.
 <break time="0.5s"/>
-[FR-V25] douze.
+[FR] douze.
 <break time="1.5s"/>
 
-[FR-V25] treize.
+[FR] treize.
 <break time="0.7s"/>
 [KO] 열셋.
 <break time="0.5s"/>
-[FR-V25] treize.
+[FR] treize.
 <break time="1.5s"/>
 
 [FR] quatorze.
@@ -28,17 +28,17 @@
 [FR] quatorze.
 <break time="1.5s"/>
 
-[FR-V25] quinze.
+[FR] quinze.
 <break time="0.7s"/>
 [KO] 열다섯.
 <break time="0.5s"/>
-[FR-V25] quinze.
+[FR] quinze.
 <break time="1.5s"/>
 
-[FR-V25] seize.
+[FR] seize.
 <break time="0.7s"/>
 [KO] 열여섯.
 <break time="0.5s"/>
-[FR-V25] seize.
+[FR] seize.
 <break time="1.5s"/>
 

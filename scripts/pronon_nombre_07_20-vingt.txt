@@ -1,9 +1,23 @@
-# 숫자 20
+# 숫자 20 (단독 + 모음 앞 + 자음 앞)
 
 [FR-V25] vingt.
 <break time="0.7s"/>
 [KO] 스물.
 <break time="0.5s"/>
 [FR-V25] vingt.
+<break time="1.5s"/>
+
+[FR] vingt ans.
+<break time="0.7s"/>
+[KO] 20년.
+<break time="0.5s"/>
+[FR] vingt ans.
+<break time="1.5s"/>
+
+[FR] vingt livres.
+<break time="0.7s"/>
+[KO] 책 20권.
+<break time="0.5s"/>
+[FR] vingt livres.
 <break time="1.5s"/>
 
