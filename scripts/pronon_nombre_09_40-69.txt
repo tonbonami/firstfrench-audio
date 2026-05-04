@@ -1,0 +1,52 @@
+# 숫자 40~69 — 동일 패턴
+
+[FR] quarante.
+<break time="0.7s"/>
+[KO] 40.
+<break time="0.5s"/>
+[FR] quarante.
+<break time="1.5s"/>
+
+[FR] quarante et un.
+<break time="0.7s"/>
+[KO] 41.
+<break time="1.0s"/>
+
+[FR] quarante-cinq.
+<break time="0.7s"/>
+[KO] 45.
+<break time="1.5s"/>
+
+[FR] cinquante.
+<break time="0.7s"/>
+[KO] 50.
+<break time="0.5s"/>
+[FR] cinquante.
+<break time="1.5s"/>
+
+[FR] cinquante et un.
+<break time="0.7s"/>
+[KO] 51.
+<break time="1.0s"/>
+
+[FR] cinquante-cinq.
+<break time="0.7s"/>
+[KO] 55.
+<break time="1.5s"/>
+
+[FR] soixante.
+<break time="0.7s"/>
+[KO] 60.
+<break time="0.5s"/>
+[FR] soixante.
+<break time="1.5s"/>
+
+[FR] soixante et un.
+<break time="0.7s"/>
+[KO] 61.
+<break time="1.0s"/>
+
+[FR] soixante-neuf.
+<break time="0.7s"/>
+[KO] 69. 여기까지가 일반 규칙.
+<break time="1.5s"/>

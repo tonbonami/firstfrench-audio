@@ -1,0 +1,32 @@
+# 큰 숫자 — mille (천·만·십만)
+
+[FR] mille.
+<break time="0.7s"/>
+[KO] 1,000. 천. mille은 절대 s 안 붙음.
+<break time="0.5s"/>
+[FR] mille.
+<break time="1.5s"/>
+
+[FR] deux mille.
+<break time="0.7s"/>
+[KO] 2,000.
+<break time="1.0s"/>
+
+[FR] dix mille.
+<break time="0.7s"/>
+[KO] 10,000. 1만은 dix mille.
+<break time="0.5s"/>
+[FR] dix mille.
+<break time="1.5s"/>
+
+[FR] cent mille.
+<break time="0.7s"/>
+[KO] 100,000. 10만.
+<break time="0.5s"/>
+[FR] cent mille.
+<break time="1.5s"/>
+
+[FR] cinq cent mille.
+<break time="0.7s"/>
+[KO] 500,000. 50만.
+<break time="1.5s"/>

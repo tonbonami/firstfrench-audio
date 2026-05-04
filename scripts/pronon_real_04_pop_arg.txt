@@ -1,0 +1,56 @@
+# 실전 — 인구·금액·물가
+
+[FR] huit milliards.
+<break time="0.7s"/>
+[KO] 80억. 세계 인구.
+<break time="0.5s"/>
+[FR] huit milliards d'habitants.
+<break time="0.7s"/>
+[KO] 80억 명. milliards 뒤에 de 또는 d'.
+<break time="1.5s"/>
+
+[FR] cinquante millions.
+<break time="0.7s"/>
+[KO] 5천만. 한국 인구.
+<break time="0.5s"/>
+[FR] cinquante millions d'habitants.
+<break time="0.7s"/>
+[KO] 5천만 명.
+<break time="1.5s"/>
+
+[FR] soixante-sept millions.
+<break time="0.7s"/>
+[KO] 6천7백만. 프랑스 인구.
+<break time="1.5s"/>
+
+[FR] cinq euros.
+<break time="0.7s"/>
+[KO] 5유로.
+<break time="1.0s"/>
+
+[FR] douze euros cinquante.
+<break time="0.7s"/>
+[KO] 12.50유로. 정수 더하기 cents.
+<break time="0.5s"/>
+[FR] douze euros cinquante.
+<break time="1.5s"/>
+
+[FR] cent euros.
+<break time="0.7s"/>
+[KO] 100유로.
+<break time="1.0s"/>
+
+[FR] mille euros.
+<break time="0.7s"/>
+[KO] 1,000유로.
+<break time="1.5s"/>
+
+[FR] un café à trois euros.
+<break time="0.7s"/>
+[KO] 3유로짜리 커피. à 더하기 가격.
+<break time="1.5s"/>
+
+[FR] un loyer de mille deux cents euros.
+<break time="0.7s"/>
+[KO] 월세 1,200유로. de 더하기 가격.
+<break time="2.0s"/>

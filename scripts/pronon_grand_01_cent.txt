@@ -1,0 +1,35 @@
+# 큰 숫자 — cent (백) 규칙
+
+[FR] cent.
+<break time="0.7s"/>
+[KO] 100.
+<break time="1.0s"/>
+
+[FR] deux cents.
+<break time="0.7s"/>
+[KO] 200. 정확히 200, 300… 일 때 끝에 s 붙음.
+<break time="0.5s"/>
+[FR] deux cents.
+<break time="1.5s"/>
+
+[FR] deux cent un.
+<break time="0.7s"/>
+[KO] 201. 뒤에 다른 숫자가 오면 s 빠짐.
+<break time="0.5s"/>
+[FR] deux cent un.
+<break time="1.5s"/>
+
+[FR] trois cents.
+<break time="0.7s"/>
+[KO] 300.
+<break time="1.0s"/>
+
+[FR] cinq cent cinquante.
+<break time="0.7s"/>
+[KO] 550.
+<break time="1.0s"/>
+
+[FR] neuf cent quatre-vingt-dix-neuf.
+<break time="0.7s"/>
+[KO] 999. 마지막 cent에 s 없음.
+<break time="1.5s"/>

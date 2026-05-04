@@ -1,0 +1,67 @@
+# 실전 — 일상 단위 (길이·무게·온도·퍼센트)
+
+[FR] cinq kilomètres.
+<break time="0.7s"/>
+[KO] 5km.
+<break time="0.5s"/>
+[FR] cinq kilomètres.
+<break time="1.5s"/>
+
+[FR] dix mètres.
+<break time="0.7s"/>
+[KO] 10m.
+<break time="1.0s"/>
+
+[FR] un mètre cinquante.
+<break time="0.7s"/>
+[KO] 1m 50cm. 키 150cm.
+<break time="1.5s"/>
+
+[FR] un mètre quatre-vingts.
+<break time="0.7s"/>
+[KO] 1m 80cm. 키 180cm.
+<break time="1.5s"/>
+
+[FR] soixante-dix kilos.
+<break time="0.7s"/>
+[KO] 70kg. 일상에선 kilos로 줄여 부름.
+<break time="1.5s"/>
+
+[FR] soixante-dix kilogrammes.
+<break time="0.7s"/>
+[KO] 70kg, 정식 명칭.
+<break time="1.5s"/>
+
+[FR] cinq cents grammes.
+<break time="0.7s"/>
+[KO] 500g.
+<break time="1.5s"/>
+
+[FR] vingt-cinq degrés.
+<break time="0.7s"/>
+[KO] 25도. 섭씨.
+<break time="0.5s"/>
+[FR] vingt-cinq degrés.
+<break time="1.5s"/>
+
+[FR] moins cinq degrés.
+<break time="0.7s"/>
+[KO] 영하 5도. moins 더하기 숫자.
+<break time="1.5s"/>
+
+[FR] cinquante pour cent.
+<break time="0.7s"/>
+[KO] 50%.
+<break time="0.5s"/>
+[FR] cinquante pour cent.
+<break time="1.5s"/>
+
+[FR] cent pour cent.
+<break time="0.7s"/>
+[KO] 100%.
+<break time="1.0s"/>
+
+[FR] vingt pour cent de réduction.
+<break time="0.7s"/>
+[KO] 20% 할인.
+<break time="2.0s"/>

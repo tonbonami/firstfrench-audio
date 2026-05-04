@@ -1,0 +1,60 @@
+# 실전 — 분수와 소수점
+
+[FR] un demi.
+<break time="0.7s"/>
+[KO] 2분의 1.
+<break time="0.5s"/>
+[FR] un demi.
+<break time="1.5s"/>
+
+[FR] la moitié.
+<break time="0.7s"/>
+[KO] 절반. 일상에서 더 자주 씀.
+<break time="1.5s"/>
+
+[FR] un tiers.
+<break time="0.7s"/>
+[KO] 3분의 1.
+<break time="1.0s"/>
+
+[FR] deux tiers.
+<break time="0.7s"/>
+[KO] 3분의 2.
+<break time="1.5s"/>
+
+[FR] un quart.
+<break time="0.7s"/>
+[KO] 4분의 1.
+<break time="1.0s"/>
+
+[FR] trois quarts.
+<break time="0.7s"/>
+[KO] 4분의 3.
+<break time="1.5s"/>
+
+[FR] un cinquième.
+<break time="0.7s"/>
+[KO] 5분의 1. 5부터는 서수.
+<break time="1.0s"/>
+
+[FR] un dixième.
+<break time="0.7s"/>
+[KO] 10분의 1.
+<break time="1.5s"/>
+
+[FR] trois virgule quatorze.
+<break time="0.7s"/>
+[KO] 3.14. 프랑스어는 점이 아니라 virgule, 쉼표를 씁니다.
+<break time="0.5s"/>
+[FR] trois virgule quatorze.
+<break time="1.5s"/>
+
+[FR] zéro virgule cinq.
+<break time="0.7s"/>
+[KO] 0.5.
+<break time="1.0s"/>
+
+[FR] vingt virgule cinq.
+<break time="0.7s"/>
+[KO] 20.5.
+<break time="1.5s"/>

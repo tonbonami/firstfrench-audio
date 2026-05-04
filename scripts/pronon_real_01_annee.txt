@@ -1,0 +1,49 @@
+# 실전 — 년도 읽기
+
+[FR] mille sept cent quatre-vingt-neuf.
+<break time="0.7s"/>
+[KO] 1789년. 프랑스 혁명.
+<break time="0.5s"/>
+[FR] mille sept cent quatre-vingt-neuf.
+<break time="1.5s"/>
+
+[FR] dix-sept cent quatre-vingt-neuf.
+<break time="0.7s"/>
+[KO] 1789년. 같은 년도, 다른 표현. 17백 더하기 89로도 가능.
+<break time="1.5s"/>
+
+[FR] mille neuf cent quarante-cinq.
+<break time="0.7s"/>
+[KO] 1945년. 종전.
+<break time="1.5s"/>
+
+[FR] mille neuf cent quatre-vingt-quatre.
+<break time="0.7s"/>
+[KO] 1984년.
+<break time="1.5s"/>
+
+[FR] deux mille.
+<break time="0.7s"/>
+[KO] 2000년.
+<break time="0.5s"/>
+[FR] l'an deux mille.
+<break time="0.7s"/>
+[KO] 서기 2000년 — l'an + 년도.
+<break time="1.5s"/>
+
+[FR] deux mille vingt-six.
+<break time="0.7s"/>
+[KO] 2026년. 현재.
+<break time="0.5s"/>
+[FR] deux mille vingt-six.
+<break time="1.5s"/>
+
+[FR] en deux mille vingt-six.
+<break time="0.7s"/>
+[KO] 2026년에 — en 더하기 년도.
+<break time="1.5s"/>
+
+[FR] Je suis né en mille neuf cent quatre-vingt-dix.
+<break time="0.7s"/>
+[KO] 1990년에 태어났어요.
+<break time="2.0s"/>
