@@ -36,9 +36,9 @@
 [FR-Vocab] la petite-<phoneme alphabet="ipa" ph="fij">fille</phoneme>.
 <break time="1.5s"/>
 
-[FR-Vocab] le petits-enfants.
+[FR-Vocab] les petits-enfants.
 <break time="1.0s"/>
-[KO] 손자녀들.
+[KO] 손자녀.
 <break time="1.0s"/>
-[FR-Vocab] le petits-enfants.
+[FR-Vocab] les petits-enfants.
 <break time="1.5s"/>
