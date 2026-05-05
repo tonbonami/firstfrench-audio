@@ -1,18 +1,18 @@
 # Vocabulaire — vocab_heure_01
 # voices: Vocab=warm-mother
 
-[FR-Vocab] Quelle heure est-il ?.
+[FR-Vocab] Quelle heure est-il ?
 <break time="1.0s"/>
-[KO] 몇 시예요?.
+[KO] 몇 시예요?
 <break time="1.0s"/>
-[FR-Vocab] Quelle heure est-il ?.
+[FR-Vocab] Quelle heure est-il ?
 <break time="1.5s"/>
 
-[FR-Vocab] Il est quelle heure ?.
+[FR-Vocab] Il est quelle heure ?
 <break time="1.0s"/>
-[KO] 몇 시예요?.
+[KO] 몇 시예요?
 <break time="1.0s"/>
-[FR-Vocab] Il est quelle heure ?.
+[FR-Vocab] Il est quelle heure ?
 <break time="1.5s"/>
 
 [FR-Vocab] Il est une heure.
@@ -43,9 +43,9 @@
 [FR-Vocab] Il est minuit.
 <break time="1.5s"/>
 
-[FR-Vocab] l'À quelle heure ?.
+[FR-Vocab] À quelle heure ?
 <break time="1.0s"/>
-[KO] 몇 시에?.
+[KO] 몇 시에?
 <break time="1.0s"/>
-[FR-Vocab] l'À quelle heure ?.
+[FR-Vocab] À quelle heure ?
 <break time="1.5s"/>

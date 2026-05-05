@@ -7,5 +7,5 @@
 <break time="1.0s"/>
 [FR-Marc] Et puis il s'est mis à pleuvoir tout d'un coup ?
 <break time="1.0s"/>
-[FR-Lea] Oui, vers seize heures — ça est tombé super fort.
+[FR-Lea] Oui, vers seize heures — ça tombait super fort.
 <break time="2.0s"/>

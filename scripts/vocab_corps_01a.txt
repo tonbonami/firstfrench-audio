@@ -8,11 +8,11 @@
 [FR-Vocab] le visage.
 <break time="1.5s"/>
 
-[FR-Vocab] le cheveux.
+[FR-Vocab] les cheveux.
 <break time="1.0s"/>
 [KO] 머리카락.
 <break time="1.0s"/>
-[FR-Vocab] le cheveux.
+[FR-Vocab] les cheveux.
 <break time="1.5s"/>
 
 [FR-Vocab] le front.

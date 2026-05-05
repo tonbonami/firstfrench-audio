@@ -8,11 +8,11 @@
 [FR-Vocab] la <phoneme alphabet="ipa" ph="famij">famille</phoneme>.
 <break time="1.5s"/>
 
-[FR-Vocab] le parents.
+[FR-Vocab] les parents.
 <break time="1.0s"/>
 [KO] 부모님.
 <break time="1.0s"/>
-[FR-Vocab] le parents.
+[FR-Vocab] les parents.
 <break time="1.5s"/>
 
 [FR-Vocab] le père.

@@ -1,25 +1,25 @@
 # Vocabulaire — vocab_expressions_04
 # voices: Vocab=warm-mother
 
-[FR-Vocab] l'En effet !.
+[FR-Vocab] En effet !
 <break time="1.0s"/>
-[KO] 그렇네! 맞아!.
+[KO] 그렇네! 맞아!
 <break time="1.0s"/>
-[FR-Vocab] l'En effet !.
+[FR-Vocab] En effet !
 <break time="1.5s"/>
 
-[FR-Vocab] l'En tout cas.
+[FR-Vocab] En tout cas.
 <break time="1.0s"/>
 [KO] 어쨌든.
 <break time="1.0s"/>
-[FR-Vocab] l'En tout cas.
+[FR-Vocab] En tout cas.
 <break time="1.5s"/>
 
-[FR-Vocab] l'À propos.
+[FR-Vocab] À propos.
 <break time="1.0s"/>
 [KO] 그러고 보니.
 <break time="1.0s"/>
-[FR-Vocab] l'À propos.
+[FR-Vocab] À propos.
 <break time="1.5s"/>
 
 [FR-Vocab] Bref.
@@ -36,25 +36,25 @@
 [FR-Vocab] De rien.
 <break time="1.5s"/>
 
-[FR-Vocab] l'Avec plaisir.
+[FR-Vocab] Avec plaisir.
 <break time="1.0s"/>
 [KO] 기꺼이.
 <break time="1.0s"/>
-[FR-Vocab] l'Avec plaisir.
+[FR-Vocab] Avec plaisir.
 <break time="1.5s"/>
 
-[FR-Vocab] l'À vrai dire.
+[FR-Vocab] À vrai dire.
 <break time="1.0s"/>
 [KO] 사실대로 말하면.
 <break time="1.0s"/>
-[FR-Vocab] l'À vrai dire.
+[FR-Vocab] À vrai dire.
 <break time="1.5s"/>
 
-[FR-Vocab] l'En revanche.
+[FR-Vocab] En revanche.
 <break time="1.0s"/>
 [KO] 반면에.
 <break time="1.0s"/>
-[FR-Vocab] l'En revanche.
+[FR-Vocab] En revanche.
 <break time="1.5s"/>
 
 [FR-Vocab] Tant pis.

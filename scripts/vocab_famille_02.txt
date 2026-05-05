@@ -1,11 +1,11 @@
 # Vocabulaire — vocab_famille_02
 # voices: Vocab=warm-mother
 
-[FR-Vocab] le grands-parents.
+[FR-Vocab] les grands-parents.
 <break time="1.0s"/>
 [KO] 조부모.
 <break time="1.0s"/>
-[FR-Vocab] le grands-parents.
+[FR-Vocab] les grands-parents.
 <break time="1.5s"/>
 
 [FR-Vocab] le grand-père.
