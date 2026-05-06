@@ -1,0 +1,25 @@
+# 큰 숫자 — milliard (10억)
+
+[FR] un milliard.
+<break time="0.7s"/>
+[KO] 10억.
+<break time="0.5s"/>
+[FR] un milliard.
+<break time="1.5s"/>
+
+[FR] dix milliards.
+<break time="0.7s"/>
+[KO] 100억.
+<break time="1.0s"/>
+
+[FR] cent milliards.
+<break time="0.7s"/>
+[KO] 1000억.
+<break time="1.0s"/>
+
+[FR] huit milliards d'habitants.
+<break time="0.7s"/>
+[KO] 80억 명.
+<break time="0.5s"/>
+[FR] huit milliards d'habitants.
+<break time="1.5s"/>
