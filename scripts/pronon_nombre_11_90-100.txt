@@ -2,34 +2,34 @@
 
 [FR] quatre-vingt-dix.
 <break time="0.7s"/>
-[KO] 90. 4 곱하기 20 더하기 10.
+[KO] 구십.
 <break time="0.5s"/>
 [FR] quatre-vingt-dix.
 <break time="1.5s"/>
 
 [FR] quatre-vingt-onze.
 <break time="0.7s"/>
-[KO] 91. et 없음.
+[KO] 구십일.
 <break time="1.0s"/>
 
 [FR] quatre-vingt-douze.
 <break time="0.7s"/>
-[KO] 92.
+[KO] 구십이.
 <break time="1.0s"/>
 
 [FR] quatre-vingt-quinze.
 <break time="0.7s"/>
-[KO] 95.
+[KO] 구십오.
 <break time="1.0s"/>
 
 [FR] quatre-vingt-dix-neuf.
 <break time="0.7s"/>
-[KO] 99. 4 곱하기 20 더하기 19.
+[KO] 구십구.
 <break time="1.5s"/>
 
 [FR] cent.
 <break time="0.7s"/>
-[KO] 100.
+[KO] 백.
 <break time="0.5s"/>
 [FR] cent.
 <break time="1.5s"/>

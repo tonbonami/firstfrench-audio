@@ -2,41 +2,41 @@
 
 [FR] un million.
 <break time="0.7s"/>
-[KO] 1,000,000. 백만. 명사로 취급, de 받음.
+[KO] 백만.
 <break time="0.5s"/>
 [FR] un million.
 <break time="1.5s"/>
 
 [FR] dix millions.
 <break time="0.7s"/>
-[KO] 10,000,000. 천만. 복수 s 붙음.
+[KO] 천만.
 <break time="1.0s"/>
 
 [FR] cent millions.
 <break time="0.7s"/>
-[KO] 100,000,000. 1억.
+[KO] 일억.
 <break time="1.0s"/>
 
 [FR] un milliard.
 <break time="0.7s"/>
-[KO] 1,000,000,000. 10억. 영어 billion에 해당.
+[KO] 십억.
 <break time="0.5s"/>
 [FR] un milliard.
 <break time="1.5s"/>
 
 [FR] cent milliards.
 <break time="0.7s"/>
-[KO] 1000억.
+[KO] 천억.
 <break time="1.0s"/>
 
 [FR] un billion.
 <break time="0.7s"/>
-[KO] 1조. 영어 trillion에 해당.
+[KO] 일조.
 <break time="0.5s"/>
 [FR] un billion.
 <break time="1.5s"/>
 
 [FR] dix billions.
 <break time="0.7s"/>
-[KO] 10조.
+[KO] 십조.
 <break time="1.5s"/>

@@ -2,51 +2,51 @@
 
 [FR] quarante.
 <break time="0.7s"/>
-[KO] 40.
+[KO] 사십.
 <break time="0.5s"/>
 [FR] quarante.
 <break time="1.5s"/>
 
 [FR] quarante et un.
 <break time="0.7s"/>
-[KO] 41.
+[KO] 사십일.
 <break time="1.0s"/>
 
 [FR] quarante-cinq.
 <break time="0.7s"/>
-[KO] 45.
+[KO] 사십오.
 <break time="1.5s"/>
 
 [FR] cinquante.
 <break time="0.7s"/>
-[KO] 50.
+[KO] 오십.
 <break time="0.5s"/>
 [FR] cinquante.
 <break time="1.5s"/>
 
 [FR] cinquante et un.
 <break time="0.7s"/>
-[KO] 51.
+[KO] 오십일.
 <break time="1.0s"/>
 
 [FR] cinquante-cinq.
 <break time="0.7s"/>
-[KO] 55.
+[KO] 오십오.
 <break time="1.5s"/>
 
 [FR] soixante.
 <break time="0.7s"/>
-[KO] 60.
+[KO] 육십.
 <break time="0.5s"/>
 [FR] soixante.
 <break time="1.5s"/>
 
 [FR] soixante et un.
 <break time="0.7s"/>
-[KO] 61.
+[KO] 육십일.
 <break time="1.0s"/>
 
 [FR] soixante-neuf.
 <break time="0.7s"/>
-[KO] 69. 여기까지가 일반 규칙.
+[KO] 육십구.
 <break time="1.5s"/>

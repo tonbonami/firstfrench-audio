@@ -2,58 +2,58 @@
 
 [FR] soixante-dix.
 <break time="0.7s"/>
-[KO] 70. 60 더하기 10. 새 단어가 아님.
+[KO] 칠십.
 <break time="0.5s"/>
 [FR] soixante-dix.
 <break time="1.5s"/>
 
 [FR] soixante et onze.
 <break time="0.7s"/>
-[KO] 71. 60 더하기 11. et 다시 등장.
+[KO] 칠십일.
 <break time="0.5s"/>
 [FR] soixante et onze.
 <break time="1.5s"/>
 
 [FR] soixante-douze.
 <break time="0.7s"/>
-[KO] 72. 60 더하기 12.
+[KO] 칠십이.
 <break time="1.0s"/>
 
 [FR] soixante-quinze.
 <break time="0.7s"/>
-[KO] 75.
+[KO] 칠십오.
 <break time="1.0s"/>
 
 [FR] soixante-dix-neuf.
 <break time="0.7s"/>
-[KO] 79. 60 더하기 19.
+[KO] 칠십구.
 <break time="1.5s"/>
 
 [FR] quatre-vingts.
 <break time="0.7s"/>
-[KO] 80. 4 곱하기 20. 끝에 s 붙음.
+[KO] 팔십.
 <break time="0.5s"/>
 [FR] quatre-vingts.
 <break time="1.5s"/>
 
 [FR] quatre-vingt-un.
 <break time="0.7s"/>
-[KO] 81. et 없음. 그리고 s 빠짐.
+[KO] 팔십일.
 <break time="0.5s"/>
 [FR] quatre-vingt-un.
 <break time="1.5s"/>
 
 [FR] quatre-vingt-deux.
 <break time="0.7s"/>
-[KO] 82.
+[KO] 팔십이.
 <break time="1.0s"/>
 
 [FR] quatre-vingt-cinq.
 <break time="0.7s"/>
-[KO] 85.
+[KO] 팔십오.
 <break time="1.0s"/>
 
 [FR] quatre-vingt-neuf.
 <break time="0.7s"/>
-[KO] 89.
+[KO] 팔십구.
 <break time="1.5s"/>

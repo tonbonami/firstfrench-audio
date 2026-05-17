@@ -2,41 +2,41 @@
 
 [FR] vingt et un.
 <break time="0.7s"/>
-[KO] 21. et un — 1만 et 추가, 하이픈 없음.
+[KO] 이십일.
 <break time="0.5s"/>
 [FR] vingt et un.
 <break time="1.5s"/>
 
 [FR] vingt-deux.
 <break time="0.7s"/>
-[KO] 22. 2부터는 하이픈으로 연결.
+[KO] 이십이.
 <break time="0.5s"/>
 [FR] vingt-deux.
 <break time="1.5s"/>
 
 [FR] vingt-trois.
 <break time="0.7s"/>
-[KO] 23.
+[KO] 이십삼.
 <break time="1.0s"/>
 
 [FR] vingt-neuf.
 <break time="0.7s"/>
-[KO] 29.
+[KO] 이십구.
 <break time="1.5s"/>
 
 [FR] trente.
 <break time="0.7s"/>
-[KO] 30.
+[KO] 삼십.
 <break time="0.5s"/>
 [FR] trente.
 <break time="1.5s"/>
 
 [FR] trente et un.
 <break time="0.7s"/>
-[KO] 31. 같은 et un 규칙.
+[KO] 삼십일.
 <break time="1.0s"/>
 
 [FR] trente-deux.
 <break time="0.7s"/>
-[KO] 32.
+[KO] 삼십이.
 <break time="1.5s"/>
