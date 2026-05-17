@@ -1,4 +1,4 @@
-# 리에종 완전 정복 1강 — Section: 금지 리에종 + 말하기 연습
+# 리에종 완전 정복 1강 — Section: 금지 리에종
 # Page: 프랑스어 리에종(liaison) 완전 정복 1강 (34ab1658e7ec814a87b3d4c6d68bd4d2)
 # Anchor H1: "3. 금지 리에종 (liaison interdite)"
 
@@ -25,18 +25,3 @@
 <break time="1.0s"/>
 [FR] vingt euros
 <break time="1.5s"/>
-
-# 말하기 연습
-[FR] Vous avez un animal ?
-<break time="1.0s"/>
-[KO] 애완동물이 있으세요?
-<break time="1.0s"/>
-[FR] Vous avez un animal ?
-<break time="1.5s"/>
-
-[FR] Ils ont une idée.
-<break time="1.0s"/>
-[KO] 그들은 아이디어가 있어요.
-<break time="1.0s"/>
-[FR] Ils ont une idée.
-<break time="2.0s"/>
