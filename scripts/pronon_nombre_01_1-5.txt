@@ -7,6 +7,13 @@
 [FR-V25] un.
 <break time="1.5s"/>
 
+[FR-V25] une.
+<break time="0.7s"/>
+[KO] 하나 (여성형).
+<break time="0.5s"/>
+[FR-V25] une.
+<break time="1.5s"/>
+
 [FR-V25] deux.
 <break time="0.7s"/>
 [KO] 둘.
