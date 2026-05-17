@@ -14,10 +14,10 @@
 [FR] neuf heures.
 <break time="1.5s"/>
 
-[FR] neuf euros.
+[FR] neuf'euros.
 <break time="0.7s"/>
 [KO] 9유로.
 <break time="0.5s"/>
-[FR] neuf euros.
+[FR] neuf'euros.
 <break time="1.5s"/>
 
