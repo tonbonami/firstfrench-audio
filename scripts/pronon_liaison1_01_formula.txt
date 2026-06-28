@@ -27,11 +27,11 @@
 <break time="1.5s"/>
 
 # f → [v]
-[FR] neuf euros
+[FR] neuf heures
 <break time="1.0s"/>
-[KO] 9유로
+[KO] 9시
 <break time="1.0s"/>
-[FR] neuf euros
+[FR] neuf heures
 <break time="1.5s"/>
 
 # 종합 예문
