@@ -7,11 +7,11 @@
 [FR] Vous avez un chat.
 <break time="1.5s"/>
 
-[FR] Ils ont une idée.
+[FR] Ils ont, une idée.
 <break time="0.7s"/>
 [KO] 아이디어가 있어요.
 <break time="0.5s"/>
-[FR] Ils ont une idée.
+[FR] Ils ont, une idée.
 <break time="1.5s"/>
 
 [FR] Un ami arrive.
